@@ -4,8 +4,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m48767</md:content-id>
   <md:title>How Banks Create Money</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
-<list>
+  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
 <item>Utilize the money multiplier formulate to determine how banks create money</item>
 <item>Analyze and create T-account balance sheets</item>
 <item>Evaluate the risks and benefits of money and banks</item>
@@ -76,7 +76,7 @@
 <title>The Money Multiplier and a Multi-Bank System</title>
 <para id="fs-idm29505200">In a system with multiple banks, the initial excess reserve amount that Singleton Bank decided to lend to Hank’s Auto Supply was deposited into Frist National Bank, which is free to loan out $8.1 million. If all banks loan out their excess reserves, the money supply will expand. 
 In a multi-bank system, the amount of money that the system can create is found by using the money multiplier. The money multiplier tells us by how many times a loan will be “multiplied” as it is spent in the economy and then re-deposited in other banks.</para>
-<para id="fs-idm43712032">Fortunately, a formula exists for calculating the total of these many rounds of lending in a banking system. The <term>money multiplier formula</term> is:</para>
+<para id="fs-idm43712032">Fortunately, a formula exists for calculating the total of these many rounds of lending in a banking system. The <term id="term-00001">money multiplier formula</term> is:</para>
  
 <equation id="eip-779"><m:math><m:mfrac><m:mn>1</m:mn><m:mtext>Reserve Requirement</m:mtext></m:mfrac></m:math></equation><para id="fs-idm19261920">The money multiplier is then multiplied by the change in excess reserves to determine the total amount of M1 money supply created in the banking system. See the Work it Out feature to walk through the multiplier calculation.</para>
 <note id="fs-idp23765232" class="economics workout">

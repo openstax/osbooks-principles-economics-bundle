@@ -4,8 +4,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m48631</md:content-id>
   <md:title>Changes in Equilibrium Price and Quantity: The Four-Step Process</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
-<list>
+  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
 <item>Identify equilibrium price and quantity through the four-step process</item>
 <item>Graph equilibrium price and quantity</item>
 <item>Contrast shifts of demand or supply and movements along a demand or supply curve</item>
@@ -112,7 +112,7 @@
 
 <section id="fs-idm22656960">
 <title>Newspapers and the Internet</title>
-<para id="fs-idp108309040">According to the <term class="no-emphasis">Pew Research Center for People and the Press</term>, more and more people, especially younger people, are getting their news from online and digital sources. The majority of U.S. adults now own smartphones or tablets, and most of those Americans say they use them in part to get the news. From 2004 to 2012, the share of Americans who reported getting their news from digital sources increased from 24% to 39%. How has this affected consumption of print news media, and radio and television news? <link target-id="CNX_Econ_C03_011"/> and the text below illustrates using the four-step analysis to answer this question.</para>
+<para id="fs-idp108309040">According to the <term class="no-emphasis" id="term-00001">Pew Research Center for People and the Press</term>, more and more people, especially younger people, are getting their news from online and digital sources. The majority of U.S. adults now own smartphones or tablets, and most of those Americans say they use them in part to get the news. From 2004 to 2012, the share of Americans who reported getting their news from digital sources increased from 24% to 39%. How has this affected consumption of print news media, and radio and television news? <link target-id="CNX_Econ_C03_011"/> and the text below illustrates using the four-step analysis to answer this question.</para>
 
 
 
@@ -134,7 +134,7 @@
 <section id="fs-idm18058720">
 <title>The Interconnections and Speed of Adjustment in Real Markets</title>
 <para id="fs-idm116209728">In the real world, many factors that affect demand and supply can change all at once. For example, the demand for cars might increase because of rising incomes and population, and it might decrease because of rising gasoline prices (a complementary good). Likewise, the supply of cars might increase because of innovative new technologies that reduce the cost of car production, and it might decrease as a result of new government regulations requiring the installation of costly pollution-control technology.</para>
-<para id="fs-idm172967584">Moreover, rising incomes and population or changes in gasoline prices will affect many markets, not just cars. How can an economist sort out all these interconnected events? The answer lies in the <term class="no-emphasis"><emphasis effect="italics">ceteris paribus</emphasis></term> assumption. Look at how each economic event affects each market, one event at a time, holding all else constant. Then combine the analyses to see the net effect.</para></section>
+<para id="fs-idm172967584">Moreover, rising incomes and population or changes in gasoline prices will affect many markets, not just cars. How can an economist sort out all these interconnected events? The answer lies in the <term class="no-emphasis" id="term-00002"><emphasis effect="italics">ceteris paribus</emphasis></term> assumption. Look at how each economic event affects each market, one event at a time, holding all else constant. Then combine the analyses to see the net effect.</para></section>
 
 
 
@@ -177,7 +177,7 @@
 <para id="fs-idm130423904">Effect on Price: The overall effect on price is more complicated. The effect of higher labor compensation on Postal Services, because it raises the cost of production, is to increase the equilibrium price. The effect of a change in tastes away from snailmail is to decrease the equilibrium price. Since the two effects are in opposite directions, unless we know the magnitudes of the two effects, the overall effect is unclear. This is not unusual. When both curves shift, typically we can determine the overall effect on price or on quantity, but not on both. In this case, we determined the overall effect on the equilibrium quantity, but not on the equilibrium price. In other cases, it might be the opposite.</para><para id="fs-idm130104928">The next Clear It Up feature focuses on the difference between shifts of supply or demand and movements along a curve.</para><note id="fs-idp22029344" class="economics clearup">
 <title>What is the difference between shifts of demand or supply versus movements along a demand or supply curve?</title>
 <para id="fs-idm12550704">One common mistake in applying the demand and supply framework is to confuse the shift of a demand or a supply curve with movement along a demand or supply curve. As an example, consider a problem that asks whether a drought will increase or decrease the equilibrium quantity and equilibrium price of wheat. Lee, a student in an introductory economics class, might reason:</para>
-<para id="fs-idp41575248"> “Well, it is clear that a drought reduces supply, so I will shift back the supply curve, as in the shift from the original supply curve S<sub>0</sub> to S<sub>1</sub> shown on the diagram (called Shift 1). So the equilibrium moves from E<sub>0</sub> to E<sub>1</sub>, the <term class="no-emphasis">equilibrium quantity</term> is lower and the equilibrium price is higher. Then, a higher price makes farmers more likely to supply the good, so the supply curve shifts right, as shown by the shift from S<sub>1</sub> to S<sub>2</sub>, on the diagram (shown as Shift 2), so that the equilibrium now moves from E<sub>1</sub> to E<sub>2</sub>. The higher price, however, also reduces demand and so causes demand to shift back, like the shift from the original demand curve, D<sub>0</sub> to D<sub>1</sub> on the diagram (labeled Shift 3), and the equilibrium moves from E<sub>2</sub> to E<sub>3</sub>.”</para>
+<para id="fs-idp41575248"> “Well, it is clear that a drought reduces supply, so I will shift back the supply curve, as in the shift from the original supply curve S<sub>0</sub> to S<sub>1</sub> shown on the diagram (called Shift 1). So the equilibrium moves from E<sub>0</sub> to E<sub>1</sub>, the <term class="no-emphasis" id="term-00003">equilibrium quantity</term> is lower and the equilibrium price is higher. Then, a higher price makes farmers more likely to supply the good, so the supply curve shifts right, as shown by the shift from S<sub>1</sub> to S<sub>2</sub>, on the diagram (shown as Shift 2), so that the equilibrium now moves from E<sub>1</sub> to E<sub>2</sub>. The higher price, however, also reduces demand and so causes demand to shift back, like the shift from the original demand curve, D<sub>0</sub> to D<sub>1</sub> on the diagram (labeled Shift 3), and the equilibrium moves from E<sub>2</sub> to E<sub>3</sub>.”</para>
 
 <figure id="CNX_Econ_C03_018">
 <title>Shifts of Demand or Supply versus Movements along a Demand or Supply Curve </title>

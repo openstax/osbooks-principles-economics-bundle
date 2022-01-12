@@ -4,8 +4,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m57363</md:content-id>
   <md:title>Automatic Stabilizers</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
-<list>
+  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
 <item>Describe how discretionary fiscal policy can be used by the federal government to stabilize the economy.</item>
 <item>Identify examples of automatic stabilizers.</item>
 <item>Understand how a standardized employment budget can be used to identify automatic stabilizers.</item>
@@ -15,7 +15,7 @@
 
 <content>
   
-<para id="fs-idm81313344">The millions of unemployed in 2008–2009 could collect unemployment insurance benefits to replace some of their salaries. Federal fiscal policies include <term>discretionary fiscal policy</term>, when the government passes a new law that explicitly changes tax or spending levels. The stimulus package of 2009 is an example. Changes in tax and spending levels can also occur automatically, due to <term>automatic stabilizers</term>, such as unemployment insurance and food stamps, which are programs that are already laws that stimulate aggregate demand in a recession and hold down aggregate demand in a potentially inflationary boom.</para>
+<para id="fs-idm81313344">The millions of unemployed in 2008–2009 could collect unemployment insurance benefits to replace some of their salaries. Federal fiscal policies include <term id="term-00001">discretionary fiscal policy</term>, when the government passes a new law that explicitly changes tax or spending levels. The stimulus package of 2009 is an example. Changes in tax and spending levels can also occur automatically, due to <term id="term-00002">automatic stabilizers</term>, such as unemployment insurance and food stamps, which are programs that are already laws that stimulate aggregate demand in a recession and hold down aggregate demand in a potentially inflationary boom.</para>
 
 
 <section id="fs-idp80084160">
@@ -28,7 +28,7 @@
 
 <section id="fs-idp48879968">
 <title>The Standardized Employment Deficit or Surplus</title>
-<para id="fs-idp63192880">Each year, the nonpartisan Congressional Budget Office (CBO) calculates the <term>standardized employment budget</term>—that is, what the budget deficit or surplus would be if the economy were producing at potential GDP, where people who look for work were finding jobs in a reasonable period of time and businesses were making normal profits, with the result that both workers and businesses would be earning more and paying more taxes. In effect, the standardized employment deficit eliminates the impact of the automatic stabilizers. <link target-id="CNX_Econ_C30_012"/> compares the actual budget deficits of recent decades with the CBO’s standardized deficit.</para>
+<para id="fs-idp63192880">Each year, the nonpartisan Congressional Budget Office (CBO) calculates the <term id="term-00003">standardized employment budget</term>—that is, what the budget deficit or surplus would be if the economy were producing at potential GDP, where people who look for work were finding jobs in a reasonable period of time and businesses were making normal profits, with the result that both workers and businesses would be earning more and paying more taxes. In effect, the standardized employment deficit eliminates the impact of the automatic stabilizers. <link target-id="CNX_Econ_C30_012"/> compares the actual budget deficits of recent decades with the CBO’s standardized deficit.</para>
 
 <note id="fs-idp21278368" class="economics linkup"><para id="fs-idp7093664">Visit this <link url="http://openstaxcollege.org/l/CBO">website</link> to learn more from the Congressional Budget Office.</para>
 <media id="fs-idp127009088" alt="QR Code representing a URL">
