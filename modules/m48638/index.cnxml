@@ -1,0 +1,307 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Demand and Supply in Financial Markets</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m48638</md:content-id>
+  <md:title>Demand and Supply in Financial Markets</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Identify the demanders and suppliers in a financial market.</item>
+<item>Explain how interest rates can affect supply and demand</item>
+<item>Analyze the economic effects of U.S. debt in terms of domestic financial markets</item>
+<item>Explain the role of price ceilings and usury laws in the U.S.</item>
+</list></md:abstract>
+  <md:uuid>6e96e26b-c2ea-44dc-80cc-baccbed40fdb</md:uuid>
+</metadata>
+
+<content>
+ <para id="fs-idm30800048">United States' households, institutions, and domestic businesses saved almost $1.9 trillion in 2013. Where did that savings go and what was it used for? Some of the savings ended up in banks, which in turn loaned the money to individuals or businesses that wanted to borrow money. Some was invested in private companies or loaned to government agencies that wanted to borrow money to raise funds for purposes like building roads or mass transit. Some firms reinvested their savings in their own businesses.</para><para id="fs-idm26604064">In this section, we will determine how the demand and supply model links those who wish to supply <term class="no emphasis">financial capital</term> (i.e., savings) with those who demand financial capital (i.e., borrowing). Those who save money (or make financial investments, which is the same thing), whether individuals or businesses, are on the supply side of the financial market. Those who borrow money are on the demand side of the financial market. For a more detailed treatment of the different kinds of financial investments like bank accounts, stocks and bonds, see the <link document="m48697">Financial Markets</link> chapter.</para><section id="fs-idm46984928">
+<title>Who Demands and Who Supplies in Financial Markets?</title>
+<para id="fs-idp114092128">In any market, the price is what suppliers receive and what demanders pay. In financial markets, those who supply financial capital through saving expect to receive a rate of return, while those who demand financial capital by receiving funds expect to pay a rate of return. This rate of return can come in a variety of forms, depending on the type of investment.</para>
+<para id="fs-idm1648096">The simplest example of a rate of return is the <term>interest rate</term>. For example, when you supply money into a savings account at a bank, you receive interest on your deposit. The interest paid to you as a percent of your deposits is the interest rate. Similarly, if you demand a loan to buy a car or a computer, you will need to pay interest on the money you borrow.</para>
+<para id="fs-idp5031840">Let’s consider the market for borrowing money with credit cards. In 2014, almost 200 million Americans were cardholders. Credit cards allow you to borrow money from the card's issuer, and pay back the borrowed amount plus interest, though most allow you a period of time in which you can repay the loan without paying interest. A typical credit card interest rate ranges from 12% to 18% per year. In 2014, Americans had about $793 billion outstanding in credit card debts. About half of U.S. families with credit cards report that they almost always pay the full balance on time, but one-quarter of U.S. families with credit cards say that they “hardly ever” pay off the card in full. In fact, in 2014, 56% of consumers carried an unpaid balance in the last 12 months. Let’s say that, on average, the annual interest rate for credit card borrowing is 15% per year. So, Americans pay tens of billions of dollars every year in interest on their credit cards—plus basic fees for the credit card or fees for late payments.</para><para id="fs-idm22241008"><link target-id="CNX_Econ_C04_005" document=""/> illustrates demand and supply in the financial market for credit cards. The horizontal axis of the financial market shows the quantity of money that is loaned or borrowed in this market. The vertical or price axis shows the rate of return, which in the case of credit card borrowing can be measured with an interest rate. <link target-id="Table_04_05" document=""/> shows the quantity of financial capital that consumers demand at various interest rates and the quantity that credit card firms (often banks) are willing to supply.</para>
+
+<figure id="CNX_Econ_C04_005"><title>Demand and Supply for Borrowing Money with Credit Cards </title><media id="fs-idp189527024" alt="The graph shows how a price set below equilibrium causes a shortage of credit and how one set above the equilibrium creates a surplus of credit">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C04_005.jpg"/>
+</media>
+<caption>In this market for credit card borrowing, the demand curve (D) for borrowing financial capital intersects the supply curve (S) for lending financial capital at equilibrium €. At the equilibrium, the interest rate (the “price” in this market) is 15% and the quantity of financial capital being loaned and borrowed is $600 billion. The equilibrium price is where the quantity demanded and the quantity supplied are equal. At an above-equilibrium interest rate like 21%, the quantity of financial capital supplied would increase to $750 billion, but the quantity demanded would decrease to $480 billion. At a below-equilibrium interest rate like 13%, the quantity of financial capital demanded would increase to $700 billion, but the quantity of financial capital supplied would decrease to $510 billion.</caption>
+</figure><table id="Table_04_05" summary="This table has three columns and six rows. The columns are labeled, 'Interest Rate (%),' 'Quantity of Financial Capital Demanded (Borrowing) ($ billions),' and 'Quantity of Financial Capital Supplied (Lending) ($ billions).' Under the column 'Interest Rate (%)' are the values: 11, 13, 15, 17, 19, and 21. Under the column 'Quantity of Financial Capital Demanded (Borrowing) ($ billions)' are the values: $800; $700; $600; $550; $500; and $480. Under the column 'Quantity of Financial Capital Supplied (Lending) ($ billions)' are the values: $420; $510; $600; $660; $720; and $750.">
+<title>Demand and Supply for Borrowing Money with Credit Cards</title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+<row>
+<entry>Interest Rate (%)</entry>
+<entry>Quantity of Financial Capital Demanded (Borrowing) ($ billions)</entry>
+<entry>Quantity of Financial Capital Supplied (Lending) ($ billions)</entry>
+</row>
+</thead>
+
+<tbody>
+<row>
+<entry>11</entry>
+<entry>$800</entry>
+<entry>$420</entry>
+</row>
+
+<row>
+<entry>13</entry>
+<entry>$700</entry>
+<entry>$510</entry>
+</row>
+
+<row>
+<entry>15</entry>
+<entry>$600</entry>
+<entry>$600</entry>
+</row>
+
+<row>
+<entry>17</entry>
+<entry>$550</entry>
+<entry>$660</entry>
+</row>
+
+<row>
+<entry>19</entry>
+<entry>$500</entry>
+<entry>$720</entry>
+</row>
+
+<row>
+<entry>21</entry>
+<entry>$480</entry>
+<entry>$750</entry>
+</row>
+</tbody>
+</tgroup>
+<caption/>
+</table>
+<para id="fs-idm74419648">The laws of demand and supply continue to apply in the financial markets. According to the <term class="no emphasis">law of demand</term>, a higher rate of return (that is, a higher price) will decrease the quantity demanded. As the interest rate rises, consumers will reduce the quantity that they borrow. According to the law of supply, a higher price increases the quantity supplied. Consequently, as the interest rate paid on credit card borrowing rises, more firms will be eager to issue credit cards and to encourage customers to use them. Conversely, if the interest rate on credit cards falls, the quantity of financial capital supplied in the credit card market will decrease and the quantity demanded will fall.</para>
+</section>
+
+<section id="fs-idp21425296">
+<title>Equilibrium in Financial Markets</title>
+<para id="fs-idm126294720">In the financial market for credit cards shown in <link target-id="CNX_Econ_C04_005" document=""/>, the supply curve (S) and the demand curve (D) cross at the equilibrium point (E). The equilibrium occurs at an interest rate of 15%, where the quantity of funds demanded and the quantity supplied are equal at an equilibrium quantity of $600 billion.</para><para id="fs-idm84691024">If the interest rate (remember, this measures the “price” in the financial market) is above the equilibrium level, then an excess supply, or a surplus, of financial capital will arise in this market. For example, at an interest rate of 21%, the quantity of funds supplied increases to $750 billion, while the quantity demanded decreases to $480 billion. At this above-equilibrium interest rate, firms are eager to supply loans to credit card borrowers, but relatively few people or businesses wish to borrow. As a result, some credit card firms will lower the interest rates (or other fees) they charge to attract more business. This strategy will push the interest rate down toward the equilibrium level.</para>
+<para id="fs-idp21777648">If the interest rate is below the equilibrium, then excess demand or a shortage of funds occurs in this market. At an interest rate of 13%, the quantity of funds credit card borrowers demand increases to $700 billion; but the quantity credit card firms are willing to supply is only $510 billion. In this situation, credit card firms will perceive that they are overloaded with eager borrowers and conclude that they have an opportunity to raise interest rates or fees. The interest rate will face economic pressures to creep up toward the equilibrium level.</para>
+</section>
+
+<section id="fs-idp14067728">
+<title>Shifts in Demand and Supply in Financial Markets</title>
+<para id="fs-idm8453296">Those who supply financial capital face two broad decisions: how much to save, and how to divide up their savings among different forms of financial investments. We will discuss each of these in turn.</para>
+<para id="fs-idp132736880">Participants in financial markets must decide when they prefer to consume goods: now or in the future. Economists call this <term class="no emphasis">intertemporal decision making</term> because it involves decisions across time. Unlike a decision about what to buy from the grocery store, decisions about investment or saving are made across a period of time, sometimes a long period.</para>
+<para id="fs-idp27477344">Most workers save for retirement because their income in the present is greater than their needs, while the opposite will be true once they retire. So they save today and supply financial markets. If their income increases, they save more. If their perceived situation in the future changes, they change the amount of their saving. For example, there is some evidence that Social Security, the program that workers pay into in order to qualify for government checks after retirement, has tended to reduce the quantity of financial capital that workers save. If this is true, Social Security has shifted the supply of financial capital at any interest rate to the left.</para>
+<para id="fs-idp8885344">By contrast, many college students need money today when their income is low (or nonexistent) to pay their college expenses. As a result, they borrow today and demand from financial markets. Once they graduate and become employed, they will pay back the loans. Individuals borrow money to purchase homes or cars. A business seeks financial investment so that it has the funds to build a factory or invest in a research and development project that will not pay off for five years, ten years, or even more. So when consumers and businesses have greater confidence that they will be able to repay in the future, the quantity demanded of financial capital at any given interest rate will shift to the right.</para>
+<para id="fs-idp141290128">For example, in the technology boom of the late 1990s, many businesses became extremely confident that investments in new technology would have a high rate of return, and their demand for financial capital shifted to the right. Conversely, during the Great Recession of 2008 and 2009, their demand for financial capital at any given interest rate shifted to the left.</para>
+<para id="fs-idp156601536">To this point, we have been looking at saving in total. Now let us consider what affects saving in different types of financial investments. In deciding between different forms of financial investments, suppliers of financial capital will have to consider the rates of return and the risks involved. Rate of return is a positive attribute of investments, but risk is a negative. If Investment A becomes more risky, or the return diminishes, then savers will shift their funds to Investment B—and the supply curve of financial capital for Investment A will shift back to the left while the supply curve of capital for Investment B shifts to the right.</para>
+</section>
+<section id="fs-idm31586544">
+<title>The United States as a Global Borrower</title>
+<para id="fs-idm123889072">In the global economy, trillions of dollars of financial investment cross national borders every year. In the early 2000s, financial investors from foreign countries were investing several hundred billion dollars per year more in the U.S. economy than U.S. financial investors were investing abroad. The following Work It Out deals with one of the macroeconomic concerns for the U.S. economy in recent years.</para>
+<note id="fs-idm608" class="economics workout"><title>The Effect of Growing U.S. Debt</title><para id="fs-idm13381760">Imagine that the U.S. economy became viewed as a less desirable place for foreign investors to put their money because of fears about the growth of the U.S. public debt. Using the four-step process for analyzing how changes in supply and demand affect equilibrium outcomes, how would increased U.S. public debt affect the equilibrium price and quantity for capital in U.S. financial markets?</para>
+<para id="fs-idm41405712">Step 1. Draw a diagram showing demand and supply for financial capital that represents the original scenario in which foreign investors are pouring money into the U.S. economy. <link target-id="CNX_Econ_C04_014" document=""/> shows a demand curve, D, and a supply curve, S, where the supply of capital includes the funds arriving from foreign investors. The original equilibrium E<sub>0</sub> occurs at interest rate R<sub>0</sub> and quantity of financial investment Q<sub>0</sub>.</para><figure id="CNX_Econ_C04_014"><title>The United States as a Global Borrower Before U.S. Debt Uncertainty </title><media id="fs-idp10416144" alt="The graph shows the supply and demand for financial capital that includes the foreign sector.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C04_014.jpg"/>
+</media>
+
+<caption>The graph shows the demand for financial capital from and supply of financial capital into the U.S. financial markets by the foreign sector before the increase in uncertainty regarding U.S. public debt. The original equilibrium (E<sub>0</sub>) occurs at an equilibrium rate of return (R<sub>0</sub>) and the equilibrium quantity is at Q<sub>0</sub>.</caption></figure><para id="fs-idp43945264">Step 2. Will the diminished confidence in the U.S. economy as a place to invest affect demand or supply of financial capital? Yes, it will affect supply. Many foreign investors look to the U.S. financial markets to store their money in safe financial vehicles with low risk and stable returns. As the U.S. debt increases, debt servicing will increase—that is, more current income will be used to pay the interest rate on past debt. Increasing U.S. debt also means that businesses may have to pay higher interest rates to borrow money, because business is now competing with the government for financial resources.</para>
+<para id="fs-idm20248448">Step 3. Will supply increase or decrease? When the enthusiasm of foreign investors’ for investing their money in the U.S. economy diminishes, the supply of financial capital shifts to the left. <link target-id="CNX_Econ_C04_006" document=""/> shows the supply curve shift from S<sub>0</sub> to S<sub>1</sub>.</para><figure id="CNX_Econ_C04_006"><title>The United States as a Global Borrower Before and After U.S. Debt Uncertainty </title><media id="fs-idm5799600" alt="The graph shows the supply and demand for financial capital that includes the foreign sector.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C04_006.jpg"/>
+</media>
+
+<caption>The graph shows the demand for financial capital and supply of financial capital into the U.S. financial markets by the foreign sector before and after the increase in uncertainty regarding U.S. public debt. The original equilibrium (E<sub>0</sub>) occurs at an equilibrium rate of return (R<sub>0</sub>) and the equilibrium quantity is at Q<sub>0</sub>.</caption></figure><para id="fs-idp22317904">Step 4. Thus, foreign investors’ diminished enthusiasm leads to a new equilibrium, E<sub>1</sub>, which occurs at the higher interest rate, R<sub>1</sub>, and the lower quantity of financial investment, Q<sub>1</sub>.</para>
+</note></section>
+
+<para id="fs-idm106753776">The economy has experienced an enormous inflow of foreign capital. According to the U.S. Bureau of Economic Analysis, by the third quarter of 2014, U.S. investors had accumulated $24.6 trillion of foreign assets, but foreign investors owned a total of $30.8 trillion of U.S. assets. If foreign investors were to pull their money out of the U.S. economy and invest elsewhere in the world, the result could be a significantly lower quantity of financial investment in the United States, available only at a higher interest rate. This reduced inflow of foreign financial investment could impose hardship on U.S. consumers and firms interested in borrowing.</para><para id="fs-idm65088464">In a modern, developed economy, financial capital often moves invisibly through electronic transfers between one bank account and another. Yet these flows of funds can be analyzed with the same tools of demand and supply as markets for goods or labor.</para>
+
+<section id="fs-idm168437632">
+<title>Price Ceilings in Financial Markets: Usury Laws</title>
+<para id="fs-idm166309472">As we noted earlier, about 200 million Americans own credit cards, and their interest payments and fees total tens of billions of dollars each year. It is little wonder that political pressures sometimes arise for setting limits on the interest rates or fees that credit card companies charge. The firms that issue credit cards, including banks, oil companies, phone companies, and retail stores, respond that the higher interest rates are necessary to cover the losses created by those who borrow on their credit cards and who do not repay on time or at all. These companies also point out that cardholders can avoid paying interest if they pay their bills on time.</para><para id="fs-idm124541424">Consider the credit card market as illustrated in <link target-id="CNX_Econ_C04_007" document=""/>. In this financial market, the vertical axis shows the interest rate (which is the price in the financial market). Demanders in the credit card market are households and businesses; suppliers are the companies that issue credit cards. This figure does not use specific numbers, which would be hypothetical in any case, but instead focuses on the underlying economic relationships. Imagine a law imposes a price ceiling that holds the interest rate charged on credit cards at the rate Rc, which lies below the interest rate R<sub>0</sub> that would otherwise have prevailed in the market. The price ceiling is shown by the horizontal dashed line in <link target-id="CNX_Econ_C04_007" document=""/>. The demand and supply model predicts that at the lower price ceiling interest rate, the quantity demanded of credit card debt will increase from its original level of Q<sub>0</sub> to Qd; however, the quantity supplied of credit card debt will decrease from the original Q<sub>0</sub> to Qs. At the price ceiling (Rc), quantity demanded will exceed quantity supplied. Consequently, a number of people who want to have credit cards and are willing to pay the prevailing interest rate will find that companies are unwilling to issue cards to them. The result will be a credit shortage.</para><figure id="CNX_Econ_C04_007"><title>Credit Card Interest Rates: Another Price Ceiling Example </title><media id="fs-idm124840240" alt="The graph shows the results of an interest rate that is set at the price ceiling, both beneath the equilibrium interest rate">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C04_007.jpg"/>
+</media>
+
+<caption>The original intersection of demand D and supply S occurs at equilibrium E<sub>0</sub>. However, a price ceiling is set at the interest rate Rc, below the equilibrium interest rate R<sub>0</sub>, and so the interest rate cannot adjust upward to the equilibrium. At the price ceiling, the quantity demanded, Qd, exceeds the quantity supplied, Qs. There is excess demand, also called a shortage.</caption></figure><para id="fs-idm107383360">Many states do have <term>usury laws</term>, which impose an upper limit on the interest rate that lenders can charge. However, in many cases these upper limits are well above the market interest rate. For example, if the interest rate is not allowed to rise above 30% per year, it can still fluctuate below that level according to market forces. A price ceiling that is set at a relatively high level is nonbinding, and it will have no practical effect unless the equilibrium price soars high enough to exceed the price ceiling.</para>
+</section>
+
+<section id="fs-idm160556896" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idm59102720">In the demand and supply analysis of financial markets, the “price” is the rate of return or the interest rate received. The quantity is measured by the money that flows from those who supply financial capital to those who demand it.</para>
+<para id="fs-idm68893216">Two factors can shift the supply of financial capital to a certain investment: if people want to alter their existing levels of consumption, and if the riskiness or return on one investment changes relative to other investments. Factors that can shift demand for capital include business confidence and consumer confidence in the future—since financial investments received in the present are typically repaid in the future.</para>
+</section>
+
+<section id="fs-idm68795600" class="self-check-questions">
+<title>Self-Check Questions</title>
+<exercise id="fs-idm182294112">
+<problem id="fs-idm83961616">
+<para id="fs-idm44427824">In the financial market, what causes a movement along the demand curve? What causes a shift in the demand curve?</para>
+</problem>
+<solution id="fs-idm69503888">
+<para id="fs-idm139965088">Changes in the interest rate (i.e., the price of financial capital) cause a movement along the demand curve. A change in anything else (non-price variable) that affects demand for financial capital (e.g., changes in confidence about the future, changes in needs for borrowing) would shift the demand curve.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm102226576">
+<problem id="fs-idm135996128">
+<para id="fs-idm180779168">In the financial market, what causes a movement along the supply curve? What causes a shift in the supply curve?</para>
+</problem>
+<solution id="fs-idm165411984">
+<para id="fs-idm178367920">Changes in the interest rate (i.e., the price of financial capital) cause a movement along the supply curve. A change in anything else that affects the supply of financial capital (a non-price variable) such as income or future needs would shift the supply curve.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm107095712">
+<problem id="fs-idm84440960">
+<para id="fs-idm127403952">If a usury law limits interest rates to no more than 35%, what would the likely impact be on the amount of loans made and interest rates paid?</para>
+</problem>
+<solution id="fs-idm116148576">
+<para id="fs-idp30267888">If market interest rates stay in their normal range, an interest rate limit of 35% would not be binding. If the equilibrium interest rate rose above 35%, the interest rate would be capped at that rate, and the quantity of loans would be lower than the equilibrium quantity, causing a shortage of loans.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm28938304"><problem id="fs-idm46917216">
+<para id="fs-idp78530464">Which of the following changes in the financial market will lead to a decline in interest rates:</para>
+<list id="fs-idp17940160" list-type="enumerated" number-style="lower-alpha">
+<item>a rise in demand</item>
+<item>a fall in demand</item>
+<item>a rise in supply</item>
+<item>a fall in supply</item>
+</list>
+</problem>
+<solution id="eip-id1168810866791">
+<para id="eip-id1168810843949">b and c will lead to a fall in interest rates. At a lower demand, lenders will not be able to charge as much, and with more available lenders, competition for borrowers will drive rates down. 
+</para>
+</solution></exercise><exercise id="fs-idp68468928"><problem id="fs-idp63410752">
+<para id="fs-idp71352928">Which of the following changes in the financial market will lead to an increase in the quantity of loans made and received:</para>
+<list id="fs-idp10575424" list-type="enumerated" number-style="lower-alpha">
+<item>a rise in demand</item>
+<item>a fall in demand</item>
+<item>a rise in supply</item>
+<item>a fall in supply</item>
+</list>
+</problem>
+<solution id="eip-id1171265006352">
+<para id="eip-id1171258271892">
+a and c will increase the quantity of loans. More people who want to borrow will result in more loans being given, as will more people who want to lend.
+</para>
+</solution></exercise></section>
+
+<section id="fs-idm34296512" class="review-questions">
+<title>Review Questions</title>
+<exercise id="fs-idp21604064">
+<problem id="fs-idp36930880">
+<para id="fs-idp126328944">How is equilibrium defined in financial markets?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp149920896">
+<problem id="fs-idp6173904">
+<para id="fs-idp39868528">What would be a sign of a shortage in financial markets?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp42689072">
+<problem id="fs-idp77946128">
+<para id="fs-idp60666896">Would usury laws help or hinder resolution of a shortage in financial markets?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm168457264" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-idm6350400">
+<problem id="fs-idm89788128">
+<para id="fs-idm133637792">Suppose the U.S. economy began to grow more rapidly than other countries in the world. What would be the likely impact on U.S. financial markets as part of the global economy?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm239677856">
+<problem id="fs-idm119256880">
+<para id="fs-idm181381424">If the government imposed a federal interest rate ceiling of 20% on all loans, who would gain and who would lose?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm38577696" class="problems">
+<title>Problems</title>
+<exercise id="fs-idm48050464">
+<problem id="fs-idm162825184">
+<para id="fs-idm86441280">Predict how each of the following economic changes will affect the equilibrium price and quantity in the financial market for home loans. Sketch a demand and supply diagram to support your answers.</para>
+<list id="fs-idm112716848" list-type="enumerated" number-style="lower-alpha">
+<item>The number of people at the most common ages for home-buying increases.</item>
+<item>People gain confidence that the economy is growing and that their jobs are secure.</item>
+<item>Banks that have made home loans find that a larger number of people than they expected are not repaying those loans.</item>
+<item>Because of a threat of a war, people become uncertain about their economic future.</item>
+<item>The overall level of saving in the economy diminishes.</item>
+<item>The federal government changes its bank regulations in a way that makes it cheaper and easier for banks to make home loans.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm35438736">
+<problem id="fs-idm188864960">
+<para id="fs-idm95899984"><link target-id="Table_04_06" document=""/> shows the amount of savings and borrowing in a market for loans to purchase homes, measured in millions of dollars, at various interest rates. What is the equilibrium interest rate and quantity in the capital financial market? How can you tell? Now, imagine that because of a shift in the perceptions of foreign investors, the supply curve shifts so that there will be $10 million less supplied at every interest rate. Calculate the new equilibrium interest rate and quantity, and explain why the direction of the interest rate shift makes intuitive sense.</para><table id="Table_04_06" summary="This table has three columns and six rows. The columns are labeled, 'Interest Rate,' 'Qs,' and 'Qd.' Under the column 'Interest Rate' are the values: 5%, 6%, 7%, 8%, 9%, and 10%. Under the column 'Qs' are the values: 130; 135; 140; 145; 150; and 155. Under the columne 'Qd' are the values: 170; 150; 140; 135; 125; and 110.">
+<tgroup cols="3">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+<row>
+<entry>Interest Rate</entry>
+<entry>Qs</entry>
+<entry>Qd</entry>
+</row>
+</thead>
+
+<tbody>
+<row>
+<entry>5%</entry>
+<entry>130</entry>
+<entry>170</entry>
+</row>
+
+<row>
+<entry>6%</entry>
+<entry>135</entry>
+<entry>150</entry>
+</row>
+
+<row>
+<entry>7%</entry>
+<entry>140</entry>
+<entry>140</entry>
+</row>
+
+<row>
+<entry>8%</entry>
+<entry>145</entry>
+<entry>135</entry>
+</row>
+
+<row>
+<entry>9%</entry>
+<entry>150</entry>
+<entry>125</entry>
+</row>
+
+<row>
+<entry>10%</entry>
+<entry>155</entry>
+<entry>110</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+
+</problem>
+</exercise>
+
+</section>
+
+<section id="fs-idp137101040" class="references">
+<title>References</title>
+<para id="fs-idp61190896">CreditCards.com. 2013. http://www.creditcards.com/credit-card-news/credit-card-industry-facts-personal-debt-statistics-1276.php.</para>
+</section>
+
+</content>
+<glossary>
+<definition id="fs-idm736096">
+<term>interest rate</term><meaning id="fs-idm151585536"> the “price” of borrowing in the financial market; a rate of return on an investment</meaning>
+</definition>
+<definition id="fs-idm108604544">
+<term>usury laws</term><meaning id="fs-idm116447040"> laws that impose an upper limit on the interest rate that lenders can charge</meaning>
+</definition>
+</glossary>
+
+</document>

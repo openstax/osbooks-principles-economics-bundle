@@ -1,0 +1,240 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Drawing the Poverty Line</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m48683</md:content-id>
+  <md:title>Drawing the Poverty Line</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain economic inequality and how the poverty line is determined</item>
+<item>Analyze the U.S. poverty rate over time, noting its prevalence among different groups of citizens</item>
+</list></md:abstract>
+  <md:uuid>79327788-9cb7-4b2c-9ccf-0c46d0c153d3</md:uuid>
+</metadata>
+
+<content>
+<para id="ch14mod01_p01">Comparisons of high and low incomes raise two different issues: economic inequality and <term>poverty</term>. Poverty is measured by the number of people who fall below a certain level of income—called the <term>poverty line</term>—that defines the income needed for a basic standard of living. <term>Income</term> <term>inequality</term> compares the share of the total income (or wealth) in society that is received by different groups; for example, comparing the share of income received by the top 10% to the share of income received by the bottom 10%.</para>
+<para id="ch14mod01_p02">In the United States, the official definition of the poverty line traces back to a single person: <term class="no-emphasis">Mollie Orshansky</term>. In 1963, Orshansky, who was working for the Social Security Administration, published an article called “Children of the Poor” in a highly useful and dry-as-dust publication called the <emphasis effect="italics">Social Security Bulletin</emphasis>. Orshansky’s idea was to define a poverty line based on the cost of a healthy diet.</para><para id="ch14mod01_p03">Her previous job had been at the U.S. Department of Agriculture, where she had worked in an agency called the Bureau of Home Economics and Human Nutrition. One task of this bureau had been to calculate how much it would cost to feed a nutritionally adequate diet to a family. Orshansky found that the average family spent one-third of its income on food. She then proposed that the poverty line be the amount needed to buy a nutritionally adequate diet, given the size of the family, multiplied by three.</para>
+<para id="ch14mod01_p04">The current U.S. poverty line is essentially the same as the Orshansky poverty line, although the dollar amounts are adjusted each year to represent the same buying power over time. The U.S. poverty line in 2015 ranged from $11,790 for a single individual to $25,240 for a household of four people.</para><para id="ch14mod01_p06"><link target-id="CNX_Econ_C14_001"/> shows the U.S. <term>poverty rate</term> over time; that is, the percentage of the population below the poverty line in any given year. The poverty rate declined through the 1960s, rose in the early 1980s and early 1990s, but seems to have been slightly lower since the mid-1990s. However, in no year in the last four decades has the poverty rate been less than 11% of the U.S. population—that is, at best about one American in nine is below the poverty line. In recent years, the poverty rate appears to have peaked at 15.9% in 2011 before dropping to 14.5% in 2013. <link target-id="ch14mod01_tab01"/> compares poverty rates for different groups in 2011. As you will see when we delve further into these numbers, poverty rates are relatively low for whites, for the elderly, for the well-educated, and for male-headed households. Poverty rates for females, Hispanics, and African Americans are much higher than for whites. While Hispanics and African Americans have a higher percentage of individuals living in poverty than others, most people in the United States living below the poverty line are white.</para><note id="ch14mod01_link01" class="economics linkup"><label/>
+<para id="ch14mod01_p07">Visit this <link url="http://openstaxcollege.org/l/povertyprogram">website</link> for more information on U.S. poverty.</para><media id="ch14mod01_qr01" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/povertyprogram01.png" width="130"/>
+</media>
+</note><figure id="CNX_Econ_C14_001"><title>The U.S. Poverty Rate since 1960</title><media id="mCNX_Econ_C14_001" alt="The graph shows that the percentage of people below the poverty line was roughly 18% in the early 1960s, but had since mostly remained beneath 12% except for the years since the recession when the percentage has continued to increase to almost 16% in 2011 before dropping slightly to 14.5% in 2013.">
+<image src="../../media/CNX_Econv1-2_C14_02.jpg" mime-type="image/jpg"/>
+</media>
+
+<caption>The poverty rate fell dramatically during the 1960s, rose in the early 1980s and early 1990s, and, after declining in the 1990s through mid-2000s, rose to 15.9% in 2011, which is close to the 1960 levels. In 2013, the poverty dropped slightly to 14.5%. (Source: U.S. Census Bureau)</caption></figure><table id="ch14mod01_tab01" summary="This table has two columns and thirteen rows. The first row is a header row and it labels each column, 'Group,' and 'Poverty Rate.' Under the 'Group' column are the values: Females; Males; White; Black; Hispanic; Under age 18; Ages 18–24; Ages 25–34; Ages 35–44; Ages 45–54; Ages 55–59; Ages 60–64; Ages 65 and older. Under the 'Poverty Rate' column are the values: 15.8%; 13.1%; 9.6%; 27.1%; 23.5%; 19.9%; 20.6%; 15.9%; 12.2%; 10.9%; 10.7%; 10.8%; and 9.5%."><title>Poverty Rates by Group, 2013</title><tgroup cols="2"><colspec colname="col1" colnum="1"/>
+<colspec colname="col2" colnum="2"/>
+<thead>
+<row>
+<entry align="center">Group</entry>
+<entry align="center">Poverty Rate</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Females</entry>
+<entry>15.8%</entry>
+</row>
+<row>
+<entry>Males</entry>
+<entry>13.1%</entry>
+</row>
+<row>
+<entry/>
+
+</row>
+<row>
+<entry>White</entry>
+<entry>9.6%</entry>
+</row>
+<row>
+<entry>Black</entry>
+<entry>27.1%</entry>
+</row>
+<row>
+<entry>Hispanic</entry>
+<entry>23.5%</entry>
+</row>
+<row>
+<entry/>
+</row>
+<row>
+<entry>Under age 18</entry>
+<entry>19.9%</entry>
+</row>
+<row>
+<entry>Ages 18–24</entry>
+<entry>20.6%</entry>
+</row>
+<row>
+<entry>Ages 25–34</entry>
+<entry>15.9%</entry>
+</row>
+<row>
+<entry>Ages 35–44</entry>
+<entry>12.2%</entry>
+</row>
+<row>
+<entry>Ages 45–54</entry>
+<entry>10.9%</entry>
+</row>
+<row>
+<entry>Ages 55–59</entry>
+<entry>10.7%</entry>
+</row>
+<row>
+<entry>Ages 60–64</entry>
+<entry>10.8%</entry>
+</row>
+<row>
+<entry>Ages 65 and older</entry>
+<entry>9.5%</entry>
+</row>
+</tbody>
+
+
+
+
+</tgroup>
+</table><para id="ch14mod01_p08">The concept of a poverty line raises many tricky questions. In a vast country like the United States, should there be a national poverty line? After all, according to the Federal Register, the median household income for a family of four was $102,552 in New Jersey and $57,132 in Mississippi in 2013, and prices of some basic goods like housing are quite different between states. The poverty line is based on cash income, which means it does not take into account government programs that provide assistance to the poor in a non-cash form, like <term class="no-emphasis">Medicaid</term> (health care for low-income individuals and families) and food aid. Also, low-income families can qualify for federal housing assistance. (These and other government aid programs will be discussed in detail later in this chapter.)</para>
+<para id="ch14mod01_p09">Should the poverty line be adjusted to take the value of such programs into account? Many economists and policymakers wonder whether the concept of what poverty means in the twenty-first century should be rethought. The following Clear It Up feature explains the poverty lines set by the World Bank for low-income countries around the world.</para><note id="ch14mod01_clearup" class="economics clearup"><label/><title>How is poverty measured in low-income countries?</title>
+
+<para id="ch14mod01_p10">The World Bank sets two poverty lines for low-income countries around the world. One poverty line is set at an income of $1.25/day per person; the other is at $2/day. By comparison, the U.S. 2015 poverty line of $20,090 annually for a family of three works out to $18.35 per person per day.</para><para id="eip-187">Clearly, many people around the world are far poorer than Americans, as <link target-id="ch14mod01_tab02"/> shows. China and India both have more than a billion people; Nigeria is the most populous country in Africa; and Egypt is the most populous country in the Middle East. In all four of those countries, in the mid-2000s, a substantial share of the population subsisted on less than $2/day. Indeed, about half the world lives on less than $2.50 a day, and 80 percent of the world lives on less than $10 per day. (Of course, the cost of food, clothing, and shelter in those countries can be very different from those costs in the United States, so the $2 and $2.50 figures may mean greater purchasing power than they would in the United States.)</para><table id="ch14mod01_tab02" summary="The table shows the poverty lines for six low-income countries in the mid 2000s. Column 1 lists the low-income countries. Column 2 lists the share of each country’s population that makes below $1.25 per day. Column 3 lists the share of each country’s population that makes below $2.00 per day. Brazil (in 2009) = 6.1% below $1.25; 10.8% below $2.00. China (in 2009) = 11.8% below $1.25; 27.2% below $2.00. Egypt (in 2008) = 1.7% below $1.25; 15.4% below $2.00. India (in 2010) = 32.7% below $1.25; 68.8% below $2.00. Mexico (in 2010) = 0.7% below $1.25; 4.5% below $2.00. Nigeria (in 2010) = 68.0% below $1.25; 84.5% below $2.00."><title>Poverty Lines for Low-Income Countries, mid-2000s</title><tgroup cols="3"><colspec colname="col1" colnum="1"/>
+<colspec colname="col2" colnum="2"/>
+<colspec colname="col3" colnum="3"/>
+<thead>
+<row>
+<entry>Country</entry>
+<entry>Share of Population below $1.25/Day</entry>
+<entry>Share of Population below $2.00/Day</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Brazil (in 2009)</entry>
+<entry>6.1%</entry>
+<entry>10.8%</entry>
+</row>
+<row>
+<entry>China (in 2009)</entry>
+<entry>11.8%</entry>
+<entry>27.2%</entry>
+</row>
+<row>
+<entry>Egypt (in 2008)</entry>
+<entry>1.7%</entry>
+<entry>15.4%</entry>
+</row>
+<row>
+<entry>India (in 2010)</entry>
+<entry>32.7%</entry>
+<entry>68.8%</entry>
+</row>
+<row>
+<entry>Mexico (in 2010)</entry>
+<entry>0.7%</entry>
+<entry>4.5%</entry>
+</row>
+<row>
+<entry>Nigeria (in 2010)</entry>
+<entry>68.0%</entry>
+<entry>84.5%</entry>
+</row>
+</tbody>
+</tgroup>
+
+<caption>(Source: http://data.worldbank.org/indicator/SI.POV.DDAY)</caption></table></note><para id="ch14mod01_p11">Any poverty line will be somewhat arbitrary, and it is useful to have a poverty line whose basic definition does not change much over time. If Congress voted every few years to redefine what poverty means, then it would be difficult to compare rates over time. After all, would a lower poverty rate mean that the definition had been changed, or that people were actually better off? Government statisticians at the U.S. Census Bureau have ongoing research programs to address questions like these.</para>
+<section id="ch14mod01_summ" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="ch14mod01_p12">Wages are influenced by supply and demand in labor markets, which can lead to very low incomes for some people and very high incomes for others. Poverty and income inequality are not the same thing. Poverty applies to the condition of people who cannot afford the necessities of life. Income inequality refers to the disparity between those with higher and lower incomes. The poverty rate is what percentage of the population lives below the poverty line, which is determined by the amount of income that it takes to purchase the necessities of life. Choosing a poverty line will always be somewhat controversial.</para>
+</section>
+<section id="ch14mod01_sques" class="self-check-questions">
+<title>Self-Check Questions</title>
+<exercise id="ch14mod01_sques01"><problem id="ch14mod01_sques01p">
+<para id="ch14mod01_p13">Describe how each of these changes is likely to affect poverty and inequality:
+<list id="ch14mod01_list02" list-type="enumerated" number-style="lower-alpha" class="lower-alpha"><item>Incomes rise for low-income and high-income workers, but rise more for the high-income earners.</item>
+<item>Incomes fall for low-income and high-income workers, but fall more for high-income earners.</item>
+</list></para>
+</problem>
+<solution id="ch14mod01_sques01s">
+<list id="ch14mod01_list02s" list-type="enumerated" number-style="lower-alpha" class="lower-alpha">
+<item>Poverty falls, inequality rises.</item>
+<item>Poverty rises, inequality falls.</item>
+</list>
+</solution>
+</exercise></section>
+<section id="ch14mod01_rques" class="review-questions">
+<title>Review Questions</title>
+<exercise id="ch14mod01_rques01">
+<problem id="ch14mod01_rques01p">
+<para id="ch14mod01_p16">How is the poverty rate calculated?</para>
+</problem>
+</exercise>
+<exercise id="ch14mod01_rques02">
+<problem id="ch14mod01_rques02p">
+<para id="ch14mod01_p17">What is the poverty line?</para>
+</problem>
+</exercise>
+<exercise id="ch14mod01_rques03">
+<problem id="ch14mod01_rques03p">
+<para id="ch14mod01_p18">What is the difference between poverty and income inequality?</para>
+</problem>
+</exercise>
+</section>
+<section id="ch14mod01_ctques" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="ch14mod01_ctques01">
+<problem id="ch14mod01_ctques01p">
+<para id="ch14mod01_p19">What goods and services would you include in an estimate of the basic necessities for a family of four?</para>
+</problem>
+</exercise>
+<exercise id="ch14mod01_ctques02">
+<problem id="ch14mod01_ctques02p">
+<para id="ch14mod01_p20">If a family of three earned $20,000, would they be able to make ends meet given the official poverty threshold?</para>
+</problem>
+</exercise>
+</section>
+<section id="ch14mod01_prob" class="problems">
+<title>Problems</title>
+<exercise id="ch14mod03_prob01">
+<problem id="ch14mod03_prob01p">
+<para id="ch14mod01_p21">In country A, the population is 300 million and 50 million people are living below the poverty line. What is the poverty rate?</para>
+</problem>
+</exercise>
+<exercise id="ch14mod03_prob02">
+<problem id="ch14mod03_prob02p">
+<para id="ch14mod01_p22">In country B, the population is 900 million and 100 million people are living below the poverty line. What is the poverty rate?</para>
+</problem>
+</exercise>
+</section>
+<section id="ch14mod01_ref" class="references">
+<title>References</title>
+<para id="eip-300">Ebeling, Ashlea. 2014. “IRS Announces 2015 Estate And Gift Tax Limits.” Forbes. Accessed March 16, 2015. http://www.forbes.com/sites/ashleaebeling/2014/10/30/irs-announces-2015-estate-and-gift-tax-limits/.</para><para id="ch14mod01_ref01">Federal Register: The Daily Journal of the United States Government. “State Median Income Estimates for a Four-Person Household: Notice of the Federal Fiscal Year (FFY) 2013 State Median Income Estimates for Use Under the Low Income Home Energy Assistance Program (LIHEAP).” Last modified March 15, 2012. https://www.federalregister.gov/articles/2012/03/15/2012-6220/state-median-income-estimates-for-a-four-person-household-notice-of-the-federal-fiscal-year-ffy-2013#t-1.</para>
+<para id="eip-5">Luhby, Tami. 2014. “Income is on the rise . . . finally!” Accessed April 10, 2015. http://money.cnn.com/2014/08/20/news/economy/median-income/.</para><para id="eip-106">Meyer, Ali. 2015. “56,023,000: Record Number of Women Not in Labor Force.” CNSNews.com. Accessed March 16, 2015. http://cnsnews.com/news/article/ali-meyer/56023000-record-number-women-not-labor-force.</para><para id="ch14mod01_ref02">Orshansky, Mollie. “Children of the Poor.” <emphasis effect="italics">Social Security Bulletin</emphasis>. 26 no. 7 (1963): 3–13. http://www.ssa.gov/policy/docs/ssb/v26n7/v26n7p3.pdf.</para><para id="ch14mod01_ref03">The World Bank. “Data: Poverty Headcount Ratio at $1.25 a Day (PPP) (% of Population).” http://data.worldbank.org/indicator/SI.POV.DDAY.</para>
+<para id="ch14mod01_ref04">U.S. Department of Commerce: United States Census Bureau. “American FactFinder.” http://factfinder2.census.gov/faces/nav/jsf/pages/index.xhtml.</para>
+<para id="ch14mod01_ref05">U.S. Department of Commerce: United States Census Bureau. “Current Population Survey (CPS): CPS Table Creator.” http://www.census.gov/cps/data/cpstablecreator.html.</para>
+<para id="ch14mod01_ref06">U.S. Department of Commerce: United States Census Bureau. “Income: Table F-6. Regions—Families (All Races) by Median and Mean Income.” http://www.census.gov/hhes/www/income/data/historical/families/.</para>
+<para id="ch14mod01_ref07">U.S. Department of Commerce: United States Census Bureau. “Poverty: Poverty Thresholds.” Last modified 2012. http://www.census.gov/hhes/www/poverty/data/threshld/.</para><para id="eip-451">U.S. Department of Health &amp; Human Services. 2015. “2015 Poverty Guidelines.” Accessed April 10, 2015. http://www.medicaid.gov/medicaid-chip-program-information/by-topics/eligibility/downloads/2015-federal-poverty-level-charts.pdf.</para><para id="eip-276">U.S. Department of Health &amp; Human Services. 2015. “Information on Poverty and Income Statistics: A Summary of 2014 Current Population Survey Data.”  Accessed April 13, 2015. http://aspe.hhs.gov/hsp/14/povertyandincomeest/ib_poverty2014.pdf.</para>
+</section>
+</content>
+<glossary>
+<definition id="ch14mod01_gl01">
+<term>income inequality</term>
+<meaning id="ch14mod01_gl01m">when one group receives a disproportionate share of total income or wealth than others</meaning>
+</definition>
+<definition id="ch14mod01_gl02">
+<term>poverty</term>
+<meaning id="ch14mod01_gl02m">the situation of being below a certain level of income needed for a basic standard of living</meaning>
+</definition>
+<definition id="ch14mod01_gl03">
+<term>poverty line</term>
+<meaning id="ch14mod01_gl03m">the specific amount of income needed for a basic standard of living</meaning>
+</definition>
+<definition id="ch14mod01_gl04">
+<term>poverty rate</term>
+<meaning id="ch14mod01_gl04m">percentage of the population living below the poverty line</meaning>
+</definition>
+</glossary>
+
+</document>

@@ -1,0 +1,1059 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>The Expenditure-Output (or Keynesian Cross) Model</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m57413</md:content-id>
+  <md:title>The Expenditure-Output (or Keynesian Cross) Model</md:title>
+  <md:abstract/>
+  <md:uuid>82baa7dd-7876-4724-a4f7-2bb756395725</md:uuid>
+</metadata>
+
+<content>
+  <para id="fs-id1165288234366">The fundamental ideas of Keynesian economics were developed before the AD/AS model was popularized. From the 1930s until the 1970s, Keynesian economics was usually explained with a different model, known as the expenditure-output approach. This approach is strongly rooted in the fundamental assumptions of Keynesian economics: it focuses on the total amount of spending in the economy, with no explicit mention of aggregate supply or of the price level (although as you will see, it is possible to draw some inferences about aggregate supply and price levels based on the diagram).</para>
+<section id="fs-id1165287089325">
+<title>The Axes of the Expenditure-Output Diagram</title>
+<para id="fs-id1165287031246">The expenditure-output model, sometimes also called the Keynesian cross diagram, determines the equilibrium level of real GDP by the point where the total or aggregate expenditures in the economy are equal to the amount of output produced. The axes of the Keynesian cross diagram presented in <link target-id="CNX_Econ_C25_011"/> show real GDP on the horizontal axis as a measure of output and aggregate expenditures on the vertical axis as a measure of spending.</para>
+<figure id="CNX_Econ_C25_011">
+<title>The Expenditure-Output Diagram</title>
+    <media id="fs-id1165286858882" alt="">
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C25_011.jpg"/>
+    </media>
+    <caption>The aggregate expenditure-output model shows aggregate expenditures on the vertical axis and real GDP on the horizontal axis. A vertical line shows potential GDP where full employment occurs. The 45-degree line shows all points where aggregate expenditures and output are equal. The aggregate expenditure schedule shows how total spending or aggregate expenditure increases as output or real GDP rises. The intersection of the aggregate expenditure schedule and the 45-degree line will be the equilibrium. Equilibrium occurs at E<sub>0</sub>, where aggregate expenditure AE<sub>0</sub> is equal to the output level Y<sub>0</sub>.</caption>
+  </figure>
+<para id="fs-id1165287166236">Remember that GDP can be thought of in several equivalent ways: it measures both the value of spending on final goods and also the value of the production of final goods. All sales of the final goods and services that make up GDP will eventually end up as income for workers, for managers, and for investors and owners of firms. The sum of all the income received for contributing resources to GDP is called national income (Y). At some points in the discussion that follows, it will be useful to refer to real GDP as “national income.” Both axes are measured in real (inflation-adjusted) terms.</para>
+</section>
+<section id="fs-id1165286945253">
+<title>The Potential GDP Line and the 45-degree Line</title>
+<para id="fs-id1165287032692">The Keynesian cross diagram contains two lines that serve as conceptual guideposts to orient the discussion. The first is a vertical line showing the level of potential GDP. Potential GDP means the same thing here that it means in the AD/AS diagrams: it refers to the quantity of output that the economy can produce with full employment of its labor and physical capital.</para>
+<para id="fs-id1165286944002">The second conceptual line on the Keynesian cross diagram is the 45-degree line, which starts at the origin and reaches up and to the right. A line that stretches up at a 45-degree angle represents the set of points (1, 1), (2, 2), (3, 3) and so on, where the measurement on the vertical axis is equal to the measurement on the horizontal axis. In this diagram, the 45-degree line shows the set of points where the level of aggregate expenditure in the economy, measured on the vertical axis, is equal to the level of output or national income in the economy, measured by GDP on the horizontal axis.</para>
+<para id="fs-id1165287132629">When the macroeconomy is in equilibrium, it must be true that the aggregate expenditures in the economy are equal to the real GDP—because by definition, GDP is the measure of what is spent on final sales of goods and services in the economy. Thus, the equilibrium calculated with a Keynesian cross diagram will always end up where aggregate expenditure and output are equal—which will only occur along the 45-degree line.</para>
+</section>
+<section id="fs-id1165287067352">
+<title>The Aggregate Expenditure Schedule</title>
+<para id="fs-id1165287147248">The final ingredient of the Keynesian cross or expenditure-output diagram is the aggregate expenditure schedule, which will show the total expenditures in the economy for each level of real GDP. The intersection of the aggregate expenditure line with the 45-degree line—at point E<sub>0</sub> in <link target-id="CNX_Econ_C25_011"/>—will show the equilibrium for the economy, because it is the point where aggregate expenditure is equal to output or real GDP. After developing an understanding of what the aggregate expenditures schedule means, we will return to this equilibrium and how to interpret it.</para>
+</section>
+<section id="fs-id1165286754113"><title>Building the Aggregate Expenditure Schedule</title>
+<para id="fs-id1165286800062">Aggregate expenditure is the key to the expenditure-income model. The aggregate expenditure schedule shows, either in the form of a table or a graph, how aggregate expenditures in the economy rise as real GDP or national income rises.</para>
+<para id="fs-id1165287068679">Thus, in thinking about the components of the aggregate expenditure line—consumption, investment, government spending, exports and imports—the key question is how expenditures in each category will adjust as national income rises.</para>
+</section>
+<section id="fs-id1165287044236">
+<title>Consumption as a Function of National Income</title>
+<para id="fs-id1165286859396">How do consumption expenditures increase as national income rises? People can do two things with their income: consume it or save it (for the moment, let’s ignore the need to pay taxes with some of it). Each person who receives an additional dollar faces this choice. The marginal propensity to consume (MPC), is the share of the additional dollar of income a person decides to devote to consumption expenditures. The marginal propensity to save (MPS) is the share of the additional dollar a person decides to save. It must always hold true that:</para>
+<equation id="fs-id1165284514724"><m:math><m:mtext>MPC + MPS = 1</m:mtext></m:math></equation>
+<para id="fs-id1165287121767">For example, if the marginal propensity to consume out of the marginal amount of income earned is 0.9, then the marginal propensity to save is 0.1.</para>
+<para id="fs-id1165284487019">With this relationship in mind, consider the relationship among income, consumption, and savings shown in <link target-id="CNX_Econ_C25_012"/>. (Note that we use “Aggregate Expenditure” on the vertical axis in this and the following figures, because all consumption expenditures are parts of aggregate expenditures.)</para>
+<para id="fs-id1165287122100">An assumption commonly made in this model is that even if income were zero, people would have to consume something. In this example, consumption would be $600 even if income were zero. Then, the MPC is 0.8 and the MPS is 0.2. Thus, when income increases by $1,000, consumption rises by $800 and savings rises by $200. At an income of $4,000, total consumption will be the $600 that would be consumed even without any income, plus $4,000 multiplied by the marginal propensity to consume of 0.8, or $ 3,200, for a total of $ 3,800. The total amount of consumption and saving must always add up to the total amount of income. (Exactly how a situation of zero income and negative savings would work in practice is not important, because even low-income societies are not literally at zero income, so the point is hypothetical.) This relationship between income and consumption, illustrated in <link target-id="CNX_Econ_C25_012"/> and <link target-id="Table_E_01"/>, is called the consumption function.</para>
+<figure id="CNX_Econ_C25_012">
+<title>The Consumption Function </title>
+    <media id="fs-id1165286945581" alt="">
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C25_012.jpg"/>
+    </media>
+    <caption>In the expenditure-output model, how does consumption increase with the level of national income? Output on the horizontal axis is conceptually the same as national income, since the value of all final output that is produced and sold must be income to someone, somewhere in the economy. At a national income level of zero, $600 is consumed. Then, each time income rises by $1,000, consumption rises by $800, because in this example, the marginal propensity to consume is 0.8.</caption>
+  </figure>
+<para id="fs-id1165287100525">The pattern of consumption shown in <link target-id="Table_E_01"/> is plotted in <link target-id="CNX_Econ_C25_012"/>. To calculate consumption, multiply the income level by 0.8, for the marginal propensity to consume, and add $600, for the amount that would be consumed even if income was zero. Consumption plus savings must be equal to income.</para>
+<table id="Table_E_01" summary="">
+<title>The Consumption Function</title>
+   <tgroup cols="3">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+<row>
+<entry>Income</entry>
+<entry>Consumption</entry>
+<entry>Savings</entry>
+</row>
+</thead>
+
+      <tbody>
+<row>
+<entry>$0</entry>
+<entry>	$600</entry>
+<entry>–$600</entry>
+</row>
+
+<row>
+<entry>$1,000</entry>
+<entry>$1,400</entry>
+<entry>–$400</entry>
+</row>
+
+<row>
+<entry>$2,000</entry>
+<entry>$2,200</entry>
+<entry>–$200</entry>
+</row>
+
+
+<row>
+<entry>$3,000</entry>
+<entry>$3,000</entry>
+<entry>$0</entry>
+</row>
+<row>
+<entry>$4,000</entry>
+<entry>$3,800</entry>
+<entry>$200</entry>
+</row>
+<row>
+<entry>$5,000</entry>
+<entry>$4,600</entry>
+<entry>$400</entry>
+</row>
+<row>
+<entry>$6,000</entry>
+<entry>$5,400</entry>
+<entry>$600</entry>
+</row>
+<row>
+<entry>$7,000</entry>
+<entry>$6,200</entry>
+<entry>$800</entry>
+</row>
+<row>
+<entry>$8,000</entry>
+<entry>$7,000</entry>
+<entry>$1,000</entry>
+</row>
+<row>
+<entry>$9,000</entry>
+<entry>$7,800</entry>
+<entry>$1,200</entry>
+</row>
+
+
+      </tbody>
+    </tgroup>
+    <caption/>
+</table>
+<para id="fs-id1165286746177">However, a number of factors other than income can also cause the entire consumption function to shift. These factors were summarized in the earlier discussion of consumption, and listed in <link target-id="Table_E_01"/>. When the consumption function moves, it can shift in two ways: either the entire consumption function can move up or down in a parallel manner, or the slope of the consumption function can shift so that it becomes steeper or flatter. For example, if a tax cut leads consumers to spend more, but does not affect their marginal propensity to consume, it would cause an upward shift to a new consumption function that is parallel to the original one. However, a change in household preferences for saving that reduced the marginal propensity to save would cause the slope of the consumption function to become steeper: that is, if the savings rate is lower, then every increase in income leads to a larger rise in consumption.</para>
+</section>
+<section id="fs-id1165287186927">
+<title>Investment as a Function of National Income</title>
+<para id="fs-id1165287021067">Investment decisions are forward-looking, based on expected rates of return. Precisely because investment decisions depend primarily on perceptions about future economic conditions, they do <emphasis effect="italics">not</emphasis> depend primarily on the level of GDP in the current year. Thus, on a Keynesian cross diagram, the investment function can be drawn as a horizontal line, at a fixed level of expenditure. <link target-id="CNX_Econ_C25_013"/> shows an investment function where the level of investment is, for the sake of concreteness, set at the specific level of 500. Just as a consumption function shows the relationship between consumption levels and real GDP (or national income), the investment function shows the relationship between investment levels and real GDP.</para>
+<figure id="CNX_Econ_C25_013">
+<title>The Investment Function</title>
+    <media id="fs-id1165286814428" alt="">
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C25_013.jpg"/>
+    </media>
+    <caption>The investment function is drawn as a flat line because investment is based on interest rates and expectations about the future, and so it does not change with the level of current national income. In this example, investment expenditures are at a level of 500. However, changes in factors like technological opportunities, expectations about near-term economic growth, and interest rates would all cause the investment function to shift up or down.</caption>
+  </figure>
+<para id="fs-id1165286928522">The appearance of the investment function as a horizontal line does not mean that the level of investment never moves. It means only that in the context of this two-dimensional diagram, the level of investment on the vertical aggregate expenditure axis does not vary according to the current level of real GDP on the horizontal axis. However, all the other factors that vary investment—new technological opportunities, expectations about near-term economic growth, interest rates, the price of key inputs, and tax incentives for investment—can cause the horizontal investment function to shift up or down.</para>
+</section>
+<section id="fs-id1165287117106">
+<title>Government Spending and Taxes as a Function of National Income</title>
+<para id="fs-id1165287164230">In the Keynesian cross diagram, government spending appears as a horizontal line, as in <link target-id="CNX_Econ_C25_014"/>, where government spending is set at a level of 1,300. As in the case of investment spending, this horizontal line does not mean that government spending is unchanging. It means only that government spending changes when Congress decides on a change in the budget, rather than shifting in a predictable way with the current size of the real GDP shown on the horizontal axis.</para>
+<figure id="CNX_Econ_C25_014">
+<title>The Government Spending Function </title>
+    <media id="fs-id1165286787126" alt="">
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C25_014.jpg"/>
+    </media>
+    <caption>The level of government spending is determined by political factors, not by the level of real GDP in a given year. Thus, government spending is drawn as a horizontal line. In this example, government spending is at a level of 1,300. Congressional decisions to increase government spending will cause this horizontal line to shift up, while decisions to reduce spending would cause it to shift down.</caption>
+  </figure>
+<para id="fs-id1165286779738">The situation of taxes is different because taxes often rise or fall with the volume of economic activity. For example, income taxes are based on the level of income earned and sales taxes are based on the amount of sales made, and both income and sales tend to be higher when the economy is growing and lower when the economy is in a recession. For the purposes of constructing the basic Keynesian cross diagram, it is helpful to view taxes as a proportionate share of GDP. In the United States, for example, taking federal, state, and local taxes together, government typically collects about 30–35 % of income as taxes.</para>
+<para id="fs-id1165286755848"><link target-id="Table_E_02"/> revises the earlier table on the consumption function so that it takes taxes into account. The first column shows national income. The second column calculates taxes, which in this example are set at a rate of 30%, or 0.3. The third column shows after-tax income; that is, total income minus taxes. The fourth column then calculates consumption in the same manner as before: multiply after-tax income by 0.8, representing the marginal propensity to consume, and then add $600, for the amount that would be consumed even if income was zero. When taxes are included, the marginal propensity to consume is reduced by the amount of the tax rate, so each additional dollar of income results in a smaller increase in consumption than before taxes. For this reason, the consumption function, with taxes included, is flatter than the consumption function without taxes, as <link target-id="CNX_Econ_C25_015"/> shows.</para>
+<figure id="CNX_Econ_C25_015">
+<title>The Consumption Function Before and After Taxes</title>
+    <media id="fs-id1165287103165" alt="">
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C25_015.jpg"/>
+    </media>
+    <caption>The upper line repeats the consumption function from <link target-id="CNX_Econ_C25_012"/>. The lower line shows the consumption function if taxes must first be paid on income, and then consumption is based on after-tax income.</caption>
+  </figure>
+<table id="Table_E_02" summary="">
+<title>The Consumption Function Before and After Taxes</title>
+   <tgroup cols="5">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<thead>
+<row>
+<entry>Income</entry>
+<entry>Taxes</entry>
+<entry>After-Tax Income</entry>
+<entry>Consumption</entry>
+<entry>Savings</entry>
+</row>
+</thead>
+
+      <tbody>
+<row>
+<entry>$0</entry>
+<entry>$0</entry>
+<entry>$0</entry>
+<entry>$600</entry>
+<entry>–$600</entry>
+</row>
+<row>
+<entry>$1,000</entry>
+<entry>$300</entry>
+<entry>$700</entry>
+<entry>$1,160</entry>
+<entry>–$460</entry>
+</row>
+<row>
+<entry>$2,000</entry>
+<entry>$600</entry>
+<entry>$1,400</entry>
+<entry>$1,720</entry>
+<entry>–$320</entry>
+</row>
+<row>
+<entry>$3,000</entry>
+<entry>$900</entry>
+<entry>$2,100</entry>
+<entry>$2,280</entry>
+<entry>–$180</entry>
+</row>
+<row>
+<entry>$4,000</entry>
+<entry>$1,200</entry>
+<entry>$2,800</entry>
+<entry>$2,840</entry>
+<entry>–$40</entry>
+</row>
+<row>
+<entry>$5,000</entry>
+<entry>$1,500</entry>
+<entry>$3,500</entry>
+<entry>$3,400</entry>
+<entry>$100</entry>
+</row>
+<row>
+<entry>$6,000</entry>
+<entry>$1,800</entry>
+<entry>$4,200</entry>
+<entry>$3,960</entry>
+<entry>$240</entry>
+</row>
+<row>
+<entry>$7,000</entry>
+<entry>$2,100</entry>
+<entry>$4,900</entry>
+<entry>$4,520</entry>
+<entry>$380</entry>
+</row>
+<row>
+<entry>$8,000</entry>
+<entry>$2,400</entry>
+<entry>$5,600</entry>
+<entry>$5,080</entry>
+<entry>$520</entry>
+</row>
+<row>
+<entry>$9,000</entry>
+<entry>$2,700</entry>
+<entry>$6,300</entry>
+<entry>$5,640</entry>
+<entry>$660</entry>
+</row>
+
+
+      </tbody>
+    </tgroup>
+    <caption/>
+</table>
+</section>
+<section id="fs-id1165288092120">
+<title>Exports and Imports as a Function of National Income</title>
+<para id="fs-id1165287067988">The export function, which shows how exports change with the level of a country’s own real GDP, is drawn as a horizontal line, as in the example in <link target-id="CNX_Econ_C25_025"/> (a) where exports are drawn at a level of $840. Again, as in the case of investment spending and government spending, drawing the export function as horizontal does not imply that exports never change. It just means that they do not change because of what is on the horizontal axis—that is, a country’s own level of domestic production—and instead are shaped by the level of aggregate demand in other countries. More demand for exports from other countries would cause the export function to shift up; less demand for exports from other countries would cause it to shift down.</para>
+<figure id="CNX_Econ_C25_025">
+<title>The Export and Import Functions</title>
+    <media id="fs-id1165286747256" alt="">
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C25_025.jpg"/>
+    </media>
+    <caption>(a) The export function is drawn as a horizontal line because exports are determined by the buying power of other countries and thus do not change with the size of the domestic economy. In this example, exports are set at 840. However, exports can shift up or down, depending on buying patterns in other countries. (b) The import function is drawn in negative territory because expenditures on imported products are a subtraction from expenditures in the domestic economy. In this example, the marginal propensity to import is 0.1, so imports are calculated by multiplying the level of income by –0.1.</caption>
+  </figure>
+<para id="fs-id1165287177982">Imports are drawn in the Keynesian cross diagram as a downward-sloping line, with the downward slope determined by the marginal propensity to import (MPI), out of national income. In <link target-id="CNX_Econ_C25_025"/> (b), the marginal propensity to import is 0.1. Thus, if real GDP is $5,000, imports are $500; if national income is $6,000, imports are $600, and so on. The import function is drawn as downward sloping and negative, because it represents a subtraction from the aggregate expenditures in the domestic economy. A change in the marginal propensity to import, perhaps as a result of changes in preferences, would alter the slope of the import function.</para>
+<note id="fs-id1165286813129" class="economics workout">
+      <title>Using an Algebraic Approach to the Expenditure-Output Model</title>
+<para id="fs-id1165286713322">In the expenditure-output or Keynesian cross model, the equilibrium occurs where the aggregate expenditure line (AE line) crosses the 45-degree line. Given algebraic equations for two lines, the point where they cross can be readily calculated. Imagine an economy with the following characteristics.</para>
+<para id="fs-id1165287025993">Y = Real GDP or national income</para>
+<para id="fs-id1165286992026">T = Taxes = 0.3Y</para>
+<para id="fs-id1165287098301">C = Consumption = 140 + 0.9(Y – T)</para>
+<para id="fs-id1165286768102">I = Investment = 400</para>
+<para id="fs-id1165286716722">G = Government spending = 800</para>
+<para id="fs-id1165286720528">X = Exports = 600</para>
+<para id="fs-id1165287043623">M = Imports = 0.15Y</para>
+<para id="fs-id1165287145288">Step 1. Determine the aggregate expenditure function. In this case, it is:</para>
+<equation id="fs-id1165287102507"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>AE</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>C + I + G + X – M</mtext></mtd></mtr><mtr><mtd><mtext>AE</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>140 + 0.9(Y – T) + 400 + 800 + 600 – 0.15Y</mtext></mtd></mtr></mtable></math> </equation>
+<para id="fs-id1165286770408">Step 2. The equation for the 45-degree line is the set of points where GDP or national income on the horizontal axis is equal to aggregate expenditure on the vertical axis. Thus, the equation for the 45-degree line is: AE = Y.</para>
+<para id="fs-id1165286902637">Step 3. The next step is to solve these two equations for Y (or AE, since they will be equal to each other). Substitute Y for AE:</para>
+<equation id="fs-id1165286766792"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Y</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>140 + 0.9(Y – T) + 400 + 800 + 600 – 0.15Y</mtext></mtd></mtr></mtable></math></equation>
+<para id="fs-id1165286939549">Step 4. Insert the term 0.3Y for the tax rate T. This produces an equation with only one variable, Y.</para>
+<para id="fs-id1165286928905">Step 5. Work through the algebra and solve for Y.</para>
+<equation id="fs-id1165286939742"> <math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Y</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>140 + 0.9(Y – 0.3Y) + 400 + 800 + 600 – 0.15Y</mtext></mtd></mtr><mtr><mtd><mtext>Y</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>140 + 0.9Y – 0.27Y + 1800 – 0.15Y</mtext></mtd></mtr><mtr><mtd><mtext>Y</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>1940 + 0.48Y</mtext></mtd></mtr><mtr><mtd><mtext>Y – 0.48Y</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>1940</mtext></mtd></mtr><mtr><mtd><mtext>0.52Y</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>1940</mtext></mtd></mtr><mtr><mtd><mfrac><mtext>0.52Y</mtext><mtext>0.52</mtext></mfrac></mtd><mtd><mtext> = </mtext></mtd><mtd><mfrac><mtext>1940</mtext><mtext>0.52</mtext></mfrac></mtd></mtr><mtr><mtd><mtext>Y</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>3730</mtext></mtd></mtr></mtable></math></equation>
+<para id="fs-id1165286707811">This algebraic framework is flexible and useful in predicting how economic events and policy actions will affect real GDP.</para>
+<para id="fs-id1165287088333">Step 6. Say, for example, that because of changes in the relative prices of domestic and foreign goods, the marginal propensity to import falls to 0.1. Calculate the equilibrium output when the marginal propensity to import is changed to 0.1.</para>
+<equation id="fs-id1165286799497"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>140 + 0.9(Y – 0.3Y) + 400 + 800 + 600 – 0.1Y</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>1940 – 0.53Y</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>0.47Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>1940</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>4127</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-id1165287186682">Step 7. Because of a surge of business confidence, investment rises to 500. Calculate the equilibrium output.</para>
+<equation id="fs-id1165286712686"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>140 + 0.9(Y – 0.3Y) + 500 + 800 + 600 – 0.15Y </m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>2040 + 0.48Y</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Y – 0.48Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>2040</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>0.52Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>2040</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>3923</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-id1165286748036">For issues of policy, the key questions would be how to adjust government spending levels or tax rates so that the equilibrium level of output is the full employment level. In this case, let the economic parameters be:</para>
+<para id="fs-id1165286749321">Y = National income</para>
+<para id="fs-id1165287021074">T = Taxes = 0.3Y</para>
+<para id="fs-id1165286793118">C = Consumption = 200 + 0.9(Y – T)</para>
+<para id="fs-id1165287157598">I = Investment = 600</para>
+<para id="fs-id1165286976395">G = Government spending = 1,000</para>
+<para id="fs-id1165286725529">X = Exports = 600</para>
+<para id="fs-id1165287129567">Y = Imports = 0.1(Y – T)</para>
+<para id="fs-id1165286975307">Step 8. Calculate the equilibrium for this economy (remember Y = AE).</para>
+<equation id="fs-id1165286886716"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>200 + 0.9(Y – 0.3Y) + 600 + 1000 + 600 – 0.1(Y – 0.3Y)</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Y – 0.63Y + 0.07Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>2400</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>0.44Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>2400</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>5454</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-id1165286906376">Step 9. Assume that the full employment level of output is 6,000. What level of government spending would be necessary to reach that level? To answer this question, plug in 6,000 as equal to Y, but leave G as a variable, and solve for G. Thus:</para>
+<equation id="fs-id1165286784408"><m:math><m:mtext>6000 = 200 + 0.9(6000 – 0.3(6000)) + 600 + G + 600 – 0.1(6000 – 0.3(6000))</m:mtext></m:math></equation>
+<para id="fs-id1165287097103">Step 10. Solve this problem arithmetically. The answer is: G = 1,240. In other words, increasing government spending by 240, from its original level of 1,000, to 1,240, would raise output to the full employment level of GDP.</para>
+<para id="fs-id1165286871152">Indeed, the question of how much to increase government spending so that equilibrium output will rise from 5,454 to 6,000 can be answered without working through the algebra, just by using the multiplier formula. The multiplier equation in this case is:</para>
+<equation id="fs-id1165286886908"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>1 – 0.56</m:mn></m:mfrac><m:mo>=</m:mo><m:mn>2.27</m:mn></m:mrow></m:math></equation><para id="fs-id1165286859557">Thus, to raise output by 546 would require an increase in government spending of 546/2.27=240, which is the same as the answer derived from the algebraic calculation.</para>
+<para id="fs-id1165286770440">This algebraic framework is highly flexible. For example, taxes can be treated as a total set by political considerations (like government spending) and not dependent on national income. Imports might be based on before-tax income, not after-tax income. For certain purposes, it may be helpful to analyze the economy without exports and imports. A more complicated approach could divide up consumption, investment, government, exports and imports into smaller categories, or to build in some variability in the rates of taxes, savings, and imports. A wise economist will shape the model to fit the specific question under investigation.</para>
+    </note>
+    </section>
+<section id="fs-id1165286703349">
+<title>Building the Combined Aggregate Expenditure Function</title>
+<para id="fs-id1165287095444">All the components of aggregate demand—consumption, investment, government spending, and the trade balance—are now in place to build the Keynesian cross diagram. <link target-id="CNX_Econ_C25_018"/> builds up an aggregate expenditure function, based on the numerical illustrations of C, I, G, X, and M that have been used throughout this text. The first three columns in <link target-id="Table_E_03"/> are lifted from the earlier <link target-id="Table_E_02"/>, which showed how to bring taxes into the consumption function. The first column is real GDP or national income, which is what appears on the horizontal axis of the income-expenditure diagram. The second column calculates after-tax income, based on the assumption, in this case, that 30% of real GDP is collected in taxes. The third column is based on an MPC of 0.8, so that as after-tax income rises by $700 from one row to the next, consumption rises by $560 (700 × 0.8) from one row to the next. Investment, government spending, and exports do not change with the level of current national income. In the previous discussion, investment was $500, government spending was $1,300, and exports were $840, for a total of $2,640. This total is shown in the fourth column. Imports are 0.1 of real GDP in this example, and the level of imports is calculated in the fifth column. The final column, aggregate expenditures, sums up C + I + G + X – M. This aggregate expenditure line is illustrated in <link target-id="CNX_Econ_C25_018"/>.</para>
+<figure id="CNX_Econ_C25_018">
+<title>A Keynesian Cross Diagram</title>
+    <media id="fs-id1165286802265" alt="">
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C25_018.jpg"/>
+    </media>
+    <caption>Each combination of national income and aggregate expenditure (after-tax consumption, government spending, investment, exports, and imports) is graphed. The equilibrium occurs where aggregate expenditure is equal to national income; this occurs where the aggregate expenditure schedule crosses the 45-degree line, at a real GDP of $6,000. Potential GDP in this example is $7,000, so the equilibrium is occurring at a level of output or real GDP below the potential GDP level.</caption>
+  </figure>
+<table id="Table_E_03" summary="">
+<title>National Income-Aggregate Expenditure Equilibrium</title>
+   <tgroup cols="6">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<colspec colnum="6" colname="col6"/>
+<thead>
+<row>
+<entry>National Income</entry>
+<entry>After-Tax Income</entry>
+<entry>Consumption</entry>
+<entry>Government Spending + Investment + Exports</entry>
+<entry>Imports</entry>
+<entry>Aggregate Expenditure</entry>
+</row>
+</thead>
+
+      <tbody>
+<row>
+<entry>$3,000</entry>
+<entry>$2,100</entry>
+<entry>$2,280</entry>
+<entry>$2,640</entry>
+<entry>$300</entry>
+<entry>$4,620</entry>
+</row>
+<row>
+<entry>$4,000</entry>
+<entry>$2,800</entry>
+<entry>$2,840</entry>
+<entry>$2,640</entry>
+<entry>$400</entry>
+<entry>$5,080</entry>
+</row>
+<row>
+<entry>$5,000</entry>
+<entry>$3,500</entry>
+<entry>$3,400</entry>
+<entry>$2,640</entry>
+<entry>$500</entry>
+<entry>$5,540</entry>
+</row>
+<row>
+<entry>$6,000</entry>
+<entry>$4,200</entry>
+<entry>$3,960</entry>
+<entry>$2,640</entry>
+<entry>$600</entry>
+<entry>$6,000</entry>
+</row>
+<row>
+<entry>$7,000</entry>
+<entry>$4,900</entry>
+<entry>$4,520</entry>
+<entry>$2,640</entry>
+<entry>$700</entry>
+<entry>$6,460</entry>
+</row>
+<row>
+<entry>$8,000</entry>
+<entry>$5,600</entry>
+<entry>$5,080</entry>
+<entry>$2,640</entry>
+<entry>$800</entry>
+<entry>$6,920</entry>
+</row>
+<row>
+<entry>$9,000</entry>
+<entry>$6,300</entry>
+<entry>$5,640</entry>
+<entry>$2,640</entry>
+<entry>$900</entry>
+<entry>$7,380</entry>
+</row>
+
+      </tbody>
+    </tgroup>
+    <caption/>
+</table>
+<para id="fs-id1165286792472">The aggregate expenditure function is formed by stacking on top of each other the consumption function (after taxes), the investment function, the government spending function, the export function, and the import function. The point at which the aggregate expenditure function intersects the vertical axis will be determined by the levels of investment, government, and export expenditures—which do not vary with national income. The upward slope of the aggregate expenditure function will be determined by the marginal propensity to save, the tax rate, and the marginal propensity to import. A higher marginal propensity to save, a higher tax rate, and a higher marginal propensity to import will all make the slope of the aggregate expenditure function flatter—because out of any extra income, more is going to savings or taxes or imports and less to spending on domestic goods and services.</para>
+<para id="fs-id1165286906701">The equilibrium occurs where national income is equal to aggregate expenditure, which is shown on the graph as the point where the aggregate expenditure schedule crosses the 45-degree line. In this example, the equilibrium occurs at 6,000. This equilibrium can also be read off the table under the figure; it is the level of national income where aggregate expenditure is equal to national income.</para>
+</section>
+
+<section id="fs-id1165286761652"><title>Equilibrium in the Keynesian Cross Model</title>
+<para id="fs-id1165287176911">With the aggregate expenditure line in place, the next step is to relate it to the two other elements of the Keynesian cross diagram. Thus, the first subsection interprets the intersection of the aggregate expenditure function and the 45-degree line, while the next subsection relates this point of intersection to the potential GDP line.</para>
+</section>
+<section id="fs-id1165286769203">
+<title>Where Equilibrium Occurs</title>
+<para id="fs-id1165286744165">The point where the aggregate expenditure line that is constructed from C + I + G + X – M crosses the 45-degree line will be the equilibrium for the economy. It is the only point on the aggregate expenditure line where the total amount being spent on aggregate demand equals the total level of production. In <link target-id="CNX_Econ_C25_018"/>, this point of equilibrium (E<sub>0</sub>) happens at 6,000, which can also be read off <link target-id="Table_E_03"/>.</para>
+<para id="fs-id1165286907223">The meaning of “equilibrium” remains the same; that is, equilibrium is a point of balance where no incentive exists to shift away from that outcome. To understand why the point of intersection between the aggregate expenditure function and the 45-degree line is a macroeconomic equilibrium, consider what would happen if an economy found itself to the right of the equilibrium point E, say point H in <link target-id="CNX_Econ_C25_019"/>, where output is higher than the equilibrium. At point H, the level of aggregate expenditure is below the 45-degree line, so that the level of aggregate expenditure in the economy is less than the level of output. As a result, at point H, output is piling up unsold—not a sustainable state of affairs.</para>
+<figure id="CNX_Econ_C25_019">
+<title>Equilibrium in the Keynesian Cross Diagram</title>
+    <media id="fs-id1165286944771" alt="">
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C25_019.jpg"/>
+    </media>
+    <caption>If output was above the equilibrium level, at H, then the real output is greater than the aggregate expenditure in the economy. This pattern cannot hold, because it would mean that goods are produced but piling up unsold. If output was below the equilibrium level at L, then aggregate expenditure would be greater than output. This pattern cannot hold either, because it would mean that spending exceeds the number of goods being produced. Only point E can be at equilibrium, where output, or national income and aggregate expenditure, are equal. The equilibrium (E) must lie on the 45-degree line, which is the set of points where national income and aggregate expenditure are equal.</caption>
+  </figure>
+<para id="fs-id1165286967336">Conversely, consider the situation where the level of output is at point L—where real output is lower than the equilibrium. In that case, the level of aggregate demand in the economy is above the 45-degree line, indicating that the level of aggregate expenditure in the economy is greater than the level of output. When the level of aggregate demand has emptied the store shelves, it cannot be sustained, either. Firms will respond by increasing their level of production. Thus, the equilibrium must be the point where the amount produced and the amount spent are in balance, at the intersection of the aggregate expenditure function and the 45-degree line.</para>
+<note id="fs-id1165287043498" class="economics workout">
+      <title>Finding Equilibrium</title>
+<para id="fs-id1165287127864"><link target-id="Table_E_04"/> gives some information on an economy. The Keynesian model assumes that there is some level of consumption even without income. That amount is $236 – $216 = $20. $20 will be consumed when national income equals zero. Assume that taxes are 0.2 of real GDP. Let the marginal propensity to save of after-tax income be 0.1. The level of investment is $70, the level of government spending is $80, and the level of exports is $50. Imports are 0.2 of after-tax income.</para>
+<para id="fs-id1165286777642">Given these values, you need to complete <link target-id="Table_E_04"/> and then answer these questions:
+    <list id="fs-id1165287025782">
+      <item>What is the consumption function?</item>
+      <item>What is the equilibrium?</item>
+      <item>Why is a national income of $300 not at equilibrium?</item>
+      <item>How do expenditures and output compare at this point?</item>
+    </list>
+</para>
+<table id="Table_E_04" summary="">
+   <tgroup cols="7">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<colspec colnum="6" colname="col6"/>
+<colspec colnum="7" colname="col7"/>
+<thead>
+<row>
+<entry>National Income</entry>
+<entry>Taxes</entry>
+<entry>After-Tax income</entry>
+<entry>Consumption</entry>
+<entry>I + G + X</entry>
+<entry>Imports</entry>
+<entry>Aggregate Expenditures</entry>
+</row>
+</thead>
+
+      <tbody>
+<row>
+<entry>$300</entry>
+<entry/>
+<entry/>
+<entry>$236</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>$400</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>$500</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>$600</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>$700</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+
+      </tbody>
+    </tgroup>
+
+</table>
+<para id="fs-id1165286747066">Step 1. Calculate the amount of taxes for each level of national income(reminder: GDP = national income) for each level of national income using the following as an example:</para>
+<equation id="fs-id1165286939545"><m:math><m:mtable columnalign="left center center right"><m:mtr><m:mtd><m:mtext>National Income (Y)</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd><m:mtext>$300</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Taxes = 0.2 or 20%</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd><m:mtext>× 0.2</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Tax amount (T)</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd><m:mtext>$60</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-id1165286725452">Step 2. Calculate after-tax income by subtracting the tax amount from national income for each level of national income using the following as an example:</para>
+<equation id="fs-id1165286759160"><m:math><m:mtable columnalign="left center center left"><m:mtr><m:mtd><m:mtext>National income minus taxes</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd><m:mtext>$300</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd><m:mtext>–$60</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>After-tax income</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd><m:mtext>$240</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-id1165287098953">Step 3. Calculate consumption. The marginal propensity to save is given as 0.1. This means that the marginal propensity to consume is 0.9, since MPS + MPC = 1. Therefore, multiply 0.9 by the after-tax income amount using the following as an example:</para>
+<equation id="fs-id1165287100316"><m:math><m:mtable columnalign="left center center right"><m:mtr><m:mtd><m:mtext>After-tax Income</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd><m:mtext>$240</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>MPC</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd><m:mtext>× 0.9</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Consumption</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd><m:mtext>$216</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-id1165286871031">Step 4. Consider why the table shows consumption of $236 in the first row. As mentioned earlier, the Keynesian model assumes that there is some level of consumption even without income. That amount is $236 – $216 = $20.</para>
+<para id="fs-id1165286771427">Step 5. There is now enough information to write the consumption function. The consumption function is found by figuring out the level of consumption that will happen when income is zero.</para>
+<para id="fs-id1165286770625">Remember that:</para>
+<equation id="fs-id1165286725897"><m:math><m:mtext>C = Consumption when national income is zero + MPC (after-tax income)</m:mtext></m:math></equation>
+<para id="fs-id1165286766774">Let C represent the consumption function, Y represent national income, and T represent taxes.</para>
+<equation id="fs-id1165286756879"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>C</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>$20 + 0.9(Y – T)</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>$20 + 0.9($300 – $60)</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>$236</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-id1165286790912">Step 6. Use the consumption function to find consumption at each level of national income.</para>
+<para id="fs-id1165286940620">Step 7. Add investment (I), government spending (G), and exports (X). Remember that these do not change as national income changes:</para>
+<para id="fs-id1165286792435">Step 8. Find imports, which are 0.2 of after-tax income at each level of national income. For example:</para>
+<equation id="fs-id1165286771455"><m:math><m:mtable columnalign="left center center right"><m:mtr><m:mtd><m:mtext>After-tax income</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd><m:mtext>$240</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Imports of 0.2 or 20% of Y – T</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd><m:mtext>× 0.2</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Imports</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd><m:mtext>$48</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-id1165287157523">Step 9. Find aggregate expenditure by adding C + I + G + X – I for each level of national income. Your completed table should look like <link target-id="Table_E_05"/>.</para>
+<table id="Table_E_05" summary="">
+<title/>
+   <tgroup cols="7">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<colspec colnum="6" colname="col6"/>
+<colspec colnum="7" colname="col7"/>
+<thead>
+<row>
+<entry>National Income (Y)</entry>
+<entry>Tax = 0.2 × Y (T)</entry>
+<entry>After-Tax income (Y – T)</entry>
+<entry>Consumption C = $20 + 0.9(Y – T)</entry>
+<entry>I + G + X</entry>
+<entry>Minus Imports (M)</entry>
+<entry>Aggregate Expenditures AE = C + I + G + X – M</entry>
+</row>
+</thead>
+
+      <tbody>
+<row>
+<entry>$300</entry>
+<entry>$60</entry>
+<entry>$240</entry>
+<entry>$236</entry>
+<entry>$200</entry>
+<entry>$48</entry>
+<entry>$388</entry>
+</row>
+<row>
+<entry>$400</entry>
+<entry>$80</entry>
+<entry>$320</entry>
+<entry>$308</entry>
+<entry>$200</entry>
+<entry>$64</entry>
+<entry>$444</entry>
+</row>
+<row>
+<entry><emphasis effect="italics">$500</emphasis></entry>
+<entry><emphasis effect="italics">$100</emphasis></entry>
+<entry><emphasis effect="italics">$400</emphasis></entry>
+<entry><emphasis effect="italics">$380</emphasis></entry>
+<entry><emphasis effect="italics">$200</emphasis></entry>
+<entry><emphasis effect="italics">$80</emphasis></entry>
+<entry><emphasis effect="italics">$500</emphasis></entry>
+</row>
+<row>
+<entry>$600</entry>
+<entry>$120</entry>
+<entry>$480</entry>
+<entry>$452</entry>
+<entry>$200</entry>
+<entry>$96</entry>
+<entry>$556</entry>
+</row>
+<row>
+<entry>$700</entry>
+<entry>$140</entry>
+<entry>$560</entry>
+<entry>$524</entry>
+<entry>$200</entry>
+<entry>$112</entry>
+<entry>$612</entry>
+</row>
+
+      </tbody>
+    </tgroup>
+    <caption/>
+</table>
+<para id="fs-id1165287145176">Step 10. Answer the question: What is equilibrium? Equilibrium occurs where AE = Y. <link target-id="Table_E_05"/> shows that equilibrium occurs where national income equals aggregate expenditure at $500.</para>
+<para id="fs-id1165287194354">Step 11. Find equilibrium mathematically, knowing that national income is equal to aggregate expenditure.</para>
+<equation id="fs-id1165287103596"><m:math><m:mtable columnspacing="2px 2px 2px 2px" columnalign="left left left left"><m:mtr><m:mtd><m:mtext>Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>AE</m:mtext></m:mtd><m:mtd><m:mspace/></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>C + I + G + X – M</m:mtext></m:mtd><m:mtd><m:mspace/></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>$20 + 0.9(Y – T) + $70 + $80 + $50 – 0.2(Y – T)</m:mtext></m:mtd><m:mtd/></m:mtr><m:mtr><m:mtd/><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>$220 + 0.9(Y – T) – 0.2(Y – T)</m:mtext></m:mtd><m:mtd><m:mspace/></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd><m:mspace/></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-id1165286797063">Since T is 0.2 of national income, substitute T with 0.2 Y so that:</para>
+<equation id="fs-id1165287005847"><m:math><m:mtable columnspacing="2px 2px 2px 2px" columnalign="left left left left"><m:mtr><m:mtd><m:mtext>Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>$220 + 0.9(Y – 0.2Y) – 0.2(Y – 0.2Y)</m:mtext></m:mtd><m:mtd><m:mspace/></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>$220 + 0.9Y – 0.18Y – 0.2Y + 0.04Y</m:mtext></m:mtd><m:mtd><m:mspace/></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>$220 + 0.56Y</m:mtext></m:mtd><m:mtd/></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd><m:mspace/></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd><m:mspace/></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-id1165287011112">Solve for Y.</para>
+<equation id="fs-id1165287010816"><m:math><m:mtable columnspacing="2px 2px 2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>$220 + 0.56Y</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Y – 0.56Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>$220</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>0.44Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>$220</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mfrac><m:mtext>0.44Y</m:mtext><m:mtext>0.44</m:mtext></m:mfrac></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mfrac><m:mtext>$220</m:mtext><m:mtext>0.44</m:mtext></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>$500</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-id1165284639871">Step 12. Answer this question: Why is a national income of $300 not an equilibrium? At national income of $300, aggregate expenditures are $388.</para>
+<para id="fs-id1165284639979">Step 13. Answer this question: How do expenditures and output compare at this point? Aggregate expenditures cannot exceed output (GDP) in the long run, since there would not be enough goods to be bought.</para>
+    </note>
+    </section>
+<section id="fs-id1165284469794">
+<title>Recessionary and Inflationary Gaps</title>
+<para id="fs-id1165287093784">In the Keynesian cross diagram, if the aggregate expenditure line intersects the 45-degree line at the level of potential GDP, then the economy is in sound shape. There is no recession, and unemployment is low. But there is no guarantee that the equilibrium will occur at the potential GDP level of output. The equilibrium might be higher or lower.</para>
+<para id="fs-id1165287167247">For example, <link target-id="CNX_Econ_C25_026"/> (a) illustrates a situation where the aggregate expenditure line intersects the 45-degree line at point E<sub>0</sub>, which is a real GDP of $6,000, and which is below the potential GDP of $7,000. In this situation, the level of aggregate expenditure is too low for GDP to reach its full employment level, and unemployment will occur.</para>
+<para id="fs-id1165287102724">The distance between an output level like E<sub>0</sub> that is below potential GDP and the level of potential GDP is called a recessionary gap. Because the equilibrium level of real GDP is so low, firms will not wish to hire the full employment number of workers, and unemployment will be high.</para>
+<figure id="CNX_Econ_C25_026">
+<title>Addressing Recessionary and Inflationary Gaps</title>
+    <media id="fs-id1165287164221" alt="">
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C25_026.jpg"/>
+    </media>
+    <caption>(a) If the equilibrium occurs at an output below potential GDP, then a recessionary gap exists. The policy solution to a recessionary gap is to shift the aggregate expenditure schedule up from AE<sub>0</sub> to AE<sub>1</sub>, using policies like tax cuts or government spending increases. Then the new equilibrium E<sub>1</sub> occurs at potential GDP. (b) If the equilibrium occurs at an output above potential GDP, then an inflationary gap exists. The policy solution to an inflationary gap is to shift the aggregate expenditure schedule down from AE<sub>0</sub> to AE<sub>1</sub>, using policies like tax increases or spending cuts. Then, the new equilibrium E<sub>1</sub> occurs at potential GDP.</caption>
+  </figure>
+<para id="fs-id1165284640500">What might cause a recessionary gap? Anything that shifts the aggregate expenditure line down is a potential cause of recession, including a decline in consumption, a rise in savings, a fall in investment, a drop in government spending or a rise in taxes, or a fall in exports or a rise in imports. Moreover, an economy that is at equilibrium with a recessionary gap may just stay there and suffer high unemployment for a long time; remember, the meaning of equilibrium is that there is no particular adjustment of prices or quantities in the economy to chase the recession away.</para>
+<para id="fs-id1165287085182">The appropriate response to a recessionary gap is for the government to reduce taxes or increase spending so that the aggregate expenditure function shifts up from AE<sub>0</sub> to AE<sub>1</sub>. When this shift occurs, the new equilibrium E<sub>1</sub> now occurs at potential GDP as shown in <link target-id="CNX_Econ_C25_026"/> (a).</para>
+<para id="fs-id1165284469849">Conversely, <link target-id="CNX_Econ_C25_026"/> (b) shows a situation where the aggregate expenditure schedule (AE<sub>0</sub>) intersects the 45-degree line above potential GDP. The gap between the level of real GDP at the equilibrium E<sub>0</sub> and potential GDP is called an inflationary gap. The inflationary gap also requires a bit of interpreting. After all, a naïve reading of the Keynesian cross diagram might suggest that if the aggregate expenditure function is just pushed up high enough, real GDP can be as large as desired—even doubling or tripling the potential GDP level of the economy. This implication is clearly wrong. An economy faces some supply-side limits on how much it can produce at a given time with its existing quantities of workers, physical and human capital, technology, and market institutions.</para>
+<para id="fs-id1165287104876">The inflationary gap should be interpreted, not as a literal prediction of how large real GDP will be, but as a statement of how much extra aggregate expenditure is in the economy beyond what is needed to reach potential GDP. An inflationary gap suggests that because the economy cannot produce enough goods and services to absorb this level of aggregate expenditures, the spending will instead cause an inflationary increase in the price level. In this way, even though changes in the price level do not appear explicitly in the Keynesian cross equation, the notion of inflation is implicit in the concept of the inflationary gap.</para>
+<para id="fs-id1165286995226">The appropriate Keynesian response to an inflationary gap is shown in <link target-id="CNX_Econ_C25_026"/> (b). The original intersection of aggregate expenditure line AE<sub>0</sub> and the 45-degree line occurs at $8,000, which is above the level of potential GDP at $7,000. If AE<sub>0</sub> shifts down to AE<sub>1</sub>, so that the new equilibrium is at E<sub>1</sub>, then the economy will be at potential GDP without pressures for inflationary price increases. The government can achieve a downward shift in aggregate expenditure by increasing taxes on consumers or firms, or by reducing government expenditures.</para>
+</section>
+<section id="fs-id1165287194344"><title>The Multiplier Effect</title>
+<para id="fs-id1165287097328">The Keynesian policy prescription has one final twist. Assume that for a certain economy, the intersection of the aggregate expenditure function and the 45-degree line is at a GDP of 700, while the level of potential GDP for this economy is $800. By how much does government spending need to be increased so that the economy reaches the full employment GDP? The obvious answer might seem to be $800 – $700 = $100; so raise government spending by $100. But that answer is incorrect. A change of, for example, $100 in government expenditures will have an effect of more than $100 on the equilibrium level of real GDP. The reason is that a change in aggregate expenditures circles through the economy: households buy from firms, firms pay workers and suppliers, workers and suppliers buy goods from other firms, those firms pay their workers and suppliers, and so on. In this way, the original change in aggregate expenditures is actually spent more than once. This is called the multiplier effect: An initial increase in spending, cycles repeatedly through the economy and has a larger impact than the initial dollar amount spent.</para>
+</section>
+<section id="fs-id1165284845619">
+<title>How Does the Multiplier Work?</title>
+<para id="fs-id1165284469651">To understand how the multiplier effect works, return to the example in which the current equilibrium in the Keynesian cross diagram is a real GDP of $700, or $100 short of the $800 needed to be at full employment, potential GDP. If the government spends $100 to close this gap, someone in the economy receives that spending and can treat it as income. Assume that those who receive this income pay 30% in taxes, save 10% of after-tax income, spend 10% of total income on imports, and then spend the rest on domestically produced goods and services.</para>
+<para id="fs-id1165287085453">As shown in the calculations in <link target-id="CNX_Econ_C25_022"/> and <link target-id="Table_E_06"/>, out of the original $100 in government spending, $53 is left to spend on domestically produced goods and services. That $53 which was spent, becomes income to someone, somewhere in the economy. Those who receive that income also pay 30% in taxes, save 10% of after-tax income, and spend 10% of total income on imports, as shown in <link target-id="CNX_Econ_C25_022"/>, so that an additional $28.09 (that is, 0.53 × $53) is spent in the third round. The people who receive that income then pay taxes, save, and buy imports, and the amount spent in the fourth round is $14.89 (that is, 0.53 × $28.09).</para><figure id="CNX_Econ_C25_022">
+<title>The Multiplier Effect</title>
+    <media id="fs-id1165287145632" alt="">
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C25_022.jpg"/>
+    </media>
+    <caption>An original increase of government spending of $100 causes a rise in aggregate expenditure of $100. But that $100 is income to others in the economy, and after they save, pay taxes, and buy imports, they spend $53 of that $100 in a second round. In turn, that $53 is income to others. Thus, the original government spending of $100 is multiplied by these cycles of spending, but the impact of each successive cycle gets smaller and smaller. Given the numbers in this example, the original government spending increase of $100 raises aggregate expenditure by $213; therefore, the multiplier in this example is $213/$100 = 2.13.</caption>
+  </figure>
+<table id="Table_E_06" summary="">
+<title>Calculating the Multiplier Effect</title>
+   <tgroup cols="2">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+
+      <tbody>
+<row>
+<entry>Original increase in aggregate expenditure from government spending</entry>
+<entry>100</entry>
+</row>
+<row>
+<entry>Which is income to people throughout the economy: Pay 30% in taxes. Save 10% of after-tax income. Spend 10% of income on imports. Second-round increase of…</entry>
+<entry>70 – 7 – 10 = 53</entry>
+</row>
+<row>
+<entry>Which is $53 of income to people through the economy: Pay 30% in taxes. Save 10% of after-tax income. Spend 10% of income on imports. Third-round increase of…</entry>
+<entry>37.1 – 3.71 – 5.3 = 28.09</entry>
+</row>
+<row>
+<entry>Which is $28.09 of income to people through the economy: Pay 30% in taxes. Save 10% of after-tax income. Spend 10% of income on imports. Fourth-round increase of…</entry>
+<entry>19.663 – 1.96633 – 2.809 = 14.89</entry>
+</row>
+
+      </tbody>
+    </tgroup>
+    <caption/>
+</table>
+<para id="fs-id1165284636596">Thus, over the first four rounds of aggregate expenditures, the impact of the original increase in government spending of $100 creates a rise in aggregate expenditures of $100 + $53 + $28.09 + $14.89 = $195.98. <link target-id="CNX_Econ_C25_022"/> shows these total aggregate expenditures after these first four rounds, and then the figure shows the total aggregate expenditures after 30 rounds. The additional boost to aggregate expenditures is shrinking in each round of consumption. After about 10 rounds, the additional increments are very small indeed—nearly invisible to the naked eye. After 30 rounds, the additional increments in each round are so small that they have no practical consequence. After 30 rounds, the cumulative value of the initial boost in aggregate expenditure is approximately $213. Thus, the government spending increase of $100 eventually, after many cycles, produced an increase of $213 in aggregate expenditure and real GDP. In this example, the multiplier is $213/$100 = 2.13.</para>
+</section>
+<section id="fs-id1165284985240">
+<title>Calculating the Multiplier</title>
+<para id="fs-id1165286939961">Fortunately for everyone who is not carrying around a computer with a spreadsheet program to project the impact of an original increase in expenditures over 20, 50, or 100 rounds of spending, there is a formula for calculating the multiplier.</para>
+<equation id="fs-id1165284640018"><m:math><m:mtext>Spending Multiplier = 1/1 – (0.7 x (1-.1) + 0.10) = 1/.63 + .1 = 1/.73 = 1.369</m:mtext><m:mo> </m:mo></m:math></equation><para id="fs-id1165287173867">The data from <link target-id="CNX_Econ_C25_022"/> and <link target-id="Table_E_06"/> is:
+    <list id="fs-id1165284634480">
+      <item>Marginal Propensity to Save (MPS) = 30%</item>
+      <item>Tax rate = 10%</item>
+      <item>Marginal Propensity to Import (MPI) = 10%</item>
+    </list>
+</para>
+
+<para id="fs-id1165287188165">The MPC is equal to 1 – MPS, or 0.7. Therefore, the spending multiplier is:</para>
+<equation id="fs-id1165287220566"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Spending Multiplier</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mfrac><m:mtext>1</m:mtext><m:mtext>1 – (0.7 – (0.10)(0.7) – 0.10)</m:mtext></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mfrac><m:mtext>1</m:mtext><m:mtext>0.47</m:mtext></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>2.13</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-id1165287187113">A change in spending of $100 multiplied by the spending multiplier of 2.13 is equal to a change in GDP of $213. Not coincidentally, this result is exactly what was calculated in <link target-id="CNX_Econ_C25_022"/> after many rounds of expenditures cycling through the economy.</para>
+<para id="fs-id1165287187102">The size of the multiplier is determined by what proportion of the marginal dollar of income goes into taxes, saving, and imports. These three factors are known as “leakages,” because they determine how much demand “leaks out” in each round of the multiplier effect. If the leakages are relatively small, then each successive round of the multiplier effect will have larger amounts of demand, and the multiplier will be high. Conversely, if the leakages are relatively large, then any initial change in demand will diminish more quickly in the second, third, and later rounds, and the multiplier will be small. Changes in the size of the leakages—a change in the marginal propensity to save, the tax rate, or the marginal propensity to import—will change the size of the multiplier.</para>
+</section>
+<section id="fs-id1165284825442">
+<title>Calculating Keynesian Policy Interventions</title>
+<para id="fs-id1165287187216">Returning to the original question: How much should government spending be increased to produce a total increase in real GDP of $100? If the goal is to increase aggregate demand by $100, and the multiplier is 2.13, then the increase in government spending to achieve that goal would be $100/2.13 = $47. Government spending of approximately $47, when combined with a multiplier of 2.13 (which is, remember, based on the specific assumptions about tax, saving, and import rates), produces an overall increase in real GDP of $100, restoring the economy to potential GDP of $800, as <link target-id="CNX_Econ_C25_023"/> shows.</para>
+<figure id="CNX_Econ_C25_023">
+<title>The Multiplier Effect in an Expenditure-Output Model </title>
+    <media id="fs-id1165287187199" alt="">
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C25_023.jpg"/>
+    </media>
+    <caption>The power of the multiplier effect is that an increase in expenditure has a larger increase on the equilibrium output. The increase in expenditure is the vertical increase from AE<sub>0</sub> to AE<sub>1</sub>. However, the increase in equilibrium output, shown on the horizontal axis, is clearly larger.</caption>
+  </figure>
+<para id="fs-id1165287031926">The multiplier effect is also visible on the Keynesian cross diagram. <link target-id="CNX_Econ_C25_023"/> shows the example we have been discussing: a recessionary gap with an equilibrium of $700, potential GDP of $800, the slope of the aggregate expenditure function (AE<sub>0</sub>) determined by the assumptions that taxes are 30% of income, savings are 0.1 of after-tax income, and imports are 0.1 of before-tax income. At AE<sub>1</sub>, the aggregate expenditure function is moved up to reach potential GDP.</para>
+<para id="fs-id1165287144866">Now, compare the vertical shift upward in the aggregate expenditure function, which is $47, with the horizontal shift outward in real GDP, which is $100 (as these numbers were calculated earlier). The rise in real GDP is more than double the rise in the aggregate expenditure function. (Similarly, if you look back at <link target-id="CNX_Econ_C25_026"/>, you will see that the vertical movements in the aggregate expenditure functions are smaller than the change in equilibrium output that is produced on the horizontal axis. Again, this is the multiplier effect at work.) In this way, the power of the multiplier is apparent in the income–expenditure graph, as well as in the arithmetic calculation.</para>
+<para id="fs-id1165284469413">The multiplier does not just affect government spending, but applies to any change in the economy. Say that business confidence declines and investment falls off, or that the economy of a leading trading partner slows down so that export sales decline. These changes will reduce aggregate expenditures, and then will have an even larger effect on real GDP because of the multiplier effect. Read the following Clear It Up feature to learn how the multiplier effect can be applied to analyze the economic impact of professional sports.</para>
+<note id="fs-id1165284469415" class="economics clearup">
+      <title>How can the multiplier be used to analyze the economic impact of professional sports?</title>
+<para id="fs-id1165287071154">Attracting professional sports teams and building sports stadiums to create jobs and stimulate business growth is an economic development strategy adopted by many communities throughout the United States. In his recent article, “Public Financing of Private Sports Stadiums,” James Joyner of <emphasis effect="italics">Outside the Beltway</emphasis> looked at public financing for NFL teams. Joyner’s findings confirm the earlier work of John Siegfried of Vanderbilt University and Andrew Zimbalist of Smith College.</para>
+<para id="fs-id1165286766576">Siegfried and Zimbalist used the multiplier to analyze this issue. They considered the amount of taxes paid and dollars spent locally to see if there was a positive multiplier effect. Since most professional athletes and owners of sports teams are rich enough to owe a lot of taxes, let’s say that 40% of any marginal income they earn is paid in taxes. Because athletes are often high earners with short careers, let’s assume that they save one-third of their after-tax income.</para>
+<para id="fs-id1165286766579">However, many professional athletes do not live year-round in the city in which they play, so let’s say that one-half of the money that they do spend is spent outside the local area. One can think of spending outside a local economy, in this example, as the equivalent of imported goods for the national economy.</para>
+<para id="fs-id1165287097474">Now, consider the impact of money spent at local entertainment venues other than professional sports. While the owners of these other businesses may be comfortably middle-income, few of them are in the economic stratosphere of professional athletes. Because their incomes are lower, so are their taxes; say that they pay only 35% of their marginal income in taxes. They do not have the same ability, or need, to save as much as professional athletes, so let’s assume their MPC is just 0.8. Finally, because more of them live locally, they will spend a higher proportion of their income on local goods—say, 65%.</para>
+<para id="fs-id1165286772841">If these general assumptions hold true, then money spent on professional sports will have less local economic impact than money spent on other forms of entertainment. For professional athletes, out of a dollar earned, 40 cents goes to taxes, leaving 60 cents. Of that 60 cents, one-third is saved, leaving 40 cents, and half is spent outside the area, leaving 20 cents. Only 20 cents of each dollar is cycled into the local economy in the first round. For locally-owned entertainment, out of a dollar earned, 35 cents goes to taxes, leaving 65 cents. Of the rest, 20% is saved, leaving 52 cents, and of that amount, 65% is spent in the local area, so that 33.8 cents of each dollar of income is recycled into the local economy.</para>
+<para id="fs-id1165286772844">Siegfried and Zimbalist make the plausible argument that, within their household budgets, people have a fixed amount to spend on entertainment. If this assumption holds true, then money spent attending professional sports events is money that was not spent on other entertainment options in a given metropolitan area. Since the multiplier is lower for professional sports than for other local entertainment options, the arrival of professional sports to a city would reallocate entertainment spending in a way that causes the local economy to shrink, rather than to grow. Thus, their findings seem to confirm what Joyner reports and what newspapers across the country are reporting. A quick Internet search for “economic impact of sports” will yield numerous reports questioning this economic development strategy.</para>
+</note>
+</section>
+<section id="fs-id1165284467808">
+<title>Multiplier Tradeoffs: Stability versus the Power of Macroeconomic Policy</title>
+<para id="fs-id1165287174183">Is an economy healthier with a high multiplier or a low one? With a high multiplier, any change in aggregate demand will tend to be substantially magnified, and so the economy will be more unstable. With a low multiplier, by contrast, changes in aggregate demand will not be multiplied much, so the economy will tend to be more stable.</para>
+<para id="fs-id1165286770985">However, with a low multiplier, government policy changes in taxes or spending will tend to have less impact on the equilibrium level of real output. With a higher multiplier, government policies to raise or reduce aggregate expenditures will have a larger effect. Thus, a low multiplier means a more stable economy, but also weaker government macroeconomic policy, while a high multiplier means a more volatile economy, but also an economy in which government macroeconomic policy is more powerful.</para>
+</section>
+<section id="fs-id1165287174185" class="summary">
+  <title>Key Concepts and Summary</title>
+<para id="fs-id1165287177039">The expenditure-output model or Keynesian cross diagram shows how the level of aggregate expenditure (on the vertical axis) varies with the level of economic output (shown on the horizontal axis). Since the value of all macroeconomic output also represents income to someone somewhere else in the economy, the horizontal axis can also be interpreted as national income. The equilibrium in the diagram will occur where the aggregate expenditure line crosses the 45-degree line, which represents the set of points where aggregate expenditure in the economy is equal to output (or national income). Equilibrium in a Keynesian cross diagram can happen at potential GDP, or below or above that level.</para>
+<para id="fs-id1165287009945">The consumption function shows the upward-sloping relationship between national income and consumption. The marginal propensity to consume (MPC) is the amount consumed out of an additional dollar of income. A higher marginal propensity to consume means a steeper consumption function; a lower marginal propensity to consume means a flatter consumption function. The marginal propensity to save (MPS) is the amount saved out of an additional dollar of income. It is necessarily true that MPC + MPS = 1. The investment function is drawn as a flat line, showing that investment in the current year does not change with regard to the current level of national income. However, the investment function will move up and down based on the expected rate of return in the future. Government spending is drawn as a horizontal line in the Keynesian cross diagram, because its level is determined by political considerations, not by the current level of income in the economy. Taxes in the basic Keynesian cross diagram are taken into account by adjusting the consumption function. The export function is drawn as a horizontal line in the Keynesian cross diagram, because exports do not change as a result of changes in domestic income, but they move as a result of changes in foreign income, as well as changes in exchange rates. The import function is drawn as a downward-sloping line, because imports rise with national income, but imports are a subtraction from aggregate demand. Thus, a higher level of imports means a lower level of expenditure on domestic goods.</para>
+<para id="fs-id1165287009948">In a Keynesian cross diagram, the equilibrium may be at a level below potential GDP, which is called a recessionary gap, or at a level above potential GDP, which is called an inflationary gap.</para>
+<para id="fs-id1165286753192">The multiplier effect describes how an initial change in aggregate demand generated several times as much as cumulative GDP. The size of the spending multiplier is determined by three leakages: spending on savings, taxes, and imports. The formula for the multiplier is:</para>
+<equation id="fs-id1165287157223"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Multiplier</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mfrac><m:mtext>1</m:mtext><m:mtext>1 – (MPC × (1 – tax rate) + MPI)</m:mtext></m:mfrac></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-id1165287079395">An economy with a lower multiplier is more stable—it is less affected either by economic events or by government policy than an economy with a higher multiplier.</para>
+</section>
+<section id="fs-id1165284640031" class="self-check-questions">
+<title>Self-Check Questions</title>
+<exercise id="fs-id1165287012348">
+    <problem id="fs-id1165287012350">
+      <para id="fs-id1165287194409">Sketch the aggregate expenditure-output diagram with the recessionary gap.</para>
+    </problem>
+   
+<solution id="fs-id1165285833510">
+  <para id="fs-id1165287088189">The following figure shows the aggregate expenditure-output diagram with the recessionary gap.
+<figure id="CNX_Econ_C25_011a">
+    <media id="fs-id1165287128221" alt="">
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C25_011.jpg"/>
+    </media>
+  </figure></para>
+</solution>
+</exercise>
+  <exercise id="fs-id1165287082263">
+    <problem id="fs-id1165287058673">
+      <para id="fs-id1165287058675">Sketch the aggregate expenditure-output diagram with an inflationary gap.</para>
+    </problem>
+    
+
+<solution id="fs-id1165288110545">
+<para id="fs-id1165287189084">The following figure  shows the aggregate expenditure-output diagram with an inflationary gap.
+<figure id="CNX_Econ_C25_030">
+    <media id="fs-id1165287079458" alt="">
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C25_030.jpg"/>
+    </media>
+  </figure>
+</para></solution>
+  </exercise>
+  <exercise id="fs-id1165287166738">
+    <problem id="fs-id1165287166740">
+      <para id="fs-id1165287166743">An economy has the following characteristics:</para>
+<para id="fs-id1165284634721">Y = National income</para>
+<para id="fs-id1165284634724">Taxes = T = 0.25Y</para>
+<para id="fs-id1165284634714">C = Consumption = 400 + 0.85(Y – T)</para>
+<para id="fs-id1165284634717">I = 300</para>
+<para id="fs-id1165287127920">G = 200</para>
+<para id="fs-id1165287127923">X = 500</para>
+<para id="fs-id1165286743232">M = 0.1(Y – T)</para>
+<para id="fs-id1165286743235">Find the equilibrium for this economy. If potential GDP is 3,500, then what change in government spending is needed to achieve this level? Do this problem two ways. First, plug 3,500 into the equations and solve for G. Second, calculate the multiplier and figure it out that way.</para>
+    </problem>
+<solution id="fs-id1165287952592">
+    <para id="fs-id1165287094472">First, set up the calculation.</para>
+<equation id="fs-id1165287094478"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>AE</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>400 + 0.85(Y – T) + 300 + 200 + 500 – 0.1(Y – T)</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>AE</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>Y</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-id1165284550734">Then insert Y for AE and 0.25Y for T.</para>
+<equation id="fs-id1165284635010"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>400 + 0.85(Y – 0.25Y) + 300 + 200 + 500 – 0.1(Y – 0.25Y)</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>1400 + 0.6375Y – 0.075Y</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>0.4375Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>1400</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>3200</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-id1165287093138">If full employment is 3,500, then one approach is to plug in 3,500 for Y throughout the equation, but to leave G as a separate variable.</para>
+<equation id="fs-id1165287093142"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>400 + 0.85(Y – 0.25Y) + 300 + G + 500 + 0.1(Y – 0.25Y)</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>3500</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>400 + 0.85(3500 – 0.25(3500)) + 300 + G + 500 – 0.1(3500 – 0.25(3500))</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>G</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>3500 – 400 – 2231.25 – 1300 – 500 + 262.5</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>G</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>331.25</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-id1165286944918">A G value of 331.25 is an increase of 131.25 from its original level of 200.</para>
+<para id="fs-id1165286944922">Alternatively, the multiplier is that, out of every dollar spent, 0.25 goes to taxes, leaving 0.75, and out of after-tax income, 0.15 goes to savings and 0.1 to imports. Because (0.75)(0.15) = 0.1125 and (0.75)(0.1) = 0.075, this means that out of every dollar spent: 1 –0.25 –0.1125 –0.075 = 0.5625.</para>
+<para id="fs-id1165287164973">Thus, using the formula, the multiplier is:</para>
+<equation id="fs-id1165287164976"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mfrac><m:mtext>1</m:mtext><m:mtext>1 – 0.5625</m:mtext></m:mfrac></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>2.2837</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-id1165284552069">To increase equilibrium GDP by 300, it will take a boost of 300/2.2837, which again works out to 131.25.</para>
+</solution>
+  </exercise>
+
+  <exercise id="fs-id1165287186827">
+    <problem id="fs-id1165287186830">
+      <para id="fs-id1165287127808"><link target-id="Table_E_07"/> represents the data behind a Keynesian cross diagram. Assume that the tax rate is 0.4 of national income; the MPC out of the after-tax income is 0.8; investment is $2,000; government spending is $1,000; exports are $2,000 and imports are 0.05 of after-tax income. What is the equilibrium level of output for this economy?
+<table id="Table_E_07" summary="">
+   <tgroup cols="6">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<colspec colnum="6" colname="col6"/>
+<thead>
+<row>
+<entry>National Income</entry>
+<entry>After-Tax Income</entry>
+<entry>Consumption</entry>
+<entry>I + G + X</entry>
+<entry>Minus Imports</entry>
+<entry>Aggregate Expenditures</entry>
+</row>
+</thead>
+
+      <tbody>
+<row>
+<entry>$8,000</entry>
+<entry/>
+<entry>$4,340</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>$9,000</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>$10,000</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>$11,000</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>$12,000</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>$13,000</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+
+      </tbody>
+    </tgroup>
+</table>
+</para>
+    </problem>
+<solution id="fs-id1165285851653">
+<para id="fs-id1165284613281">The following table illustrates the completed table. The equilibrium is level is italicized.</para>
+<table id="Table_E_08" summary="">
+   <tgroup cols="6">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<colspec colnum="6" colname="col6"/>
+<thead>
+<row>
+<entry>National Income</entry>
+<entry>After-Tax Income</entry>
+<entry>Consumption</entry>
+<entry>I + G + X</entry>
+<entry>Minus Imports</entry>
+<entry>Aggregate Expenditures</entry>
+</row>
+</thead>
+
+      <tbody>
+<row>
+<entry>$8,000</entry>
+<entry>$4,800</entry>
+<entry>$4,340</entry>
+<entry>$5,000</entry>
+<entry>$240</entry>
+<entry>$9,100</entry>
+</row>
+<row>
+<entry>$9,000</entry>
+<entry>$5,400</entry>
+<entry>$4,820</entry>
+<entry>$5,000</entry>
+<entry>$270</entry>
+<entry>$9,550</entry>
+</row>
+<row>
+<entry><emphasis effect="italics">$10,000</emphasis></entry>
+<entry><emphasis effect="italics">$6,000</emphasis></entry>
+<entry><emphasis effect="italics">$5,300</emphasis></entry>
+<entry><emphasis effect="italics">$5,000</emphasis></entry>
+<entry><emphasis effect="italics">$300</emphasis></entry>
+<entry><emphasis effect="italics">$10,000</emphasis></entry>
+</row>
+<row>
+<entry>$11,000</entry>
+<entry>$6,600</entry>
+<entry>$5,780</entry>
+<entry>$5,000</entry>
+<entry>$330</entry>
+<entry>$10,450</entry>
+</row>
+<row>
+<entry>$12,000</entry>
+<entry>$7,200</entry>
+<entry>$6,260</entry>
+<entry>$5,000</entry>
+<entry>$360</entry>
+<entry>$10,900</entry>
+</row>
+<row>
+<entry>$13,000</entry>
+<entry>$7,800</entry>
+<entry>$46,740</entry>
+<entry>$5,000</entry>
+<entry>$4,390</entry>
+<entry>$11,350</entry>
+</row>
+
+      </tbody>
+    </tgroup>
+</table>
+<para id="fs-id1165284468473">The alternative way of determining equilibrium is to solve for Y, where Y = national income, using: Y = AE = C + I + G + X – M</para>
+<equation id="fs-id1165287128257"><m:math><m:mtext>Y = $500 + 0.8(Y – T) + $2,000 + $1,000 + $2,000 – 0.05(Y – T)</m:mtext></m:math></equation>
+<para id="fs-id1165287195004">Solving for Y, we see that the equilibrium level of output is Y = $10,000.</para>
+</solution>
+  </exercise>
+  <exercise id="fs-id1165287195007">
+    <problem id="fs-id1165287128261">
+      <para id="fs-id1165287093688">Explain how the multiplier works. Use an MPC of 80% in an example.</para>
+    </problem>
+<solution id="fs-id1165288362639">
+
+<para id="fs-id1165287093694">The multiplier refers to how many times a dollar will turnover in the economy. It is based on the Marginal Propensity to Consume (MPC) which tells how much of every dollar received will be spent. If the MPC is 80% then this means that out of every one dollar received by a consumer, $0.80 will be spent. This $0.80 is received by another person. In turn, 80% of the $0.80 received, or $0.64, will be spent, and so on. The impact of the multiplier is diluted when the effect of taxes and expenditure on imports is considered. To derive the multiplier, take the 1/1 – F; where F is equal to percent of savings, taxes, and expenditures on imports.</para>
+</solution>
+  </exercise>
+</section>
+<section id="fs-id1165287092171" class="review-questions">
+  <title>Review Questions</title>
+  <exercise id="fs-id1165287093343">
+    <problem id="fs-id1165287093345">
+      <para id="fs-id1165287093347">What is on the axes of an expenditure-output diagram?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-id1165287121772">
+    <problem id="fs-id1165287121774">
+      <para id="fs-id1165287121776">What does the 45-degree line show?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-id1165284470034">
+    <problem id="fs-id1165284470036">
+      <para id="fs-id1165284470038">What determines the slope of a consumption function?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-id1165284633917">
+    <problem id="fs-id1165284633919">
+      <para id="fs-id1165284633922">What is the marginal propensity to consume, and how is it related to the marginal propensity to import?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-id1165286906904">
+    <problem id="fs-id1165286906906">
+      <para id="fs-id1165284468560">Why are the investment function, the government spending function, and the export function all drawn as flat lines?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-id1165284468567">
+    <problem id="fs-id1165287096595">
+      <para id="fs-id1165287096597">Why does the import function slope down? What is the marginal propensity to import?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-id1165287096602">
+    <problem id="fs-id1165287145989">
+      <para id="fs-id1165287145991">What are the components on which the aggregate expenditure function is based?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-id1165287082809">
+    <problem id="fs-id1165287082811">
+      <para id="fs-id1165287082813">Is the equilibrium in a Keynesian cross diagram usually expected to be at or near potential GDP?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-id1165287043592">
+    <problem id="fs-id1165287043594">
+      <para id="fs-id1165287043596">What is an inflationary gap? A recessionary gap?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-id1165286732137">
+    <problem id="fs-id1165286732139">
+      <para id="fs-id1165286732141">What is the multiplier effect?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-id1165284638783">
+    <problem id="fs-id1165284638785">
+      <para id="fs-id1165284638788">Why are savings, taxes, and imports referred to as “leakages” in calculating the multiplier effect?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-id1165287194728">
+    <problem id="fs-id1165287009192">
+      <para id="fs-id1165287009194">Will an economy with a high multiplier be more stable or less stable than an economy with a low multiplier in response to changes in the economy or in government policy?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-id1165287079420">
+    <problem id="fs-id1165287079422">
+      <para id="fs-id1165287079424">How do economists use the multiplier?</para>
+    </problem>
+  </exercise>
+</section>
+
+<section id="fs-id1165284637712" class="critical-thinking">
+  <title>Critical Thinking Questions</title>
+  <exercise id="fs-id1165287167232">
+    <problem id="fs-id1165287167234">
+      <para id="fs-id1165287167236">What does it mean when the aggregate expenditure line crosses the 45-degree line? In other words, how would you explain the intersection in words?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-id1165287194378">
+    <problem id="fs-id1165287194380">
+      <para id="fs-id1165287194383">Which model, the AD/AS or the AE model better explains the relationship between rising price levels and GDP? Why?</para></problem>
+  </exercise>
+  <exercise id="fs-id1165287194363">
+    <problem id="fs-id1165287194365">
+      <para id="fs-id1165287194367">What are some reasons that the economy might be in a recession, and what is the appropriate government action to alleviate the recession?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-id1165287033328">
+    <problem id="fs-id1165287033330">
+      <para id="fs-id1165287128416">What should the government do to relieve inflationary pressures if the aggregate expenditure is greater than potential GDP?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-id1165287128422">
+    <problem id="fs-id1165287187062">
+      <para id="fs-id1165287187064">Two countries are in a recession. Country A has an MPC of 0.8 and Country B has an MPC of 0.6. In which country will government spending have the greatest impact?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-id1165287157424">
+    <problem id="fs-id1165287157426">
+      <para id="fs-id1165287157428">Compare two policies: a tax cut on income or an increase in government spending on roads and bridges. What are both the short-term and long-term impacts of such policies on the economy?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-id1165287033803">
+    <problem id="fs-id1165287033805">
+      <para id="fs-id1165287187032">What role does government play in stabilizing the economy and what are the tradeoffs that must be considered?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-id1165287187038">
+    <problem id="fs-id1165287220584">
+      <para id="fs-id1165287220586">If there is a recessionary gap of $100 billion, should the government increase spending by $100 billion to close the gap? Why? Why not?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-id1165287011003">
+    <problem id="fs-id1165287011005">
+      <para id="fs-id1165287011007">What other changes in the economy can be evaluated by using the multiplier?</para>
+    </problem>
+  </exercise>
+</section>
+</content>
+</document>

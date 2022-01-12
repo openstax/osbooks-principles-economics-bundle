@@ -1,0 +1,356 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Labor Productivity and Economic Growth</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m57301</md:content-id>
+  <md:title>Labor Productivity and Economic Growth</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Identify the role of labor productivity in promoting economic growth</item>
+<item>Analyze the sources of economic growth using the aggregate production function</item>
+<item>Measure an economy’s rate of productivity growth</item>
+<item>Evaluate the power of sustained growth</item>
+</list></md:abstract>
+  <md:uuid>32dbf9b4-5fa3-4091-8bd7-306335dd3d1b</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp60744976">Sustained long-term economic growth comes from increases in worker productivity, which essentially means how well we do things. In other words, how efficient is your nation with its time and workers? <term>Labor productivity</term> is the value that each employed person creates per unit of his or her input. The easiest way to comprehend labor productivity is to imagine a Canadian worker who can make 10 loaves of bread in an hour versus a U.S. worker who in the same hour can make only two loaves of bread. In this fictional example, the Canadians are more productive. Being more productive essentially means you can do more in the same amount of time. This in turn frees up resources to be used elsewhere.</para>
+<para id="fs-idm75246784">What determines how productive workers are? The answer is pretty intuitive. The first determinant of labor productivity is human capital. <term>Human capital</term> is the accumulated knowledge (from education and experience), skills, and expertise that the average worker in an economy possesses. Typically the higher the average level of education in an economy, the higher the accumulated human capital and the higher the labor productivity.</para>
+<para id="fs-idm112616864">The second factor that determines labor productivity is technological change. <term>Technological change</term> is a combination of <term>invention</term>—advances in knowledge—and <term>innovation</term>, which is putting that advance to use in a new product or service. For example, the transistor was invented in 1947. It allowed us to miniaturize the footprint of electronic devices and use less power than the tube technology that came before it. Innovations since then have produced smaller and better transistors that that are ubiquitous in products as varied as smart-phones, computers, and escalators. The development of the transistor has allowed workers to be anywhere with smaller devices. These devices can be used to communicate with other workers, measure product quality or do any other task in less time, improving worker productivity.</para>
+<para id="fs-idm88141104">The third factor that determines labor productivity is economies of scale. Recall that economies of scale are the cost advantages that industries obtain due to size. (Read more about economies of scale in <link document="m57234" class="target-chapter">Cost and Industry Structure</link>.) Consider again the case of the fictional Canadian worker who could produce 10 loaves of bread in an hour. If this difference in productivity was due only to economies of scale, it could be that Canadian workers had access to a large industrial-size oven while the U.S. worker was using a standard residential size oven.</para><para id="fs-idp59009248">Now that we have explored the determinants of worker productivity, let’s turn to how economists measure economic growth and productivity.</para>
+<section id="fs-idp131994656"><title>Sources of Economic Growth: The Aggregate Production Function</title>
+<para id="fs-idp1057376">To analyze the sources of economic growth, it is useful to think about a <term>production function</term>, which is the process of turning economic inputs like labor, machinery, and raw materials into outputs like goods and services used by consumers. A microeconomic production function describes the inputs and outputs of a firm, or perhaps an industry. In macroeconomics, the connection from inputs to outputs for the entire economy is called an <term>aggregate production function</term>.</para>
+</section>
+
+<section id="fs-idp72654720"><title>Components of the Aggregate Production Function</title>
+<para id="fs-idp129571360">Economists construct different production functions depending on the focus of their studies. <link target-id="CNX_Econ_C20_003"/> presents two examples of aggregate production functions. In the first production function, shown in <link target-id="CNX_Econ_C20_003"/> (a), the output is GDP. The inputs in this example are workforce, human capital, physical capital, and technology. We discuss these inputs further in the module, Components of Economic Growth.</para>
+<figure id="CNX_Econ_C20_003">
+<title>Aggregate Production Functions </title>
+    <media id="fs-idp57433072" alt="The first illustration shows that workforce, human capital, physical capital, and technology produce GDP. The second illustration shows that human capital per person, physical capital per person, and technology per person produce GDP per capital.">
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C20_003.jpg"/>
+    </media>
+    <caption>An aggregate production function shows what goes into producing the output for an overall economy. (a) This aggregate production function has GDP as its output. (b) This aggregate production function has GDP per capita as its output. Because it is calculated on a per-person basis, the labor input is already figured into the other factors and does not need to be listed separately.</caption>
+  </figure>  
+</section>
+<section id="fs-idp2749200"><title>Measuring Productivity</title>
+<para id="fs-idm219632">An economy’s rate of productivity growth is closely linked to the growth rate of its GDP per capita, although the two are not identical. For example, if the percentage of the population who holds jobs in an economy increases, GDP per capita will increase but the productivity of individual workers may not be affected. Over the long term, the only way that GDP per capita can grow continually is if the productivity of the average worker rises or if there are complementary increases in capital.</para>
+<para id="fs-idm117036800">A common measure of U.S. productivity per worker is dollar value per hour the worker contributes to the employer’s output. This measure excludes government workers, because their output is not sold in the market and so their productivity is hard to measure. It also excludes farming, which accounts for only a relatively small share of the U.S. economy. <link target-id="CNX_Econ_C20_009"/> shows an index of output per hour, with 2009 as the base year (when the index equals 100). The index equaled about 106 in 2014. In 1972, the index equaled 50, which shows that workers have more than doubled their productivity since then.</para><figure id="CNX_Econ_C20_009"><title>Output per Hour Worked in the U.S. Economy, 1947–2011 </title><media id="fs-idp6068608" alt="The graph shows that output per hour has steadily increased since 1960, when it was $32, to 2014, when it was $106.148.">
+      <image mime-type="image/jpeg" src="../../media/CNX_Econv1-2_C20_03.jpg"/>
+    </media>
+    <caption>Output per hour worked is a measure of worker productivity. In the U.S. economy, worker productivity rose more quickly in the 1960s and the mid-1990s compared with the 1970s and 1980s. However, these growth-rate differences are only a few percentage points per year. Look carefully to see them in the changing slope of the line. The average U.S. worker produced over twice as much per hour in 2014 than he did in the early 1970s. (Source: U.S. Department of Labor, Bureau of Labor Statistics.)</caption>
+  </figure><para id="fs-idp101193536">According to the Department of Labor, U.S. productivity growth was fairly strong in the 1950s but then declined in the 1970s and 1980s before rising again in the second half of the 1990s and the first half of the 2000s. In fact, the rate of productivity measured by the change in output per hour worked averaged 3.2% per year from 1950 to 1970; dropped to 1.9% per year from 1970 to 1990; and then climbed back to over 2.3% from 1991 to the present, with another modest slowdown after 2001. <link target-id="CNX_Econ_C20_007"/> shows average annual rates of productivity growth averaged over time since 1950.</para><figure id="CNX_Econ_C20_007"><title>Productivity Growth Since 1950 </title><media id="fs-idm24394016" alt="The chart shows productivity growth for various time periods. For 1950 to 1970 it was 2.5%; 1971 to 1990 was about 1.3%; 1991 to 2000 was 2.2%; and 2001 to 2014 was 2.1%.">
+      <image mime-type="image/jpeg" src="../../media/CNX_Econv1-2_C20_04.jpg"/>
+    </media>
+    
+  <caption>U.S. growth in worker productivity was very high between 1950 and 1970. It then declined to lower levels in the 1970s and the 1980s. The late 1990s and early 2000s saw productivity rebound, but then productivity sagged a bit in the 2000s. Some think the productivity rebound of the late 1990s and early 2000s marks the start of a “new economy” built on higher productivity growth, but this cannot be determined until more time has passed. (Source: U.S. Department of Labor, Bureau of Labor Statistics.)</caption></figure></section>
+<section id="fs-idp124756960"><title>The “New Economy” Controversy</title>
+<para id="fs-idp171750800">In recent years a controversy has been brewing among economists about the resurgence of U.S. productivity in the second half of the 1990s. One school of thought argues that the United States had developed a “new economy” based on the extraordinary advances in communications and information technology of the 1990s. The most optimistic proponents argue that it would generate higher average productivity growth for decades to come. The pessimists, on the other hand, argue that even five or ten years of stronger productivity growth does not prove that higher productivity will last for the long term. It is hard to infer anything about long-term productivity trends during the later part of the 2000s, because the steep recession of 2008–2009, with its sharp but not completely synchronized declines in output and employment, complicates any interpretation. While productivity growth was high in 2009 and 2010 (around 3%), it has slowed down since then. </para><para id="fs-idp123959040"><term class="no-emphasis">Productivity growth</term> is also closely linked to the average level of wages. Over time, the amount that firms are willing to pay workers will depend on the value of the output those workers produce. If a few employers tried to pay their workers less than what those workers produced, then those workers would receive offers of higher wages from other profit-seeking employers. If a few employers mistakenly paid their workers more than what those workers produced, those employers would soon end up with losses. In the long run, productivity per hour is the most important determinant of the average wage level in any economy. To learn how to compare economies in this regard, follow the steps in the following Work It Out feature.</para>
+<note id="fs-idm14493936" class="economics workout">
+      <title>Comparing the Economies of Two Countries</title>
+<para id="fs-idm67117472">The Organization for Economic Co-operation and Development (OECD) tracks data on the annual growth rate of real GDP per hour worked. You can find these data on the OECD data webpage “Labour productivity growth in the total economy” at <link url="http://stats.oecd.org/Index.aspx?DataSetCode=PDB_GR">this</link> website.</para><para id="fs-idp17310352">Step 1. Visit the OECD website given above and select two countries to compare.</para>
+<para id="fs-idp28405248">Step 2. On the drop-down menu “Variable,” select “Real GDP, Annual Growth, in percent” and record the data for the countries you have chosen for the five most recent years.</para>
+<para id="fs-idm145891584">Step 3. Go back to the drop-down menu and select “Real GDP per Hour Worked, Annual Growth Rate, in percent” and select data for the same years for which you selected GDP data.</para>
+<para id="fs-idp89744128">Step 4. Compare real GDP growth for both countries. <link target-id="Table_20_02"/> provides an example of a comparison between Australia and Belgium.</para>
+<table id="Table_20_02" summary="This table has six columns and four main rows. The first row is a header row and it labels each column, “Australia,” “2009,” “2010,” “2011,” “2013,” and “2014.” Under the “Australia” column are the values: Real GDP Growth (%); and Real GDP Growth/Hours Worked (%). Under the “2009” column are the values: 0.1%; and 1.9%. Under the “2010” column are the values: 1.0%; and −0.3%. Under the “2011” column are the values: 2.2%; and 2.4%. Under the “2012” column are the values: 0.8%; and 3.3%. Under the “2013” column are the values: 0.7%; and 1.4%. Underneath the “Australia” data is a header row and it labels each column, “Belgium”v, “2009,” “2010,” “2011,” “2013,” and “2014.” Under the “Belgium” column are the values: Real GDP Growth (%); and Real GDP Growth/Hours Worked (%). Under the “2009” column are the values: −3.4%; and −1.3%. Under the “2010” column are the values: 1.6%; and 1.4%. Under the “2011” column are the values: 0.8%; and −0.5%. Under the “2012” column are the values: −0.6%; and −0.3%. Under the “2013” column are the values: −0.2%; and 0.3%.">
+<tgroup cols="6"><colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<colspec colnum="6" colname="col6"/>
+
+<tbody>
+<row>
+<entry><emphasis effect="bold">Australia</emphasis></entry>
+<entry><emphasis effect="bold">2009</emphasis></entry>
+<entry><emphasis effect="bold">2010</emphasis></entry>
+<entry><emphasis effect="bold">2011</emphasis></entry>
+<entry><emphasis effect="bold">2012</emphasis></entry>
+<entry><emphasis effect="bold">2013</emphasis></entry>
+</row>
+
+<row>
+<entry>Real GDP Growth (%)</entry>
+<entry>0.1%</entry>
+<entry>1.0%</entry>
+<entry>2.2%</entry>
+<entry>0.8</entry>
+<entry>0.7%</entry>
+</row>
+
+<row>
+<entry>Real GDP Growth/Hours Worked (%)</entry>
+<entry>1.9%</entry>
+<entry>–0.3%</entry>
+<entry>2.4%</entry>
+<entry>3.3%</entry>
+<entry>1.4%</entry>
+</row>
+
+<row>
+<entry><emphasis effect="bold">Belgium</emphasis></entry>
+<entry><emphasis effect="bold">2009</emphasis></entry>
+<entry><emphasis effect="bold">2010</emphasis></entry>
+<entry><emphasis effect="bold">2011</emphasis></entry>
+<entry><emphasis effect="bold">2012</emphasis></entry>
+<entry><emphasis effect="bold">2013</emphasis></entry>
+</row>
+
+<row>
+<entry>Real GDP Growth (%)</entry>
+<entry>–3.4</entry>
+<entry>1.6</entry>
+<entry>0.8</entry>
+<entry>–0.6</entry>
+<entry>–0.2</entry>
+</row>
+
+<row>
+<entry>Real GDP Growth/Hours Worked (%)</entry>
+<entry>–1.3</entry>
+<entry>–1.4</entry>
+<entry>–0.5</entry>
+<entry>–0.3</entry>
+<entry>0.3</entry>
+</row>
+
+      </tbody>
+    
+
+</tgroup>
+</table><para id="fs-idp10695408">Step 5. Consider the many factors can affect growth. For example, one factor that may have affected Australia is its isolation from Europe, which may have insulated the country from the effects of the global recession. In Belgium’s case, the global recession seems to have had an impact on both GDP and real GDP per hours worked between 2009 and 2013, though productivity does seem to be recovering.</para></note>
+</section>
+<section id="fs-idm165954064"><title>The Power of Sustained Economic Growth</title>
+<para id="fs-idp4367424">Nothing is more important for people’s standard of living than sustained economic growth. Even small changes in the rate of growth, when sustained and compounded over long periods of time, make an enormous difference in the standard of living. Consider <link target-id="Table_20_03"/>, in which the rows of the table show several different rates of growth in GDP per capita and the columns show different periods of time. Assume for simplicity that an economy starts with a GDP per capita of 100. The table then applies the following formula to calculate what GDP will be at the given growth rate in the future:</para><equation id="fs-idm69555584"><math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mtext>GDP at starting date × (1 + growth rate of GDP)</mtext><mtext>years</mtext></msup><mtext> = GDP at end date</mtext></math></equation>
+<para id="fs-idm124631072">For example, an economy that starts with a GDP of 100 and grows at 3% per year will reach a GDP of 209 after 25 years; that is, 100 (1.03)<sup>25</sup> = 209.</para>
+<para id="fs-idm36351808">The slowest rate of GDP per capita growth in the table, just 1% per year, is similar to what the United States experienced during its weakest years of productivity growth. The second highest rate, 3% per year, is close to what the U.S. economy experienced during the strong economy of the late 1990s and into the 2000s. Higher rates of per capita growth, such as 5% or 8% per year, represent the experience of rapid growth in economies like Japan, Korea, and China.</para>
+<para id="fs-idm142898656"><link target-id="Table_20_03"/> shows that even a few percentage points of difference in economic growth rates will have a profound effect if sustained and compounded over time. For example, an economy growing at a 1% annual rate over 50 years will see its GDP per capita rise by a total of 64%, from 100 to 164 in this example. However, a country growing at a 5% annual rate will see (almost) the same amount of growth—from 100 to 163—over just 10 years. Rapid rates of economic growth can bring profound transformation. (See the following Clear It Up feature on the relationship between compound growth rates and compound interest rates.) If the rate of growth is 8%, young adults starting at age 20 will see the average standard of living in their country more than double by the time they reach age 30, and grow nearly sevenfold by the time they reach age 45.</para>
+
+<table id="Table_20_03" summary="This table has five rows and four columns. the first row is a header row and it labels each column “Growth Rate”, “Value of an original 100 in 10 years”, “Value of an original 100 in 25 years”, and “Value of an original 100 in 50 years”. Under the “Growth Rate” column are the following values: 1%, 3%, 5%, and 8%. Under the column “Value of an original 100 in 10 years” are the following values: 110; 134; 163; and 216. Under the column “Value of an original 100 in 25 years” are the following values 128; 209; 338; and 685. Under the column “Value of an original 100 in 50 years” are the following values: 164; 438; 1147; and 4690.">
+<title>Growth of GDP over Different Time Horizons</title>
+   <tgroup cols="4">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<thead>
+<row>
+<entry>Growth Rate</entry>
+<entry>Value of an original 100 in 10 Years</entry>
+<entry>Value of an original 100 in 25 Years</entry>
+<entry>Value of an original 100 in 50 Years</entry>
+</row>
+</thead>
+
+      <tbody>
+<row>
+<entry>1%</entry>
+<entry>110</entry>
+<entry>128</entry>
+<entry>164</entry>
+</row>
+
+<row>
+<entry>3%</entry>
+<entry>134</entry>
+<entry>209</entry>
+<entry>438</entry>
+</row>
+
+<row>
+<entry>5%</entry>
+<entry>163</entry>
+<entry>338</entry>
+<entry>1,147</entry>
+</row>
+
+<row>
+<entry>8%</entry>
+<entry>216</entry>
+<entry>685</entry>
+<entry>4,690</entry>
+</row>
+
+      </tbody>
+    </tgroup>
+    <caption/>
+</table>
+<note id="fs-idp4312384" class="economics clearup">
+      <title>How are compound growth rates and compound interest rates related?</title>
+<para id="fs-idm60890112">The formula for growth rates of GDP over different periods of time, as shown in <link target-id="CNX_Econ_C20_009"/>, is exactly the same as the formula for how a given amount of financial savings grows at a certain interest rate over time, as presented in <link document="m57208" class="target-chapter">Choice in a World of Scarcity</link>. Both formulas have the same ingredients:
+
+      <list id="fs-idm115229280" list-type="bulleted" bullet-style="bullet"><item>an original starting amount, in one case GDP and in the other case an amount of financial saving;</item>
+        <item>a percentage increase over time, in one case the growth rate of GDP and in the other case an interest rate;</item>
+        <item>and an amount of time over which this effect happens.</item>
+      </list></para><para id="fs-idm108967504">Recall that compound interest is interest that is earned on past interest. It causes the total amount of financial savings to grow dramatically over time. Similarly, compound rates of economic growth, or the <term>compound growth rate</term>, means that the rate of growth is being multiplied by a base that includes past GDP growth, with dramatic effects over time.</para>
+<para id="fs-idm233611808">For example, in 2013, the World Fact Book, produced by the Central Intelligence Agency, reported that South Korea had a GDP of $1.67 trillion with a growth rate of 2.8%. We can estimate that at that growth rate, South Korea’s GDP will be $1.92 trillion in five years. If we apply the growth rate to each year’s ending GDP for the next five years, we will calculate that at the end of year one, GDP is $1.72 trillion. In year two, we start with the end-of-year one value of $1.67 and increase it by 2%. Year three starts with the end-of-year two GDP, and we increase it by 2% and so on, as depicted in the <link target-id="Table_20_04"/>.</para><table id="Table_20_04" summary="This table has four columns and five rows. The first row is a header row and it labels each column, “Year,” “Starting GDP,” and “Growth Rate 2%,” and “Year-End Amount.” Under the “Year” column are the values: 1; 2; 3; 4; and 5. Under the “Starting GDP” column are the values:  .67 Trillion ×;  .72 Trillion ×;  .76 Trillion ×;  .81 Trillion ×; and  .87 Trillion ×. Under the “Growth Rate 2%” column are the values: (1 + 0.028); (1 + 0.028); (1 + 0.028); (1 + 0.028); and (1 + 0.028). Under the “Year-End Amount” column are the values:  .72 Trillion;  .76 Trillion;  .81 Trillion;  .87 Trillion; and  .92 Trillion.">
+<tgroup cols="4"><colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<thead>
+<row>
+<entry>Year</entry>
+<entry>Starting GDP</entry>
+<entry>Growth Rate 2%</entry>
+<entry>Year-End Amount</entry>
+</row>
+</thead>
+
+      <tbody>
+<row>
+<entry>1</entry>
+<entry>$1.67 Trillion ×</entry>
+<entry>(1+0.028)</entry>
+<entry>$1.72 Trillion</entry>
+</row>
+
+<row>
+<entry>2</entry>
+<entry>$1.72 Trillion ×</entry>
+<entry>(1+0.028)</entry>
+<entry>$1.76 Trillion</entry>
+</row>
+
+<row>
+<entry>3</entry>
+<entry>$1.76 Trillion ×</entry>
+<entry>(1+0.028)</entry>
+<entry>$1.81 Trillion</entry>
+</row>
+
+<row>
+<entry>4</entry>
+<entry>$1.81 Trillion ×</entry>
+<entry>(1+0.028)</entry>
+<entry>$1.87 Trillion</entry>
+</row>
+
+<row>
+<entry>5</entry>
+<entry>$1.87 Trillion ×</entry>
+<entry>(1+0.028)</entry>
+<entry>$1.92 Trillion</entry>
+</row>
+
+      </tbody>
+    
+
+</tgroup>
+</table><para id="fs-idm2611536">Another way to calculate the growth rate is to apply the following formula:</para>
+<equation id="fs-idm98632928"><math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mtext>Future Value = Present Value × (1 + g)</mtext><mtext>n</mtext></msup></math></equation>
+<para id="fs-idm87287792">Where “future value” is the value of GDP five years hence, “present value” is the starting GDP amount of $1.64 trillion, “g” is the growth rate of 2%, and “n” is the number of periods for which we are calculating growth.</para>
+<equation id="fs-idm120757200"><m:math><m:msup><m:mtext>             Future Value = 1.67 × (1+0.028)</m:mtext><m:mtext>5</m:mtext></m:msup><m:mtext> = $1.92 trillion</m:mtext></m:math></equation></note>
+</section>
+<section id="fs-idm24672272" class="summary">
+  <title>Key Concepts and Summary</title>
+<para id="fs-idp62019152">Productivity, the value of what is produced per worker, or per hour worked, can be measured as the level of GDP per worker or GDP per hour. The United States experienced a productivity slowdown between 1973 and 1989. Since then, U.S. productivity has rebounded (the current global recession notwithstanding). It is not clear whether the current growth in productivity will be sustained. The rate of productivity growth is the primary determinant of an economy’s rate of long-term economic growth and higher wages. Over decades and generations, seemingly small differences of a few percentage points in the annual rate of economic growth make an enormous difference in GDP per capita. An aggregate production function specifies how certain inputs in the economy, like human capital, physical capital, and technology, lead to the output measured as GDP per capita.</para>
+<para id="fs-idm32606464">Compound interest and compound growth rates behave in the same way as productivity rates. Seemingly small changes in percentage points can have big impacts on income over time.</para>
+</section>
+<section id="fs-idm124574080" class="self-check-questions">
+  <title>Self-Check Questions</title>
+  <exercise id="fs-idm169473344">
+    <problem id="fs-idm2541696">
+      <para id="fs-idm112442688">Are there other ways in which we can measure productivity besides the amount produced per hour of work?</para>
+    </problem>
+    <solution id="fs-idm196950352"><para id="fs-idm196950224">Yes. Since productivity is output per unit of input, we can measure productivity using GDP (output) per worker (input).</para></solution>
+  </exercise>
+  <exercise id="fs-idm1898256">
+    <problem id="fs-idm125274736">
+      <para id="fs-idm141090128">Assume there are two countries: South Korea and the United States. South Korea grows at 4% and the United States grows at 1%. For the sake of simplicity, assume they both start from the same fictional income level, $10,000. What will the incomes of the United States and South Korea be in 20 years? By how many multiples will each country’s income grow in 20 years?</para>
+    </problem>
+    <solution id="fs-idm149250544"><para id="fs-idm149250416">In 20 years the United States will have an income of 10,000 × (1 + 0.01)<sup>20</sup> = $12,201.90, and South Korea will have an income of 10,000 × (1 + 0.04)<sup>20</sup> = $21,911.23. South Korea has grown by a multiple of 2.1 and the United States by a multiple of 1.2.</para></solution>
+  </exercise>
+</section>
+<section id="fs-idm69360224" class="review-questions">
+  <title>Review Questions</title>
+  <exercise id="fs-idp3169792">
+    <problem id="fs-idp95829648">
+      <para id="fs-idm168618032">How is GDP per capita calculated differently from labor productivity?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm11553072">
+    <problem id="fs-idm106015536">
+      <para id="fs-idm5843360">How do gains in labor productivity lead to gains in GDP per capita?</para>
+    </problem>
+  </exercise>
+</section>
+<section id="fs-idp3070048" class="critical-thinking">
+  <title>Critical Thinking Questions</title>
+  <exercise id="fs-idm87456384">
+    <problem id="fs-idp54197168">
+      <para id="fs-idp95811584"><link document="m57301">Labor Productivity and Economic Growth</link> outlined the logic of how increased productivity is associated with increased wages. Detail a situation where this is not the case and explain why it is not.</para></problem>
+  </exercise>
+  <exercise id="fs-idp24017680">
+    <problem id="fs-idm103439968">
+      <para id="fs-idm12281072">Change in labor productivity is one of the most watched international statistics of growth. Visit the St. Louis Federal Reserve website and find the data section (http://research.stlouisfed.org). Find international comparisons of labor productivity, listed under the FRED Economic database (Growth Rate of Total Labor Productivity), and compare two countries in the recent past. State what you think the reasons for differences in labor productivity could be.</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idp58867296">
+    <problem id="fs-idm7868912">
+      <para id="fs-idm73427536">Refer back to the 
+<link target-id="fs-idm14493936">Work It Out</link> about Comparing the Economies of Two Countries and examine the data for the two countries you chose. How are they similar? How are they different?</para></problem>
+  </exercise>
+</section>
+<section id="fs-idp54092960" class="problems">
+  <title>Problems</title>
+  <exercise id="fs-idm26651088">
+    <problem id="fs-idm87450592">
+      <para id="fs-idm108944832">An economy starts off with a GDP per capita of $5,000. How large will the GDP per capita be if it grows at an annual rate of 2% for 20 years? 2% for 40 years? 4% for 40 years? 6% for 40 years?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm64848064">
+    <problem id="fs-idm18688">
+      <para id="fs-idp56539248">An economy starts off with a GDP per capita of 12,000 euros. How large will the GDP per capita be if it grows at an annual rate of 3% for 10 years? 3% for 30 years? 6% for 30 years?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm107717792">
+    <problem id="fs-idm52673264">
+      <para id="fs-idp30504128">Say that the average worker in Canada has a productivity level of $30 per hour while the average worker in the United Kingdom has a productivity level of $25 per hour (both measured in U.S. dollars). Over the next five years, say that worker productivity in Canada grows at 1% per year while worker productivity in the UK grows 3% per year. After five years, who will have the higher productivity level, and by how much?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm73489472">
+    <problem id="fs-idm29409760">
+      <para id="fs-idm23867424">Say that the average worker in the U.S. economy is eight times as productive as an average worker in Mexico. If the productivity of U.S. workers grows at 2% for 25 years and the productivity of Mexico’s workers grows at 6% for 25 years, which country will have higher worker productivity at that point?</para>
+    </problem>
+  </exercise>
+</section>
+
+</content>
+<glossary>
+   <definition id="fs-idm71624736">
+      <term>aggregate production function</term>
+      <meaning id="fs-idm11911712">the process whereby an economy as a whole turns economic inputs such as human capital, physical capital, and technology into output measured as GDP per capita</meaning>
+    </definition>
+   <definition id="fs-idm19935616">
+      <term>compound growth rate</term>
+      <meaning id="fs-idm114218752">the rate of growth when multiplied by a base that includes past GDP growth</meaning>
+    </definition>
+   <definition id="fs-idm62470128">
+      <term>human capital</term>
+      <meaning id="fs-idm1237440">the accumulated skills and education of workers</meaning>
+    </definition>
+   <definition id="fs-idp3399600">
+      <term>innovation</term>
+      <meaning id="fs-idm158946880">putting advances in knowledge to use in a new product or service</meaning>
+    </definition>
+   <definition id="fs-idp58131632">
+      <term>invention</term>
+      <meaning id="fs-idm19169616">advances in knowledge</meaning>
+    </definition>
+   <definition id="fs-idp8446960">
+      <term>labor productivity</term>
+      <meaning id="fs-idm65899840">the value of what is produced per worker, or per hour worked (sometimes called worker productivity)</meaning>
+    </definition>
+   <definition id="fs-idm93182640">
+      <term>production function</term>
+      <meaning id="fs-idm6287120"> the process whereby a firm turns economic inputs like labor, machinery, and raw materials into outputs like goods and services used by consumers</meaning>
+    </definition>
+   <definition id="fs-idm3779520">
+      <term>technological change</term>
+      <meaning id="fs-idm169092736">a combination of invention—advances in knowledge—and innovation</meaning>
+    </definition>
+</glossary>
+
+</document>

@@ -1,0 +1,434 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Market-Oriented Environmental Tools</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m48671</md:content-id>
+  <md:title>Market-Oriented Environmental Tools</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Show how pollution charges impact firm decisions</item>
+<item>Suggest other laws and regulations that could fall under pollution charges</item>
+<item>Explain the significance of marketable permits and property rights</item>
+<item>Evaluate which policies are most appropriate for various situations</item>
+</list></md:abstract>
+  <md:uuid>6e6ba498-0799-45d5-b1ab-033bc75987e4</md:uuid>
+</metadata>
+
+<content>
+
+<para id="fs-idm160345664">Market-oriented environmental policies create incentives to allow firms some flexibility in reducing pollution. The three main categories of market-oriented approaches to pollution control are pollution charges, marketable permits, and better-defined property rights. All of these policy tools, discussed below, address the shortcomings of command-and-control regulation—albeit in different ways.</para>
+
+<section id="fs-idm128525456">
+<title>Pollution Charges</title>
+<para id="fs-idm130018704">A <term>pollution charge</term> is a tax imposed on the quantity of pollution that a firm emits. A pollution charge gives a profit-maximizing firm an incentive to figure out ways to reduce its emissions—as long as the marginal cost of reducing the emissions is less than the tax.</para>
+<para id="fs-idm229096608">For example, consider a small firm that emits 50 pounds per year of small particles, such as soot, into the air. Particulate matter, as it is called, causes respiratory illnesses and also imposes costs on firms and individuals.</para>
+<para id="fs-idm87009136"><link target-id="CNX_Econ_C12_002" document=""/> illustrates the marginal costs that a firm faces in reducing pollution. The marginal cost of pollution reduction, like most most <term class="no-emphasis">marginal cost curves</term> increases with output, at least in the short run. Reducing the first 10 pounds of particulate emissions costs the firm $300. Reducing the second 10 pounds would cost $500; reducing the third ten pounds would cost $900; reducing the fourth 10 pounds would cost $1,500; and the fifth 10 pounds would cost $2,500. This pattern for the costs of reducing pollution is common, because the firm can use the cheapest and easiest method to make initial reductions in pollution, but additional reductions in pollution become more expensive.</para>
+<figure id="CNX_Econ_C12_002"><title>A Pollution Charge </title><media id="fs-idm89415520" alt=" The graph shows the incentive for a firm to reduce pollution in order to avoid paying a pollution charge.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C12_002.jpg"/>
+</media>
+<caption>If a pollution charge is set equal to $1,000, then the firm will have an incentive to reduce pollution by 30 pounds because the $900 cost of these reductions would be less than the cost of paying the pollution charge.</caption>
+</figure><para id="fs-idm54107712">Imagine the firm now faces a pollution tax of $1,000 for every 10 pounds of particulates emitted. The firm has the choice of either polluting and paying the tax, or reducing the amount of particulates they emit and paying the cost of abatement as shown in the figure. How much will the firm pollute and how much will the firm abate? The first 10 pounds would cost the firm $300 to abate. This is substantially less than the $1,000 tax, so they will choose to abate. The second 10 pounds would cost $500 to abate, which is still less than the tax, so they will choose to abate. The third 10 pounds would cost $900 to abate, which is slightly less than the $1,000 tax. The fourth 10 pounds would cost $1,500, which is much more costly than paying the tax. As a result, the firm will decide to reduce pollutants by 30 pounds, because the marginal cost of reducing pollution by this amount is less than the pollution tax. With a tax of $1,000, the firm has no incentive to reduce pollution more than 30 pounds.</para>
+<para id="fs-idm20430032">A firm that has to pay a pollution tax will have an incentive to figure out the least expensive technologies for reducing pollution. Firms that can reduce pollution cheaply and easily will do so to minimize their pollution taxes, whereas firms that will incur high costs for reducing pollution will end up paying the pollution tax instead. If the pollution tax applies to every source of pollution, then no special favoritism or loopholes are created for politically well-connected producers.</para>
+<para id="fs-idm46481792">For an example of a pollution charge at the household level, consider two ways of charging for garbage collection. One method is to have a flat fee per household, no matter how much garbage a household produces. An alternative approach is to have several levels of fees, depending on how much garbage the household produces—and to offer lower or free charges for recyclable materials. As of 2006 (latest statistics available), the EPA had recorded over 7,000 communities that have implemented “pay as you throw” programs. When people have a financial incentive to put out less garbage and to increase recycling, they find ways of doing so.</para>
+<note id="fs-idm7228880" class="economics linkup"><para id="fs-idm71799056">Visit this <link url="http://openstaxcollege.org/l/payasyouthrow">website</link> to learn more about pay-as-you-throw programs, including viewing a map and a table that shows the number of communities using this program in each state.</para>
+<media id="fs-idm114078720" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/payasyouthrow.png" width="130"/>
+</media>
+</note><para id="fs-idm2228448">A number of environmental policies are really pollution charges, although they often do not travel under that name. For example, the federal government and many state governments impose taxes on gasoline. We can view this tax as a charge on the air pollution that cars generate as well as a source of funding for maintaining roads. Indeed, gasoline taxes are far higher in most other countries than in the United States.</para>
+<para id="fs-idp101292928">Similarly, the refundable charge of five or 10 cents that only 10 states have for returning recyclable cans and bottles works like a pollution tax that provides an incentive to avoid littering or throwing bottles in the trash. Compared with command-and-control regulation, a pollution tax reduces pollution in a more flexible and cost-effective way.</para>
+
+<note id="fs-idp114469696" class="economics linkup"><para id="fs-idm17084656">Visit this <link url="http://openstaxcollege.org/l/bottlebill">website</link> to see the current U.S. states with bottle bills and the states that have active campaigns for new bottle bills. You can also view current and proposed bills in Canada and other countries around the world.</para><media id="fs-idp127940992" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/bottlebill.png" width="130"/>
+</media>
+</note></section>
+
+<section id="fs-idp31688176">
+<title>Marketable Permits</title>
+<para id="fs-idp27766752">When a city or state government sets up a <term>marketable permit program</term>  (e.g. cap-and-trade), it must start by determining the overall quantity of pollution it will allow as it tries to meet national pollution standards. Then, a number of permits allowing only this quantity of pollution are divided among the firms that emit that pollutant. These permits to pollute can be sold or given to firms free.</para><para id="fs-idp59173360">Now, add two more conditions. Imagine that these permits are designed to reduce total emissions over time. For example, a permit may allow emission of 10 units of pollution one year, but only nine units the next year, then eight units the year after that, and so on down to some lower level. In addition, imagine that these are marketable permits, meaning that firms can buy and sell them.</para>
+
+<para id="fs-idp179986768">To see how marketable permits can work to reduce pollution, consider the four firms listed in <link target-id="Table_12_06" document=""/>. The table shows current emissions of lead from each firm. At the start of the marketable permit program, each firm receives permits to allow this level of pollution. However, these permits are shrinkable, and next year the permits allow the firms to emit only half as much pollution. Let’s say that in a year, Firm Gamma finds it easy and cheap to reduce emissions from 600 tons of lead to 200 tons, which means that it has permits that it is not using that allow emitting 100 tons of lead. Firm Beta reduces its lead pollution from 400 tons to 200 tons, so it does not need to buy any permits, and it does not have any extra permits to sell. However, although Firm Alpha can easily reduce pollution from 200 tons to 150 tons, it finds that it is cheaper to purchase permits from Gamma rather than to reduce its own emissions to 100. Meanwhile, Firm Delta did not even exist in the first period, so the only way it can start production is to purchase permits to emit 50 tons of lead.</para>
+<para id="fs-idm4178816">The total quantity of pollution will decline. But the buying and selling of the marketable permits will determine exactly which firms reduce pollution and by how much. With a system of marketable permits, the firms that find it least expensive to do so will reduce pollution the most.</para>
+
+<table id="Table_12_06" summary="The table has 5 columns and 4 rows of data. The header row 1 lists the four firms: Alpha, Beta, Gamma, Delta. The data is as follows:  &#10;Row 2: Current emissions--permits distributed free for this amount: Alpha = 200 tons, Beta = 400 tons, Gamma = 600 tons, Delta = 0 tons.  &#10;Row 3: How much pollution will these permits allow in one year? Alpha = 100 tons, Beta = 200 tons, Gamma = 300 tons, Delta = 0 tons.  &#10;Row 4: Actual emissions one year in the future: Alpha = 150 tons, Beta = 200 tons, Gamma = 200 tons, Delta = 50 tons. &#10;Row 5: Buyer or seller of marketable permit? Alpha = Buys permits for 50 tons, Beta = Doesn't buy or sell permits, Gamma = Sells permits for 100 tons, Delta = Buys permits for 50 tons.">
+<title>How Marketable Permits Work</title>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<thead>
+<row>
+<entry/>
+<entry>Firm Alpha</entry>
+<entry>Firm Beta</entry>
+<entry>Firm Gamma</entry>
+<entry>Firm Delta</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Current emissions—permits distributed free for this amount</entry>
+<entry>200 tons</entry>
+<entry>400 tons</entry>
+<entry>600 tons</entry>
+<entry>0 tons</entry>
+</row>
+<row>
+<entry>How much pollution will these permits allow in one year?</entry>
+<entry>100 tons</entry>
+<entry>200 tons</entry>
+<entry>300 tons</entry>
+<entry>0 tons</entry>
+</row>
+<row>
+<entry>Actual emissions one year in the future</entry>
+<entry>150 tons</entry>
+<entry>200 tons</entry>
+<entry>200 tons</entry>
+<entry>50 tons</entry>
+</row>
+<row>
+<entry>Buyer or seller of marketable permit?</entry>
+<entry>Buys permits for 50 tons</entry>
+<entry>Doesn’t buy or sell permits</entry>
+<entry>Sells permits for 100 tons</entry>
+<entry>Buys permits for 50 tons</entry>
+</row>
+</tbody>
+</tgroup>
+<caption/>
+</table>
+<para id="fs-idp33538160">Another application of marketable permits occurred when the <term class="no-emphasis">Clean Air Act</term> was amended in 1990. The revised law sought to reduce sulfur dioxide emissions from electric power plants to half of the 1980 levels out of concern that sulfur dioxide was causing acid rain, which harms forests as well as buildings. In this case, the marketable permits the federal government issued were free of charge (no pun intended) to electricity-generating plants across the country, especially those that were burning coal (which produces sulfur dioxide). These permits were of the “shrinkable” type; that is, the amount of pollution allowed by a given permit declined with time.</para>
+</section>
+
+<section id="fs-idp17063552">
+<title>Better-Defined Property Rights</title>
+<para id="fs-idm64446848">A clarified and strengthened idea of property rights can also strike a balance between economic activity and pollution. Ronald Coase (1910–2013), who won the 1991 Nobel Prize in economics, offered a vivid illustration of an externality: a railroad track running beside a farmer’s field where the railroad locomotive sometimes gives off sparks and sets the field ablaze. Coase asked whose responsibility it was to address this spillover. Should the farmer be required to build a tall fence alongside the field to block the sparks? Or should the railroad be required to put some gadget on the locomotive’s smokestack to reduce the number of sparks?</para>
+<para id="fs-idp114263216">Coase pointed out that this issue cannot be resolved until <term>property rights</term> are clearly defined—that is, the legal rights of ownership on which others are not allowed to infringe without paying compensation. Does the farmer have a property right not to have a field burned? Does the railroad have a property right to run its own trains on its own tracks? If neither party has a property right, then the two sides may squabble endlessly, nothing will be done, and sparks will continue to set the field aflame. However, if either the farmer or the railroad has a well-defined legal responsibility, then that party will seek out and pay for the least costly method of reducing the risk that sparks will hit the field. The property right determines whether the farmer or the railroad pays the bills.</para><para id="fs-idp30536288">The property rights approach is highly relevant in cases involving endangered species. The U.S. government’s endangered species list includes about 1,000 plants and animals, and about 90% of these species live on privately owned land. The protection of these endangered species requires careful thinking about incentives and property rights. The discovery of an endangered species on private land has often triggered an automatic reaction from the government to prohibit the landowner from using that land for any purpose that might disturb the imperiled creatures. Consider the incentives of that policy: If you admit to the government that you have an endangered species, the government effectively prohibits you from using your land. As a result, rumors abounded of landowners who followed a policy of “shoot, shovel, and shut up” when they found an endangered animal on their land. Other landowners have deliberately cut trees or managed land in a way that they knew would discourage endangered animals from locating there.</para>
+
+<note id="fs-idm66366800" class="economics clearup">
+<title>How effective are market-oriented environmental policy tools?</title>
+<para id="fs-idm155641584">Environmentalists sometimes fear that market-oriented environmental tools are an excuse to weaken or eliminate strict limits on pollution emissions and instead to allow more pollution. It is true that if pollution charges are set very low or if marketable permits do not reduce pollution by very much then market-oriented tools will not work well. But command-and-control environmental laws can also be full of loopholes or have exemptions that do not reduce pollution by much, either. The advantage of market-oriented environmental tools is not that they reduce pollution by more or less, but because of their incentives and flexibility, they can achieve any desired reduction in pollution at a lower cost to society.</para>
+</note>
+<para id="fs-idp112980880">A more productive policy would consider how to provide private landowners with an incentive to protect the endangered species that they find and to provide a habitat for additional endangered species. For example, the government might pay landowners who provide and maintain suitable habitats for endangered species or who restrict the use of their land to protect an endangered species. Again, an environmental law built on incentives and flexibility offers greater promise than a command-and-control approach, which tries to oversee millions of acres of privately owned land.</para>
+</section>
+
+<section id="fs-idp27116880">
+<title>Applying Market-Oriented Environmental Tools</title>
+<para id="fs-idp65874256">Market-oriented environmental policies are a tool kit. Specific policy tools will work better in some situations than in others. For example, marketable permits work best when a few dozen or a few hundred parties are highly interested in trading, as in the cases of oil refineries that trade lead permits or electrical utilities that trade sulfur dioxide permits. However, for cases in which millions of users emit small amounts of pollution—such as emissions from car engines or unrecycled soda cans—and have no strong interest in trading, pollution charges will typically offer a better choice. Market-oriented environmental tools can also be combined. Marketable permits can be viewed as a form of improved property rights. Or the government could combine marketable permits with a pollution tax on any emissions not covered by a permit.</para>
+</section>
+
+<section id="fs-idm66188608" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idm134911904">Examples of market-oriented environmental policies, also referred to as cap and trade programs, include pollution charges, marketable permits, and better-defined property rights. Market-oriented environmental policies include taxes, markets, and property rights so that those who impose negative externalities must face the social cost.</para></section>
+
+<section id="fs-idp128389440" class="self-check-questions">
+<title>Self-Check Questions</title>
+<exercise id="fs-idp53675472">
+<problem id="fs-idp40797424">
+<para id="fs-idm3713616">Classify the following pollution-control policies as command-and-control or market incentive based.
+<list id="fs-idp40192912" list-type="enumerated" number-style="lower-alpha">
+<item>A state emissions tax on the quantity of carbon emitted by each firm.</item>
+<item>The federal government requires domestic auto companies to improve car emissions by 2020.</item>
+<item>The EPA sets national standards for water quality.</item>
+<item>A city sells permits to firms that allow them to emit a specified quantity of pollution.</item>
+<item>The federal government pays fishermen to preserve salmon.</item>
+</list>
+</para>
+</problem>
+<solution id="fs-idp126045824">
+<list id="fs-idp41233216" list-type="enumerated" number-style="lower-alpha">
+<item>market-based</item>
+<item>command-and-control</item>
+<item>command-and-control</item>
+<item>market-based</item>
+<item>market-based</item></list>
+</solution>
+</exercise>
+
+<exercise id="fs-idm47024320">
+<problem id="fs-idp13838672">
+<para id="fs-idm100951632">An emissions tax on a quantity of emissions from a firm is not a command-and-control approach to reducing pollution. Why? </para>
+</problem>
+<solution id="fs-idm131509200"><para id="fs-idm80274800">Even though state or local governments impose these taxes, a company has the flexibility to adopt technologies that will help it avoid the tax.</para></solution>
+</exercise>
+
+<exercise id="fs-idp168952928"><problem id="fs-idp183123552">
+<para id="fs-idp94791440">Four firms called Elm, Maple, Oak, and Cherry, produce wooden chairs. However, they also produce a great deal of garbage (a mixture of glue, varnish, sandpaper, and wood scraps). The first row of <link target-id="Table_12_07" document=""/> shows the total amount of garbage (in tons) currently produced by each firm. The other rows of the table show the cost of reducing garbage produced by the first five tons, the second five tons, and so on. First, calculate the cost of requiring each firm to reduce the weight of its garbage by one-fourth. Now, imagine that marketable permits are issued for the current level of garbage, but the permits will shrink the weight of allowable garbage for each firm by one-fourth. What will be the result of this alternative approach to reducing pollution?</para>
+
+<table id="Table_12_07" summary="The table has 6 rows and 4 columns of data. The header row lists the 4 firms: Elm, Maple, Oak, Cherry. The data in the table is as follows: Row 1: Current production of garbage (in tons): Elm = 20, Maple = 40, Oak = 60, Cherry = 80. Row 2: Cost of reducing garbage by first five tons: Elm = $5,500, Maple = $6,300, Oak = $7,200, Cherry = &gt;,000. Row 3 Cost of reducing garbage by second five tons: Elm = $6,000, Maple = $7,200, Oak = $7,500, Cherry = $4,000. Row 4 Cost of reducing garbage by third five tons: Elm = $6,500, Maple = $8,100, Oak = $7,800, Cherry = $5,000. Row 5 Cost of reducing garbage by fourth five tons: Elm = $7,000, Maple = $9,000, Oak = $8,100, Cherry = $6,000. Row 6 Cost of reducing garbage by fifth five tons: Elm = $0, Maple = $9,900, Oak = $8,400, Cherry = $7,000.">
+<tgroup cols="5"><colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<thead>
+<row>
+<entry/>
+<entry><emphasis>Elm</emphasis></entry>
+<entry><emphasis>Maple</emphasis></entry>
+<entry><emphasis>Oak</emphasis></entry>
+<entry><emphasis>Cherry</emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><emphasis>Current production of garbage (in tons)</emphasis></entry>
+<entry><emphasis>20</emphasis></entry>
+<entry><emphasis>40</emphasis></entry>
+<entry><emphasis>60</emphasis></entry>
+<entry><emphasis>80</emphasis></entry>
+</row>
+<row>
+<entry><emphasis effect="strong">Cost of reducing garbage by first five tons</emphasis></entry>
+<entry>$5,500</entry>
+<entry>$6,300</entry>
+<entry>$7,200</entry>
+<entry>$3,000</entry>
+</row>
+<row>
+<entry><emphasis effect="strong">Cost of reducing garbage by second five tons</emphasis></entry>
+<entry>$6,000</entry>
+<entry>$7,200</entry>
+<entry>$7,500</entry>
+<entry>$4,000</entry>
+</row>
+<row>
+<entry><emphasis effect="strong">Cost of reducing garbage by third five tons</emphasis></entry>
+<entry>$6,500</entry>
+<entry>$8,100</entry>
+<entry>$7,800</entry>
+<entry>$5,000</entry>
+</row>
+<row>
+<entry><emphasis effect="strong">Cost of reducing garbage by fouth five tons</emphasis></entry>
+<entry>$7,000</entry>
+<entry>$9,000</entry>
+<entry>$8,100</entry>
+<entry>$6,000</entry>
+</row>
+<row>
+<entry><emphasis effect="strong">Cost of reducing garbage by fifth five tons</emphasis></entry>
+<entry>$0</entry>
+<entry>$9,900</entry>
+<entry>$8,400</entry>
+<entry>$7,000</entry>
+</row>
+</tbody>
+
+
+
+</tgroup>
+</table></problem>
+<solution id="fs-idp48189680"><para id="fs-idp122000560">First, if each firm is required to reduce its garbage output by one-fourth, then Elm will reduce five tons at a cost of $5,500; Maple will reduce 10 tons at a cost of $13,500; Oak will reduce three tons at a cost of $22,500; and Cherry will reduce four tons at a cost of $18,000. Total cost of this approach: $59,500. If the system of marketable permits is put in place, and those permits shrink the weight of allowable garbage by one-quarter, then pollution must still be reduced by the same overall amount. However, now the reduction in pollution will take place where it is least expensive.</para>
+
+
+<table id="Table_12_08" class="unnumbered" summary="The table has 8 rows and 3 columns of data. The header row includes Column 1: Reductions in garbage, Column 2: Who does the reducing, and Column 3: At what cost? The data for each row is as follows: Row 1: First 5 tons, Cherry, $3,000. Row 2: Second 5 tons, Cherry, $4,000. Row 3: Third 5 tons, Cherry, $5,000, Row 4: Fourth 5 tons, Elm, $5,500, Row 5: fifth and sixth 5 tons, Elm and Cherry, $6,000 each, Row 6: Seventh five tons, Maple, $6,300, Row 7: Eighth 5 tons, Elm, $6,500, Row 8: Ninth and tenth 5 tons, Elm and Cherry, $7,000 each."><label/>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+<row>
+<entry>Reductions in Garbage</entry>
+<entry>Who does the reducing?</entry>
+<entry>At what cost?</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>First 5 tons</entry>
+<entry>Cherry</entry>
+<entry>$3,000</entry>
+</row>
+<row>
+<entry>Second 5 tons</entry>
+<entry>Cherry</entry>
+<entry>$4,000</entry>
+</row>
+<row>
+<entry>Third 5 tons</entry>
+<entry>Cherry</entry>
+<entry>$5,000</entry>
+</row>
+<row>
+<entry>Fourth 5 tons</entry>
+<entry>Elm</entry>
+<entry>$5,500</entry>
+</row>
+<row>
+<entry>Fifth and sixth 5 tons</entry>
+<entry>Elm and Cherry</entry>
+<entry>$6,000 each </entry>
+</row>
+<row>
+<entry>Seventh 5 tons</entry>
+<entry>Maple</entry>
+<entry>$6,300</entry>
+</row>
+<row>
+<entry>Eighth 5 tons</entry>
+<entry>Elm</entry>
+<entry>$6,500</entry>
+</row>
+<row>
+<entry>Ninth and tenth 5 tons</entry>
+<entry>Elm and Cherry</entry>
+<entry>$7,000 each</entry>
+</row>
+</tbody>
+</tgroup>
+<caption/>
+</table>
+<para id="fs-idp153687280">Thus, the overall pattern of reductions here will be that Elm reduces garbage by 20 tons and has 15 tons of permits to sell. Maple reduces by five tons and needs to buy five tons of permits. Oak does not reduce garbage at all, and needs to buy 15 tons of permits. Cherry reduces garbage by 25 tons, which leaves it with five tons of permits to sell. The total cost of these reductions would be $56,300, a definite reduction in costs from the $59,500 cost of the command-and-control option.</para>
+</solution>
+</exercise><exercise id="fs-idp114002128"><problem id="fs-idm7214080">
+<para id="fs-idp86275984">The rows in <link target-id="Table_12_09" document=""/> show three market-oriented tools for reducing pollution. The columns of the table show three complaints about command-and-control regulation. Fill in the table by stating briefly how each market-oriented tool addresses each of the three concerns.</para>
+
+<table id="Table_12_09" summary="The blank table has 3 empty rows and 3 columns empty. The first column lists Row 1: Pollution Charges, Row 2: Marketable Permits and Row 3: Property Rights. The top row lists column 1: incentives to go beyond, column 2: flexibility about where and how pollution will be reduced, and column 3: political process creates loopholes and exceptions.">
+<tgroup cols="4">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<thead>
+<row>
+<entry/>
+<entry>Incentives to Go Beyond</entry>
+<entry>Flexibility about Where and How Pollution Will Be Reduced</entry>
+<entry>Political Process Creates Loopholes and Exceptions</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Pollution Charges</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Marketable Permits</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Property Rights</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+
+</tbody>
+</tgroup>
+<caption/>
+</table>
+
+</problem>
+
+<solution id="fs-idp82829808">
+<table id="Table_12_10" class="unnumbered" summary="The table has 3  rows and 3 columns of data.  The data for each row is as follows: Row 1: Pollution Charges: (Incentives to go beyond) If you keep reducing the pollution you reduce your charge, (Flexibility about where and how pollution will be reduced) Reducing pollution by any method is fine, (Political process creates loopholes and exceptions) If charge applies to all emissions of pollution then no loop holes. Row 2: Marketable Permits: (Incentives to go beyond) If you reduce your pollution you can sell your extra pollution permits (Flexibility about where and how pollution will be reduced) Reductions of pollution will happen at firms where it is cheapest to do so, by the least expensive methods, (Political process creates loopholes and exceptions) If all polluters are required to have permits then there are no loopholes. Row 3: Property Rights  (Incentives to go beyond) The party that has to pay for the pollution has incentive to do so in a cost effective way (Flexibility about where and how pollution will be reduced) Reducing pollution by any method is fine, (Political process creates loopholes and exceptions) If the property rights are clearly defined, then it is not legally possible to avoid cleanup"><label/>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<thead>
+<row>
+<entry/>
+<entry>Incentives to Go Beyond</entry>
+<entry>Flexibility about Where and How Pollution Will Be Reduced</entry>
+<entry>Political Process Creates Loopholes and Exceptions</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><emphasis effect="strong">Pollution Charges</emphasis></entry>
+<entry>If you keep reducing pollution you reduce your charge</entry>
+<entry>Reducing pollution by any method is fine</entry>
+<entry>If charge applies to all emissions of pollution then no loopholes</entry>
+</row>
+<row>
+<entry><emphasis effect="strong">Marketable Permits</emphasis></entry>
+<entry>If you reduce your pollution you can sell your extra pollution permits</entry>
+<entry>Reductions of pollution will happen at firms where it is cheapest to do so, by the least expensive methods</entry>
+<entry>If all polluters are required to have permits then there are no loopholes</entry>
+</row>
+<row>
+<entry><emphasis effect="strong">Property Rights</emphasis></entry>
+<entry>The party that has to pay for the pollution has incentive to do so in a cost effect way</entry>
+<entry>Reducing pollution by any method is fine</entry>
+<entry>If the property rights are clearly defined, then it is not legally possible to avoid cleanup</entry>
+</row>
+</tbody>
+</tgroup>
+<caption/>
+</table>
+</solution>
+</exercise></section>
+
+<section id="fs-idm285104" class="review-questions">
+<title>Review Questions</title>
+<exercise id="fs-idp8822016">
+<problem id="fs-idp181581008">
+<para id="fs-idp69425136">What is a pollution charge and what incentive does it provide for a firm to take external costs into account?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp91740576">
+<problem id="fs-idp68476160">
+<para id="fs-idp52897120">What is a marketable permit and what incentive does it provide for a firm to take external costs into account?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm14607536">
+<problem id="fs-idp42389904">
+<para id="fs-idp13787920">What are better-defined property rights and what incentive do they provide to take external costs into account?</para>
+</problem>
+</exercise>
+</section>
+
+<section id="fs-idp12689328" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-idm99574720">
+<problem id="fs-idm44443968">
+<para id="fs-idm82934272">Will a system of marketable permits work with thousands of firms? Why or why not?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp12538512">
+<problem id="fs-idm83998304">
+<para id="fs-idm134151744">Is zero pollution possible under a marketable permits system? Why or why not?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm43623920">
+<problem id="fs-idm57288640">
+<para id="fs-idp71672016">Is zero pollution an optimal goal? Why or why not?</para>
+</problem>
+</exercise>
+</section>
+
+
+<section id="fs-idm163658272" class="references">
+<title>References</title>
+<para id="fs-idm133270816">Environmental Protection Agency. “2006 Pay-As-You-Throw Programs.” Accessed December 20, 2013. http://www.epa.gov/epawaste/conserve/tools/payt/states/06comm.htm.
+</para>
+</section>
+
+</content>
+
+<glossary>
+<definition id="fs-idm45278288">
+<term>marketable permit program</term>
+<meaning id="fs-idm16688288">a permit that allows a firm to emit a certain amount of pollution; firms with more permits than pollution can sell the remaining permits to other firms</meaning>
+</definition>
+<definition id="fs-idm8944480">
+<term>pollution charge</term>
+<meaning id="fs-idp359728">a tax imposed on the quantity of pollution that a firm emits; also called a pollution tax</meaning>
+</definition>
+<definition id="fs-idp112402624">
+<term>property rights</term>
+<meaning id="fs-idp73799008">the legal rights of ownership on which others are not allowed to infringe without paying compensation</meaning>
+</definition>
+</glossary>
+
+
+</document>

@@ -1,0 +1,267 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Tracking Real GDP over Time</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m57295</md:content-id>
+  <md:title>Tracking Real GDP over Time</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Explain recessions, depressions, peaks, and troughs</item>
+<item>Evaluate the importance of tracking real GDP over time</item>
+<item>Analyze the impact of economic fluctuations on a country’s output and price level</item>
+</list></md:abstract>
+  <md:uuid>40a7a2e1-0500-4f9e-a181-3313d378b534</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp94661760">When news reports indicate that “the economy grew 1.2% in the first quarter,” the reports are referring to the percentage change in real GDP. By convention, GDP growth is reported at an annualized rate: Whatever the calculated growth in real GDP was for the quarter, it is multiplied by four when it is reported as if the economy were growing at that rate for a full year.</para>
+<figure id="CNX_Econ_C19_008"><title>U.S. GDP, 1900–2014</title><media id="fs-idm3821664" alt="The graph illustrates that both real GDP and real GDP per capita have substantially increased since 1900.">
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C19_008.jpg"/>
+    </media>
+    <caption>Real GDP in the United States in 2014 was about $16 trillion. After adjusting to remove the effects of inflation, this represents a roughly 20-fold increase in the economy’s production of goods and services since the start of the twentieth century. (Source: bea.gov)</caption>
+  </figure><para id="fs-idp4304016"><link target-id="CNX_Econ_C19_008"/> shows the pattern of U.S. real GDP since 1900. The generally upward long-term path of GDP has been regularly interrupted by short-term declines. A significant decline in real GDP is called a <term>recession</term>. An especially lengthy and deep recession is called a <term>depression</term>. The severe drop in GDP that occurred during the <term class="no-emphasis">Great Depression</term> of the 1930s is clearly visible in the figure, as is the <term class="no-emphasis">Great Recession</term> of 2008–2009.</para>
+<para id="fs-idp75162576">Real GDP is important because it is highly correlated with other measures of economic activity, like employment and unemployment. When real GDP rises, so does employment.</para>
+<para id="fs-idp2371200">The most significant human problem associated with recessions (and their larger, uglier cousins, depressions) is that a slowdown in production means that firms need to lay off or fire some of the workers they have. Losing a job imposes painful financial and personal costs on workers, and often on their extended families as well. In addition, even those who keep their jobs are likely to find that wage raises are scanty at best—or they may even be asked to take pay cuts.</para>
+<para id="fs-idm76443104"><link target-id="Table_19_09"/> lists the pattern of recessions and expansions in the U.S. economy since 1900. The highest point of the economy, before the recession begins, is called the <term>peak</term>; conversely, the lowest point of a recession, before a recovery begins, is called the <term>trough</term>. Thus, a recession lasts from peak to trough, and an economic upswing runs from trough to peak. The movement of the economy from peak to trough and trough to peak is called the <term>business cycle</term>. It is intriguing to notice that the three longest trough-to-peak expansions of the twentieth century have happened since 1960. The most recent recession started in December 2007 and ended formally in June 2009. This was the most severe recession since the Great Depression of the 1930’s.</para>
+<table id="Table_19_09" summary="The table shows the pattern of recessions and expansions in the U.S. economy since 1900. Column 1 lists the Trough dates. Column 2 lists the Peak dates. Column 3 lists the Months of Contraction. Column 4 lists the Months of Expansion. Trough: December 1900; Peak: September 1902; 18 (months of contraction); 21 (months of expansion). Trough: August 1904; Peak: May 1907; 23 (months of contraction); 33 (months of expansion). Trough: June 1908; Peak: January 1910; 13 (months of contraction); 19 (months of expansion). Trough: January 1912; Peak: January 1913; 24 (months of contraction); 12 (months of expansion). Trough: December 1914; Peak: August 1918; 23 (months of contraction); 44 (months of expansion). Trough: March 1919; Peak: January 1920; 7 (months of contraction); 10 (months of expansion). Trough: July 1921; Peak: May 1923; 18 (months of contraction); 22 (months of expansion). Trough: July 1924; Peak: October 1926; 14 (months of contraction); 27 (months of expansion). Trough: November 1927; Peak: August 1929; 23 (months of contraction); 21 (months of expansion). Trough: March 1933; Peak: May 1937; 43 (months of contraction); 50 (months of expansion). Trough: June 1938; Peak: February 1945; 13 (months of contraction); 80 (months of expansion). Trough: October 1945; Peak: November 1948; 8 (months of contraction); 37 (months of expansion). Trough: October 1949; Peak: July 1953; 11 (months of contraction); 45 (months of expansion). Trough: May 1954; Peak: August 1957; 10 (months of contraction); 39 (months of expansion). Trough: April 1958; Peak: April 1960; 8 (months of contraction); 24 (months of expansion). Trough: February 1961; Peak: December 1969; 10 (months of contraction); 106 (months of expansion). Trough: November 1970; Peak: November 1973; 11 (months of contraction); 36 (months of expansion). Trough: March 1975; Peak: January 1980; 16 (months of contraction); 58 (months of expansion). Trough: July 1980; Peak: July 1981; 6 (months of contraction); 12 (months of expansion). Trough: November 1982; Peak: July 1990; 16 (months of contraction); 92 (months of expansion). Trough: March 2001; Peak: November 2001; 8 (months of contraction); 120 (months of expansion). Trough: December 2007; Peak: June 2009; 18 (months of contraction); 73 (months of expansion).">
+<title>U.S. Business Cycles since 1900</title>
+   <tgroup cols="4">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<thead>
+<row>
+<entry>Trough</entry>
+<entry>Peak</entry>
+<entry>Months of Contraction</entry>
+<entry>Months of Expansion</entry>
+</row>
+</thead>
+
+      <tbody>
+<row>
+<entry>December 1900</entry>
+<entry>September 1902</entry>
+<entry>18</entry>
+<entry>21</entry>
+</row>
+
+
+<row>
+<entry>August 1904</entry>
+<entry>May 1907</entry>
+<entry>23</entry>
+<entry>33</entry>
+</row>
+
+<row>
+<entry>June 1908</entry>
+<entry>January 1910</entry>
+<entry>13</entry>
+<entry>19</entry>
+</row>
+
+<row>
+<entry>January 1912</entry>
+<entry>January 1913</entry>
+<entry>24</entry>
+<entry>12</entry>
+</row>
+
+<row>
+<entry>December 1914</entry>
+<entry>August 1918</entry>
+<entry>23</entry>
+<entry>44</entry>
+</row>
+<row>
+<entry>March 1919</entry>
+<entry>January 1920</entry>
+<entry>7</entry>
+<entry>10</entry>
+</row>
+<row>
+<entry>July 1921</entry>
+<entry>May 1923</entry>
+<entry>18</entry>
+<entry>22</entry>
+</row>
+<row>
+<entry>July 1924</entry>
+<entry>October 1926</entry>
+<entry>14</entry>
+<entry>27</entry>
+</row>
+<row>
+<entry>November 1927</entry>
+<entry>August 1929</entry>
+<entry>23</entry>
+<entry>21</entry>
+</row>
+<row>
+<entry>March 1933</entry>
+<entry>May 1937</entry>
+<entry>43</entry>
+<entry>50</entry>
+</row>
+<row>
+<entry>June 1938</entry>
+<entry>February 1945</entry>
+<entry>13</entry>
+<entry>80</entry>
+</row>
+<row>
+<entry>October 1945</entry>
+<entry>November 1948</entry>
+<entry>8</entry>
+<entry>37</entry>
+</row>
+<row>
+<entry>October 1949</entry>
+<entry>July 1953</entry>
+<entry>11</entry>
+<entry>45</entry>
+</row>
+<row>
+<entry>May 1954</entry>
+<entry>August 1957</entry>
+<entry>10</entry>
+<entry>39</entry>
+</row>
+<row>
+<entry>April 1958</entry>
+<entry>April 1960</entry>
+<entry>8</entry>
+<entry>24</entry>
+</row>
+<row>
+<entry>February 1961</entry>
+<entry>December 1969</entry>
+<entry>10</entry>
+<entry>106</entry>
+</row>
+<row>
+<entry>November 1970</entry>
+<entry>November 1973</entry>
+<entry>11</entry>
+<entry>36</entry>
+</row>
+<row>
+<entry>March 1975</entry>
+<entry>January 1980</entry>
+<entry>16</entry>
+<entry>58</entry>
+</row>
+<row>
+<entry>July 1980</entry>
+<entry>July 1981</entry>
+<entry>6</entry>
+<entry>12</entry>
+</row>
+<row>
+<entry>November 1982</entry>
+<entry>July 1990</entry>
+<entry>16</entry>
+<entry>92</entry>
+</row>
+<row>
+<entry>March 2001</entry>
+<entry>November 2001</entry>
+<entry>8</entry>
+<entry>120</entry>
+</row>
+<row>
+<entry>December 2007</entry>
+<entry>June 2009</entry>
+<entry>18</entry>
+<entry>73</entry>
+</row>
+
+      </tbody>
+    </tgroup>
+    <caption>(Source: http://www.nber.org/cycles/main.html)</caption>
+</table>
+<para id="fs-idp29009152">A private think tank, the <term class="no-emphasis">National Bureau of Economic Research (NBER)</term>, is the official tracker of business cycles for the U.S. economy. However, the effects of a severe recession often linger on after the official ending date assigned by the NBER.</para><section id="fs-idp17544032" class="summary">
+  <title>Key Concepts and Summary</title>
+<para id="fs-idm24831088">Over the long term, U.S. real GDP have increased dramatically. At the same time, GDP has not increased the same amount each year. The speeding up and slowing down of GDP growth represents the business cycle. When GDP declines significantly, a recession occurs. A longer and deeper decline is a depression. Recessions begin at the peak of the business cycle and end at the trough.</para>
+
+</section>
+<section id="fs-idp158656" class="self-check-questions">
+  <title>Self-Check Questions</title>
+  <exercise id="fs-idm35530192">
+    <problem id="fs-idp4421712">
+      <para id="fs-idm16923200">Without looking at <link target-id="Table_19_09"/>, return to <link target-id="CNX_Econ_C19_008"/>. If a recession is defined as a significant decline in national output, can you identify any post-1960 recessions in addition to the recession of 2008–2009? (This requires a judgment call.)</para>
+    </problem>
+    <solution id="fs-idm18437456"><para id="fs-idp157584">Two other major recessions are visible in the figure as slight dips: those of 1973–1975, and 1981–1982. Two other recessions appear in the figure as a flattening of the path of real GDP. These were in 1990–1991 and 2001.</para></solution>
+  </exercise>
+  <exercise id="fs-idp22823008">
+    <problem id="fs-idp70438560">
+      <para id="fs-idp23154320">According to <link target-id="Table_19_09"/>, how often have recessions occurred since the end of World War II (1945)?</para>
+    </problem>
+    <solution id="fs-idm24827872"><para id="fs-idp523936">11 recessions in approximately 70 years averages about one recession every six years.</para></solution>
+  </exercise>
+  <exercise id="fs-idp1340512">
+    <problem id="fs-idp55292128">
+      <para id="fs-idp33642496">According to <link target-id="Table_19_09"/>, how long has the average recession lasted since the end of World War II?</para>
+    </problem>
+    <solution id="fs-idp32865968"><para id="fs-idp7320672">The table lists the “Months of Contraction” for each recession. Averaging these figures for the post-WWII recessions gives an average duration of 11 months, or slightly less than a year.</para></solution>
+  </exercise>
+  <exercise id="fs-idm10104304">
+    <problem id="fs-idm5028432">
+      <para id="fs-idp91448576">According to <link target-id="Table_19_09"/>, how long has the average expansion lasted since the end of World War II?</para>
+    </problem>
+    <solution id="fs-idp44484688"><para id="fs-idp16084880">The table lists the “Months of Expansion.” Averaging these figures for the post-WWII expansions gives an average expansion of 60.5 months, or more than five years.</para></solution>
+  </exercise>
+</section>
+<section id="fs-idp54008768" class="review-questions">
+  <title>Review Question</title>
+  <exercise id="fs-idp5267840">
+    <problem id="fs-idp6610432">
+      <para id="fs-idp73027344">What are the typical patterns of GDP for a high-income economy like the United States in the long run and the short run?</para>
+    </problem>
+ </exercise>
+</section>
+<section id="fs-idp1212272" class="critical-thinking">
+  <title>Critical Thinking Questions</title>
+  <exercise id="fs-idp35437712">
+    <problem id="fs-idp12210144">
+      <para id="fs-idp5245536">Why do you suppose that U.S. GDP is so much higher today than 50 or 100 years ago?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm75881664">
+    <problem id="fs-idm63654624">
+      <para id="fs-idp967696">Why do you think that GDP does not grow at a steady rate, but rather speeds up and slows down?</para>
+    </problem>
+  </exercise>
+</section>
+<section id="fs-idm81210160" class="references">
+<title>References</title>
+<para id="fs-idm26865680">The National Bureau of Economic Research. “Information on Recessions and Recoveries, the NBER Business Cycle Dating Committee, and related topics.” http://www.nber.org/cycles/main.html.</para>
+</section>
+
+</content>
+<glossary>
+   <definition id="fs-idp4290944">
+      <term>business cycle</term>
+      <meaning id="fs-idp3873088">the relatively short-term movement of the economy in and out of recession</meaning>
+    </definition>
+   <definition id="fs-idp27754240">
+      <term>depression</term>
+      <meaning id="fs-idp10759360">an especially lengthy and deep decline in output</meaning>
+    </definition>
+   <definition id="fs-idp26586384">
+      <term>peak</term>
+      <meaning id="fs-idm87433472">during the business cycle, the highest point of output before a recession begins</meaning>
+    </definition>
+   <definition id="fs-idp3736448">
+      <term>recession</term>
+      <meaning id="fs-idm14196896">a significant decline in national output</meaning>
+    </definition>
+   <definition id="fs-idp1056848">
+      <term>trough</term>
+      <meaning id="fs-idm42687872">during the business cycle, the lowest point of output in a recession, before a recovery begins</meaning>
+    </definition>
+</glossary>
+
+</document>

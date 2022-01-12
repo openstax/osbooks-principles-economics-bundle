@@ -1,0 +1,147 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>International Environmental Issues</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m57259</md:content-id>
+  <md:title>International Environmental Issues</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Explain biodiversity</item>
+<item>Analyze the partnership of high-income and low-income countries in efforts to address international externalities</item>
+</list></md:abstract>
+  <md:uuid>e1085faf-291c-4f1c-916c-013748f24ffb</md:uuid>
+</metadata>
+
+<content>
+  <para id="fs-idm102764944">Many countries around the world have become more aware of the benefits of environmental protection. Yet even if most nations individually took steps to address their environmental issues, no nation acting alone can solve certain environmental problems which spill over national borders. No nation by itself can reduce emissions of carbon dioxide and other gases by enough to solve the problem of global warming—not without the cooperation of other nations. Another issue is the challenge of preserving <term>biodiversity</term>, which includes the full spectrum of animal and plant genetic material. Although a nation can protect biodiversity within its own borders, no nation acting alone can protect biodiversity around the world. Global warming and biodiversity are examples of <term>international externalities</term>.</para><para id="fs-idp153567632">Bringing the nations of the world together to address environmental issues requires a difficult set of negotiations between countries with different income levels and different sets of priorities. If nations such as China, India, Brazil, Mexico, and others are developing their economies by burning vast amounts of fossil fuels or by stripping their forest and wildlife habitats, then the world’s high-income countries acting alone will not be able to reduce greenhouse gases. However, low-income countries, with some understandable exasperation, point out that high-income countries do not have much moral standing to lecture them on the necessities of putting environmental protection ahead of economic growth. After all, high-income countries have historically been the primary contributors to greenhouse warming by burning <term class="no emphasis">fossil fuels</term>—and still are today. It is hard to tell people who are living in a low-income country, where adequate diet, health care, and education are lacking, that they should sacrifice an improved quality of life for a cleaner environment.</para>
+<para id="fs-idm103156336">Can rich and poor countries come together to address global environmental spillovers? At the initiative of the European Union and the most vulnerable developing nations, the Durban climate conference in December 2011 launched negotiations to develop a new international climate change agreement that covers all countries. The agreement will take the form of an agreed upon outcome with legal force applicable to all parties. According to the EU, the goal is to adopt the plan in 2015 and implement it in 2020. For the agreement to work, the two biggest emitters of greenhouse gases—China and the United States—will have to sign on.</para>
+<note id="fs-idm36815952" class="economics linkup"><para id="fs-idm51108896">Visit this <link url="http://openstaxcollege.org/l/EC">website</link> to learn more about the European Commission.</para>
+<media id="fs-idp103240272" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/EC.png" width="130"/>
+</media>
+</note><para id="fs-idp18372672">If high-income countries want low-income countries to reduce their emissions of greenhouse gases, then the high-income countries may need to pay some of the costs. Perhaps some of these payments will happen through private markets; for example, some tourists from rich countries will pay handsomely to vacation near the natural treasures of low-income countries. Perhaps some of the transfer of resources can happen through making modern pollution-control technology available to poorer countries. </para>
+<para id="fs-idm14067552">The practical details of what such an international system might look like and how it would operate across international borders are forbiddingly complex. But it seems highly unlikely that some form of world government will impose a detailed system of environmental command-and-control regulation around the world. As a result, a decentralized and market-oriented approach may be the only practical way to address international issues such as global warming and biodiversity.</para>
+<section id="fs-idm169350448" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idp12521440">Certain global environmental issues, such as global warming and biodiversity, spill over national borders and will need to be addressed with some form of international agreement.</para>
+</section>
+
+<section id="fs-idp115804912" class="self-check-questions">
+<title>Self-Check Questions</title>
+<exercise id="fs-idp51747376"><problem id="fs-idp168598352">
+<para id="fs-idp28414192">Consider the case of global environmental problems that spill across international borders as a prisoner’s dilemma of the sort studied in <link document="m57246" class="target-chapter">Monopolistic Competition and Oligopoly</link>. Say that there are two countries, A and B. Each country can choose whether to protect the environment, at a cost of 10, or not to protect it, at a cost of zero. If one country decides to protect the environment, there is a benefit of 16, but the benefit is divided equally between the two countries. If both countries decide to protect the environment, there is a benefit of 32, which is divided equally between the two countries.</para><para id="fs-idp28361872"><list id="fs-idp7439792" list-type="enumerated" number-style="lower-alpha"><item>In <link target-id="Table_12_15" document=""/>, fill in the costs, benefits, and total payoffs to the countries of the following decisions. Explain why, without some international agreement, they are likely to end up with neither country acting to protect the environment.
+<table id="Table_12_15" summary="Table provides 2 blank rows and 2 blank columns to complete. The top of the table is labeled Country B with 2 corresponding columns labeled Protect and Not Protect. The left of the table is labeled Country A with 2 corresponding rows labeled Protect and Not Protect."><tgroup cols="4">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+
+<tbody>
+
+<row>
+<entry namest="col1" nameend="col2" align="left" morerows="1"/>
+<entry namest="col3" nameend="col4" align="center"><emphasis effect="bold">Country B</emphasis></entry>
+</row>
+
+<row>
+<entry>Protect</entry>
+<entry>Not Protect</entry>
+</row>
+
+<row>
+<entry morerows="1" align="center"><emphasis effect="bold">Country A</emphasis></entry>
+<entry>Protect</entry>
+<entry/>
+<entry/>
+</row>
+
+<row>
+<entry>Not Protect</entry>
+<entry/>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+</table></item>
+</list></para>
+
+</problem>
+<solution id="fs-idp58128464">
+<table id="Table_12_16" summary="The table has 2 rows and 2 columns. The header row is labeled Country B with 2 columns. The top left situation illustrated is Protect, Protect where both Country A and B have a cost of 10 and a benefit of 16; each country has net = 6. The top right situation illustrated is Not Protect, Protect where Country A has a cost of 10 and a benefit of 8 (net = negative 2). Country B has a cost of 0 and a benefit of 8 (net = 8). The bottom left situation is Protect, Not Protect where Country A has a cost of 0 and a benefit of 8. (net = 8); and Country B has a cost of 10 and a benefit of 8 (net = negative 2). The bottom right situation is Not Protect, Not Protect, where both Country A and B have a zero cost and a zero benefit; each country has net = 0"><label/>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+
+<tbody>
+<row>
+<entry namest="col1" nameend="col2" align="left" morerows="1"/>
+<entry namest="col3" nameend="col4" align="center"><emphasis effect="bold">Country B</emphasis></entry>
+</row>
+
+<row>
+<entry>Protect</entry>
+<entry>Not Protect</entry>
+</row>
+
+<row>
+<entry morerows="1" align="center"><emphasis effect="bold">Country A</emphasis></entry>
+<entry>Protect</entry>
+<entry>Both A and B have a cost of 10 and a benefit of 16; each country has net = 6</entry>
+<entry> A has a cost of 10 and a benefit of 8 (net = –2); B has a cost of 0 and a benefit of 8 ( net = 8)</entry>
+</row>
+
+<row>
+<entry>Not Protect</entry>
+<entry> A has a cost of 0 and a benefit of 8 (net = 8); B has a cost of 10 and a benefit of 8 (net = –2)</entry>
+<entry>Both A and B have a zero cost and a zero benefit; each country has net = 0</entry>
+</row>
+</tbody>
+</tgroup>
+</table><para id="fs-idp57464208">Country B will reason this way: If A protects the environment, then we will have benefits of 6 if we act to protect the environment, but 8 if we do not, so we will not protect it. If A is not protecting the environment, we will have losses of 2 if we protect, but have zero if we do not protect, so again, we will not protect it. Country A will reason in a similar manner. The result is that both countries choose to not protect, even though they will achieve the largest social benefits—a combined benefit of 12 for the two countries—if they both choose to protect. Environmental treaties can be viewed as a way for countries to try to extricate themselves from this situation.</para>
+</solution>
+</exercise></section>
+
+<section id="fs-idp47592624" class="review-questions">
+<title>Review Questions</title>
+<exercise id="fs-idp6598944">
+<problem id="fs-idp39216800">
+<para id="fs-idm5709792">What are the economic tradeoffs between low-income and high-income countries in international conferences on global environmental damage?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp129212368">
+<problem id="fs-idp16025264">
+<para id="fs-idm46182304">What arguments do low-income countries make in international discussions of global environmental clean-up?</para>
+</problem>
+</exercise>
+</section>
+
+<section id="fs-idm99427392" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-idm70563776">
+<problem id="fs-idm167357808">
+<para id="fs-idp23983040">Can extreme levels of pollution hurt the economic development of a high-income country? Why or why not?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm113375232">
+<problem id="fs-idp25679968">
+<para id="fs-idm53933776">How can high-income countries benefit from covering much of the cost of reducing pollution created by low-income countries?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm30127040" class="references">
+<title>References</title>
+<para id="fs-idp43269152">European Union. “Durban Conference Delivers Breakthrough for Climate.” Press release. December 11, 2012. Accessed December 19, 2013. http://europa.eu/rapid/press-release_MEMO-11-895_en.htm?locale=en.</para></section>
+
+</content>
+<glossary>
+<definition id="fs-idm115577888">
+<term>biodiversity</term><meaning id="fs-idm87518928">the full spectrum of animal and plant genetic material</meaning>
+</definition>
+<definition id="fs-idm127405712">
+<term>international externalities</term><meaning id="fs-idm185696656">externalities that cross national borders and that cannot be resolved by a single nation acting alone</meaning>
+</definition>
+</glossary>
+
+</document>

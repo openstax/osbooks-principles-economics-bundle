@@ -1,0 +1,342 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Measuring Trade Balances</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m48732</md:content-id>
+  <md:title>Measuring Trade Balances</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Explain merchandise trade balance, current account balance, and unilateral transfers</item>
+<item>Identify components of the U.S. current account balance</item>
+<item>Calculate the merchandise trade balance and current account balance using import and export data for a country</item>
+</list></md:abstract>
+  <md:uuid>44efb215-8e32-4445-88c2-d77c9c842565</md:uuid>
+</metadata>
+
+<content>
+  
+
+<para id="fs-idp42760480">A few decades ago, it was common to track the solid or physical items that were transported by planes, trains, and trucks between countries as a way of measuring the balance of trade. This measurement is called the <term>merchandise trade balance</term>. In most high-income economies, including the United States, goods make up less than half of a country’s total production, while services compose more than half. The last two decades have seen a surge in international trade in services, powered by technological advances in telecommunications and computers that have made it possible to export or import customer services, finance, law, advertising, management consulting, software, construction engineering, and product design. Most global trade still takes the form of goods rather than services, and the merchandise trade balance is still announced by the government and reported prominently in the newspapers. Old habits are hard to break. Economists, however, typically rely on broader measures such as the balance of trade or the <term>current account balance</term> which includes other international flows of income and foreign aid.</para>
+
+
+
+<section id="fs-idp90728032">
+<title>Components of the U.S. Current Account Balance</title>
+<para id="fs-idm13487680"><link target-id="Table_23_01"/> breaks down the four main components of the U.S. current account balance for the last quarter of 2014 (seasonally adjusted). The first line shows the merchandise trade balance; that is, exports and imports of goods. Because imports exceed exports, the trade balance in the final column is negative, showing a merchandise trade deficit. How this trade information is collected is explained in the following Clear It Up feature.</para><table id="Table_23_01" summary="This table has four columns and five rows. The first row is a header row and it labels each column, “Exports (money flowing into the United States),” “Imports (money flowing out of the United States),” and “Balance.” Under the “Exports (money flowing into the United States)” column are the values: Goods $410.0; Services $180.4; Income receipts and payments $203.0; Unilateral transfers $27.3; and Current account balance $820.7. Under the “Imports (money flowing out of the United States)” are the values: $595.3; $122.3; $152.4; $64.4; and $934.4. Under the “Balance” column are the values: −$185.3; $58.1; $50.6; −$37.1; and −$113.7."><title>Components of the U.S. Current Account Balance for 2014 (in billions)</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<thead>
+<row>
+<entry/>
+<entry>Value of Exports (money flowing into the United States)</entry>
+<entry>Value of Imports (money flowing out of the United States)</entry>
+<entry>Balance</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Goods</entry>
+<entry>$410.0</entry>
+<entry>$595.5</entry>
+<entry>–$185.3</entry>
+</row>
+<row>
+<entry>Services</entry>
+<entry>$180.4</entry>
+<entry>$122.3</entry>
+<entry>$58.1</entry>
+</row>
+<row>
+<entry>Income receipts and payments</entry>
+<entry>$203.0</entry>
+<entry>$152.4</entry>
+<entry>$50.6</entry>
+</row>
+<row>
+<entry>Unilateral transfers</entry>
+<entry>$27.3</entry>
+<entry>$64.4</entry>
+<entry>–$37.1</entry>
+</row>
+<row>
+<entry><emphasis>Current account balance</emphasis></entry>
+<entry>$820.7</entry>
+<entry>$934.4</entry>
+<entry>–$113.7</entry>
+</row>
+</tbody>
+
+
+
+
+</tgroup>
+</table><note id="fs-idm78274128" class="economics clearup">
+<title>How does the U.S. government collect trade statistics?</title>
+<para id="fs-idp122455152">Do not confuse the balance of trade (which tracks imports and exports), with the current account balance, which includes not just <term class="no-emphasis">exports</term> and <term class="no-emphasis">imports</term>, but also income from investment and transfers.</para>
+<para id="fs-idp52166640">Statistics on the balance of trade are compiled by the <term class="no-emphasis">Bureau of Economic Analysis (BEA)</term> within the <term class="no-emphasis">U.S. Department of Commerce</term>, using a variety of different sources. Importers and exporters of merchandise must file monthly documents with the Census Bureau, which provides the basic data for tracking trade. To measure international trade in services—which can happen over a telephone line or computer network without any physical goods being shipped—the BEA carries out a set of surveys. Another set of BEA surveys track investment flows, and there are even specific surveys to collect travel information from U.S. residents visiting Canada and Mexico. For measuring unilateral transfers, the BEA has access to official U.S. government spending on aid, and then also carries out a survey of charitable organizations that make foreign donations.</para><para id="fs-idp29093376">This information on international flows of goods and capital is then cross-checked against other available data. For example, the Census Bureau also collects data from the shipping industry, which can be used to check the data on trade in goods. All companies involved in international flows of capital—including banks and companies making financial investments like stocks—must file reports, which are ultimately compiled by the U.S. Department of the Treasury. Information on foreign trade can also be cross-checked by looking at data collected by other countries on their foreign trade with the United States, and also at the data collected by various international organizations. Take these data sources, stir carefully, and you have the U.S. balance of trade statistics. Much of the statistics cited in this chapter come from these sources.</para>
+</note>
+
+<para id="fs-idp80239584">The second row of <link target-id="Table_23_01"/> provides data on trade in services. Here, the U.S. economy is running a <term class="no-emphasis">surplus</term>. Although the level of trade in services is still relatively small compared to trade in goods, the importance of services has expanded substantially over the last few decades. For example, U.S. exports of services were equal to about one-half of U.S. exports of goods in 2014, compared to one-fifth in 1980.</para><para id="fs-idp98558512">The third component of the current account balance, labeled “<term class="no-emphasis">income payments</term>,” refers to money received by U.S. financial investors on their foreign investments (money flowing into the United States) and payments to foreign investors who had invested their funds here (money flowing out of the United States). The reason for including this money on foreign investment in the overall measure of trade, along with goods and services, is that, from an economic perspective, income is just as much an economic transaction as shipments of cars or wheat or oil: it is just trade that is happening in the financial capital market.</para>
+<para id="fs-idp24177728">The final category of the current account balance is <term>unilateral transfers</term>, which are payments made by government, private charities, or individuals in which money is sent abroad without any direct good or service being received. Economic or military assistance from the U.S. government to other countries fits into this category, as does spending abroad by charities to address poverty or social inequalities. When an individual in the United States sends money overseas, it is also counted in this category. The current account balance treats these unilateral payments like imports, because they also involve a stream of payments leaving the country. For the U.S. economy, unilateral transfers are almost always negative. This pattern, however, does not always hold. In 1991, for example, when the United States led an international coalition against Saddam Hussein’s Iraq in the Gulf War, many other nations agreed that they would make payments to the United States to offset the U.S. war expenses. These payments were large enough that, in 1991, the overall U.S. balance on unilateral transfers was a positive $10 billion.</para><para id="fs-idm19733200">The following Work It Out feature steps you through the process of using the values for goods, services, and income payments to calculate the merchandise balance and the current account balance.</para>
+
+
+
+<note id="fs-idm41180528" class="economics workout">
+<title>Calculating the Merchandise Balance and the Current Account Balance</title>
+
+<table id="Table_23_02" summary="This table has 6 rows and four columns. The first column is unlabeled but the other columns are “Exports (in $ billions)”, “Imports (in $ billions)”, and “Balance”. Under the first column are the following categories: “Goods”, “Services”, “Income payments”, “Unilateral transfers”, and “Current account balance”. All the other cells in the table are blank except for unilateral transfers under “Exports (in $ billions)”, there is a hyphen."><title>Calculating Merchandise Balance and Current Account Balance</title>
+<tgroup cols="4"><colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<thead>
+<row>
+<entry/>
+<entry>Exports (in $ billions)</entry>
+<entry>Imports (in $ billions)</entry>
+<entry>Balance</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Goods</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Services</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Income payments</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Unilateral transfers</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry><emphasis effect="strong">Current account balance</emphasis></entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+</tbody>
+
+</tgroup>
+</table><para id="fs-idp1051664">Use the information given below to fill in <link target-id="Table_23_02"/>, and then calculate:
+<list id="fs-idm87695696">
+<item>The merchandise balance</item>
+<item>The current account balance</item>
+</list>
+</para>
+
+
+<para id="fs-idm46835136">Known information:
+<list id="fs-idm87990832">
+<item>Unilateral transfers: $130</item>
+<item>Exports in goods: $1,046</item>
+<item>Exports in services: $509</item>
+<item>Imports in goods: $1,562</item>
+<item>Imports in services: $371</item>
+<item>Income received by U.S. investors on foreign stocks and bonds: $561</item>
+<item>Income received by foreign investors on U.S. assets: $472</item>
+</list></para>
+<para id="fs-idp108614944">Step 1. Focus on goods and services first. Enter the dollar amount of exports of both goods and services under the Export column.</para>
+<para id="fs-idm16568688">Step 2. Enter imports of goods and services under the Import column.</para>
+<para id="fs-idm43395088">Step 3. Under the Export column and in the row for Income payments, enter the financial flows of money coming back to the United States. U.S. investors are earning this income from abroad.</para>
+<para id="fs-idm105980112">Step 4. Under the Import column and in the row for Income payments, enter the financial flows of money going out of the United States to foreign investors. Foreign investors are earning this money on U.S. assets, like stocks.</para>
+<para id="fs-idp68052176">Step 5. Unilateral transfers are money flowing out of the United States in the form of military aid, foreign aid, global charities, and so on. Because the money leaves the country, it is entered under Imports and in the final column as well, as a negative.</para>
+<para id="fs-idp105307840">Step 6. Calculate the trade balance by subtracting imports from exports in both goods and services. Enter this in the final Balance column. This can be positive or negative.</para>
+<para id="fs-idp1886288">Step 7. Subtract the income payments flowing out of the country (under Imports) from the money coming back to the United States (under Exports) and enter this amount under the Balance column.</para>
+<para id="fs-idp12798944">Step 8. Enter unilateral transfers as a negative amount under the Balance column.</para>
+<para id="fs-idp18737712">Step 9. The merchandise trade balance is the difference between exports of goods and imports of goods—the first number under Balance.</para>
+<para id="fs-idp111420896">Step 10. Now sum up your columns for Exports, Imports, and Balance. The final balance number is the current account balance.</para>
+<para id="fs-idp11255632">The merchandise balance of trade is the difference between exports and imports. In this case, it is the difference between $1,046 – $1,562, a trade deficit of –$516 billion. The current account balance is –$419 billion. See the completed <link target-id="Table_23_03"/>.</para>
+
+
+
+
+
+<table id="Table_23_03" summary="This table has six rows and four columns. The first column is unlabeled, but the other columns are “Exports”, “Imports”, and “Balance”. Under the first column are the following categories: “Goods”, “Services”, “Income payments”, “Unilateral transfers”, and “Current account balance”. Under “Exports” are the values: $1046; $509; $561; nothing; and $2116. Under the column “Imports” are the values: $1562; $371; $472; $130; and $2535. Under the column “Balance” are the values: –$516; $138; $89; –$130; and –$419."><title>Completed Merchandise Balance and Current Account Balance</title>
+<tgroup cols="4"><colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<thead>
+<row>
+<entry/>
+<entry>Exports</entry>
+<entry>Imports</entry>
+<entry>Balance</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Goods</entry>
+<entry>$1,046</entry>
+<entry>$1,562</entry>
+<entry>–$516</entry>
+</row>
+<row>
+<entry>Services</entry>
+<entry>$509</entry>
+<entry>$371</entry>
+<entry>$138</entry>
+</row>
+<row>
+<entry>Income payments</entry>
+<entry>$561</entry>
+<entry>$472</entry>
+<entry>$89</entry>
+</row>
+<row>
+<entry>Unilateral transfers</entry>
+<entry>-</entry>
+<entry>$130</entry>
+<entry>–$130</entry>
+</row>
+<row>
+<entry>Current account balance</entry>
+<entry>$2,116</entry>
+<entry>$2,535</entry>
+<entry>–$419</entry>
+</row>
+</tbody>
+
+
+</tgroup>
+</table></note>
+</section>
+
+
+<section id="fs-idp83268624" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idp199807232">The trade balance measures the gap between a country’s exports and its imports. In most high-income economies, goods make up less than half of a country’s total production, while services compose more than half. The last two decades have seen a surge in international trade in services; however, most global trade still takes the form of goods rather than services. The current account balance includes the trade in goods, services, and money flowing into and out of a country from investments and unilateral transfers.</para>
+</section>
+
+
+
+<section id="fs-idm68833024" class="self-check-questions">
+<title>Self-Check Questions</title>
+<exercise id="fs-idm35814224">
+<problem id="fs-idp24016208">
+<para id="fs-idm66092016">If foreign investors buy more U.S. stocks and bonds, how would that show up in the current account balance?</para>
+</problem>
+<solution id="fs-idp929664"><para id="fs-idp929792">The stock and bond values will not show up in the current account. However, the dividends from the stocks and the interest from the bonds show up as an import to income in the current account.</para></solution>
+</exercise>
+<exercise id="fs-idm28618688">
+<problem id="fs-idm50432272">
+<para id="fs-idp31547792">If the trade deficit of the United States increases, how is the current account balance affected?</para>
+</problem>
+<solution id="fs-idm48748816">
+<para id="fs-idp81736864">It becomes more negative as imports, which are a negative to the current account, are growing faster than exports, which are a positive.</para></solution>
+</exercise>
+<exercise id="fs-idm33917680">
+<problem id="fs-idm56528928">
+<para id="fs-idp27564480">State whether each of the following events involves a financial flow to the Mexican economy or a financial flow out of the Mexican economy:
+<list id="fs-idm39885696" list-type="enumerated" number-style="lower-alpha">
+<item>Mexico imports services from Japan</item>
+<item>Mexico exports goods to Canada</item>
+<item>U.S. investors receive a return from past financial investments in Mexico</item>
+</list>
+</para>
+</problem>
+<solution id="fs-idp30990384"><list id="fs-idm149454032" list-type="enumerated" number-style="lower-alpha">
+<item>Money flows out of the Mexican economy.</item>
+<item>Money flows into the Mexican economy.</item>
+<item>Money flows out of the Mexican economy.</item></list>
+</solution>
+</exercise>
+</section>
+
+
+<section id="fs-idp161205440" class="review-questions">
+<title>Review Questions</title>
+<exercise id="fs-idp119482672">
+<problem id="fs-idp227548976">
+<para id="fs-idp124791168">If imports exceed exports, is it a trade deficit or a trade surplus? What about if exports exceed imports?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp116681472">
+<problem id="fs-idp118682128">
+<para id="fs-idp201901200">What is included in the current account balance?</para>
+</problem>
+  </exercise>
+</section>
+
+
+
+<section id="fs-idm27767088" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-idp80787232">
+<problem id="fs-idp56488144">
+<para id="fs-idp71896336">From time to time, a government official will argue that a country should strive for both a trade surplus and a healthy inflow of capital from abroad. Explain why such a statement is economically impossible.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm17496608">
+<problem id="fs-idp82340832">
+<para id="fs-idp9510720">A government official announces a new policy. The country wishes to eliminate its trade deficit, but will strongly encourage financial investment from foreign firms. Explain why such a statement is contradictory.</para>
+</problem>
+</exercise>
+</section>
+
+
+<section id="fs-idm61341296" class="problems">
+<title>Problems</title>
+<exercise id="fs-idp56075584">
+<problem id="fs-idm10865488">
+<para id="fs-idm100891152">In 2001, the economy of the United Kingdom exported goods worth £192 billion and services worth another £77 billion. It imported goods worth £225 billion and services worth £66 billion. Receipts of income from abroad were £140 billion while income payments going abroad were £131 billion. Government transfers from the United Kingdom to the rest of the world were £23 billion, while various U.K government agencies received payments of £16 billion from the rest of the world.
+<list id="fs-idm4351712" list-type="enumerated" number-style="lower-alpha">
+<item>Calculate the U.K. merchandise trade deficit for 2001.</item>
+<item>Calculate the current account balance for 2001.</item>
+<item>Explain how you decided whether payments on foreign investment and government transfers counted on the positive or the negative side of the current account balance for the United Kingdom in 2001.</item></list></para>
+</problem>
+</exercise>
+</section>
+
+
+<section id="fs-idp52601856" class="references">
+<title>References</title>
+<para id="fs-idm30229520">Central Intelligence Agency. “The World Factbook.” Last modified October 31, 2013. https://www.cia.gov/library/publications/the-world-factbook/geos/gm.html.</para>
+<para id="fs-idm65859008">U.S. Department of Commerce. “Bureau of Economic Analysis.” Last modified December 1, 2013. http://www.bea.gov/.</para>
+<para id="fs-idp1868224">U.S. Department of Commerce. “United States Census Bureau.” http://www.census.gov/.</para>
+</section>
+
+
+
+
+
+
+</content>
+
+<glossary>
+<definition id="fs-idp152377632">
+<term>balance of trade (trade balance)</term><meaning id="fs-idp113177632">the gap, if any, between a nation’s exports and imports</meaning>
+</definition>
+<definition id="fs-idp3590288">
+<term>current account balance</term>
+<meaning id="fs-idp175816400">a broad measure of the balance of trade that includes trade in goods and services, as well as international flows of income and foreign aid</meaning>
+</definition>
+<definition id="fs-idp41969888">
+<term>merchandise trade balance</term>
+<meaning id="fs-idp89071024">the balance of trade looking only at goods</meaning>
+</definition>
+
+<definition id="fs-idp44332416">
+<term>unilateral transfers</term>
+<meaning id="fs-idp103350960">“one-way payments” made by governments, private entities, or individuals that are sent abroad with nothing received in return</meaning></definition>
+</glossary>
+
+
+</document>

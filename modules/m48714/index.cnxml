@@ -1,0 +1,227 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Relatively Recent Arrival of Economic Growth</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m48714</md:content-id>
+  <md:title>The Relatively Recent Arrival of Economic Growth</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Explain the conditions that have allowed for modern economic growth in the last two centuries</item>
+<item>Analyze the influence of public policies on the long-run economic growth of an economy</item>
+</list></md:abstract>
+  <md:uuid>495c482c-eca3-4470-8fc9-b3a8b6f29cc1</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm75409712">Let’s begin with a brief overview of the spectacular patterns of economic growth around the world in the last two centuries, commonly referred to as the period of <term>modern economic growth</term>. (Later in the chapter we will discuss lower rates of economic growth and some key ingredients for economic progress.) Rapid and sustained economic growth is a relatively recent experience for the human race. Before the last two centuries, although rulers, nobles, and conquerors could afford some extravagances and although economies rose above the subsistence level, the average person’s standard of living had not changed much for centuries.</para><para id="fs-idm9848992">Progressive, powerful economic and institutional changes started to have a significant effect in the late eighteenth and early nineteenth centuries. According to the Dutch economic historian <term class="no-emphasis">Jan Luiten van Zanden</term>, slavery-based societies, favorable demographics, global trading routes, and standardized trading institutions that spread with different empires set the stage for the Industrial Revolution to succeed. The <term>Industrial Revolution</term> refers to the widespread use of power-driven machinery and the economic and social changes that resulted in the first half of the 1800s. Ingenious machines—the steam engine, the power loom, and the steam locomotive—performed tasks that otherwise would have taken vast numbers of workers to do. The Industrial Revolution began in Great Britain, and soon spread to the United States, Germany, and other countries.</para><para id="fs-idm118026272">The jobs for ordinary people working with these machines were often dirty and dangerous by modern standards, but the alternative jobs of that time in peasant agriculture and small-village industry were often dirty and dangerous, too. The new jobs of the Industrial Revolution typically offered higher pay and a chance for social mobility. A self-reinforcing cycle began: New inventions and investments generated profits, the profits provided funds for new investment and inventions, and the investments and inventions provided opportunities for further profits. Slowly, a group of national economies in Europe and North America emerged from centuries of sluggishness into a period of rapid modern growth. During the last two centuries, the average rate of growth of GDP per capita in the leading industrialized countries has averaged about 2% per year. What were times like before then? Read the following Clear It Up feature for the answer.</para>
+<note id="fs-idm50418048" class="economics clearup">
+      <title>What were economic conditions like before 1870?</title>
+<para id="fs-idp4012928">Angus Maddison, a quantitative economic historian, led the most systematic inquiry into national incomes before 1870. His methods recently have been refined and used to compile GDP per capita estimates from year 1 C.E. to 1348. <link target-id="Table_20_01"/> is an important counterpoint to most of the narrative in this chapter. It shows that nations can decline as well as rise. The declines in income are explained by a wide array of forces, such as epidemics, natural and weather-related disasters, the inability to govern large empires, and the remarkably slow pace of technological and institutional progress. Institutions are the traditions, laws, and so on by which people in a community agree to behave and govern themselves. Such institutions include marriage, religion, education, and laws of governance. Institutional progress is the development and codification of these institutions to reinforce social order, and thus, economic growth.</para>
+<para id="fs-idm45336608">One example of such an institution is the Magna Carta (Great Charter), which the English nobles forced King John to sign in 1215. The Magna Carta codified the principles of due process, whereby a free man could not be penalized unless his peers had made a lawful judgment against him. This concept was later adopted by the United States in its own constitution. This social order may have contributed to England’s GDP per capita in 1348, which was second to that of northern Italy.</para>
+<para id="fs-idm25422624">In the study of economic growth, a country’s institutional framework plays a critical role. <link target-id="Table_20_01"/> also shows relative global equality for almost 1,300 years. After this, we begin to see significant divergence in income (not shown in table).</para>
+<table id="Table_20_01" summary="This table has eight rows and nine columns. The first row is a header row and it labels each column: “Year”, “Northern Italy”, “Spain”, “England”, “Holland”, “Byzantium”, “Iraq”, “Egypt”, and “Japan”. Under the column “Year” are the following years: 1; 730; 1000; 1150; 1280; 1300; 1348. Under the column “Northern Italy” are the following values: $800 at year 1, 588 at year 1300, and 486 at year 1348. Under the column “Spain” are the following values: $600 at year 1, $864 at year 1300, and $907 at year 1348. Under the column “England” are the following values: $600 at year 1, $892 at year 1300, and $919 at year 1348. Under the column “Holland” are the following values: $600 at year 1. Under the column “Byzantium” are the following values: $700 at year 1, $600 at year 1000, and $580 at year 1150. Under the column “Iraq” are the following values: $700 at year 1, $920 at year 730, $820 at year 1000, and $680 at year 1150. Under the column “Egypt” are the following values: $700 at year 1, $730 at year 730, $600 at year 1000, $660 at year 1150, $670 at year 1280, and $610 at year 1300. Under the column “Japan” are the following values: $402 at year 730, $520 at year 1150, and $527 at year 1280."><title>GDP Per Capita Estimates in Current International Dollars from AD 1 to 1348</title>
+<tgroup cols="9"><colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<colspec colnum="6" colname="col6"/>
+<colspec colnum="7" colname="col7"/>
+<colspec colnum="8" colname="col8"/>
+<colspec colnum="9" colname="col9"/>
+<thead>
+<row>
+<entry>Year</entry>
+<entry>Northern Italy</entry>
+<entry>Spain</entry>
+<entry>England</entry>
+<entry>Holland</entry>
+<entry>Byzantium</entry>
+<entry>Iraq</entry>
+<entry>Egypt</entry>
+<entry>Japan</entry>
+</row>
+</thead>
+
+      <tbody>
+<row>
+<entry>1</entry>
+<entry>$800</entry>
+<entry>$600</entry>
+<entry>$600</entry>
+<entry>$600</entry>
+<entry>$700</entry>
+<entry>$700</entry>
+<entry>$700</entry>
+<entry align="center">-</entry>
+</row>
+
+<row>
+<entry>730</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry>$920</entry>
+<entry>$730</entry>
+<entry>$402</entry>
+</row>
+
+<row>
+<entry>1000</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry>$600</entry>
+<entry>$820</entry>
+<entry>$600</entry>
+<entry align="center">-</entry>
+</row>
+
+<row>
+<entry>1150</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry>$580</entry>
+<entry>$680</entry>
+<entry>$660</entry>
+<entry>$520</entry>
+</row>
+
+<row>
+<entry>1280</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry>$670</entry>
+<entry>$527</entry>
+</row>
+
+<row>
+<entry>1300</entry>
+<entry>$1,588</entry>
+<entry>$864</entry>
+<entry>$892</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry>$610</entry>
+<entry align="center">-</entry>
+</row>
+
+<row>
+<entry>1348</entry>
+<entry>$1,486</entry>
+<entry>$907</entry>
+<entry>$919</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+</row>
+
+      </tbody>
+    
+
+</tgroup><caption>(Source: Bolt and van Zanden. “The First Update of the Maddison Project. Re-Estimating Growth Before 1820.” 2013)</caption>
+</table><para id="fs-idm87779344">Another fascinating and underreported fact is the high levels of income, compared to others at that time, attained by the Islamic Empire Abbasid Caliphate—which was founded in present-day Iraq in 730 C.E. At its height, the empire spanned large regions of the Middle East, North Africa, and Spain until its gradual decline over 200 years.</para>
+    </note>
+<para id="fs-idp94022480">The Industrial Revolution led to increasing inequality among nations. Some economies took off, whereas others, like many of those in Africa or Asia, remained close to a subsistence standard of living. General calculations show that the 17 countries of the world with the most-developed economies had, on average, 2.4 times the GDP per capita of the world’s poorest economies in 1870. By 1960, the most developed economies had 4.2 times the GDP per capita of the poorest economies.</para>
+<para id="fs-idp70854560">However, by the middle of the twentieth century, some countries had shown that catching up was possible. Japan’s economic growth took off in the 1960s and 1970s, with a growth rate of real GDP per capita averaging 11% per year during those decades. Certain countries in Latin America experienced a boom in economic growth in the 1960s as well. In Brazil, for example, GDP per capita expanded by an average annual rate of 11.1% from 1968 to 1973. In the 1970s, some East Asian economies, including South Korea, Thailand, and Taiwan, saw rapid growth. In these countries, growth rates of 11% to 12% per year in GDP per capita were not uncommon. More recently, China, with its population of 1.3 billion people, grew at a per capita rate 9% per year from 1984 into the 2000s. India, with a population of 1.1 billion, has shown promising signs of economic growth, with growth in GDP per capita of about 4% per year during the 1990s and climbing toward 7% to 8% per year in the 2000s.</para>
+<note id="fs-idm182779360" class="economics linkup">
+        <para id="fs-idp49325072">Visit this <link url="http://openstaxcollege.org/l/asiadevbank">website</link> to read about the Asian Development Bank.</para>
+        <media id="fs-idp8831936" alt="QR Code representing a URL">
+          <image mime-type="image/png" src="../../media/asiadevbank.png" width="130"/>
+        </media>
+    </note>
+<para id="fs-idm56842384">These waves of catch-up economic growth have not reached all shores. In certain African countries like Niger, Tanzania, and Sudan, for example, GDP per capita at the start of the 2000s was still less than $300, not much higher than it was in the nineteenth century and for centuries before that. In the context of the overall situation of low-income people around the world, the good economic news from China (population: 1.3 billion) and India (population: 1.1 billion) is, nonetheless, astounding and heartening.</para>
+<para id="fs-idm17159200">Economic growth in the last two centuries has made a striking change in the human condition. <term class="no-emphasis">Richard Easterlin</term>, an economist at the University of Southern California, wrote in 2000:</para>
+<para id="fs-idm39476224">
+      <quote id="fs-idm9703152">By many measures, a revolution in the human condition is sweeping the world. Most people today are better fed, clothed, and housed than their predecessors two centuries ago. They are healthier, live longer, and are better educated. Women’s lives are less centered on reproduction and political democracy has gained a foothold. Although Western Europe and its offshoots have been the leaders of this advance, most of the less developed nations have joined in during the 20th century, with the newly emerging nations of sub-Saharan Africa the latest to participate. Although the picture is not one of universal progress, it is the greatest advance in the human condition of the world’s population ever achieved in such a brief span of time.</quote>
+</para>
+<section id="fs-idm99148224"><title>Rule of Law and Economic Growth</title>
+<para id="fs-idm68399792">Economic growth depends on many factors. Key among those factors is adherence to the <term>rule of law</term> and protection of <term class="no-emphasis">property rights</term> and <term>contractual rights</term> by a country’s government so that markets can work effectively and efficiently. Laws must be clear, public, fair, enforced, and equally applicable to all members of society. Property rights, as you might recall from <link document="m48668">Environmental Protection and Negative Externalities</link> are the rights of individuals and firms to own property and use it as they see fit. If you have $100, you have the right to use that money, whether you spend it, lend it, or keep it in a jar. It is your property. The definition of property includes physical property as well as the right to your training and experience, especially since your training is what determines your livelihood. The use of this property includes the right to enter into contracts with other parties with your property. Individuals or firms must own the property to enter into a contract.</para><para id="fs-idp68243472">Contractual rights, then, are based on property rights and they allow individuals to enter into agreements with others regarding the use of their property providing recourse through the legal system in the event of noncompliance. One example is the employment agreement: a skilled surgeon operates on an ill person and expects to get paid. Failure to pay would constitute a theft of property by the patient; that property being the services provided by the surgeon. In a society with strong property rights and contractual rights, the terms of the patient–surgeon contract will be fulfilled, because the surgeon would have recourse through the court system to extract payment from that individual. Without a legal system that enforces contracts, people would not be likely to enter into contracts for current or future services because of the risk of non-payment. This would make it difficult to transact business and would slow economic growth.</para>
+<para id="fs-idm12026608">The World Bank considers a country’s legal system effective if it upholds property rights and contractual rights. The World Bank has developed a ranking system for countries’ legal systems based on effective protection of property rights and rule-based governance using a scale from 1 to 6, with 1 being the lowest and 6 the highest rating. In 2013, the world average ranking was 2.9. The three countries with the lowest ranking of 1.5 were Afghanistan, the Central African Republic, and Zimbabwe; their GDP per capita was $679, $333, and $1,007 respectively. Afghanistan is cited by the World Bank as having a low standard of living, weak government structure, and lack of adherence to the rule of law, which has stymied its economic growth. The landlocked Central African Republic has poor economic resources as well as political instability and is a source of children used in human trafficking. Zimbabwe has had declining growth since 1998. Land redistribution and price controls have disrupted the economy, and corruption and violence have dominated the political process. Although global economic growth has increased, those countries lacking a clear system of property rights and an independent court system free from corruption have lagged far behind.</para></section>
+
+<section id="fs-idm48268480" class="summary">
+  <title>Key Concepts and Summary</title>
+<para id="fs-idp1813120">Since the early nineteenth century, there has been a spectacular process of long-run economic growth during which the world’s leading economies—mostly those in Western Europe and North America—expanded GDP per capita at an average rate of about 2% per year. In the last half-century, countries like Japan, South Korea, and China have shown the potential to catch up. The extensive process of economic growth, often referred to as modern economic growth, was facilitated by the Industrial Revolution, which increased worker productivity and trade, as well as the development of governance and market institutions.</para></section>
+
+<section id="fs-idp177987792" class="self-check-questions">
+  <title>Self-Check Questions</title>
+  <exercise id="fs-idp114807088">
+    <problem id="fs-idm120446464">
+      <para id="fs-idp184857632">Explain what the Industrial Revolution was and where it began.</para>
+    </problem>
+    <solution id="fs-idp60853024"><para id="fs-idp53513344">The Industrial Revolution refers to the widespread use of power-driven machinery and the economic and social changes that resulted in the first half of the 1800s. Ingenious machines—the steam engine, the power loom, and the steam locomotive—performed tasks that would have taken vast numbers of workers to do. The Industrial Revolution began in Great Britain, and soon spread to the United States, Germany, and other countries.</para></solution>
+  </exercise>
+  <exercise id="fs-idp125789504">
+    <problem id="fs-idp121128272">
+      <para id="fs-idp61272528">Explain the difference between property rights and contractual rights. Why do they matter to economic growth?</para>
+    </problem>
+    <solution id="fs-idp106247248"><para id="fs-idp96026384">Property rights are the rights of individuals and firms to own property and use it as they see fit. Contractual rights are based on property rights and they allow individuals to enter into agreements with others regarding the use of their property providing recourse through the legal system in the event of noncompliance. Economic growth occurs when the standard of living increases in an economy, which occurs when output is increasing and incomes are rising. For this to happen, societies must create a legal environment that gives individuals the ability to use their property to their fullest and highest use, including the right to trade or sell that property. Without a legal system that enforces contracts, people would not be likely to enter into contracts for current or future services because of the risk of non-payment. This would make it difficult to transact business and would slow economic growth.</para></solution>
+  </exercise>
+</section>
+<section id="fs-idm72392576" class="review-questions">
+  <title>Review Questions</title>
+  <exercise id="fs-idm75276384">
+    <problem id="fs-idm27266096">
+      <para id="fs-idp16084992">How did the Industrial Revolution increase the rate of economic growth and income levels in the United States?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm32469520">
+    <problem id="fs-idp19790928">
+      <para id="fs-idp15355552">How much should a nation be concerned if its rate of economic growth is just 2% slower than other nations?</para>
+    </problem>
+  </exercise>
+</section>
+<section id="fs-idp122406048" class="critical-thinking">
+  <title>Critical Thinking Question</title>
+  <exercise id="fs-idp181792048">
+    <problem id="fs-idp69878384">
+      <para id="fs-idp153900864">Over the past 50 years, many countries have experienced an annual growth rate in real GDP per capita greater than that of the United States. Some examples are China, Japan, South Korea, and Taiwan. Does that mean the United States is regressing relative to other countries? Does that mean these countries will eventually overtake the United States in terms of rate of growth of real GDP per capita? Explain.</para>
+    </problem>
+  </exercise>
+</section>
+<section id="fs-idp70556464" class="references">
+<title>References</title>
+<para id="fs-idm3986208">Bolt, Jutta, and Jan Luiten van Zanden. “The Maddison Project: The First Update of the Maddison Project Re-Estimating Growth Before 1820 (Maddison-Project Working Paper WP-4).” <emphasis effect="italics">University of Groningen: Groningen Growth and Development Centre</emphasis>. Last modified January 2013. http://www.ggdc.net/maddison/publications/pdf/wp4.pdf.</para><para id="fs-idp36548336">Central Intelligence Agency. “The World Factbook: Country Comparison GDP (Purchasing Power Parity).” https://www.cia.gov/library/publications/the-world-factbook/rankorder/2001rank.html.</para>
+<para id="fs-idm42063328">DeLong, Brad. “Lighting the Rocket of Growth and Lightening the Toil of Work: Another Outtake from My ‘Slouching Towards Utopia’ MS....” <emphasis effect="italics">This is Brad DeLong's Grasping Reality</emphasis> (blog). September 3, 2013. http://delong.typepad.com/sdj/2013/09/lighting-the-rocket-of-growth-and-lightening-the-toil-of-work-another-outtake-from-my-slouching-towards-utopia-ms.html.</para><para id="fs-idp107058656">Easterlin, Richard A. “The Worldwide Standard of Living since 1800.” <emphasis effect="italics">The Journal of Economic Perspectives</emphasis>. no. 1 (2000): 7–26. http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.14.1.7.</para>
+<para id="fs-idp79167600">Maddison, Angus. <emphasis effect="italics">Contours of the World Economy 1-2030 AD: Essays in Macro-Economic History</emphasis>. Oxford: Oxford University Press, 2007.</para>
+<para id="fs-idm22867952">British Library. “Treasures in Full: Magna Carta.” http://www.bl.uk/treasures/magnacarta/.</para>
+<para id="fs-idp37766768">Rothbard, Murray N. Ludwig von Mises Institute. “Property Rights and the Theory of Contracts.” <emphasis effect="italics">The Ethics of Liberty</emphasis>. Last modified June 22, 2007. http://mises.org/daily/2580.</para>
+<para id="fs-idp24333680">Salois, Matthew J., J. Richard Tiffin, and Kelvin George Balcombe. IDEAS: Research Division of the Federal Reserve Bank of St. Louis. “Impact of Income on Calorie and Nutrient Intakes: A Cross-Country Analysis.” Presention at the annual meeting of the Agricultural and Applied Economics Association, Pittsburg, PA, July 24–26, 2011. http://ideas.repec.org/p/ags/aaea11/103647.html.</para>
+<para id="fs-idp57145536">van Zanden, Jan Luiten. <emphasis effect="italics">The Long Road to the Industrial Revolution: The European Economy in a Global Perspective, 1000–1800 (Global Economic History Series)</emphasis>. Boston: Brill, 2009.</para>
+<para id="fs-idm11368016">The World Bank. “CPIA Property Rights and Rule-based Governance Rating (1=low to 6=high).” http://data.worldbank.org/indicator/IQ.CPA.PROP.XQ.</para>
+<para id="fs-idp1988416">Rex A. Hudson, ed. <emphasis effect="italics">Brazil: A Country Study</emphasis>. “Spectacular Growth, 1968–73.” Washington: GPO for the Library of Congress, 1997. http://countrystudies.us/brazil/64.htm.</para></section>
+
+</content>
+<glossary>
+   <definition id="fs-idm62278688">
+      <term>contractual rights</term>
+      <meaning id="fs-idm40932624">the rights of individuals to enter into agreements with others regarding the use of their property providing recourse through the legal system in the event of noncompliance</meaning>
+    </definition>
+   <definition id="fs-idm60152272">
+      <term>Industrial Revolution</term>
+      <meaning id="fs-idp63441152">the widespread use of power-driven machinery and the economic and social changes that occurred in the first half of the 1800s</meaning>
+    </definition>
+   <definition id="fs-idm69468320">
+      <term>modern economic growth</term>
+      <meaning id="fs-idm52016544">the period of rapid economic growth from 1870 onward</meaning>
+    </definition>
+   <definition id="fs-idp66222480">
+      <term>rule of law</term>
+      <meaning id="fs-idm48257680">the process of enacting laws that protect individual and entity rights to use their property as they see fit. Laws must be clear, public, fair, and enforced, and applicable to all members of society</meaning>
+    </definition>
+</glossary>
+
+
+</document>

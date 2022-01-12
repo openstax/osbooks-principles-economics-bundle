@@ -1,0 +1,183 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Explicit and Implicit Costs, and Accounting and Economic Profit</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m57235</md:content-id>
+  <md:title>Explicit and Implicit Costs, and Accounting and Economic Profit</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Explain the difference between explicit costs and implicit costs</item>
+<item>Understand the relationship between cost and revenue</item>
+</list></md:abstract>
+  <md:uuid>3304d112-cd4c-4dd7-a35e-07f69bf72a78</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm23199968"><term class="no-emphasis">Private enterprise</term>, the ownership of businesses by private individuals, is a hallmark of the U.S. economy. When people think of businesses, often giants like Wal-Mart, Microsoft, or General Motors come to mind. But firms come in all sizes, as shown in <link target-id="Table_07_01" document=""/>. The vast majority of American firms have fewer than 20 employees. As of 2010, the U.S. Census Bureau counted 5.7 million firms with employees in the U.S. economy. Slightly less than half of all the workers in private firms are at the 17,000 large firms, meaning they employ more than 500 workers. Another 35% of workers in the U.S. economy are at firms with fewer than 100 workers. These small-scale businesses include everything from dentists and lawyers to businesses that mow lawns or clean houses. Indeed, <link target-id="Table_07_01" document=""/> does not include a separate category for the millions of small “non-employer” businesses where a single owner or a few partners are not officially paid wages or a salary, but simply receive whatever they can earn.</para><table id="Table_07_01" summary="U.S. firms with 0-9 employees make up 79.2% of firms and pay 11% of total employment. Firms with 10-19 employees make up 10.8% of firms and pay 7.4% of total employment. Firms with 20-99 employees make up 8.3% of firms and pay 16.6% of total employment. Firms with 100-499 employees make up 1.4% of firms and pay 14.2% of total employment. Firms with 500 or more employees make up 0.3% of total firms and pay 49.8% of total employment."><title>Range in Size of U.S. Firms</title>
+<tgroup cols="3"><colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+<row>
+	<entry>Number of Employees</entry>
+	<entry>Firms (% of total firms)</entry>
+	<entry>Number of Paid Employees (% of total employment)</entry>
+
+</row>
+</thead>
+
+      <tbody>
+        <row>
+          <entry> <emphasis>Total</emphasis></entry>
+          <entry><emphasis>5,734,538</emphasis></entry>
+          <entry><emphasis>112.0 million</emphasis></entry>
+        </row>
+
+        <row>
+          <entry>0–9</entry>
+          <entry>4,543,315 (79.2%)</entry>
+          <entry>12.3 million (11.0%)</entry>
+        </row>
+
+        <row>
+          <entry>10–19</entry>
+          <entry>617,089 (10.8%)</entry>
+          <entry>8.3 million (7.4%)</entry>
+        </row>
+
+            <row>
+          <entry>20–99</entry>
+          <entry>475,125 (8.3%)</entry>
+          <entry>18.6 million (16.6%)</entry>
+        </row>
+
+        <row>
+          <entry>100–499</entry>
+          <entry>81,773 (1.4%)</entry>
+          <entry>15.9 million (14.2%)</entry>
+        </row>
+
+        <row>
+          <entry>500 or more </entry>
+          <entry>17,236 (0.30%)</entry>
+          <entry>50.9 million (49.8%)</entry>
+        </row>
+
+      </tbody>   
+        
+
+
+
+
+
+
+
+</tgroup><caption>(Source: U.S. Census, 2010 www.census.gov)</caption>
+</table><para id="fs-idm21540240">Each of these businesses, regardless of size or complexity, tries to earn a profit: </para>
+<equation id="eip-244"><m:math><m:mtext>Profit</m:mtext><m:mo>=</m:mo><m:mtext>Total Revenue – Total Cost</m:mtext></m:math></equation><para id="fs-idm55439424">Total <term>revenue</term> is the income brought into the firm from selling its products. It is calculated by multiplying the price of the product times the quantity of output sold:</para>
+<equation id="eip-624"><m:math><m:mtext>Total Revenue</m:mtext><m:mo>=</m:mo><m:mtext>Price × Quantity</m:mtext></m:math></equation><para id="fs-idp3903648">We will see in the following chapters that revenue is a function of the demand for the firm’s products.</para>
+<para id="fs-idm3611344">We can distinguish between two types of cost: explicit and implicit. <term>Explicit costs</term> are out-of-pocket costs, that is, payments that are actually made. Wages that a firm pays its employees or rent that a firm pays for its office are explicit costs. <term>Implicit costs</term> are more subtle, but just as important. They represent the opportunity cost of using resources already owned by the firm. Often for small businesses, they are resources contributed by the owners; for example, working in the business while not getting a formal salary, or using the ground floor of a home as a retail store. Implicit costs also allow for depreciation of goods, materials, and equipment that are necessary for a company to operate. (See the Work it Out feature for an extended example.)</para>
+<para id="fs-idm45004656">These two definitions of cost are important for distinguishing between two conceptions of profit, accounting profit and economic profit. <term>Accounting profit</term> is a cash concept. It means total revenue minus explicit costs—the difference between dollars brought in and dollars paid out. <term>Economic profit</term> is total revenue minus total cost, including both explicit and implicit costs. The difference is important because even though a business pays income taxes based on its accounting profit, whether or not it is economically successful depends on its economic profit.</para>
+<note id="fs-idp6233616" class="economics workout">
+      <title>Calculating Implicit Costs</title>
+      <para id="fs-idp26029040">Consider the following example. Fred currently works for a corporate law firm. He is considering opening his own legal practice, where he expects to earn $200,000 per year once he gets established. To run his own firm, he would need an office and a law clerk. He has found the perfect office, which rents for $50,000 per year. A law clerk could be hired for $35,000 per year. If these figures are accurate, would Fred’s legal practice be profitable?</para>
+<para id="fs-idm21312000">Step 1. First you have to calculate the costs. You can take what you know about explicit costs and total them:</para>
+<equation id="eip-170"><m:math><m:mtable columnalign="left center"><m:mtr><m:mtd><m:mtext>Office rental</m:mtext><m:mo>:</m:mo></m:mtd><m:mtd><m:mtext>   $50,000</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Law clerk's salary</m:mtext><m:mo>:</m:mo></m:mtd><m:mtd><m:munder><m:mtext>+$35,000</m:mtext><m:mtext>____________</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Total explicit costs</m:mtext><m:mo>:</m:mo></m:mtd><m:mtd><m:mtext>   $85,000</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idp46012880">Step 2. Subtracting the explicit costs from the revenue gives you the accounting profit.</para>
+<equation id="eip-655"><m:math><m:mtable columnalign="left center"><m:mtr><m:mtd><m:mtext>Revenues</m:mtext><m:mo>:</m:mo></m:mtd><m:mtd><m:mtext>$200,000</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Explicit costs</m:mtext><m:mo>:</m:mo></m:mtd><m:mtd><m:munder><m:mtext>–$85,000</m:mtext><m:mtext>____________</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Accounting profit</m:mtext><m:mo>:</m:mo></m:mtd><m:mtd><m:mtext>$115,000</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idp20321520">But these calculations consider only the explicit costs. To open his own practice, Fred would have to quit his current job, where he is earning an annual salary of $125,000. This would be an implicit cost of opening his own firm.</para>
+      <para id="fs-idm73628736">Step 3. You need to subtract both the explicit and implicit costs to determine the true economic profit:</para>
+<equation id="eip-239"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Economic profit</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mtext>total revenues – explicit costs – implicit costs</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mtext>$200,000 – $85,000 – $125,000</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mtext>–$10,000 per year</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idp13931712">Fred would be losing $10,000 per year. That does not mean he would not want to open his own business, but it does mean he would be earning $10,000 less than if he worked for the corporate firm.</para>
+      <para id="fs-idm33926096">Implicit costs can include other things as well. Maybe Fred values his leisure time, and starting his own firm would require him to put in more hours than at the corporate firm. In this case, the lost leisure would also be an implicit cost that would subtract from economic profits.</para>
+    </note>
+<para id="fs-idm90065088">Now that we have an idea about the different types of costs, let’s look at cost structures. A firm’s cost structure in the long run may be different from that in the short run. We turn to that distinction in the next section.</para>
+<section id="fs-idp27288672" class="summary">
+  <title>Key Concepts and Summary</title>
+  <para id="fs-idm22858432">Privately owned firms are motivated to earn profits. Profit is the difference between revenues and costs. While accounting profit considers only explicit costs, economic profit considers both explicit and implicit costs.</para>
+</section>
+<section id="fs-idm28930832" class="self-check-questions">
+  <title>Self-Check Questions</title>
+  <exercise id="fs-idm18450688">
+    <problem id="fs-idp730512">
+      <para id="fs-idm64765376">A firm had sales revenue of $1 million last year. It spent $600,000 on labor, $150,000 on capital and $200,000 on materials. What was the firm’s accounting profit? </para>
+    </problem>
+    <solution id="fs-idm37741456"><para id="fs-idp11284528">Accounting profit = total revenues minus explicit costs = $1,000,000 – ($600,000 + $150,000 + $200,000) = $50,000.</para></solution>
+  </exercise>
+  <exercise id="fs-idp12466368">
+    <problem id="fs-idm33925456">
+      <para id="fs-idm31452496">Continuing from <link target-id="fs-idm18450688" document=""/>, the firm’s factory sits on land owned by the firm that could be rented out for $30,000 per year. What was the firm’s economic profit last year? </para>
+    </problem>
+    <solution id="fs-idm14827104"><para id="fs-idm2473280">Economic profit = accounting profit minus implicit cost = $50,000 – $30,000 = $20,000.</para></solution>
+  </exercise>
+</section>
+<section id="fs-idm46210816" class="review-questions">
+  <title>Review Questions</title>
+  <exercise id="fs-idm30960832">
+    <problem id="fs-idp20874144">
+      <para id="fs-idp34612160">What are explicit and implicit costs?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm5313344">
+    <problem id="fs-idm10444752">
+      <para id="fs-idp1066896">Would an interest payment on a loan to a firm be considered an explicit or implicit cost? </para>
+    </problem>
+  </exercise>
+
+  <exercise id="fs-idm769280">
+    <problem id="fs-idp8705200">
+      <para id="fs-idp21876496">What is the difference between accounting and economic profit?</para>
+    </problem>
+  </exercise>
+</section>
+<section id="fs-idm38754320" class="critical-thinking">
+  <title>Critical Thinking Questions</title>
+  <exercise id="fs-idp67302192">
+    <problem id="fs-idp51187328">
+      <para id="fs-idp33914720">Small “Mom and Pop firms,” like inner city grocery stores, sometimes exist even though they do not earn economic profits. How can you explain this?</para>
+    </problem>
+  </exercise>
+</section>
+<section id="fs-idp239408" class="problems">
+  <title>Problems</title>
+  <exercise id="fs-idp42899008">
+    <problem id="fs-idp74570352">
+      <para id="fs-idp70057904">A firm is considering an investment that will earn a 6% rate of return. If it were to borrow the money, it would have to pay 8% interest on the loan, but it currently has the cash, so it will not need to borrow. Should the firm make the investment? Show your work.</para>
+    </problem>
+  </exercise>
+</section>
+<section id="fs-idm17763872" class="references"><title>References</title>
+<para id="fs-idp48815200">2010 U.S. Census. www.census.gov.</para></section>
+</content>
+<glossary>
+   <definition id="fs-idp47083712">
+      <term>accounting profit</term>
+      <meaning id="fs-idm27437232">total revenues minus explicit costs, including depreciation</meaning>
+    </definition>
+   <definition id="fs-idp43822992">
+      <term>economic profit</term>
+      <meaning id="fs-idp14606240">total revenues minus total costs (explicit plus implicit costs)</meaning>
+    </definition>
+   <definition id="fs-idm12310608">
+      <term>explicit costs</term>
+      <meaning id="fs-idm37283888">out-of-pocket costs for a firm, for example, payments for wages and salaries, rent, or materials</meaning>
+    </definition>
+   <definition id="fs-idp34356896">
+      <term>firm</term>
+      <meaning id="fs-idm42325936">an organization that combines inputs of labor, capital, land, and raw or finished component materials to produce outputs.</meaning>
+    </definition>
+   <definition id="fs-idp2531392">
+      <term>implicit costs</term>
+      <meaning id="fs-idp42749744">opportunity cost of resources already owned by the firm and used in business, for example, expanding a factory onto land already owned</meaning>
+    </definition>
+   <definition id="fs-idm80052912">
+      <term>private enterprise</term>
+      <meaning id="fs-idp13338576">the ownership of businesses by private individuals</meaning>
+    </definition>
+   <definition id="fs-idm40196320">
+      <term>production</term>
+      <meaning id="fs-idm42331312">the process of combining inputs to produce outputs, ideally of a value greater than the value of the inputs</meaning>
+    </definition>
+   <definition id="fs-idm19677984">
+      <term>revenue</term>
+      <meaning id="fs-idp6970304">income from selling a firm’s product; defined as price times quantity sold</meaning>
+    </definition>
+</glossary>
+</document>

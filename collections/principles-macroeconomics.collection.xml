@@ -1,0 +1,908 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col11626</md:content-id>
+  <md:title>Principles of Macroeconomics</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>4061c832-098e-4b3c-a1d9-7eb593a2cb31</md:uuid>
+<md:slug>principles-macroeconomics</md:slug>
+</metadata>
+
+  <col:content>
+    
+      <col:module document="m49460"/>
+        
+      
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Welcome to Economics!</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48590"/>
+        
+      
+    
+    
+      <col:module document="m48591"/>
+        
+      
+    
+    
+      <col:module document="m48592"/>
+        
+      
+    
+    
+      <col:module document="m48593"/>
+        
+      
+    
+    
+      <col:module document="m48594"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Choice in a World of Scarcity</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48602"/>
+        
+      
+    
+    
+      <col:module document="m48605"/>
+        
+      
+    
+    
+      <col:module document="m48607"/>
+        
+      
+    
+    
+      <col:module document="m48608"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Demand and Supply</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48628"/>
+        
+      
+    
+    
+      <col:module document="m48629"/>
+        
+      
+    
+    
+      <col:module document="m48630"/>
+        
+      
+    
+    
+      <col:module document="m48631"/>
+        
+      
+    
+    
+      <col:module document="m48632"/>
+        
+      
+    
+    
+      <col:module document="m50323"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Labor and Financial Markets</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48636"/>
+        
+      
+    
+    
+      <col:module document="m48637"/>
+        
+      
+    
+    
+      <col:module document="m48638"/>
+        
+      
+    
+    
+      <col:module document="m48639"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Elasticity</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48611"/>
+        
+      
+    
+    
+      <col:module document="m48614"/>
+        
+      
+    
+    
+      <col:module document="m48616"/>
+        
+      
+    
+    
+      <col:module document="m48618"/>
+        
+      
+    
+    
+      <col:module document="m48619"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Macroeconomic Perspective</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48705"/>
+        
+      
+    
+    
+      <col:module document="m48708"/>
+        
+      
+    
+    
+      <col:module document="m48709"/>
+        
+      
+    
+    
+      <col:module document="m48710"/>
+        
+      
+    
+    
+      <col:module document="m48711"/>
+        
+      
+    
+    
+      <col:module document="m48712"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Economic Growth</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48713"/>
+        
+      
+    
+    
+      <col:module document="m48714"/>
+        
+      
+    
+    
+      <col:module document="m48715"/>
+        
+      
+    
+    
+      <col:module document="m48716"/>
+        
+      
+    
+    
+      <col:module document="m48718"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Unemployment</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48719"/>
+        
+      
+    
+    
+      <col:module document="m48720"/>
+        
+      
+    
+    
+      <col:module document="m48721"/>
+        
+      
+    
+    
+      <col:module document="m48722"/>
+        
+      
+    
+    
+      <col:module document="m48723"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Inflation</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48724"/>
+        
+      
+    
+    
+      <col:module document="m48725"/>
+        
+      
+    
+    
+      <col:module document="m48726"/>
+        
+      
+    
+    
+      <col:module document="m48727"/>
+        
+      
+    
+    
+      <col:module document="m48729"/>
+        
+      
+    
+    
+      <col:module document="m48730"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The International Trade and Capital Flows</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48731"/>
+        
+      
+    
+    
+      <col:module document="m48732"/>
+        
+      
+    
+    
+      <col:module document="m48733"/>
+        
+      
+    
+    
+      <col:module document="m48734"/>
+        
+      
+    
+    
+      <col:module document="m48736"/>
+        
+      
+    
+    
+      <col:module document="m48737"/>
+        
+      
+    
+    
+      <col:module document="m48738"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Aggregate Demand/Aggregate Supply Model</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48739"/>
+        
+      
+    
+    
+      <col:module document="m48740"/>
+        
+      
+    
+    
+      <col:module document="m48741"/>
+        
+      
+    
+    
+      <col:module document="m48742"/>
+        
+      
+    
+    
+      <col:module document="m48745"/>
+        
+      
+    
+    
+      <col:module document="m48747"/>
+        
+      
+    
+    
+      <col:module document="m48748"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Keynesian Perspective</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48749"/>
+        
+      
+    
+    
+      <col:module document="m48750"/>
+        
+      
+    
+    
+      <col:module document="m48751"/>
+        
+      
+    
+    
+      <col:module document="m48753"/>
+        
+      
+    
+    
+      <col:module document="m48754"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Neoclassical Perspective</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48756"/>
+        
+      
+    
+    
+      <col:module document="m48758"/>
+        
+      
+    
+    
+      <col:module document="m48759"/>
+        
+      
+    
+    
+      <col:module document="m48760"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Money and Banking</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48761"/>
+        
+      
+    
+    
+      <col:module document="m48762"/>
+        
+      
+    
+    
+      <col:module document="m48763"/>
+        
+      
+    
+    
+      <col:module document="m48766"/>
+        
+      
+    
+    
+      <col:module document="m48767"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Monetary Policy and Bank Regulation</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48768"/>
+        
+      
+    
+    
+      <col:module document="m48770"/>
+        
+      
+    
+    
+      <col:module document="m48771"/>
+        
+      
+    
+    
+      <col:module document="m48772"/>
+        
+      
+    
+    
+      <col:module document="m48773"/>
+        
+      
+    
+    
+      <col:module document="m48774"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Exchange Rates and International Capital Flows</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48776"/>
+        
+      
+    
+    
+      <col:module document="m48784"/>
+        
+      
+    
+    
+      <col:module document="m48785"/>
+        
+      
+    
+    
+      <col:module document="m48788"/>
+        
+      
+    
+    
+      <col:module document="m48790"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Government Budgets and Fiscal Policy</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48791"/>
+        
+      
+    
+    
+      <col:module document="m48792"/>
+        
+      
+    
+    
+      <col:module document="m48793"/>
+        
+      
+    
+    
+      <col:module document="m48794"/>
+        
+      
+    
+    
+      <col:module document="m48795"/>
+        
+      
+    
+    
+      <col:module document="m48797"/>
+        
+      
+    
+    
+      <col:module document="m48798"/>
+        
+      
+    
+    
+      <col:module document="m48799"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Impacts of Government Borrowing</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48800"/>
+        
+      
+    
+    
+      <col:module document="m48802"/>
+        
+      
+    
+    
+      <col:module document="m48807"/>
+        
+      
+    
+    
+      <col:module document="m48808"/>
+        
+      
+    
+    
+      <col:module document="m48809"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Macroeconomic Policy Around the World</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48811"/>
+        
+      
+    
+    
+      <col:module document="m48812"/>
+        
+      
+    
+    
+      <col:module document="m48813"/>
+        
+      
+    
+    
+      <col:module document="m48814"/>
+        
+      
+    
+    
+      <col:module document="m48815"/>
+        
+      
+    
+    
+      <col:module document="m48816"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>International Trade</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48818"/>
+        
+      
+    
+    
+      <col:module document="m48819"/>
+        
+      
+    
+    
+      <col:module document="m48820"/>
+        
+      
+    
+    
+      <col:module document="m48822"/>
+        
+      
+    
+    
+      <col:module document="m48823"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Globalization and Protectionism</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48824"/>
+        
+      
+    
+    
+      <col:module document="m48825"/>
+        
+      
+    
+    
+      <col:module document="m48827"/>
+        
+      
+    
+    
+      <col:module document="m48828"/>
+        
+      
+    
+    
+      <col:module document="m48829"/>
+        
+      
+    
+    
+      <col:module document="m48830"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      <col:module document="m48831"/>
+        
+      
+    
+    
+      <col:module document="m48835"/>
+        
+      
+    
+  </col:content>
+</col:collection>

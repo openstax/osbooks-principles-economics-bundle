@@ -1,0 +1,382 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Changes in Equilibrium Price and Quantity: The Four-Step Process</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m48631</md:content-id>
+  <md:title>Changes in Equilibrium Price and Quantity: The Four-Step Process</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Identify equilibrium price and quantity through the four-step process</item>
+<item>Graph equilibrium price and quantity</item>
+<item>Contrast shifts of demand or supply and movements along a demand or supply curve</item>
+<item>Graph demand and supply curves, including equilibrium price and quantity, based on real-world examples</item>
+</list></md:abstract>
+  <md:uuid>61ed0adf-ce2e-4008-81c4-6c70dd64008b</md:uuid>
+</metadata>
+
+<content>
+  
+<para id="fs-idp3165600">Let’s begin this discussion with a single economic event. It might be an event that affects demand, like a change in income, population, tastes, prices of substitutes or complements, or expectations about future prices. It might be an event that affects supply, like a change in natural conditions, input prices, or technology, or government policies that affect production. How does this economic event affect equilibrium price and quantity? We will analyze this question using a four-step process.</para>
+<para id="fs-idm52395200">Step 1. Draw a demand and supply model before the economic change took place. To establish the model requires four standard pieces of information: The law of demand, which tells us the slope of the demand curve; the law of supply, which gives us the slope of the supply curve; the shift variables for demand; and the shift variables for supply. From this model, find the initial equilibrium values for price and quantity.</para>
+<para id="fs-idp55222320">Step 2. Decide whether the economic change being analyzed affects demand or supply. In other words, does the event refer to something in the list of demand factors or supply factors?</para>
+<para id="fs-idp24321312">Step 3. Decide whether the effect on demand or supply causes the curve to shift to the right or to the left, and sketch the new demand or supply curve on the diagram. In other words, does the event increase or decrease the amount consumers want to buy or producers want to sell?</para>
+<para id="fs-idm53526400">Step 4. Identify the new equilibrium and then compare the original equilibrium price and quantity to the new equilibrium price and quantity.</para>
+<para id="fs-idp48158496">Let’s consider one example that involves a shift in supply and one that involves a shift in demand. Then we will consider an example where both supply and demand shift.</para>
+
+
+
+
+<section id="fs-idm95664464">
+<title>Good Weather for Salmon Fishing</title>
+<para id="fs-idm96936176">In the summer of 2000, weather conditions were excellent for commercial salmon fishing off the California coast. Heavy rains meant higher than normal levels of water in the rivers, which helps the salmon to breed. Slightly cooler ocean temperatures stimulated the growth of plankton, the microscopic organisms at the bottom of the ocean food chain, providing everything in the ocean with a hearty food supply. The ocean stayed calm during fishing season, so commercial fishing operations did not lose many days to bad weather. How did these climate conditions affect the quantity and price of salmon? <link target-id="CNX_Econ_C03_010"/> illustrates the four-step approach, which is explained below, to work through this problem. <link target-id="Table_03_07"/> provides the information to work the problem as well.</para>
+
+
+
+<figure id="CNX_Econ_C03_010">
+<title>Good Weather for Salmon Fishing: The Four-Step Process </title>
+<media id="fs-idp26858208" alt="The graph represents the four-step approach to determining shifts in the new equilibrium price and quantity in response to good weather for salmon fishing.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C03_010.jpg"/>
+</media>
+<caption>Unusually good weather leads to changes in the price and quantity of salmon.</caption>
+</figure>
+
+<table id="Table_03_07" summary="The table is called “Salmon Fishing.” It has 4 columns and 7 rows. The four columns are called “Price per Pound,” “Quantity Supplied in 1999,” “Quantity Supplied in 2000,” and “Quantity Demanded.” Row 1: Price per Pound: $2.00. Quantity Supplied in 1999: 80. Quantity Supplied in 2000: 400. Quantity Demanded: 840. Row 2: Price per Pound: $2.25. Quantity Supplied in 1999: 120. Quantity Supplied in 2000: 480. Quantity Demanded: 680. Row 3: Price per Pound: $2.50. Quantity Supplied in 1999: 160. Quantity Supplied in 2000: 550. Quantity Demanded: 550. Row 4: Price per Pound: $2.75. Quantity Supplied in 1999: 200. Quantity Supplied in 2000: 600. Quantity Demanded: 450. Row 5: Price per Pound: $3.00. Quantity Supplied in 1999: 230. Quantity Supplied in 2000: 640. Quantity Demanded: 350. Row 6: Price per Pound: $3.25. Quantity Supplied in 1999: 250. Quantity Supplied in 2000: 670. Quantity Demanded: 250. Row 7: Price per Pound: $3.50. Quantity Supplied in 1999: 270. Quantity Supplied in 2000: 700. Quantity Demanded: 200.">
+<title>Salmon Fishing</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<thead>
+<row>
+<entry>Price per Pound</entry>
+<entry>Quantity Supplied in 1999</entry>
+<entry>Quantity Supplied in 2000</entry>
+<entry>Quantity Demanded</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>$2.00</entry>
+<entry>80</entry>
+<entry>400</entry>
+<entry>840</entry>
+</row>
+<row>
+<entry>$2.25</entry>
+<entry>120</entry>
+<entry>480</entry>
+<entry>680</entry>
+</row>
+<row>
+<entry>$2.50</entry>
+<entry>160</entry>
+<entry>550</entry>
+<entry>550</entry>
+</row>
+<row>
+<entry>$2.75</entry>
+<entry>200</entry>
+<entry>600</entry>
+<entry>450</entry>
+</row>
+<row>
+<entry>$3.00</entry>
+<entry>230</entry>
+<entry>640</entry>
+<entry>350</entry>
+</row>
+<row>
+<entry>$3.25</entry>
+<entry>250</entry>
+<entry>670</entry>
+<entry>250</entry>
+</row>
+<row>
+<entry>$3.50</entry>
+<entry>270</entry>
+<entry>700</entry>
+<entry>200</entry>
+</row>
+</tbody>
+</tgroup>
+<caption/>
+</table>
+
+
+<para id="fs-idm33623968">Step 1. Draw a demand and supply model to illustrate the market for salmon in the year before the good weather conditions began. The demand curve D<sub>0</sub> and the supply curve S<sub>0</sub> show that the original equilibrium price is $3.25 per pound and the original equilibrium quantity is 250,000 fish. (This price per pound is what commercial buyers pay at the fishing docks; what consumers pay at the grocery is higher.)</para><para id="fs-idm60200416">Step 2. Did the economic event affect supply or demand? Good weather is an example of a natural condition that affects supply.</para>
+<para id="fs-idp54862544">Step 3. Was the effect on supply an increase or a decrease? Good weather is a change in natural conditions that increases the quantity supplied at any given price. The supply curve shifts to the right, moving from the original supply curve S<sub>0</sub> to the new supply curve S<sub>1</sub>, which is shown in both the table and the figure.</para><para id="fs-idm55833264">Step 4. Compare the new equilibrium price and quantity to the original equilibrium. At the new equilibrium E<sub>1</sub>, the equilibrium price falls from $3.25 to $2.50, but the equilibrium quantity increases from 250,000 to 550,000 salmon. Notice that the equilibrium quantity demanded increased, even though the demand curve did not move.</para><para id="fs-idm29543312">In short, good weather conditions increased supply of the California commercial salmon. The result was a higher equilibrium quantity of salmon bought and sold in the market at a lower price.</para>
+</section>
+
+
+
+<section id="fs-idm22656960">
+<title>Newspapers and the Internet</title>
+<para id="fs-idp108309040">According to the <term class="no-emphasis">Pew Research Center for People and the Press</term>, more and more people, especially younger people, are getting their news from online and digital sources. The majority of U.S. adults now own smartphones or tablets, and most of those Americans say they use them in part to get the news. From 2004 to 2012, the share of Americans who reported getting their news from digital sources increased from 24% to 39%. How has this affected consumption of print news media, and radio and television news? <link target-id="CNX_Econ_C03_011"/> and the text below illustrates using the four-step analysis to answer this question.</para>
+
+
+
+<figure id="CNX_Econ_C03_011">
+<title>The Print News Market: A Four-Step Analysis </title>
+<media id="fs-idm101585376" alt="The graph represents the four-step approach to determining changes in equilibrium price and quantity of print news.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C03_011.jpg"/>
+</media>
+<caption>A change in tastes from print news sources to digital sources results in a leftward shift in demand for the former. The result is a decrease in both equilibrium price and quantity.</caption>
+</figure>
+
+<para id="fs-idm7452320">Step 1. Develop a demand and supply model to think about what the market looked like before the event. The demand curve D<sub>0</sub> and the supply curve S<sub>0</sub> show the original relationships. In this case, the analysis is performed without specific numbers on the price and quantity axis.</para><para id="fs-idm103615536">Step 2. Did the change described affect supply or demand? A change in tastes, from traditional news sources (print, radio, and television) to digital sources, caused a change in demand for the former.</para>
+<para id="fs-idm63975312">Step 3. Was the effect on demand positive or negative? A shift to digital news sources will tend to mean a lower quantity demanded of traditional news sources at every given price, causing the demand curve for print and other traditional news sources to shift to the left, from D<sub>0</sub> to D<sub>1</sub>.</para>
+<para id="fs-idm25008960">Step 4. Compare the new equilibrium price and quantity to the original equilibrium price. The new equilibrium (E<sub>1</sub>) occurs at a lower quantity and a lower price than the original equilibrium (E<sub>0</sub>).</para>
+<para id="fs-idp13978336">The decline in print news reading predates 2004. Print newspaper circulation peaked in 1973 and has declined since then due to competition from television and radio news. In 1991, 55% of Americans indicated they got their news from print sources, while only 29% did so in 2012. Radio news has followed a similar path in recent decades, with the share of Americans getting their news from radio declining from 54% in 1991 to 33% in 2012. Television news has held its own over the last 15 years, with a market share staying in the mid to upper fifties. What does this suggest for the future, given that two-thirds of Americans under 30 years old say they do not get their news from television at all?</para>
+</section>
+
+
+<section id="fs-idm18058720">
+<title>The Interconnections and Speed of Adjustment in Real Markets</title>
+<para id="fs-idm116209728">In the real world, many factors that affect demand and supply can change all at once. For example, the demand for cars might increase because of rising incomes and population, and it might decrease because of rising gasoline prices (a complementary good). Likewise, the supply of cars might increase because of innovative new technologies that reduce the cost of car production, and it might decrease as a result of new government regulations requiring the installation of costly pollution-control technology.</para>
+<para id="fs-idm172967584">Moreover, rising incomes and population or changes in gasoline prices will affect many markets, not just cars. How can an economist sort out all these interconnected events? The answer lies in the <term class="no-emphasis"><emphasis effect="italics">ceteris paribus</emphasis></term> assumption. Look at how each economic event affects each market, one event at a time, holding all else constant. Then combine the analyses to see the net effect.</para></section>
+
+
+
+<section id="fs-idm113280976">
+<title>A Combined Example</title>
+<para id="fs-idm42433440">The U.S. Postal Service is facing difficult challenges. Compensation for postal workers tends to increase most years due to cost-of-living increases. At the same time, more and more people are using email, text, and other digital message forms such as Facebook and Twitter to communicate with friends and others. What does this suggest about the continued viability of the Postal Service? <link target-id="CNX_Econ_C03_029"/> and the text below illustrates using the four-step analysis to answer this question.</para>
+
+<figure id="CNX_Econ_C03_029">
+<title>Higher Compensation for Postal Workers: A Four-Step Analysis </title>
+<media id="fs-idm73597216" alt="This image has two panels. The one on the left shows the four step analysis of higher compensation for postal workers. The one on the right shows the four-step analysis of a change in tastes away from Postal Services.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C03_029.jpg"/>
+</media>
+<caption>(a) Higher labor compensation causes a leftward shift in the supply curve, a decrease in the equilibrium quantity, and an increase in the equilibrium price. (b) A change in tastes away from Postal Services causes a leftward shift in the demand curve, a decrease in the equilibrium quantity, and a decrease in the equilibrium price.</caption>
+</figure>
+
+
+
+<para id="fs-idm137013200">Since this problem involves two disturbances, we need two four-step analyses, the first to analyze the effects of higher compensation for postal workers, the second to analyze the effects of many people switching from “snailmail” to email and other digital messages.</para>
+<para id="fs-idm97110416"> <link target-id="CNX_Econ_C03_029"/> (a) shows the shift in supply discussed in the following steps.</para>
+<para id="fs-idm116915856">Step 1. Draw a demand and supply model to illustrate what the market for the U.S. Postal Service looked like before this scenario starts. The demand curve D<sub>0</sub> and the supply curve S<sub>0</sub> show the original relationships.</para>
+<para id="fs-idp2072240">Step 2. Did the change described affect supply or demand? Labor compensation is a cost of production. A change in production costs caused a change in supply for the Postal Service.</para>
+<para id="fs-idm46298080">Step 3. Was the effect on supply positive or negative? Higher labor compensation leads to a lower quantity supplied of postal services at every given price, causing the supply curve for postal services to shift to the left, from S<sub>0</sub> to S<sub>1</sub>.
+</para><para id="fs-idm108001552">Step 4. Compare the new equilibrium price and quantity to the original equilibrium price. The new equilibrium (E<sub>1</sub>) occurs at a lower quantity and a higher price than the original equilibrium (E<sub>0</sub>).</para>
+<para id="fs-idm109410240"> <link target-id="CNX_Econ_C03_029"/> (b) shows the shift in demand discussed in the following steps.</para>
+<para id="fs-idm168055520">Step 1. Draw a demand and supply model to illustrate what the market for U.S. Postal Services looked like before this scenario starts. The demand curve D<sub>0</sub> and the supply curve S<sub>0</sub> show the original relationships. Note that this diagram is independent from the diagram in panel (a).</para><para id="fs-idm133417648">Step 2. Did the change described affect supply or demand? A change in tastes away from snailmail toward digital messages will cause a change in demand for the Postal Service.</para>
+<para id="fs-idm138088448">Step 3. Was the effect on demand positive or negative? A change in tastes away from snailmail toward digital messages causes lower quantity demanded of postal services at every given price, causing the demand curve for postal services to shift to the left, from D<sub>0</sub> to D<sub>1</sub>.</para><para id="fs-idm46703552">Step 4. Compare the new equilibrium price and quantity to the original equilibrium price. The new equilibrium (E<sub>2</sub>) occurs at a lower quantity and a lower price than the original equilibrium (E<sub>0</sub>).</para>
+<para id="fs-idm96669440">The final step in a scenario where both supply and demand shift is to combine the two individual analyses to determine what happens to the equilibrium quantity and price. Graphically, we superimpose the previous two diagrams one on top of the other, as in <link target-id="CNX_Econ_C03_030"/>.</para>
+
+
+
+<figure id="CNX_Econ_C03_030">
+<title>Combined Effect of Decreased Demand and Decreased Supply </title>
+<media id="fs-idm32216592" alt="The graph shows a leftward supply shift as well as a leftward demand shift.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C03_030.jpg"/>
+</media>
+<caption>Supply and demand shifts cause changes in equilibrium price and quantity.</caption>
+</figure>
+<para id="fs-idm21376496">Following are the results:</para>
+<para id="fs-idm31866688">Effect on Quantity: The effect of higher labor compensation on Postal Services because it raises the cost of production is to decrease the equilibrium quantity. The effect of a change in tastes away from snailmail is to decrease the equilibrium quantity. Since both shifts are to the left, the overall impact is a decrease in the equilibrium quantity of Postal Services (Q<sub>3</sub>). This is easy to see graphically, since Q<sub>3</sub> is to the left of Q<sub>0</sub>.</para>
+<para id="fs-idm130423904">Effect on Price: The overall effect on price is more complicated. The effect of higher labor compensation on Postal Services, because it raises the cost of production, is to increase the equilibrium price. The effect of a change in tastes away from snailmail is to decrease the equilibrium price. Since the two effects are in opposite directions, unless we know the magnitudes of the two effects, the overall effect is unclear. This is not unusual. When both curves shift, typically we can determine the overall effect on price or on quantity, but not on both. In this case, we determined the overall effect on the equilibrium quantity, but not on the equilibrium price. In other cases, it might be the opposite.</para><para id="fs-idm130104928">The next Clear It Up feature focuses on the difference between shifts of supply or demand and movements along a curve.</para><note id="fs-idp22029344" class="economics clearup">
+<title>What is the difference between shifts of demand or supply versus movements along a demand or supply curve?</title>
+<para id="fs-idm12550704">One common mistake in applying the demand and supply framework is to confuse the shift of a demand or a supply curve with movement along a demand or supply curve. As an example, consider a problem that asks whether a drought will increase or decrease the equilibrium quantity and equilibrium price of wheat. Lee, a student in an introductory economics class, might reason:</para>
+<para id="fs-idp41575248"> “Well, it is clear that a drought reduces supply, so I will shift back the supply curve, as in the shift from the original supply curve S<sub>0</sub> to S<sub>1</sub> shown on the diagram (called Shift 1). So the equilibrium moves from E<sub>0</sub> to E<sub>1</sub>, the <term class="no-emphasis">equilibrium quantity</term> is lower and the equilibrium price is higher. Then, a higher price makes farmers more likely to supply the good, so the supply curve shifts right, as shown by the shift from S<sub>1</sub> to S<sub>2</sub>, on the diagram (shown as Shift 2), so that the equilibrium now moves from E<sub>1</sub> to E<sub>2</sub>. The higher price, however, also reduces demand and so causes demand to shift back, like the shift from the original demand curve, D<sub>0</sub> to D<sub>1</sub> on the diagram (labeled Shift 3), and the equilibrium moves from E<sub>2</sub> to E<sub>3</sub>.”</para>
+
+<figure id="CNX_Econ_C03_018">
+<title>Shifts of Demand or Supply versus Movements along a Demand or Supply Curve </title>
+<media id="fs-idm214180416" alt="The graph shows the difference between shifts of demand and supply, and movement of demand and supply.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C03_018.jpg"/>
+</media>
+<caption>A shift in one curve never causes a shift in the other curve. Rather, a shift in one curve causes a movement along the second curve.</caption>
+</figure>
+
+<para id="fs-idm182884000">At about this point, Lee suspects that this answer is headed down the wrong path. Think about what might be wrong with Lee’s logic, and then read the answer that follows.</para>
+<para id="fs-idm146235232"><emphasis effect="italics">Answer:</emphasis> Lee’s first step is correct: that is, a drought shifts back the supply curve of wheat and leads to a prediction of a lower equilibrium quantity and a higher equilibrium price. This corresponds to a movement along the original demand curve (D<sub>0</sub>), from E<sub>0</sub> to E<sub>1</sub>. The rest of Lee’s argument is wrong, because it mixes up shifts in supply with quantity supplied, and shifts in demand with quantity demanded. A higher or lower price never shifts the supply curve, as suggested by the shift in supply from S<sub>1</sub> to S<sub>2</sub>. Instead, a price change leads to a movement along a given supply curve. Similarly, a higher or lower price never shifts a demand curve, as suggested in the shift from D<sub>0</sub> to D<sub>1</sub>. Instead, a price change leads to a movement along a given demand curve. Remember, a change in the price of a good never causes the demand or supply curve for that good to shift.</para>
+<para id="fs-idm194383488">Think carefully about the timeline of events: What happens first, what happens next? What is cause, what is effect? If you keep the order right, you are more likely to get the analysis correct.</para>
+</note>
+
+
+<para id="fs-idm162362848">In the four-step analysis of how economic events affect equilibrium price and quantity, the movement from the old to the new equilibrium seems immediate. As a practical matter, however, prices and quantities often do not zoom straight to equilibrium. More realistically, when an economic event causes demand or supply to shift, prices and quantities set off in the general direction of equilibrium. Indeed, even as they are moving toward one new equilibrium, prices are often then pushed by another change in demand or supply toward another equilibrium.</para>
+</section>
+
+
+<section id="fs-idm19995296" class="summary">
+  <title>Key Concepts and Summary</title>
+<para id="fs-idm27220992">When using the supply and demand framework to think about how an event will affect the equilibrium price and quantity, proceed through four steps: (1) sketch a supply and demand diagram to think about what the market looked like before the event; (2) decide whether the event will affect supply or demand; (3) decide whether the effect on supply or demand is negative or positive, and draw the appropriate shifted supply or demand curve; (4) compare the new equilibrium price and quantity to the original ones.</para>
+</section>
+
+
+<section id="fs-idm172764384" class="self-check-questions">
+  <title>Self-Check Questions</title>
+<exercise id="fs-idm34056656">
+    <problem id="fs-idm91729248">
+<para id="fs-idm6453744">Let’s think about the market for air travel. From August 2014 to January 2015, the price of jet fuel decreased roughly 47%. Using the four-step analysis, how do you think this fuel price decrease affected the equilibrium price and quantity of air travel?</para></problem>
+    <solution id="fs-idm59352400"><para id="fs-idm93884352">Step 1. Draw the graph with the initial supply and demand curves. Label the initial equilibrium price and quantity.</para>
+<para id="fs-idm194964576">Step 2. Did the economic event affect supply or demand? Jet fuel is a cost of producing air travel, so an increase in jet fuel price affects supply.</para>
+<para id="fs-idm116079216">Step 3. An increase in the price of jet fuel caused a decrease in the cost of air travel. We show this as a downward or rightward shift in supply.</para><para id="fs-idm142541520">Step 4. A rightward shift in supply causes a movement down the demand curve, lowering the equilibrium price of air travel and increasing the equilibrium quantity.</para></solution>
+  </exercise>
+<exercise id="fs-idm229548640">
+    <problem id="fs-idm133358144">
+<para id="fs-idm118429488">A tariff is a tax on imported goods. Suppose the U.S. government cuts the tariff on imported flat screen televisions. Using the four-step analysis, how do you think the tariff reduction will affect the equilibrium price and quantity of flat screen TVs?</para>
+    </problem>
+    <solution id="fs-idm96189616"><para id="fs-idm137204304">Step 1. Draw the graph with the initial supply and demand curves. Label the initial equilibrium price and quantity.</para>
+<para id="fs-idm56859792">Step 2. Did the economic event affect supply or demand? A tariff is treated like a cost of production, so this affects supply.</para>
+<para id="fs-idm70241504">Step 3. A tariff reduction is equivalent to a decrease in the cost of production, which we can show as a rightward (or downward) shift in supply.</para>
+<para id="fs-idm95774336">Step 4. A rightward shift in supply causes a movement down the demand curve, lowering the equilibrium price and raising the equilibrium quantity.</para></solution>
+  </exercise>
+</section>
+
+<section id="fs-idm106726288" class="review-questions">
+  <title>Review Questions</title>
+  <exercise id="fs-idm139692736">
+    <problem id="fs-idp927488">
+<para id="fs-idm109218224">How does one analyze a market where both demand and supply shift?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm142581872">
+    <problem id="fs-idm114482432">
+      <para id="fs-idm139233824">What causes a movement along the demand curve? What causes a movement along the supply curve?</para>
+    </problem>
+  </exercise>
+</section>
+
+
+
+<section id="fs-idp41107744" class="critical-thinking">
+  <title>Critical Thinking Questions</title>
+  <exercise id="fs-idp62149104">
+    <problem id="fs-idm28022496">
+<para id="fs-idm75257888">Use the four-step process to analyze the impact of the advent of the iPod (or other portable digital music players) on the equilibrium price and quantity of the Sony Walkman (or other portable audio cassette players).</para>
+    </problem>
+  </exercise>
+<exercise id="fs-idm52111200">
+    <problem id="fs-idp20328560">
+<para id="fs-idp88556992">Use the four-step process to analyze the impact of a reduction in tariffs on imports of iPods on the equilibrium price and quantity of Sony Walkman-type products.</para>
+    </problem>
+  </exercise>
+<exercise id="fs-idm57891584">
+    <problem id="fs-idp45619872">
+<para id="fs-idm46933296">Suppose both of these events took place at the same time. Combine your analyses of the impacts of the iPod and the tariff reduction to determine the likely impact on the equilibrium price and quantity of Sony Walkman-type products. Show your answer graphically.</para>
+    </problem>
+  </exercise>
+</section>
+
+
+<section id="fs-idm99063584" class="problems">
+  <title>Problems</title>
+  <exercise id="fs-idm135051456">
+    <problem id="fs-idm97941136">
+<para id="fs-idm110434736">Demand and supply in the market for cheddar cheese is illustrated in <link target-id="Table_03_08"/>. Graph the data and find the equilibrium. Next, create a table showing the change in quantity demanded or quantity supplied, and a graph of the new equilibrium, in each of the following situations:
+<list id="fs-idp1854976" list-type="enumerated" number-style="lower-alpha">
+<item>The price of milk, a key input for cheese production, rises, so that the supply decreases by 80 pounds at every price.</item>
+<item>A new study says that eating cheese is good for your health, so that demand increases by 20% at every price.</item>
+
+</list></para>
+
+<table id="Table_03_08" summary="The table shows the demand and supply in the market for cheddar cheese. At $3.00 per pound, the quantity demanded is 750lbs. and the quantity supplied is 540lbs. At $3.20 per pound, the quantity demanded is 700lbs. and the quantity supplied is 600lbs. At $3.40 per pound, the quantity demanded is 650lbs. and the quantity supplied is 650lbs. At $3.60 per pound, the quantity demanded is 620lbs. and the quantity supplied is 700lbs. At $3.80 per pound, the quantity demanded is 600lbs. and the quantity supplied is 720lbs. Finally, at $4.00 per pound, the quantity demanded is 590lbs. and the quantity supplied is 730lbs.">
+<tgroup cols="3">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+<row>
+<entry>Price per Pound</entry>
+<entry>Qd</entry>
+<entry>Qs</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>$3.00</entry>
+<entry>750</entry>
+<entry>540</entry>
+</row>
+<row>
+<entry>$3.20</entry>
+<entry>700</entry>
+<entry>600</entry>
+</row>
+<row>
+<entry><emphasis effect="bold">$3.40</emphasis></entry>
+<entry><emphasis effect="bold">650</emphasis></entry>
+<entry><emphasis effect="bold">650</emphasis></entry>
+</row>
+<row>
+<entry>$3.60</entry>
+<entry>620</entry>
+<entry>700</entry>
+</row>
+<row>
+<entry>$3.80</entry>
+<entry>600</entry>
+<entry>720</entry>
+</row>
+<row>
+<entry>$4.00</entry>
+<entry>590</entry>
+<entry>730</entry>
+</row>
+</tbody>
+</tgroup>
+<caption/></table>
+</problem></exercise>
+
+<exercise id="fs-idm52385952">
+    <problem id="fs-idm105259232">
+<para id="fs-idm112165072">Supply and demand for movie tickets in a city are shown in <link target-id="Table_03_09"/>. Graph demand and supply and identify the equilibrium. Then calculate in a table and graph the effect of the following two changes.
+<list id="fs-idm140247952" list-type="enumerated" number-style="lower-alpha">
+<item>Three new nightclubs open. They offer decent bands and have no cover charge, but make their money by selling food and drink. As a result, demand for movie tickets falls by six units at every price.</item>
+<item>The city eliminates a tax that it had been placing on all local entertainment businesses. The result is that the quantity supplied of movies at any given price increases by 10%.</item></list></para>
+
+<table id="Table_03_09" summary="The table shows the supply and demand for movie tickets in a city. At $5.00 per ticket, the quantity demanded is 26 and the quantity supplied is 16. At $6.00 per ticket, the quantity demanded is 24 and the quantity supplied is 18. At $7.00 per ticket, the quantity demanded is 22 and the quantity supplied is 20. At $8.00 per ticket, the quantity demanded is 21 and the quantity supplied is 21. Finally, at $9.00 per ticket, the quantity demanded is 20 and the quantity supplied is 22.">
+<tgroup cols="3">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+<row>
+<entry>Price per Pound</entry>
+<entry>Qd</entry>
+<entry>Qs</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>$5.00</entry>
+<entry>26</entry>
+<entry>16</entry>
+</row>
+<row>
+<entry>$6.00</entry>
+<entry>24</entry>
+<entry>18</entry>
+</row>
+<row>
+<entry>$7.00</entry>
+<entry>22</entry>
+<entry>20</entry>
+</row>
+<row>
+<entry>$8.00</entry>
+<entry>21</entry>
+<entry>21</entry>
+</row>
+<row>
+<entry>$9.00</entry>
+<entry>20</entry>
+<entry>22</entry>
+</row>
+</tbody>
+</tgroup>
+<caption/></table>
+
+</problem></exercise>
+</section>
+
+<section id="fs-idm129055232" class="references">
+<title>References</title>
+<para id="fs-idm107422992">Pew Research Center. “Pew Research: Center for the People &amp; the Press.” http://www.people-press.org/.</para>
+</section>
+
+
+
+</content>
+
+</document>
