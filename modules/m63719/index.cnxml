@@ -1,0 +1,436 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Measuring the Size of the Economy: Gross Domestic Product</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63719</md:content-id>
+  <md:title>Measuring the Size of the Economy: Gross Domestic Product</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+<item>Identify the components of GDP on the demand side and on the supply side</item>
+<item>Evaluate how economists measure gross domestic product (GDP)</item>
+<item>Contrast and calculate GDP, net exports, and net national product</item>
+</list></md:abstract>
+  <md:uuid>d8c2feb4-66a0-4098-bb13-85bfebbbc0d7</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp51723072">Macroeconomics is an empirical subject, so the first step toward understanding it is to measure the economy.</para>
+<para id="fs-idp61758576">How large is the U.S. economy? Economists typically measure the size of a nation’s overall economy by its <term>gross domestic product (GDP)</term>, which is the value of all final goods and services produced within a country in a given year. Measuring GDP involves counting the production of millions of different goods and services—smart phones, cars, music downloads, computers, steel, bananas, college educations, and all other new goods and services that a country produced in the current year—and summing them into a total dollar value. This task is straightforward: take the quantity of everything produced, multiply it by the price at which each product sold, and add up the total. In 2016, the U.S. GDP totaled $18.6 trillion, the largest GDP in the world.</para><para id="fs-idm27220272">Each of the market transactions that enter into GDP must involve both a buyer and a seller. We can measure an economy's GDP either by the total dollar value of what consumers purchase in the economy, or by the total dollar value of what is the country produces. There is even a third way, as we will explain later.</para><section id="fs-idm74303216"><title>GDP Measured by Components of Demand</title>
+<para id="fs-idm69970080">Who buys all of this production? We can divide this <term class="no-emphasis">demand</term> into four main parts: consumer spending (consumption), business spending (investment), government spending on goods and services, and spending on net exports. (See the following Clear It Up feature to understand what we mean by investment.) <link target-id="Table_19_01"/> shows how these four components added up to the GDP in 2016. <link target-id="CNX_Econ_C19_007"/> (a) shows the levels of consumption, investment, and government purchases over time, expressed as a percentage of GDP, while <link target-id="CNX_Econ_C19_007"/> (b) shows the levels of exports and imports as a percentage of GDP over time. A few patterns about each of these components are worth noticing. <link target-id="Table_19_01"/> shows the components of GDP from the demand side.</para><table id="Table_19_01" summary="This table has three columns and six rows. The first row is a header row and it labels the last two columns, “Components of GDP on the Demand Side (in trillions of dollars),” and “Percentage of Total.” Under the first, unlabeled column are the values: Consumption, Investment, Government, Exports, Imports, and Total GDP.  Under the “Components of GDP on the Demand Side (in trillions of dollars)” column are the values: $12.8, $3.0, $3.3, $2.2, −$2.7, and $18.6. Under the “Percentage of Total” column are the values: 68.8%, 16.1%, 17.7%, 11.8%, −14.5%, and 100%.">
+<title>Components of U.S. GDP in 2016: From the Demand Side</title>
+   <tgroup cols="3">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+<row>
+<entry/>
+<entry>Components of GDP on the Demand Side (in trillions of dollars)</entry>
+<entry>Percentage of Total</entry>
+</row>
+</thead>
+
+      <tbody>
+<row>
+<entry>Consumption</entry>
+<entry>$12.8</entry>
+<entry>68.8%</entry>
+</row>
+
+<row>
+<entry>Investment</entry>
+<entry>$3.0</entry>
+<entry>16.1%</entry>
+</row>
+
+<row>
+<entry>Government</entry>
+<entry>$3.3</entry>
+<entry>17.7%</entry>
+</row>
+
+<row>
+<entry>Exports</entry>
+<entry>$2.2</entry>
+<entry>11.8%</entry>
+</row>
+
+<row>
+<entry>Imports</entry>
+<entry>–$2.7</entry>
+<entry>–14.5%</entry>
+</row>
+<row>
+<entry><emphasis effect="bold">Total GDP</emphasis></entry>
+<entry><emphasis effect="bold">$18.6</emphasis></entry>
+<entry><emphasis effect="bold">100%</emphasis></entry>
+</row>
+
+      </tbody>
+    </tgroup>
+    <caption>(Source: http://bea.gov/iTable/index_nipa.cfm)</caption>
+</table>
+
+<figure id="fs-idm479350048"><title>Percentage of Components of U.S. GDP on the Demand Side</title><media id="fs-idm370520592" alt="The pie chart on percentage of components U.S. GDP on the demand side shows that consumption expenditure takes up more than half the chart (68.8 percent), followed by government expenditure (17.7 percent), investment expenditure (16.1 percent), and net export expenditure (0.6 percent).">
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C19_012.jpeg"/>
+    </media>
+
+  <caption>Consumption makes up over half of the demand side components of the GDP. Totals in the chart do not add to 100% due to rounding. (Source: http://bea.gov/iTable/index_nipa.cfm)</caption></figure><note id="fs-idp7850816" class="economics clearup"><title>What does the word “investment” mean?</title><para id="fs-idp2728208">What do economists mean by investment, or business spending? In calculating GDP, investment does not refer to purchasing stocks and bonds or trading financial assets. It refers to purchasing new capital goods, that is, new commercial real estate (such as buildings, factories, and stores) and equipment, residential housing construction, and inventories. Inventories that manufacturers produce this year are included in this year’s GDP—even if they are not yet sold. From the accountant’s perspective, it is as if the firm invested in its own inventories. Business investment in 2016 was $3 trillion, according to the Bureau of Economic Analysis.</para></note><figure id="CNX_Econ_C19_007"><title>Components of GDP on the Demand Side </title><media id="fs-idm107827648" alt="This is a line graph with parts a and b. Part a shows the demand from consumption, investment, and government from the year 1960 to 2014. In 1960, the graph starts out at 61.0% for consumption. It remains fairly steady around 60% until 1993, when it is at 65%.  By 2014, it is at 68.5%. In 1960, the graph starts out at 22.3% for government. It remains steady around 20%, and by 2014, it is at 18.2%. In 1960, the graph starts out at 15.9% for investment. It rises gradually to 20.3% in 1978, then generally goes down to 16.4% in 2014.   Part b shows imports and exports from the year 1960 to 2014. In 1960, the graph starts out at 4.2% for imports. It rises fairly steadily with only a few drops, such as from 14.3% in 2000 to 13.1% in 2001. By 2014 it is at 16.5%. In 1960, the graph starts out at 5.0% for exports. It remains steadily around 5% until 1973, when it jumps to 6.7%. By 2014, the exports line is at 13.4%. ">
+      <image mime-type="image/jpeg" src="../../media/CNX_Econv1-2_C19_04.jpg"/>
+    </media>
+
+  <caption>(a) Consumption is about two-thirds of GDP, and it has been on a slight upward trend over time. Business investment hovers around 15% of GDP, but it fluctuates more than consumption. Government spending on goods and services is slightly under 20% of GDP and has declined modestly over time. (b) Exports are added to total demand for goods and services, while imports are subtracted from total demand. If exports exceed imports, as in most of the 1960s and 1970s in the U.S. economy, a trade surplus exists. If imports exceed exports, as in recent years, then a trade deficit exists. (Source: http://bea.gov/iTable/index_nipa.cfm)</caption></figure><para id="fs-idm59542880">Consumption expenditure by households is the largest component of GDP, accounting for about two-thirds of the GDP in any year. This tells us that consumers’ spending decisions are a major driver of the economy. However, consumer spending is a gentle elephant: when viewed over time, it does not jump around too much, and has increased modestly from about 60% of GDP in the 1960s and 1970s.</para><para id="fs-idm139850480"><term class="no-emphasis">Investment expenditure</term> refers to purchases of physical plant and equipment, primarily by businesses. If Starbucks builds a new store, or Amazon buys robots, they count these expenditures under business investment. <term class="no-emphasis">Investment demand</term> is far smaller than <term class="no-emphasis">consumption demand</term>, typically accounting for only about 15–18% of GDP, but it is very important for the economy because this is where jobs are created. However, it fluctuates more noticeably than consumption. Business investment is volatile. New technology or a new product can spur business investment, but then confidence can drop and business investment can pull back sharply.</para><para id="fs-idm70032704">If you have noticed any of the infrastructure projects (new bridges, highways, airports) launched during the 2009 recession, you have seen how important government spending can be for the economy. Government expenditure in the United States is close to 20% of GDP, and includes spending by all three levels of government: federal, state, and local. The only part of government spending counted in demand is government purchases of goods or services produced in the economy. Examples include the government buying a new fighter jet for the Air Force (federal government spending), building a new highway (state government spending), or a new school (local government spending). A significant portion of government budgets consists of transfer payments, like unemployment benefits, veteran’s benefits, and Social Security payments to retirees. The government excludes these payments from GDP because it does not receive a new good or service in return or exchange. Instead they are transfers of income from taxpayers to others. If you are curious about the awesome undertaking of adding up GDP, read the following Clear It Up feature.</para><note id="fs-idm64181600" class="economics clearup">
+      <title>How do statisticians measure GDP?</title>
+<para id="fs-idp6243520">Government economists at the Bureau of Economic Analysis (BEA), within the U.S. Department of Commerce, piece together estimates of GDP from a variety of sources.</para>
+<para id="fs-idp2343696">Once every five years, in the second and seventh year of each decade, the Bureau of the Census carries out a detailed census of businesses throughout the United States. In between, the Census Bureau carries out a monthly survey of retail sales. The government adjusts these figures with foreign trade data to account for exports that are produced in the United States and sold abroad and for imports that are produced abroad and sold here. Once every ten years, the Census Bureau conducts a comprehensive survey of housing and residential finance. Together, these sources provide the main basis for figuring out what is produced for consumers.</para><para id="fs-idp36393760">For investment, the Census Bureau carries out a monthly survey of construction and an annual survey of expenditures on physical capital equipment.</para>
+<para id="fs-idm30437440">For what the federal government purchases, the statisticians rely on the U.S. Department of the Treasury. An annual Census of Governments gathers information on state and local governments. Because the government spends a considerable amount at all levels hiring people to provide services, it also tracks a large portion of spending through payroll records that state governments and the Social Security Administration collect.</para><para id="fs-idp3875856">With regard to foreign trade, the Census Bureau compiles a monthly record of all import and export documents. Additional surveys cover transportation and travel, and make adjustments for financial services that are produced in the United States for foreign customers.</para><para id="fs-idp97158000">Many other sources contribute to GDP estimates. Information on energy comes from the U.S. Department of Transportation and Department of Energy. The Agency for Health Care Research and Quality collects information on healthcare. Surveys of landlords find out about rental income. The Department of Agriculture collects statistics on farming.</para><para id="fs-idp90395328">All these bits and pieces of information arrive in different forms, at different time intervals. The BEA melds them together to produce GDP estimates on a quarterly basis (every three months). The BEA then "annualizes" these numbers by multiplying by four. As more information comes in, the BEA updates and revises these estimates. BEA releases the GDP “advance” estimate for a certain quarter one month after a quarter. The “preliminary” estimate comes out one month after that. The BEA publishes the “final” estimate one month later, but it is not actually final. In July, the BEA releases roughly updated estimates for the previous calendar year. Then, once every five years, after it has processed all the results of the latest detailed five-year business census, the BEA revises all of the past GDP estimates according to the newest methods and data, going all the way back to 1929.</para></note>
+<note id="fs-idm34915760" class="economics linkup">
+        <para id="fs-idm32303264">Visit this <link url="http://openstax.org/l/beafaq">website</link> to read FAQs on the BEA site. You can even email your own questions!</para>
+    </note>
+<para id="fs-idp31338800">When thinking about the demand for domestically produced goods in a global economy, it is important to count spending on exports—domestically produced goods that a country sells abroad. Similarly, we must also subtract spending on imports—goods that a country produces in other countries that residents of this country purchase. The GDP net export component is equal to the dollar value of exports (X) minus the dollar value of imports (M), (X – M). We call the gap between exports and imports the <term>trade balance</term>. If a country’s exports are larger than its imports, then a country has a <term>trade surplus</term>. In the United States, exports typically exceeded imports in the 1960s and 1970s, as <link target-id="CNX_Econ_C19_007"/>(b) shows.</para><para id="fs-idp42167040">Since the early 1980s, imports have typically exceeded exports, and so the United States has experienced a <term>trade deficit</term> in most years. The trade deficit grew quite large in the late 1990s and in the mid-2000s. <link target-id="CNX_Econ_C19_007"/> (b) also shows that imports and exports have both risen substantially in recent decades, even after the declines during the <term class="no-emphasis">Great Recession</term> between 2008 and 2009. As we noted before, if exports and imports are equal, foreign trade has no effect on total GDP. However, even if exports and imports are balanced overall, foreign trade might still have powerful effects on particular industries and workers by causing nations to shift workers and physical capital investment toward one industry rather than another.</para><para id="fs-idp44476784">Based on these four components of demand, we can measure GDP as:</para><equation id="fs-idm17669600" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>GDP</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>Consumption + Investment + Government + Trade balance</mtext></mtd></mtr><mtr><mtd><mtext>GDP</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>C + I + G + (X – M)</mtext></mtd></mtr></mtable></math></equation>
+<para id="fs-idm55399680">Understanding how to measure GDP is important for analyzing connections in the macro economy and for thinking about macroeconomic policy tools.</para>
+</section>
+<section id="fs-idp68510624"><title>GDP Measured by What is Produced</title>
+<para id="fs-idp110068704">Everything that we purchase somebody must first produce. <link target-id="Table_19_02"/> breaks down what a country produces into five categories: <term>durable goods</term>, <term>nondurable goods</term>, <term>services</term>, <term>structures</term>, and the change in <term>inventories</term>. Before going into detail about these categories, notice that total GDP measured according to what is produced is exactly the same as the GDP measured by looking at the five components of demand. <link target-id="CNX_Econ_C19_011"/> provides a visual representation of this information.</para><table id="Table_19_02" summary="This table has three columns and seven rows. The first row is a header row and it labels the last two columns, “Components of GDP on the Supply Side (in trillions of dollars),” and “Percentage of Total.” Under the first, unlabeled column are the values: Goods, Durable goods, Nondurable goods, Services, Structures, Change in inventories, and Total GDP. Under the “Components of GDP on the Supply Side (in trillions of dollars)” column starting with Durable goods are the values: $3.0, $2.5, $11.6, $1.5, $0.0, and $18.6. Under the “Percentage of Total” column starting with Durable goods are the values: 16.1%, 13.4%, 62.4%, 8.1%, 0.0%, and 100%. "><title>Components of U.S. GDP on the Production Side, 2016</title>
+<tgroup cols="3"><colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+<row>
+<entry/>
+<entry>Components of GDP on the Supply Side (in trillions of dollars)</entry>
+<entry>Percentage of Total</entry>
+</row>
+</thead>
+
+      <tbody>
+<row>
+<entry>Goods</entry>
+<entry/>
+<entry/>
+</row>
+
+<row>
+<entry>Durable goods</entry>
+<entry>$3.0</entry>
+<entry>16.1%</entry>
+</row>
+
+<row>
+<entry>Nondurable goods</entry>
+<entry>$2.5</entry>
+<entry>13.4%</entry>
+</row>
+
+<row>
+<entry>Services</entry>
+<entry>$11.6</entry>
+<entry>62.4%</entry>
+</row>
+
+<row>
+<entry>Structures</entry>
+<entry>$1.5</entry>
+<entry>8.1%</entry>
+</row>
+
+<row>
+<entry>Change in inventories</entry>
+<entry>$0.0</entry>
+<entry>0.0%</entry>
+</row>
+
+<row>
+<entry><emphasis effect="bold">Total GDP</emphasis></entry>
+<entry><emphasis effect="bold">$18.6</emphasis></entry>
+<entry><emphasis effect="bold">100%</emphasis></entry>
+</row>
+
+      </tbody>
+
+</tgroup><caption>(Source:  http://bea.gov/iTable/index_nipa.cfm)</caption>
+</table><figure id="CNX_Econ_C19_011"><title>Percentage of Components of GDP on the Production Side </title><media id="fs-idp112947456" alt="The pie chart shows that services take up almost half of the chart, followed by durable goods, nondurable goods, structures, and change in inventories.">
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ2e_C19_05.jpg"/>
+    </media>
+
+  <caption>Services make up over 60 percent of the production side components of GDP in the United States.</caption></figure><para id="fs-idp5083808">Since every market transaction must have both a buyer and a seller, GDP must be the same whether measured by what is demanded or by what is produced. <link target-id="CNX_Econ_C19_004"/> shows these components of what is produced, expressed as a percentage of GDP, since 1960.</para>
+<figure id="CNX_Econ_C19_004"><title>Types of Production </title><media id="fs-idp46123152" alt="The graph shows that since 1960, structures have mostly remained around 10%, but dipped to 7.7% in 2014, and durable goods have mostly remained around 20%, but dipped in 2014 to 16.8%. The graph also shows that services have steadily increased from less than 30% in 1960 to over 61.9%  in 2014. In contrast, nondurable goods have steadily decreased from roughly 40% in 1960 to around 13.7% in 2014.">
+      <image mime-type="image/jpeg" src="../../media/CNX_Econv1-2_C19_06.jpg"/>
+    </media>
+
+  <caption>Services are the largest single component of total supply, representing over 60 percent  of GDP, up from about 45 percent in the early 1960s. Durable and nondurable goods constitute the manufacturing sector, and they have declined from 45 percent of GDP in 1960 to about 30 percent in 2016. Nondurable goods used to be larger than durable goods, but in recent years, nondurable goods have been dropping to below the share of  durable goods, which is less than  20% of GDP. Structures hover around 10% of GDP. We do not show here the change in inventories, the final component of aggregate supply. It is typically less than 1% of GDP.
+</caption></figure><para id="fs-idp38511648">In thinking about what is produced in the economy, many non-economists immediately focus on solid, long-lasting goods, like cars and computers. By far the largest part of GDP, however, is services. Moreover, services have been a growing share of GDP over time. A detailed breakdown of the leading service industries would include healthcare, education, and legal and financial services. It has been decades since most of the U.S. economy involved making solid objects. Instead, the most common jobs in a modern economy involve a worker looking at pieces of paper or a computer screen; meeting with co-workers, customers, or suppliers; or making phone calls.</para>
+<para id="fs-idp35319888">Even within the overall category of goods, long-lasting durable goods like cars and refrigerators are about the same share of the economy as short-lived nondurable goods like food and clothing. The category of structures includes everything from homes, to office buildings, shopping malls, and factories. Inventories is a small category that refers to the goods that one business has produced but has not yet sold to consumers, and are still sitting in warehouses and on shelves. The amount of inventories sitting on shelves tends to decline if business is better than expected, or to rise if business is worse than expected.</para><section id="eip-581"><title>Another Way to Measure GDP: The National Income Approach</title><para id="eip-793">GDP is a measure of what is produced in a nation. The primary way GDP is estimated is with the Expenditure Approach we discussed above, but there is another way.  Everything a firm produces, when sold, becomes revenues to the firm. Businesses use revenues to pay their bills: Wages and salaries for labor, interest and dividends for capital, rent for land, profit to the entrepreneur, etc. So adding up all the income produced in a year provides a second way of measuring GDP. This is why the terms GDP and <term>national income</term> are sometimes used interchangeably. The total value of a nation’s output is equal to the total value of a nation’s income.
+</para></section></section>
+<section id="fs-idp98408752"><title>The Problem of Double Counting</title>
+<para id="fs-idp104208128">We define GDP as the current value of all final goods and services produced in a nation in a year. What are final goods? They are goods at the furthest stage of production at the end of a year. Statisticians who calculate GDP must avoid the mistake of <term>double counting</term>, in which they count output more than once as it travels through the production stages. For example, imagine what would happen if government statisticians first counted the value of tires that a tire manufacturer produces, and then counted the value of a new truck that an automaker sold that contains those tires. In this example, the statisticians would have counted the value of the tires twice-because the truck's price includes the value of the tires.</para><para id="fs-idp154844816">To avoid this problem, which would overstate the size of the economy considerably, government statisticians count just the value of <term>final goods and services</term> in the chain of production that are sold for consumption, investment, government, and trade purposes. Statisticians exclude <term>intermediate  goods</term>, which are goods that go into producing other goods, from GDP calculations. From the example above, they will only count the Ford truck's value. The value of what businesses provide to other businesses is captured in the final products at the end of the production chain.</para><para id="fs-idp118183984">The concept of GDP is fairly straightforward: it is just the dollar value of all final goods and services produced in the economy in a year. In our decentralized, market-oriented economy, actually calculating the more than $18 trillion-dollar U.S. GDP—along with how it is changing every few months—is a full-time job for a brigade of government statisticians.</para><table id="Table_19_03" summary="The table shows what is included in a measure of GDP and what is not. Column 1 lists what is counted in GDP. Column 2 lists what is not included in GDP. What is Counted in GDP: Consumption; Business investment; Government spending on goods and services; Net exports. What is not Included in GDP: Intermediate goods; Transfer payments and non-market activities; Used goods; Illegal goods.">
+<title>Counting GDP</title>
+   <tgroup cols="2">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<thead>
+<row>
+<entry>What is Counted in GDP</entry>
+<entry>What is not included in GDP</entry>
+</row>
+</thead>
+
+      <tbody>
+<row>
+<entry>Consumption</entry>
+<entry>Intermediate goods</entry>
+</row>
+
+<row>
+<entry>Business investment</entry>
+<entry>Transfer payments and non-market activities</entry>
+</row>
+
+<row>
+<entry>Government spending on goods and services</entry>
+<entry>Used goods</entry>
+</row>
+
+<row>
+<entry>Net exports</entry>
+<entry>Illegal goods</entry>
+</row>
+
+      </tbody>
+    </tgroup>
+    <caption/>
+</table>
+<para id="fs-idp76615216">Notice the items that are not counted into GDP, as  <link target-id="Table_19_03"/> outlines. The sales of used goods are not included because they were produced in a previous year and are part of that year’s GDP. The entire underground economy of services paid “under the table” and illegal sales should be counted, but is not, because it is impossible to track these sales. In Friedrich Schneider's recent study of shadow economies, he estimated the underground economy in the United States to be 6.6% of GDP, or close to $2 trillion dollars in 2013 alone. Transfer payments, such as payment by the government to individuals, are not included, because they do not represent production. Also, production of some goods—such as home production as when you make your breakfast—is not counted because these goods are not sold in the marketplace.</para><note id="fs-idp98500912" class="economics linkup">
+        <para id="fs-idp81681328">Visit this <link url="http://openstax.org/l/undergroundecon">website</link> to read about the “New Underground Economy.”</para>
+    </note>
+</section>
+<section id="fs-idp12355168"><title>Other Ways to Measure the Economy</title>
+<para id="fs-idp32767312">Besides GDP, there are several different but closely related ways of measuring the size of the economy. We mentioned above that we can think of GDP as total production and as total purchases. We can also think of it as total income since anything one produces and sells yields income.</para><para id="fs-idm67605408">One of the closest cousins of GDP is the <term>gross national product (GNP)</term>. GDP includes only what country produces within its borders. GNP adds what domestic businesses and labor abroad produces, and subtracts any payments that foreign labor and businesses located in the United States send home to other countries. In other words, GNP is based more on what a country's citizens and firms produce, wherever they are located, and GDP is based on what happens within a certain county's geographic boundaries. For the United States, the gap between GDP and GNP is relatively small; in recent years, only about 0.2%. For small nations, which may have a substantial share of their population working abroad and sending money back home, the difference can be substantial.</para><para id="fs-idp32378176">We calculate <term>net national product (NNP)</term> by taking GNP and then subtracting the value of how much physical capital is worn out, or reduced in value because of aging, over the course of a year. The process by which capital ages and loses value is called <term>depreciation</term>. We can further subdivide NNP into <term>national income</term>, which includes all income to businesses and individuals, and personal income, which includes only income to people.</para><para id="fs-idp51237184">For practical purposes, it is not vital to memorize these definitions. However, it is important to be aware that these differences exist and to know what statistic you are examining, so that you do not accidentally compare, say, GDP in one year or for one country with GNP or NNP in another year or another country. To get an idea of how these calculations work, follow the steps in the following Work It Out feature.</para><note id="fs-idp39724256" class="economics workout">
+      <title>Calculating GDP, Net Exports, and NNP</title>
+<para id="fs-idp89015168">Based on the information in <link target-id="Table_19_04"/>:
+      <list id="fs-idp50883680" list-type="enumerated" number-style="lower-alpha">
+        <item>What is the value of GDP?</item>
+        <item>What is the value of net exports?</item>
+        <item>What is the value of NNP?</item>
+      </list>
+</para>
+<table id="Table_19_04" summary="The table shows information that is useful for calculating GDP, net exports, and NNP. Column 1 lists the category. Column 2 lists the value in billions of dollars. Government purchases;  20 billion. Depreciation; $40 billion. Consumption; $400 billion. Business investment; $60 billion. Exports;  00 billion. Imports;  20 billion.">
+<tgroup cols="2"><colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+
+      <tbody>
+<row>
+<entry>Government purchases</entry>
+<entry>$120 billion</entry>
+</row>
+
+<row>
+<entry>Depreciation</entry>
+<entry>$40 billion</entry>
+</row>
+
+<row>
+<entry>Consumption</entry>
+<entry>$400 billion</entry>
+</row>
+
+<row>
+<entry>Business Investment</entry>
+<entry>$60 billion</entry>
+</row>
+
+<row>
+<entry>Exports</entry>
+<entry>$100 billion</entry>
+</row>
+
+<row>
+<entry>Imports</entry>
+<entry>$120 billion</entry>
+</row>
+<row><entry>Income receipts from rest of the world</entry><entry>$10 billion</entry></row>
+<row><entry>Income payments to rest of the world</entry><entry>$8 billion</entry></row>
+      </tbody>
+
+</tgroup>
+</table><para id="fs-idp101104080">Step 1. To calculate GDP use the following formula:</para>
+<equation id="fs-idm16555712" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>GDP</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>Consumption + Investment + Government spending + (Exports – Imports)</mtext></mtd></mtr><mtr><mtd/><mtd><mtext> = </mtext></mtd><mtd><mtext>C + I + G + (X – M)</mtext></mtd></mtr><mtr><mtd/><mtd><mtext> = </mtext></mtd><mtd><mtext>$400 + $60 + $120 + ($100 – $120)</mtext></mtd></mtr><mtr><mtd/><mtd><mtext> = </mtext></mtd><mtd><mtext>$560 billion</mtext></mtd></mtr></mtable></math></equation>
+<para id="fs-idp52785856">Step 2. To calculate net exports, subtract imports from exports.</para>
+<equation id="fs-idp43663248" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Net exports</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>X – M</mtext></mtd></mtr><mtr><mtd/><mtd><mtext> = </mtext></mtd><mtd><mtext>$100 – $120</mtext></mtd></mtr><mtr><mtd/><mtd><mtext> = </mtext></mtd><mtd><mtext>–$20 billion</mtext></mtd></mtr></mtable></math></equation>
+<para id="fs-idp26542592">Step 3. To calculate NNP, use the following formula:</para>
+<equation id="fs-idp23384016" class="unnumbered"><m:math><m:mtable columnspacing="2px" columnalign="right center left">
+<m:mtr><m:mtd><m:mtext>NNP</m:mtext></m:mtd>
+<m:mtd><m:mtext> = </m:mtext></m:mtd>
+<m:mtd><m:mtext>GDP + Income receipts from the rest of the world</m:mtext></m:mtd></m:mtr>
+<m:mtr><m:mtd/><m:mtd/><m:mtd><m:mtext>– Income payments to the rest of the world – Depreciation</m:mtext></m:mtd></m:mtr>
+<m:mtr><m:mtd/><m:mtd><m:mtext>=</m:mtext></m:mtd>
+<m:mtd><m:mtext>$560 + $10 – $8 – $40</m:mtext></m:mtd></m:mtr>
+<m:mtr><m:mtd/><m:mtd><m:mtext>=</m:mtext></m:mtd>
+<m:mtd><m:mtext>$522 billion</m:mtext></m:mtd>
+</m:mtr></m:mtable></m:math></equation></note>
+</section>
+<section id="fs-idm28040352" class="summary">
+  <title>Key Concepts and Summary</title>
+<para id="fs-idm29037568">Economists generally express the size of a nation’s economy as its gross domestic product (GDP), which measures the value of the output of all goods and services produced within the country in a year. Economists measure GDP by taking the quantities of all goods and services produced, multiplying them by their prices, and summing the total. Since GDP measures what is bought and sold in the economy, we can measure it either by the sum of what is purchased in the economy or what is produced.</para><para id="fs-idm49517808">We can divide demand into consumption, investment, government, exports, and imports. We can divide what is produced in the economy into durable goods, nondurable goods, services, structures, and inventories. To avoid double counting, GDP counts only final output of goods and services, not the production of intermediate goods or the value of labor in the chain of production.</para></section>
+<section id="fs-idp4791344" class="self-check-questions">
+  <title>Self-Check Questions</title>
+  <exercise id="fs-idm47655952">
+    <problem id="fs-idm23939408">
+      <para id="fs-idm26227632">Country A has export sales of $20 billion, government purchases of $1,000 billion, business investment is $50 billion, imports are $40 billion, and consumption spending is $2,000 billion. What is the dollar value of GDP?</para>
+    </problem>
+    <solution id="fs-idp10842448"><para id="fs-idm860160">GDP is C + I + G + (X – M). GDP = $2,000 billion + $50 billion + $1,000 billion + ($20 billion – $40 billion) = $3,030</para></solution>
+  </exercise>
+  <exercise id="fs-idp28849744">
+    <problem id="fs-idm20973728">
+      <para id="fs-idm60905648">Which of the following are included in GDP, and which are not?
+      <list id="fs-idm2272368" list-type="enumerated" number-style="lower-alpha"><item>The cost of hospital stays</item>
+        <item>The rise in life expectancy over time</item>
+        <item>Child care provided by a licensed day care center</item>
+        <item>Child care provided by a grandmother</item>
+        <item>A used car sale</item>
+        <item>A new car sale</item>
+        <item>The greater variety of cheese available in supermarkets</item>
+        <item>The iron that goes into the steel that goes into a refrigerator bought by a consumer.</item>
+      </list></para>
+    </problem>
+    <solution id="fs-idm66254000"><para id="fs-idm67244816">
+<list id="fs-idm1468144" list-type="enumerated" number-style="lower-alpha">
+        <item>Hospital stays are part of GDP.</item>
+        <item>Changes in life expectancy are not market transactions and not part of GDP.</item>
+        <item>Child care that is paid for is part of GDP.</item>
+        <item>If Grandma gets paid and reports this as income, it is part of GDP, otherwise not.</item>
+        <item>A used car is not produced this year, so it is not part of GDP.</item>
+        <item>A new car is part of GDP.</item>
+        <item>Variety does not count in GDP, where the cheese could all be cheddar.</item>
+        <item>The iron is not counted because it is an intermediate good.</item>      </list>
+</para></solution>
+  </exercise>
+</section>
+<section id="fs-idp45742656" class="review-questions">
+  <title>Review Questions</title><exercise id="fs-idm767360">
+    <problem id="fs-idm49436128">
+      <para id="fs-idp3991184">What are the main components of measuring GDP with what is demanded?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm26623040">
+    <problem id="fs-idp47519920">
+      <para id="fs-idm33004768">What are the main components of measuring GDP with what is produced?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm9525008">
+    <problem id="fs-idm768144">
+      <para id="fs-idm32974896">Would you usually expect GDP as measured by what is demanded to be greater than GDP measured by what is supplied, or the reverse?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm60633184">
+    <problem id="fs-idm9399824">
+      <para id="fs-idm17494208">Why must you avoid double counting when measuring GDP?</para></problem>
+  </exercise>
+</section>
+<section id="fs-idm31922224" class="critical-thinking">
+  <title>Critical Thinking Question</title>
+  <exercise id="fs-idm66259888">
+    <problem id="fs-idm587600">
+      <para id="fs-idm9567280">U.S. macroeconomic data are among the best in the world. Given what you learned in the  <link target-id="fs-idm64181600">Clear It Up</link> "How do statisticians measure GDP?", does this surprise you, or does this simply reflect the complexity of a modern economy?</para></problem>
+  </exercise>
+  <exercise id="fs-idp10863680">
+    <problem id="fs-idp65392544">
+      <para id="fs-idp43930304">What does GDP not tell us about the economy?</para>
+    </problem>
+  </exercise>
+</section>
+<section id="fs-idp47963360" class="problems">
+  <title>Problem</title>
+  <exercise id="fs-idm115112080">
+    <problem id="fs-idm398640">
+      <para id="fs-idm27650144">Last year, a small nation with abundant forests cut down $200 worth of trees. It then turned $100 worth of trees into $150 worth of lumber. It used $100 worth of that lumber to produce $250 worth of bookshelves. Assuming the country produces no other outputs, and there are no other inputs used in producing trees, lumber, and bookshelves, what is this nation's GDP? In other words, what is the value of the final goods the nation produced including trees, lumber and bookshelves?</para></problem>
+  </exercise>
+</section>
+<section id="fs-idm2071472" class="references">
+<title>References</title>
+<para id="fs-idm30747232">U.S. Department of Commerce: Bureau of Economic Analysis. “National data: National Income and Product Accounts Tables.” http://bea.gov/iTable/iTable.cfm?ReqID=9&amp;step=1.</para>
+<para id="fs-idm28605344">U.S. Department of Commerce: United States Census Bureau. “Census of Governments: 2012 Census of Governments.”  http://www.census.gov/govs/cog/.</para><para id="fs-idp10399296">United States Department of Transportation. “About DOT.” Last modified March 2, 2012. http://www.dot.gov/about.</para>
+<para id="fs-idp43397072">U.S. Department of Energy. “Energy.gov.” http://energy.gov/.</para>
+<para id="fs-idm979968">U.S. Department of Health &amp; Human Services. “Agency for Healthcare Research and Quality.” http://www.ahrq.gov/.</para>
+<para id="fs-idm62385248">United States Department of Agriculture. “USDA.” http://www.usda.gov/wps/portal/usda/usdahome.</para>
+<para id="fs-idm51121216">Schneider, Friedrich. Department of Economics. “Size and Development of the Shadow Economy of 31 European and 5 other OECD Countries from 2003 to 2013: A Further Decline.” <emphasis effect="italics">Johannes Kepler University</emphasis>. Last modified April 5, 2013. http://www.econ.jku.at/members/Schneider/files/publications/2013/ShadEcEurope31_Jan2013.pdf.</para></section>
+
+</content>
+<glossary>
+   <definition id="fs-idm161172336">
+      <term>depreciation</term>
+      <meaning id="fs-idm140874752">the process by which capital ages over time and therefore loses its value</meaning>
+    </definition>
+   <definition id="fs-idm126759216">
+      <term>double counting</term>
+      <meaning id="fs-idm107687408">a potential mistake to avoid in measuring GDP, in which output is counted more than once as it travels through the stages of production</meaning>
+    </definition>
+   <definition id="fs-idm57094944">
+      <term>durable good</term>
+      <meaning id="fs-idm110678288">long-lasting good like a car or a refrigerator
+</meaning>
+    </definition>
+   <definition id="fs-idm80257568">
+      <term>final good and service</term>
+      <meaning id="fs-idm57595264">output used directly for consumption, investment, government, and trade purposes; contrast with “intermediate good”</meaning>
+    </definition>
+   <definition id="fs-idm97899248">
+      <term>gross domestic product (GDP)</term>
+      <meaning id="fs-idm110168080">the value of the output of all final goods and services produced within a country in a year
+</meaning>
+    </definition>
+   <definition id="fs-idm49989376">
+      <term>gross national product (GNP)</term>
+      <meaning id="fs-idm97558432">includes what is produced domestically and what is produced by domestic labor and business abroad in a year
+</meaning>
+    </definition>
+   <definition id="fs-idm74486256">
+      <term>intermediate good</term>
+      <meaning id="fs-idm85030448">output provided to other businesses at an intermediate stage of production, not for final users; contrast with “final good and service”</meaning>
+    </definition>
+   <definition id="fs-idm65459520">
+      <term>inventory</term>
+      <meaning id="fs-idm84222976">good that has been produced, but not yet been sold</meaning>
+    </definition>
+   <definition id="fs-idm74957648">
+      <term>national income</term>
+      <meaning id="fs-idm97588256">includes all income earned: wages, profits, rent, and profit income
+</meaning>
+    </definition>
+   <definition id="fs-idm77297152">
+      <term>net national product (NNP)</term>
+      <meaning id="fs-idm1713792">GNP minus depreciation
+</meaning>
+    </definition>
+   <definition id="fs-idm43268672">
+      <term>nondurable good</term>
+      <meaning id="fs-idm101605344">short-lived good like food and clothing
+</meaning>
+    </definition>
+   <definition id="fs-idm27665664">
+      <term>service</term>
+      <meaning id="fs-idm1857536">product which is intangible (in contrast to goods) such as entertainment, healthcare, or education
+</meaning>
+    </definition>
+   <definition id="fs-idm153140624">
+      <term>structure</term>
+      <meaning id="fs-idm65187104">building used as residence, factory, office building, retail store, or for other purposes
+</meaning>
+    </definition>
+   <definition id="fs-idm25549936">
+      <term>trade balance</term>
+      <meaning id="fs-idm55648976">gap between exports and imports
+</meaning>
+    </definition>
+   <definition id="fs-idm4661728">
+      <term>trade deficit</term>
+      <meaning id="fs-idm73214896">exists when a nation's imports exceed its exports and it calculates them as imports –exports
+</meaning>
+    </definition>
+   <definition id="fs-idm76674080">
+      <term>trade surplus</term>
+      <meaning id="fs-idm81033696">exists when a nation's exports exceed its imports and it calculates them as exports – imports
+</meaning>
+    </definition>
+</glossary>
+
+</document>

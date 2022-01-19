@@ -1,0 +1,329 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Insurance and Imperfect Information</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63685</md:content-id>
+  <md:title>Insurance and Imperfect Information</md:title>
+  <md:abstract><para>
+By the end of this section, you will be able to:</para><list>
+<item>Explain how insurance works </item>
+<item>Identify and evaluate various forms of government and social insurance</item>
+<item>Discuss the problems caused by moral hazard and adverse selection</item>
+<item>Analyze the impact of government regulation of insurance</item>
+</list></md:abstract>
+  <md:uuid>2e66ad1e-0ffa-47b3-b338-aa41b554f1ad</md:uuid>
+</metadata>
+
+<content>
+
+<para id="fs-idm100796800"><term>Insurance</term> is a method that households and firms use to prevent any single event from having a significant detrimental financial effect. Generally, households or firms with insurance make regular payments, called <term>premiums</term>. The insurance company prices these premiums based on the probability of certain events occurring among a pool of people. Members of the group who then suffer a specified bad experience receive payments from this pool of money.</para>
+<para id="fs-idp5525744">Many people have several kinds of insurance: health insurance that pays when they receive medical care; car insurance that pays if their car is in an automobile accident; house or renter’s insurance that pays for stolen possessions or items damaged by fire; and life insurance, which pays for the family if the insured individual dies. <link target-id="Table_16_01"/> lists a set of insurance markets.</para><table id="Table_16_01" summary="The table has three columns. The first is labeled “type of insurance”; the second is labeled “who pays for it?” and the third is labeled “it pays out when…” There are 6 rows of various insurance markets. Health insurance is paid for by employers and individuals; and it pays out when medical expenses are incurred. Life insurance is paid for by employers and individuals; and it pays out when the policyholder dies. Automobile insurance is paid for by individuals; and it pays out when the car is damaged, stolen, or causes damage to others. Property and homeowner’s insurance is paid for by homeowners and renters; and it pays out when dwelling is damaged or burglarized. Liability insurance is paid for by firms and individuals; and it pays out when an injury occurs for which you are partly responsible. Malpractice insurance is paid for by doctors, lawyers, and other professionals; and it pay out when a poor quality of service is provided that causes harm to others.">
+<title>Some Insurance Markets</title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+<row>
+<entry>Type of Insurance</entry>
+<entry>Who Pays for It?</entry>
+<entry>It Pays Out When . . .</entry>
+</row>
+</thead>
+
+<tbody>
+<row>
+<entry>Health insurance</entry>
+<entry>Employers and individuals</entry>
+<entry>Medical expenses are incurred</entry>
+</row>
+<row>
+<entry>Life insurance</entry>
+<entry>Employers and individuals</entry>
+<entry>Policyholder dies</entry>
+</row>
+<row>
+<entry>Automobile insurance</entry>
+<entry>Individuals</entry>
+<entry>Car is damaged, stolen, or causes damage to others</entry>
+</row>
+<row>
+<entry>Property and homeowner’s insurance</entry>
+<entry>Homeowners and renters</entry>
+<entry>Dwelling is damaged or burglarized</entry>
+</row>
+<row>
+<entry>Liability insurance</entry>
+<entry>Firms and individuals</entry>
+<entry>An injury occurs for which you are partly responsible</entry>
+</row>
+<row>
+<entry>Malpractice insurance</entry>
+<entry>Doctors, lawyers, and other professionals</entry>
+<entry>A poor quality of service is provided that causes harm to others</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+
+<para id="fs-idm48205104">All insurance involves imperfect information in both an obvious way and in a deeper way. At an obvious level, we cannot predict future events with certainty. For example, we cannot know with certainty who will have a car accident, become ill, die, or have his home robbed in the next year. Imperfect information also applies to estimating the risk that something will happen to any individual. It is difficult for an insurance company to estimate the risk that, say, a particular 20-year-old male driver from New York City will have an accident, because even within that group, some drivers will drive more safely than others. Thus, adverse events occur out of a combination of people’s characteristics and choices that make the risks higher or lower and then the good or bad luck of what actually happens.</para><section id="fs-idp66307904">
+<title>How Insurance Works</title>
+<para id="fs-idm49269872">A simplified example of automobile insurance might work this way. Suppose we divide a group of 100 drivers into three groups. In a given year, 60 of those people have only a few door dings or chipped paint, which costs $100 each. Another 30 of the drivers have medium-sized accidents that cost an average of $1,000 in damages, and 10 of the drivers have large accidents that cost $15,000 in damages. For the moment, let’s imagine that at the beginning of any year, there is no way of identifying the drivers who are low-risk, medium-risk, or high-risk. The total damage incurred by car accidents in this group of 100 drivers will be $186,000, that is:</para><equation id="fs-idm39038160" class="unnumbered"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Total damage</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>(60 × $100) + (30 × $1,000) + (10 × $15,000)</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>$6,000 + $30,000 + $150,000</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>$186,000</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm45612416">If each of the 100 drivers pays a $1,860 premium each year, the insurance company will collect the $186,000 that is needed to cover the costs of the accidents that occur.</para><para id="fs-idp27168736">Since insurance companies have such a large number of clients, they are able to negotiate with health care and other service providers for lower rates than the individual would be able to get, thus increasing the benefit to consumers of becoming insured and saving the insurance company itself money when it pays out claims.</para><para id="fs-idp40866944">Insurance companies receive income, as <link target-id="CNX_Econ_C16_001"/> shows, from insurance premiums and investment income. The companies derive income from investing the funds that insurance companies received in the past but did not pay out as insurance claims in prior years. The insurance company receives a rate of return from investing these funds or reserves. The companies typically invest in fairly safe, liquid (easy to convert into cash) investments, as the insurance companies need to be able to readily access these funds when a major disaster strikes.</para><figure id="CNX_Econ_C16_001"><title>An Insurance Company: What Comes In, What Goes Out </title><media id="fs-idm106683552" alt="The illustration shows that premiums from customers and investment income goes to insurance companies, and insurance companies then produce payments to customers, expenses, profits or losses.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C16_001.jpg"/>
+</media>
+
+<caption>Money flows into an insurance company through premiums and investments and out through the payment of claims and operating expenses.</caption></figure></section>
+
+<section id="fs-idm61908000">
+<title>Government and Social Insurance</title>
+<para id="fs-idm55371472">Federal and state governments run a number of insurance programs. Some of the programs look much like <term class="no-emphasis">private insurance</term>, in the sense that the members of a group make steady payments into a fund, and those in the group who suffer an adverse experience receive payments. Other programs protect against risk, but without an explicit fund set up. Following are some examples.</para><list id="fs-idm59373872"><item><term class="no-emphasis">Unemployment insurance</term>: Employers in every state pay a small amount for unemployment insurance, which goes into a fund to pay benefits to workers who lose their jobs and do not find new jobs, for a period of time, usually up to six months.</item>
+<item><term class="no-emphasis">Pension insurance</term>: Employers that offer pensions to their retired employees are required by law to pay a small fraction of what they are setting aside for pensions to the Pension Benefit Guarantee Corporation, which pays at least some pension benefits to workers if a company goes bankrupt and cannot pay the pensions it has promised.</item>
+<item><term class="no-emphasis">Deposit insurance</term>: Banks are required by law to pay a small fraction of their deposits to the Federal Deposit Insurance Corporation, which goes into a fund that pays depositors the value of their bank deposits up to $250,000 (the amount was raised from $100,000 to $250,000 in 2008) if the bank should go bankrupt.</item>
+<item><term class="no-emphasis">Workman’s compensation insurance</term>: Employers are required by law to pay a small percentage of the salaries that they pay into funds, typically run at the state level, that pay benefits to workers who suffer an injury on the job.</item>
+<item><term class="no-emphasis">Retirement insurance</term>: All workers pay a percentage of their income into Social Security and into Medicare, which then provides income and health care benefits to the elderly. Social Security and Medicare are not literally “insurance” in the sense that those currently contributing to the fund are not eligible for benefits. They function like insurance, however, in the sense that individuals make regular payments into the programs today in exchange for benefits they will receive in the case of a later event—either becoming old or becoming sick when old. A name for such programs is “social insurance.”</item>
+</list><para id="fs-idm63282032">The major additional costs to insurance companies, other than the payment of claims, are the costs of running a business: the administrative costs of hiring workers, administering accounts, and processing insurance claims. For most insurance companies, the insurance premiums coming in and the claims payments going out are much larger than the amounts earned by investing money or the administrative costs.</para>
+<para id="fs-idm93936592">Thus, while factors like investment income earned on reserves, administrative costs, and groups with different risks complicate the overall picture, a fundamental law of insurance must hold true: The average person’s payments into insurance over time must cover 1) the average person’s claims, 2) the costs of running the company, and 3) leave room for the firm’s profits. </para></section>
+
+<section id="fs-idp8235808">
+<title>Risk Groups and Actuarial Fairness</title>
+<para id="fs-idp81710480">Not all of those who purchase insurance face the same risks. Some people may be more likely, because of genetics or personal habits, to fall sick with certain diseases. Some people may live in an area where car theft or home robbery is more likely than in other areas. Some drivers are safer than others. A <term>risk group</term> can be defined as a group that shares roughly the same risks of an adverse event occurring.</para><para id="fs-idp103182000">Insurance companies often classify people into risk groups, and charge lower premiums to those with lower risks. If people are not separated into risk groups, then those with low risk must pay for those with high risks. In the simple example of how car insurance works, 60 drivers had very low damage of $100 each, 30 drivers had medium-sized accidents that cost $1,000 each, and 10 of the drivers had large accidents that cost $15,000. If all 100 of these drivers pay the same $1,860, then those with low damages are in effect paying for those with high damages.</para><para id="fs-idp10949488">If it is possible to classify drivers according to risk group, then the insurance company can charge each group according to its expected losses. For example, the insurance company might charge the 60 drivers who seem safest of all $100 apiece, which is the average value of the damages they cause. Then the intermediate group could pay $1,000 apiece and the high-cost group $15,000 each. When the level of insurance premiums that someone pays is equal to the amount that an average person in that risk group would collect in insurance payments, the level of insurance is said to be “actuarially fair.”</para><para id="fs-idp81704752">Classifying people into risk groups can be controversial. For example, if someone had a major automobile accident last year, should the insurance company classify that person as a high-risk driver who is likely to have similar accidents in the future, or as a low-risk driver who was just extremely unlucky? The driver is likely to claim to be low-risk, and thus someone who should be in a risk group with those who pay low insurance premiums in the future. The insurance company is likely to believe that, on average, having a major accident is a signal of being a high-risk driver, and thus try to charge this driver higher insurance premiums. The next two sections discuss the two major problems of imperfect information in insurance markets—called moral hazard and adverse selection. Both problems arise from attempts to categorize those purchasing insurance into risk groups.</para></section>
+
+<section id="fs-idm86729888">
+<title>The Moral Hazard Problem</title>
+<para id="fs-idm44251424"><term>Moral hazard</term> refers to the case when people engage in riskier behavior with insurance than they would if they did not have insurance. For example, if you have health insurance that covers the cost of visiting the doctor, you may be less likely to take precautions against catching an illness that might require a doctor’s visit. If you have car insurance, you will worry less about driving or parking your car in ways that make it more likely to get dented. In another example, a business without insurance might install absolute top-level security and fire sprinkler systems to guard against theft and fire. If it is insured, that same business might only install a minimum level of security and fire sprinkler systems.</para>
+<para id="fs-idm23407680">We cannot eliminate moral hazard, but insurance companies have some ways of reducing its effect. Investigations to prevent insurance fraud are one way of reducing the extreme cases of moral hazard. Insurance companies can also monitor certain kinds of behavior. To return to the example from above, they might offer a business a lower rate on property insurance if the business installs a top-level security and fire sprinkler system and has those systems inspected once a year.</para><para id="fs-idp14743488">Another method to reduce moral hazard is to require the injured party to pay a share of the costs. For example, insurance policies often have <term>deductibles</term>, which is an amount that the insurance policyholder must pay out of his or her own pocket before the insurance coverage starts paying. For example, auto insurance might pay for all losses greater than $500. Health insurance policies often have a <term>copayment</term>, in which the policyholder must pay a small amount. For example, a person might have to pay $20 for each doctor visit, and the insurance company would cover the rest. Another method of cost sharing is <term>coinsurance</term>, which means that the insurance company covers a certain percentage of the cost. For example, insurance might pay for 80% of the costs of repairing a home after a fire, but the homeowner would pay the other 20%.</para><para id="fs-idm61921264">All of these forms of cost sharing discourage moral hazard, because people know that they will have to pay something out of their own pocket when they make an insurance claim. The effect can be powerful. One prominent study found that when people face moderate deductibles and copayments for their health insurance, they consume about one-third less in medical care than people who have complete insurance and do not pay anything out of pocket, presumably because deductibles and copayments reduce the level of moral hazard. However, those who consumed less health care did not seem to have any difference in health status.</para><para id="fs-idm49749952">A final way of reducing moral hazard, which is especially applicable to health care, is to focus on healthcare provider incentives of providers  rather than consumers. Traditionally, most health care in the United States has been provided on a <term>fee-for-service</term> basis, which means that medical care providers are paid for the services they provide and are paid more if they provide additional services. However, in the last decade or so, the structure of healthcare provision has shifted to an emphasis on health maintenance organizations (HMOs). A <term>health maintenance organization (HMO)</term> provides healthcare that receives a fixed amount per person enrolled in the plan—regardless of how many services are provided. In this case, a patient with insurance has an incentive to demand more care, but the healthcare provider, which is receiving only a fixed payment, has an incentive to reduce the moral hazard problem by limiting the quantity of care provided—as long as it will not lead to worse health problems and higher costs later. Today, many doctors are paid with some combination of managed care and fee-for-service; that is, a flat amount per patient, but with additional payments for the treatment of certain health conditions.</para><para id="fs-idp45382960">Imperfect information is the cause of the moral hazard problem. If an insurance company had perfect information on risk, it could simply raise its premiums every time an insured party engages in riskier behavior. However, an insurance company cannot monitor all the risks that people take all the time and so, even with various checks and cost sharing, moral hazard will remain a problem.</para><note id="fs-idm99478448" class="economics linkup">
+<para id="fs-idm101636560">Visit this <link url="http://openstax.org/l/healtheconomics">website</link> to read about the relationship between health care and behavioral economics.</para>
+</note>
+</section>
+
+<section id="fs-idm86950320">
+<title>The Adverse Selection Problem</title>
+<para id="fs-idm129248272"><term>Adverse selection</term> refers to the problem in which insurance buyers  have more information about whether they are high-risk or low-risk than the insurance company does. This creates an asymmetric information problem for the insurance company because buyers who are high-risk tend to want to buy more insurance, without letting the insurance company know about their higher risk. For example, someone purchasing health insurance or life insurance probably knows more about their family’s health history than an insurer can reasonably find out even with a costly investigation. Someone purchasing car insurance may know that he or she are a high-risk driver who has not yet had a major accident—but it is hard for the insurance company to collect information about how people actually drive.</para><para id="fs-idp32180768">To understand how adverse selection can strangle an insurance market, recall the situation of 100 drivers who are buying automobile insurance, where 60 drivers had very low damages of $100 each, 30 drivers had medium-sized accidents that cost $1,000 each, and 10 of the drivers had large accidents that cost $15,000. That would equal $186,000 in total payouts by the insurance company. Imagine that, while the insurance company knows the overall size of the losses, it cannot identify the high-risk, medium-risk, and low-risk drivers. However, the drivers themselves know their risk groups. Since there is asymmetric information between the insurance company and the drivers, the insurance company would likely set the price of insurance at $1,860 per year, to cover the average loss (not including the cost of overhead and profit). The result is that those with low risks of only $100 will likely decide not to buy insurance; after all, it makes no sense for them to pay $1,860 per year when they are likely only to experience losses of $100. Those with medium risks of a $1,000 accident will not buy insurance either. Therefore, the insurance company ends up only selling insurance for $1,860 to high-risk drivers who will average $15,000 in claims apiece, and as a consequence, the insurance company ends up losing considerable money. If the insurance company tries to raise its premiums to cover the losses of those with high risks, then those with low or medium risks will be even more discouraged from buying insurance.</para><para id="fs-idm91144064">Rather than face such a situation of adverse selection, the insurance company may decide not to sell insurance in this <term class="no-emphasis">market</term> at all. If an insurance market is to exist, then one of two things must happen. First, the insurance company might find some way of separating insurance buyers into risk groups with some degree of accuracy and charging them accordingly, which in practice often means that the insurance company tries not to sell insurance to those who may pose high risks. Another scenario is that those with low risks must buy insurance, even if they have to pay more than the actuarially fair amount for their risk group. The notion that people can be required to purchase insurance raises the issue of government laws and regulations that influence the insurance industry.</para></section>
+
+<section id="fs-idm120325248">
+<title>U.S. Health Care in an International Context</title>
+<para id="fs-idm132102640">The United States is the only high-income country in the world where private firms pay and provide for most health insurance. Greater government involvement in the provision of health insurance is one possible way of addressing moral hazard and adverse selection problems.</para><para id="fs-idm47714240">The moral hazard problem with health insurance is that when people have insurance, they will demand higher quantities of health care. In the United States, private healthcare insurance tends to encourage an ever-greater demand for healthcare services, which healthcare providers are happy to fulfill. <link target-id="Table_16_02"/> shows that on a per-person basis, U.S. healthcare spending towers above healthcare spending of other countries. Note that while healthcare expenditures in the United States are far higher than healthcare expenditures in other countries, the health outcomes in the United States, as measured by life expectancy and lower rates of childhood mortality, tend to be lower. Health outcomes, however, may not be significantly affected by healthcare expenditures. Many studies have shown that a country’s health is more closely related to diet, exercise, and genetic factors than to healthcare expenditure. This fact further emphasizes that the United States is spending very large amounts on medical care with little obvious health gain.</para><para id="fs-idm119436832">In the U.S. health insurance market, the main way of solving this adverse selection problem is that health insurance is often sold through groups based on place of employment, or, under The Affordable Care Act, from a state government sponsored health exchange market. From an insurance company’s point of view, selling insurance through an employer mixes together a group of people—some with high risks of future health problems and some with lower risks—and thus reduces the insurance firm’s fear of attracting only those who have high risks. However, many small companies do not provide health insurance to their employees, and many lower-paying jobs do not include health insurance. Even after we take into account all U.S. government programs that provide health insurance for the elderly and the poor, approximately 32 million Americans were without health insurance in 2015. While a government-controlled system can avoid the adverse selection problem entirely by providing at least basic health insurance for all, another option is to mandate that all Americans buy health insurance from some provider by preventing providers from denying individuals based on preexisting conditions. The Patient Protection and Affordable Care Act adopted this approach, which we will discuss later on in this chapter.</para><table id="Table_16_02" summary="The table has 6 columns. Column 1 is labeled “country.” Column two is labeled “health care spending per person (in 2008).” Column 3 is labeled “male life expectancy at birth, in years (in 2012).” Column 4 is labeled “female life expectancy at birth, in years (in 2012). Column 5 is labeled “male chance of dying before age 5, per 1,000 (in 2012).” Column 6 is labeled “female chance of dying before age 5, per 1,000 (in 2012). For the United States, column 2 = $7,538; column 3 = 76, column 4 = 81; column 5 = 8; column 6 = 7. For Germany, column 2 = $3,737; column 3 = 78; column 4 = 83; column 5 = 4; column 6 = 4. For France, column 2 = $3,696; column 3 = 78; column 4 = 85; column 5 = 4; column 6 = 4. For Canada; column 2 = $4,079; column 3 = 79; column 4 = 84; column 5 = 6; column 6 = 5. For the United Kingdom, column 2 = $3,129; column 3 = 78; column 4 = 83; column 5 = 5; column 6 = 4.">
+<title>A Comparison of Healthcare Spending Across Select Countries</title>
+<tgroup cols="6">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<colspec colnum="6" colname="col6"/>
+<thead>
+<row>
+<entry>Country</entry>
+<entry>Health Care Spending per Person (in 2008)</entry>
+<entry>Male Life Expectancy at Birth, in Years (in 2012)</entry>
+<entry>Female Life Expectancy at Birth, in Years (in 2012)</entry>
+<entry>Male Chance of Dying before Age 5, per 1,000 (in 2012)</entry>
+<entry>Female Chance of Dying before Age 5, per 1,000 (in 2012)</entry>
+</row>
+</thead>
+
+<tbody>
+<row>
+<entry>United States</entry>
+<entry>$7,538</entry>
+<entry>76</entry>
+<entry>81</entry>
+<entry>8</entry>
+<entry>7</entry>
+</row>
+<row>
+<entry>Germany</entry>
+<entry>$3,737</entry>
+<entry>78</entry>
+<entry>83</entry>
+<entry>4</entry>
+<entry>4</entry>
+</row>
+<row>
+<entry>France</entry>
+<entry>$3,696</entry>
+<entry>78</entry>
+<entry>85</entry>
+<entry>4</entry>
+<entry>4</entry>
+</row>
+<row>
+<entry>Canada</entry>
+<entry>$4,079</entry>
+<entry>79</entry>
+<entry>84</entry>
+<entry>6</entry>
+<entry>5</entry>
+</row>
+<row>
+<entry>United Kingdom</entry>
+<entry>$3,129</entry>
+<entry>78</entry>
+<entry>83</entry>
+<entry>5</entry>
+<entry>4</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>(Source: 2010 OECD study and World Fact Book)</caption>
+</table>
+
+<para id="fs-idm84652080">At its best, the largely private U.S. system of health insurance and healthcare delivery provides an extraordinarily high quality of care, along with generating a seemingly endless parade of life-saving innovations. However, the system also struggles to control its high costs and to provide basic medical care to all. Other countries have lower costs and more equal access, but they often struggle to provide rapid access to health care and to offer the near-miracles of the most up-to-date medical care. The challenge is a healthcare system that strikes the right balance between quality, access, and cost.</para></section>
+
+<section id="fs-idp45613536">
+<title>Government Regulation of Insurance</title>
+<para id="fs-idp67901392">The U.S. insurance industry is primarily regulated at the state level. Since 1871 there has been a <term class="no-emphasis">National Association of Insurance Commissioners</term> that brings together these state regulators to exchange information and strategies. The state insurance regulators typically attempt to accomplish two things: to keep the price of insurance low and to ensure that everyone has insurance. These goals, however, can conflict with each other and also become easily entangled in politics.</para><para id="fs-idp197629872">If insurance premiums are set at actuarially fair levels, so that people end up paying an amount that accurately reflects their risk group, certain people will end up paying considerable amounts. For example, if health insurance companies were trying to cover people who already have a chronic disease like AIDS, or who were elderly, they would charge these groups very high premiums for health insurance, because their expected health care costs are quite high. Women in the age bracket 18–44 consume, on average, about 65% more in health care spending than men. Young male drivers have more car accidents than young female drivers. Thus, actuarially fair insurance would tend to charge young men much more for car insurance than young women. Because people in high-risk groups would find themselves charged so heavily for insurance, they might choose not to buy insurance at all.</para><para id="fs-idp100135888">State insurance regulators have sometimes reacted by passing rules that attempt to set low premiums for insurance. Over time, however, the fundamental law of insurance must hold: the average amount individuals receive cannot exceed the average amount paid in premiums. When rules are passed to keep premiums low, insurance companies try to avoid insuring any high-risk or even medium-risk parties. If a state legislature passes strict rules requiring insurance companies to sell to everyone at low prices, the insurance companies always have the option of withdrawing from doing business in that state. For example, the insurance regulators in New Jersey are well-known for attempting to keep auto insurance premiums low, and more than 20 different insurance companies stopped doing business in the state in the late 1990s and early 2000s. Similarly, in 2009, State Farm announced that it was withdrawing from selling property insurance in Florida.</para><para id="fs-idp160812672">In short, government regulators cannot force companies to charge low prices and provide high levels of insurance coverage—and thus take losses—for a sustained period of time. If insurance premiums are set below the actuarially fair level for a certain group, some other group will have to make up the difference. There are two other groups who can make up the difference: taxpayers or other insurance buyers.</para><para id="fs-idp46145104">In some industries, the U.S. government has decided free markets will not provide insurance at an affordable price, and so the government pays for it directly. For example, private health insurance is too expensive for many people whose incomes are too low. To combat this, the U.S. government, together with the states, runs the Medicaid program, which provides health care to those with low incomes. Private health insurance also does not work well for the elderly, because their average health care costs can be very high. Thus, the U.S. government started the Medicare program, which provides health insurance to all those over age 65. Other government-funded health-care programs are aimed at military veterans, as an added benefit, and children in families with relatively low incomes.</para>
+<para id="fs-idp64807008">Another common government intervention in insurance markets is to require that everyone buy certain kinds of insurance. For example, most states legally require car owners to buy auto insurance. Likewise, when a bank loans someone money to buy a home, the person is typically required to have homeowner’s insurance, which protects against fire and other physical damage (like hailstorms) to the home. A legal requirement that everyone must buy insurance means that insurance companies do not need to worry that those with low risks will avoid buying insurance. Since insurance companies do not need to fear adverse selection, they can set their prices based on an average for the market, and those with lower risks will, to some extent, end up subsidizing those with higher risks. However, even when laws are passed requiring people to purchase insurance, insurance companies cannot be compelled to sell insurance to everyone who asks—at least not at low cost. Thus, insurance companies will still try to avoid selling insurance to those with high risks whenever possible.</para>
+<para id="fs-idp192996528">The government cannot pass laws that make the problems of moral hazard and adverse selection disappear, but the government can make political decisions that certain groups should have insurance, even though the private market would not otherwise provide that insurance. Also, the government can impose the costs of that decision on taxpayers or on other buyers of insurance.</para>
+</section>
+
+<section id="fs-idp140674094579664">
+<title>The Patient Protection and Affordable Care Act</title>
+<para id="fs-idp140674094843856">In March of 2010, President Obama signed into law the <term class="no-emphasis">Patient Protection and Affordable Care Act  (PPACA)</term>. The government started to phase in this highly contentious law over time starting in October of 2013. The goal of the act is to bring the United States closer to universal coverage. Some of the key features of the plan include: </para><list id="fs-idp140674095065360"><item>Individual mandate: All individuals, who do not receive health care through their employer or through a government program (for example, Medicare), are required to have health insurance or pay a fine. The individual mandate's goal was to reduce the adverse selection problem and keep prices down by requiring all consumers—even the healthiest ones—to have health insurance. Without the need to guard against adverse selection (whereby only the riskiest consumers buy insurance) by raising prices, health insurance companies could provide more reasonable plans to their customers.</item>
+<item>Each state is required to have health insurance exchanges, or utilize the federal exchange, whereby insurance companies compete for business. The goal of the exchanges is to improve competition in the market for health insurance.</item>
+<item>Employer mandate: All employers with more than 50 employees must offer health insurance to their employees.</item>
+</list><para id="fs-idp140674098707248">The <term class="no-emphasis">Affordable Care Act (ACA)</term> is funded through additional taxes that include:</para><list id="fs-idp140674102457136"><item>Increasing the Medicare tax by 0.9 percent and adding a 3.8 percent tax on unearned income for high income taxpayers.</item>
+<item>Charging an annual fee on health insurance providers.</item>
+<item>Imposing other taxes such as a 2.3% tax on manufacturers and importers of certain medical devices.</item>
+</list><para id="fs-idp140674098741264">Many people and politicians, including Donald Trump, have sought to overturn the bill. Those who oppose the bill believe it violates an individual’s right to choose whether to have insurance or not. In 2012, a number of states challenged the law on the basis that the individual mandate provision is unconstitutional. In June 2012, the U.S. Supreme Court ruled in a 5–4 decision that the individual mandate is actually a tax, so it is constitutional as the federal government has the right to tax the populace.</para><note id="fs-idp140674098741664" class="economics bringhome"><title>What’s the Big Deal with Obamacare?</title><para id="fs-idp140674094686624">What is it that the Affordable Care Act (ACA) will actually do? To begin with, we should note that it is a massively complex law, with a large number of parts, some of which the Obama administration implemented immediately, and others that the government is supposed to phase in every year from 2013 through 2020.  Three of these parts are coverage for the uninsured—those without health insurance, coverage for individuals with preexisting conditions, and the so-called employer and individual mandates, which require employers to offer and people to purchase health insurance. However, with the new Trump administration, the ACA is under scrutiny and many components face repeal or drastic overhauling. </para><para id="fs-idp140674095076800">As we noted in the chapter, people face ever-increasing healthcare costs in the United States.
+Over the years, the ranks of the uninsured in the United States have grown as rising prices have pushed employers and individuals out of the market.  Insurance companies have increasingly used pre-existing medical conditions to determine if someone is high risk, for whom insurance companies either charge higher prices, or they choose to deny insurance coverage to these individuals.  Whatever the cause, we noted at the beginning of the chapter that prior to the ACA, more than 32 million Americans were uninsured.  People who are uninsured tend to use emergency rooms for treatment—the most expensive form of healthcare, which has contributed significantly to rising costs. </para>
+<para id="fs-idp140674095074656">The ACA introduced regulations designed to control increases in healthcare costs.  One example is a cap on the amount healthcare providers can spend on administrative costs. Another is a requirement that healthcare providers switch to electronic medical records (EMRs), which will reduce administrative costs.</para>
+<para id="fs-idp140674101693456">The ACA required that states establish health insurance exchanges, or markets, where people without health insurance, and businesses that do not provide it for their employees, can shop for different insurance plans. The purpose of these exchanges was to increase competition in insurance markets and thus reduce prices of policies.</para><para id="fs-idp140674101693712">Finally, the ACA mandated that people with preexisting conditions could no longer be denied health insurance. The U.S. Department of Health and Human Services estimates that the those without insurance in the US  has fallen from 20.3% in 2012 to 11.5% in 2016. Accordingly, 20 million Americans gained coverage under the ACA.</para>
+<para id="fs-idp140674095073264">What was the cost of this increased coverage and how was it paid?  An insurance policy works by insuring against the possibility of needing healthcare.  If there are high risk individuals in the insurance pool, the pool must be expanded to include enough low risk individuals to keep average premiums affordable.  To that end, the ACA imposed the individual mandate, requiring all individuals to purchase insurance (or pay a penalty) whether they were high risk or not.  Many young adults would choose to skip health insurance since the likelihood of their needing significant healthcare is small.  The individual mandate brought in a significant amount of money to pay for the ACA.  In addition, there were three other funding sources. The ACA took $716 billion which otherwise would have gone to Medicare spending.  The ACA also increased the Medicare tax that wealthy Americans paid by an additional 0.9%.  Furthermore, the government levied a 40% excess tax on high end (Cadillac) healthcare plans valued above a certain amount.  Despite these funding sources, the Congressional Budget Office estimates that the ACA will increase the federal debt by $137 billion over the next decade.</para><para id="eip-id2541917">The impact of the Patient Protection and Affordable Care Act has been a rise in Americans with health insurance. However, the increased costs for those buying Premium (Cadillac) health insurance plans, increased tax on the wealthy, and increased deficit spending, the ACA faces substantial opposition. The Trump administration vowed to repeal it on the campaign trail but no alternative bill has made its way before congress. Only time will tell if the Affordable Care Act will leave a legacy or will quickly be swept by the wayside, jeopardizing the 20 million newly insured Americans. </para><para id="eip-id3091043">At the time of this writing, the final impact of the Patient Protection and Affordable Care Act is not clear.  Millions of previously uninsured Americans now have coverage, but the increased cost of premium health insurance plans, increased Medicare tax on the wealthy and increased deficit spending have created significant political opposition.  The Trump administration vowed to repeal the ACA, but his administration has not announced an alternative.   Only time will tell.</para>
+</note></section>
+
+<section id="fs-idm92615824" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idm76387008">Insurance is a way of sharing risk. People in a group pay premiums for insurance against some unpleasant event, and those in the group who actually experience the unpleasant event then receive some compensation. The fundamental law of insurance is that what the average person pays in over time cannot be less than what the average person gets out. In an actuarially fair insurance policy, the premiums that a person pays to the insurance company are the same as the average amount of benefits for a person in that risk group. Moral hazard arises in insurance markets because those who are insured against a risk will have less reason to take steps to avoid the costs from that risk.</para><para id="fs-idm59484752">Many insurance policies have deductibles, copayments, or coinsurance. A deductible is the maximum amount that the policyholder must pay out-of-pocket before the insurance company pays the rest of the bill. A copayment is a flat fee that an insurance policy-holder must pay before receiving services. Coinsurance requires the policyholder to pay a certain percentage of costs. Deductibles, copayments, and coinsurance reduce moral hazard by requiring the insured party to bear some of the costs before collecting insurance benefits.</para>
+<para id="fs-idp95897728">In a fee-for-service health financing system, medical care providers receive reimbursement according to the cost of services they provide. An alternative method of organizing health care is through health maintenance organizations (HMOs), where medical care providers receive reimbursement according to the number of patients they handle, and it is up to the providers to allocate resources between patients who receive more or fewer health care services. Adverse selection arises in insurance markets when insurance buyers know more about the risks they face than does the insurance company. As a result, the insurance company runs the risk that low-risk parties will avoid its insurance because it is too costly for them, while high-risk parties will embrace it because it looks like a good deal to them.</para></section>
+
+<section id="fs-idm112363360" class="self-check-questions"><title>Self-Check Question</title><exercise id="fs-idm1604784">
+<problem id="fs-idm129926976">
+<para id="fs-idm128421200">Why is it difficult to measure health outcomes?</para>
+</problem>
+<solution id="fs-idm97651328">
+<para id="fs-idm78658736">It is almost impossible to distinguish whether a health outcome such as life expectancy was the result of personal preferences that might affect health and longevity, such as diet, exercise, certain risky behavior, and consumption of certain items like tobacco, or the result of expenditures on health care (for example, annual check-ups).</para>
+</solution>
+</exercise>
+</section><section id="fs-idp7592848" class="review-questions">
+<title>Review Questions</title>
+<exercise id="fs-idp161685616">
+<problem id="fs-idp15241952">
+<para id="fs-idp114849952">What is an insurance premium?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp39178032">
+<problem id="fs-idp57286064">
+<para id="fs-idm4897920">In an insurance system, would you expect each person to receive in benefits pretty much what they pay in premiums or is it just that the average benefits paid will equal the average premiums paid?</para></problem>
+</exercise>
+<exercise id="fs-idm90908688">
+<problem id="fs-idp20602528">
+<para id="fs-idp16753120">What is an actuarially fair insurance policy?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp53937632">
+<problem id="fs-idp43868832">
+<para id="fs-idp20164880">What is the problem of moral hazard?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp13055120">
+<problem id="fs-idp39285808">
+<para id="fs-idm19487568">How can moral hazard lead to more costly insurance premiums than one was expected?</para></problem>
+</exercise>
+<exercise id="fs-idm70884688">
+<problem id="fs-idm5272944">
+<para id="fs-idp34877744">Define deductibles, copayments, and coinsurance.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp7885696">
+<problem id="fs-idp32449392">
+<para id="fs-idp78321280">How can deductibles, copayments, and coinsurance reduce moral hazard?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp96387856">
+<problem id="fs-idp47999296">
+<para id="fs-idp112315712">What is the key difference between a fee-for-service healthcare system and a system based on health maintenance organizations?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp68342240">
+<problem id="fs-idp5189264">
+<para id="fs-idp98839904">How might adverse selection make it difficult for an insurance market to operate?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp94467776">
+<problem id="fs-idp14271392">
+<para id="fs-idp49813568">What are some of the metrics economists use to measure health outcomes?</para></problem>
+</exercise>
+</section>
+
+<section id="fs-idm9488960" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-idp82982752">
+<problem id="fs-idp13068288">
+<para id="fs-idm969280">How do you think the problem of moral hazard might have affected the safety of sports such as football and boxing when safety regulations started requiring that players wear more padding?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp131725296">
+<problem id="fs-idp25543344">
+<para id="fs-idp104345312">To what sorts of customers would an insurance company offer a policy with a high copay? What about a high premium with a lower copay?</para>
+</problem>
+</exercise>
+</section>
+
+
+<section id="fs-idm122472096" class="problems">
+<title>Problems</title>
+<exercise id="fs-idp206640">
+<problem id="fs-idp32906544">
+<para id="fs-idm30246432">Imagine that you can divide 50-year-old men into two groups: those who have a family history of cancer and those who do not. For the purposes of this example, say that 20% of a group of 1,000 men have a family history of cancer, and these men have one chance in 50 of dying in the next year, while the other 80% of men have one chance in 200 of dying in the next year. The insurance company is selling a policy that will pay $100,000 to the estate of anyone who dies in the next year.</para><list id="fs-idm34173216" list-type="enumerated" number-style="lower-alpha">
+<item>If the insurance company were selling life insurance separately to each group, what would be the actuarially fair premium for each group?</item>
+<item>If an insurance company were offering life insurance to the entire group, but could not find out about family cancer histories, what would be the actuarially fair premium for the group as a whole?</item>
+<item>What will happen to the insurance company if it tries to charge the actuarially fair premium to the group as a whole rather than to each group separately?</item>
+</list>
+</problem>
+</exercise>
+</section>
+
+<section id="fs-idp47547056" class="references">
+<title>References</title>
+<para id="fs-idp15098624">Central Intelligence Agency. “The World Factbook.” https://www.cia.gov/library/publications/the-world-factbook/index.html.</para><para id="fs-idm9892352">National Association of Insurance Commissioners. “National Association of Insurance Commissioners &amp; The Center for Insurance Policy and Research.” http://www.naic.org/.</para>
+<para id="fs-idp148538064">OECD. “The Organisation for Economic Co-operation and Development (OECD).” http://www.oecd.org/about/.</para>
+<para id="eip-324">USA Today. 2015. “Uninsured Rates Drop Dramatically under Obamacare.” Accessed April 1, 2015. http://www.usatoday.com/story/news/nation/2015/03/16/uninsured-rates-drop-sharply-under-obamacare/24852325/.</para><para id="fs-idp139756768">Thaler, Richard H., and Sendhil Mullainathan. “The Concise Encyclopedia of Economics: Behavioral Economics.” <emphasis effect="italics">Library of Economics and Liberty</emphasis>. http://www.econlib.org/library/Enc/BehavioralEconomics.html.</para><para id="fs-idm54340320">Henry J. Kaiser Family Foundation, The. “Health Reform: Summary of the Affordable care Act.” Last modified April 25, 2013. http://kff.org/health-reform/fact-sheet/summary-of-new-health-reform-law/.</para></section>
+
+</content>
+
+<glossary>
+<definition id="fs-idm100802992">
+<term>adverse selection</term> <meaning id="fs-idm2045232">when groups with inherently higher risks than the average person seek out insurance, thus straining the insurance system</meaning>
+</definition>
+<definition id="fs-idp94828752">
+<term>coinsurance</term> <meaning id="fs-idm43333808">when an insurance policyholder pays a percentage of a loss, and the insurance company pays the remaining cost</meaning>
+</definition>
+<definition id="fs-idm45768128">
+<term>copayment</term> <meaning id="fs-idm1027456">when an insurance policyholder must pay a small amount for each service, before insurance covers the rest</meaning>
+</definition>
+<definition id="fs-idm3177648">
+<term>deductible</term> <meaning id="fs-idp8500816">an amount that the insurance policyholders must pay out of their own pocket before the insurance coverage pays anything</meaning>
+</definition>
+<definition id="fs-idp46693840">
+<term>fee-for-service</term> <meaning id="fs-idm2278032">when medical care providers are paid according to the services they provide</meaning>
+</definition>
+<definition id="fs-idp25068016">
+<term>health maintenance organization (HMO)</term> <meaning id="fs-idp73282384">an organization that provides health care and is paid a fixed amount per person enrolled in the plan—regardless of how many services are provided</meaning>
+</definition>
+<definition id="fs-idm15255360">
+<term>insurance</term> <meaning id="fs-idm8271024">method of protecting a person from financial loss, whereby policy holders make regular payments to an insurance entity; the insurance firm then remunerates a group member who suffers significant financial damage from an event covered by the policy</meaning>
+</definition>
+<definition id="fs-idp152572048">
+<term>moral hazard</term> <meaning id="fs-idp110044640">when people have insurance against a certain event, they are less likely to guard against that event occurring</meaning>
+</definition>
+<definition id="fs-idp48682192">
+<term>premium</term> <meaning id="fs-idm40666192">payment made to an insurance company</meaning>
+</definition>
+<definition id="fs-idp129257632">
+<term>risk group</term> <meaning id="fs-idm25717184">a group that shares roughly the same risks of an adverse event occurring</meaning>
+</definition>
+</glossary>
+
+
+</document>

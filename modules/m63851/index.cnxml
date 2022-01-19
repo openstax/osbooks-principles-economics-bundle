@@ -1,0 +1,142 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>The Building Blocks of Keynesian Analysis</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63851</md:content-id>
+  <md:title>The Building Blocks of Keynesian Analysis</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Evaluate the Keynesian view of recessions through an understanding of sticky wages and prices and the importance of aggregate demand</item>
+<item>Explain the coordination argument, menu costs, and macroeconomic externality</item>
+<item>Analyze the impact of the expenditure multiplier</item>
+</list></md:abstract>
+  <md:uuid>5424200f-1ca2-4ae2-a992-651e0f73564e</md:uuid>
+</metadata>
+
+<content>
+<para id="ch25mod03_p01">Now that we have a clear understanding of what constitutes aggregate demand, we return to the Keynesian argument using the model of aggregate demand/aggregate supply (AD/AS). (For a similar treatment using Keynes’ income-expenditure model, see the appendix on <link document="m64270">The Expenditure-Output Model</link>.)</para><para id="ch25mod03_p02">Keynesian economics focuses on explaining why recessions and depressions occur and offering a policy prescription for minimizing their effects. The Keynesian view of <term class="no-emphasis">recession</term> is based on two key building blocks. First, aggregate demand is not always automatically high enough to provide firms with an incentive to hire enough workers to reach full employment. Second, the macroeconomy may adjust only slowly to shifts in aggregate demand because of <term>sticky wages and prices</term>, which are wages and prices that do not respond to decreases or increases in demand. We will consider these two claims in turn, and then see how they are represented in the AD/AS model.</para><para id="ch25mod03_p03">The first building block of the Keynesian diagnosis is that recessions occur when the level of demand for goods and services is less than what is produced when labor is fully employed. In other words, the intersection of aggregate supply and aggregate demand occurs at a level of output less than the level of GDP consistent with full employment. Suppose the stock market crashes, as in 1929, or suppose the housing market collapses, as in 2008. In either case, household wealth will decline, and consumption expenditure will follow. Suppose businesses see that consumer spending is falling. That will reduce expectations of the profitability of investment, so businesses will decrease investment expenditure.</para><para id="ch25mod03_p04">This seemed to be the case during the Great Depression, since the physical capacity of the economy to supply goods did not alter much. No flood or earthquake or other natural disaster ruined factories in 1929 or 1930. No outbreak of disease decimated the ranks of workers. No key input price, like the price of oil, soared on world markets. The U.S. economy in 1933 had just about the same factories, workers, and state of technology as it had had four years earlier in 1929—and yet the economy had shrunk dramatically. This also seems to be what happened in 2008.</para><para id="ch25mod03_p05">As Keynes recognized, the events of the Depression contradicted Say’s law that “supply creates its own demand.” Although production capacity existed, the markets were not able to sell their products. As a result, real GDP was less than potential GDP.</para>
+
+<note id="ch25mod03_link01" class="economics linkup"><label/>
+<para id="ch25mod03_p06">Visit this <link url="http://openstax.org/l/expenditures">website</link> for raw data used to calculate GDP.</para>
+</note><section id="ch25mod03_01"><title>Wage and Price Stickiness</title><para id="ch25mod03_p07">Keynes also pointed out that although AD fluctuated, prices and wages did not immediately respond as economists often expected. Instead, prices and wages are “sticky,” making it difficult to restore the economy to full employment and potential GDP. Keynes emphasized one particular reason why wages were sticky: the <term>coordination argument</term>. This argument points out that, even if most people would be willing—at least hypothetically—to see a decline in their own wages in bad economic times as long as everyone else also experienced such a decline, a market-oriented economy has no obvious way to implement a plan of coordinated wage reductions. <link document="m64096">Unemployment</link> proposed a number of reasons why wages might be sticky downward, most of which center on the argument that businesses avoid wage cuts because they may in one way or another depress morale and hurt the productivity of the existing workers.</para><para id="ch25mod02_p08">Some modern economists have argued in a Keynesian spirit that, along with wages, other prices may be sticky, too. Many firms do not change their prices every day or even every month. When a firm considers changing prices, it must consider two sets of costs. First, changing prices uses company resources: managers must analyze the competition and market demand and decide the new prices, they must update sales materials, change billing records, and redo product and price labels. Second, frequent price changes may leave customers confused or angry—especially if they discover that a product now costs more than they expected. These costs of changing prices are called <term>menu costs</term>—like the costs of printing a new set of menus with different prices in a restaurant. Prices do respond to forces of supply and demand, but from a macroeconomic perspective, the process of changing all prices throughout the economy takes time.</para><para id="ch25mod02_p09">To understand the effect of sticky wages and prices in the economy, consider <link target-id="CNX_Econ_C25_024"/> (a) illustrating the overall labor market, while <link target-id="CNX_Econ_C25_024"/> (b) illustrates a market for a specific good or service. The original equilibrium (E<sub>0</sub>) in each market occurs at the intersection of the demand curve (D<sub>0</sub>) and supply curve (S<sub>0</sub>). When aggregate demand declines, the demand for labor shifts to the left (to D<sub>1</sub>) in <link target-id="CNX_Econ_C25_024"/> (a) and the demand for goods shifts to the left (to D<sub>1</sub>) in <link target-id="CNX_Econ_C25_024"/> (b). However, because of sticky wages and prices, the wage remains at its original level (W<sub>0</sub>) for a period of time and the price remains at its original level (P<sub>0</sub>).</para><para id="ch25mod02_p10">As a result, a situation of excess supply—where the quantity supplied exceeds the quantity demanded at the existing wage or price—exists in markets for both labor and goods, and Q<sub>1</sub> is less than Q<sub>0</sub> in both <link target-id="CNX_Econ_C25_024"/> (a) and <link target-id="CNX_Econ_C25_024"/> (b). When many labor markets and many goods markets all across the economy find themselves in this position, the economy is in a recession; that is, firms cannot sell what they wish to produce at the existing market price and do not wish to hire all who are willing to work at the existing market wage. The Clear It Up feature discusses this problem in more detail.</para><figure id="CNX_Econ_C25_024"><title>Sticky Prices and Falling Demand in the Labor and Goods Market</title><media id="CNX_Econ_C25_024m" alt="The two graphs show how sticky wages have varying effects based on whether the market is a labor market or a goods market.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C25_024.jpg"/>
+</media>
+
+<caption>In both (a) and (b), demand shifts left from D<sub>0</sub> to D<sub>1</sub>. However, the wage in (a) and the price in (b) do not immediately decline. In (a), the quantity demanded of labor at the original wage (W<sub>0</sub>) is Q<sub>0</sub>, but with the new demand curve for labor (D<sub>1</sub>), it will be Q<sub>1</sub>. Similarly, in (b), the quantity demanded of goods at the original price (P<sub>0</sub>) is Q<sub>0</sub>, but at the new demand curve (D<sub>1</sub>) it will be Q<sub>1</sub>. An excess supply of labor will exist, which we call unemployment. An excess supply of goods will also exist, where the quantity demanded is substantially less than the quantity supplied. Thus, sticky wages and sticky prices, combined with a drop in demand, bring about unemployment and recession.</caption></figure><note id="ch25mod02_clear01" class="economics clearup">
+<label/>
+<title>Why Is the Pace of Wage Adjustments Slow?</title>
+<para id="ch25mod02_p11">The recovery after the Great Recession in the United States has been slow, with wages stagnant, if not declining. In fact, many low-wage workers at McDonalds, Dominos, and Walmart have threatened to strike for higher wages. Their plight is part of a larger trend in job growth and pay in the post–recession recovery.</para>
+
+<figure id="CNX_Econ_C25_028"><title>Jobs Lost/Gained in the Recession/Recovery</title><media id="CNX_Econ_C25_028m" alt="The chart on the left shows that the majority of jobs lost during the recession were from people working mid-wage occupations (60%). The chart on the right shows that the majority of jobs gained during the recovery were from people working lower-wage occupations (58%).">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C25_028.jpg"/>
+</media>
+
+<caption>Data in the aftermath of the Great Recession suggests that jobs lost were in mid-wage occupations, while jobs gained were in low-wage occupations.</caption></figure><para id="ch25mod02_p12">The National Employment Law Project compiled data from the Bureau of Labor Statistics and found that, during the Great Recession, 60% of job losses were in medium-wage occupations. Most of them were replaced during the recovery period with lower-wage jobs in the service, retail, and food industries. <link target-id="CNX_Econ_C25_028"/> illustrates this data.</para><para id="ch25mod02_p13">Wages in the service, retail, and food industries are at or near minimum wage and tend to be both downwardly and upwardly “sticky.” Wages are downwardly sticky due to minimum wage laws. They may be upwardly sticky if insufficient competition in low-skilled labor markets enables employers to avoid raising wages that would reduce their profits. At the same time, however, the Consumer Price Index increased 11% between 2007 and 2012, pushing real wages down.</para></note>
+</section><section id="ch25mod02_02">
+<title>The Two Keynesian Assumptions in the AD/AS Model</title>
+<para id="ch25mod02_p14"><link target-id="CNX_Econ_C25_035"/> is the AD/AS diagram which illustrates these two Keynesian assumptions—the importance of aggregate demand in causing recession and the stickiness of wages and prices. Note that because of the stickiness of wages and prices, the aggregate supply curve is flatter than either supply curve (labor or specific good). In fact, if wages and prices were so sticky that they did not fall at all, the aggregate supply curve would be completely flat below potential GDP, as <link target-id="CNX_Econ_C25_035"/> shows. This outcome is an important example of a <term>macroeconomic externality</term>, where what happens at the macro level is different from and inferior to what happens at the micro level.  For example, a firm should respond to a decrease in demand for its product by cutting its price to increase sales. However, if all firms experience a decrease in demand for their products, sticky prices in the aggregate prevent aggregate demand from rebounding (which we would show as a movement along the AD curve in response to a lower price level).</para><para id="ch25mod02_p15">The original equilibrium of this economy occurs where the aggregate demand function (AD<sub>0</sub>) intersects with AS. Since this intersection occurs at potential GDP (Yp), the economy is operating at full employment. When aggregate demand shifts to the left, all the adjustment occurs through decreased real GDP. There is no decrease in the price level. Since the equilibrium occurs at Y<sub>1</sub>, the economy experiences substantial unemployment.</para>
+
+<figure id="CNX_Econ_C25_035"><title>A Keynesian Perspective of Recession</title><media id="mCNX_Econ_C25_035" alt="The graph shows three aggregate demand curves and one aggregate supply curve. The aggregate curve farthest to the left represents an economy in a recession.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C25_035.jpg"/>
+</media>
+
+<caption>This figure illustrates the two key assumptions behind  Keynesian economics. A recession begins when aggregate demand declines from AD<sub>0</sub> to AD<sub>1</sub>. The recession persists because of the assumption of fixed wages and prices, which makes the SRAS flat below potential GDP. If that were not the case, the price level would fall also, raising GDP and limiting the recession. Instead the intersection E<sub>1</sub> occurs in the flat portion of the SRAS curve where GDP is less than potential.</caption></figure></section>
+
+<section id="ch25mod02_03">
+<title>The Expenditure Multiplier</title>
+<para id="ch25mod02_p016">A key concept in Keynesian economics is the <term>expenditure multiplier</term>. The expenditure multiplier is the idea that not only does spending affect the equilibrium level of GDP, but that spending is powerful. More precisely, it means that a change in spending causes a more than proportionate change in GDP.</para><equation class="unnumbered" id="ch25mod02_eq1"><m:math>
+ <m:mrow>
+  <m:mfrac>
+   <m:mrow>
+    <m:mtext>ΔY</m:mtext>
+   </m:mrow>
+   <m:mrow>
+    <m:mtext>ΔSpending</m:mtext>
+   </m:mrow>
+  </m:mfrac>
+  <m:mo>&gt;</m:mo><m:mn>1</m:mn>
+ </m:mrow>
+</m:math>
+</equation><para id="ch25mod02_p17">The reason for the expenditure multiplier is that one person’s spending becomes another person’s income, which leads to additional spending and additional income so that the cumulative impact on GDP is larger than the initial increase in spending. The appendix on <link document="m64270">The Expenditure-Output Model</link> provides the details of the multiplier process, but the concept is important enough for us to summarize here. While the multiplier is important for understanding the effectiveness of fiscal policy, it occurs whenever any autonomous increase in spending occurs. Additionally, the multiplier operates in a negative as well as a positive direction. Thus, when investment spending collapsed during the Great Depression, it caused a much larger decrease in real GDP. The size of the multiplier is critical and was a key element in discussions of the effectiveness of the Obama administration’s fiscal stimulus package, officially titled the <term class="no-emphasis">American Recovery and Reinvestment Act of 2009</term>.</para></section>
+
+<section id="ch25mod02_summ" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="ch25mod02_p18">Keynesian economics is based on two main ideas: (1) aggregate demand is more likely than aggregate supply to be the primary cause of a short-run economic event like a recession; (2) wages and prices can be sticky, and so, in an economic downturn, unemployment can result. The latter is an example of a macroeconomic externality. While surpluses cause prices to fall at the micro level, they do not necessarily at the macro level. Instead the adjustment to a decrease in demand occurs only through decreased quantities. One reason why prices may be sticky is menu costs, the costs of changing prices. These include internal costs a business faces in changing prices in terms of labeling, recordkeeping, and accounting, and also the costs of communicating the price change to (possibly unhappy) customers. Keynesians also believe in the existence of the expenditure multiplier—the notion that a change in autonomous expenditure causes a more than proportionate change in GDP.
+</para></section>
+
+<section id="ch25mod02_sques" class="self-check-questions">
+<title>Self-Check Questions</title>
+<exercise id="ch25mod02_sques01">
+<problem id="ch25mod02_squesp01">
+<para id="ch25mod02_p19">Use the AD/AS model to explain how an inflationary gap occurs, beginning from the initial equilibrium in <link target-id="CNX_Econ_C25_035"/>.</para></problem>
+<solution id="ch25mod02_sques01s">
+<para id="ch25mod02_p20">An inflationary gap is the result of an increase in aggregate demand when the economy is at potential output. Since the AS curve is vertical at potential GDP, any increase in AD will lead to a higher price level (i.e. inflation) but no higher real GDP. This is easy to see if you draw AD<sub>1</sub> to the right of AD<sub>0</sub>.</para>
+</solution>
+</exercise>
+
+<exercise id="ch25mod02_sques02">
+<problem id="ch25mod02_squesp02">
+<para id="ch25mod02_p21">Suppose the U.S. Congress cuts federal government spending in order to balance the Federal budget. Use the AD/AS model to analyze the likely impact on output and employment. <emphasis effect="italics">Hint</emphasis>: revisit <link target-id="CNX_Econ_C25_035"/>.</para></problem>
+<solution id="ch25mod02_sques02s">
+<para id="ch25mod02_p22">A decrease in government spending will shift AD to the left.</para></solution>
+</exercise>
+</section>
+
+<section id="ch25mod02_rques" class="review-questions">
+<title>Review Questions</title>
+<exercise id="ch25mod02_rques01">
+<problem id="ch25mod02_rquesp01">
+<para id="ch25mod02_p23">From a Keynesian point of view, which is more likely to cause a recession: aggregate demand or aggregate supply, and why?</para>
+</problem>
+</exercise>
+<exercise id="ch25mod02_rques02">
+<problem id="ch25mod02_rquesp02">
+<para id="ch25mod02_p24">Why do sticky wages and prices increase the impact of an economic downturn on unemployment and recession?</para>
+</problem>
+</exercise>
+<exercise id="ch25mod02_rques03">
+<problem id="ch25mod02_rquesp03">
+<para id="ch25mod02_p25">Explain what economists mean by “menu costs.”</para></problem>
+</exercise>
+</section>
+
+<section id="ch25mod02_ctques" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="ch25mod02_ctques01">
+<problem id="ch25mod02_ctquesp01">
+<para id="ch25mod02_p26">Does it make sense that wages would be sticky downwards but not upwards? Why or why not?</para>
+</problem>
+</exercise>
+<exercise id="ch25mod02_ctques02">
+<problem id="ch25mod02_ctquesp02">
+<para id="ch25mod02_p27">Suppose the economy is operating at potential GDP when it experiences an increase in export demand. How might the economy increase production of exports to meet this demand, given that the economy is already at full employment?</para>
+</problem>
+</exercise>
+</section>
+
+<section id="ch25mod02_ref" class="references">
+<title>References</title>
+<para id="ch25mod02_ref01">Harford, Tim. “What Price Supply and Demand?” http://timharford.com/2014/01/what-price-supply-and-demand/?utm_source=dlvr.it&amp;utm_medium=twitter.</para><para id="ch25mod02_ref02">National Employment Law Project. “Job Creation and Economic Recovery.” http://www.nelp.org/index.php/content/content_issues/category/job_creation_and_economic_recovery/.</para></section>
+</content>
+<glossary>
+    <definition id="ch25mod02_gl01">
+        <term>coordination argument</term>
+        <meaning id="ch25mod02_gl01m">downward wage and price flexibility requires perfect information about the level of lower compensation acceptable to other laborers and market participants</meaning>
+    </definition>
+<definition id="ch25mod02_gl02">
+    <term>expenditure multiplier</term>
+    <meaning id="ch25mod02_gl02m">Keynesian concept that asserts that a change in autonomous spending causes a more than proportionate change in real GDP</meaning>
+</definition>
+    <definition id="ch25mod02_gl03">
+        <term>macroeconomic externality</term>
+<meaning id="ch25mod02_gl03m">occurs when what happens at the macro level is different from and inferior to what happens at the micro level; an example would be where upward sloping supply curves for firms become a flat aggregate supply curve, illustrating that the price level cannot fall to stimulate aggregate demand </meaning>  </definition>
+    <definition id="ch25mod02_gl04">
+        <term>menu costs</term>
+        <meaning id="ch25mod02_gl04m">costs firms face in changing prices</meaning>
+    </definition>
+    <definition id="ch25mod02_gl05">
+        <term>sticky wages and prices</term>
+        <meaning id="ch25mod02_gl05m">a situation where wages and prices do not fall in response to a decrease in demand, or do not rise in response to an increase in demand</meaning>
+    </definition>
+</glossary>
+</document>

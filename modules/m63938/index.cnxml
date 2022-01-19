@@ -1,0 +1,204 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Wages and Employment in an Imperfectly Competitive Labor Market</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63938</md:content-id>
+  <md:title>Wages and Employment in an Imperfectly Competitive Labor Market</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+<item>Define monopsony power</item>
+<item>Explain how imperfectly competitive labor markets determine wages and employment, where employers have market power</item>
+</list></md:abstract>
+  <md:uuid>df0edc13-4e59-469e-be16-80a4bd7fe0a7</md:uuid>
+</metadata>
+
+<content>
+
+
+<para id="fs-idp40614064">In the chapters on market structure, we observed that while economists use the theory of perfect competition as an ideal case of market structure, there are very few examples of perfectly competitive industries in the real world.  What about labor markets?  How many labor markets are perfectly competitive?  There are probably more examples of perfectly competitive labor markets than perfectly competitive product markets, but that doesn’t mean that all labor markets are competitive.</para><para id="eip-575">When a job applicant is bargaining with an employer for a position, the applicant is often at a disadvantage—needing the job more than the employer needs that particular applicant. John Bates Clark (1847–1938), often named as the first great American economist, wrote in 1907: “In the making of the wages contract the individual laborer is always at a disadvantage. He has something which he is obliged to sell and which his employer is not obliged to take, since he [that is, the employer] can reject single men with impunity.”</para><para id="eip-145">To give workers more power, the U.S. government has passed, in response to years of labor protests, a number of laws to create a more equal balance of power between workers and employers. These laws include some of the following:</para><list id="eip-884"><item>Setting minimum hourly wages</item>
+<item>Setting maximum hours of work (at least before employers pay overtime rates)</item>
+<item>Prohibiting child labor</item>
+<item>Regulating health and safety conditions in the workplace</item>
+<item>Preventing discrimination on the basis of race, ethnicity, gender, sexual orientation, and age</item>
+<item>Requiring employers to provide family leave</item>
+<item>Requiring employers to give advance notice of layoffs</item>
+<item>Covering workers with unemployment insurance</item>
+<item>Setting a limit on the number of immigrant workers from other countries</item>
+</list><para id="eip-121"><link target-id="eip-416"/> lists some prominent U.S. workplace protection laws. Many of the laws listed in the table were only the start of labor market regulations in these areas and have been followed, over time, by other related laws, regulations, and court rulings.</para><table id="eip-416" summary="..."><title>Prominent U.S. Workplace Protection Laws</title>
+<tgroup cols="2"><thead>
+<row>
+<entry>Law</entry>
+<entry>Protection</entry>
+</row>
+</thead>
+<tbody>
+  <row>
+    <entry>National Labor-
+Management
+Relations Act of
+1935 (the “Wagner
+Act”)</entry>
+    <entry>Establishes procedures for establishing a union that firms are obligated to
+follow; sets up the National Labor Relations Board for deciding disputes</entry>
+  </row>
+  <row>
+    <entry>Social Security Act of 1935</entry>
+    <entry>Under Title III, establishes a state-run system of unemployment insurance, in
+which workers pay into a state fund when they are employed and received
+benefits for a time when they are unemployed</entry>
+  </row>
+  <row>
+    <entry>Fair Labor
+Standards Act of
+1938</entry>
+    <entry>Establishes the minimum wage, limits on child labor, and rules requiring
+payment of overtime pay for those in jobs that are paid by the hour and
+exceed 40 hours per week</entry>
+  </row>
+ <row>
+    <entry>Taft-Hartley Act of
+1947</entry>
+    <entry>Allows states to decide whether all workers at a firm can be required to join a
+union as a condition of employment; in the case of a disruptive union strike,
+permits the president to declare a “cooling-off period” during which workers
+have to return to work</entry>
+  </row>
+ <row>
+    <entry>Civil Rights Act of
+1964</entry>
+    <entry>Title VII of the Act prohibits discrimination in employment on the basis of race,
+gender, national origin, religion, or sexual orientation</entry>
+  </row>
+ <row>
+    <entry>Occupational
+Health and Safety
+Act of 1970</entry>
+    <entry>Creates the Occupational Safety and Health Administration (OSHA), which
+protects workers from physical harm in the workplace</entry>
+  </row>
+ <row>
+    <entry>Employee
+Retirement and
+Income Security Act
+of 1974</entry>
+    <entry>Regulates employee pension rules and benefits</entry>
+  </row>
+<row>
+    <entry>Pregnancy
+Discrimination Act
+of 1978</entry>
+    <entry>Prohibits discrimination against women in the workplace who are planning to
+get pregnant or who are returning to work after pregnancy</entry>
+  </row>
+<row>
+    <entry>Immigration Reform
+and Control Act of
+1986</entry>
+    <entry>Prohibits hiring of illegal immigrants; requires employers to ask for proof of
+citizenship; protects rights of legal immigrants</entry>
+  </row>
+<row>
+    <entry>Worker Adjustment
+and Retraining
+Notification Act of
+1988</entry>
+    <entry>Requires employers with more than 100 employees to provide written notice
+60 days before plant closings or large layoffs</entry>
+  </row>
+<row>
+    <entry>Americans with
+Disabilities Act of
+1990</entry>
+    <entry>Prohibits discrimination against those with disabilities and requires reasonable
+accommodations for them on the job</entry>
+  </row>
+<row>
+    <entry>Family and Medical
+Leave Act of 1993</entry>
+    <entry>Allows employees to take up to 12 weeks of unpaid leave per year for family
+reasons, including birth or family illness</entry>
+  </row>
+<row>
+    <entry>Pension Protection
+Act of 2006</entry>
+    <entry>Penalizes firms for underfunding their pension plans and gives employees
+more information about their pension accounts</entry>
+  </row>
+<row>
+    <entry>Lilly Ledbetter Fair
+Pay Act of 2009</entry>
+    <entry>Restores protection for pay discrimination claims on the basis of sex, race,
+national origin, age, religion, or disability</entry>
+  </row>
+</tbody>
+
+</tgroup>
+</table><para id="eip-683">There are two sources of imperfect competition in labor markets.  These are demand side sources, that is, labor market power by employers, and supply side sources: labor market power by employees.  In this section we will discuss the former.  In the next section we will discuss the latter.</para><para id="eip-438">A competitive labor market is one where there are many potential employers for a given type of worker, say a secretary or an accountant. Suppose there is only one employer in a labor market.  Because that employer has no direct competition in hiring, if they offer lower wages than would exist in a competitive market, employees will have few options.  If they want a job, they must accept the offered wage rate.  Since the employer is exploiting its market power, we call the firm a <term>monopsony</term>.  The classical example of monopsony is the sole coal company in a West Virginia town.  If coal miners want to work, they must accept what the coal company is paying.  This is not the only example of monopsony. Think about surgical nurses in a town with only one hospital.  Employers that have at least some market power over potential employees is not that unusual.  After all, most firms have many employees while there is only one employer. Thus, even if there is some competition for workers, it may not feel that way to potential employees unless they do their research and find the opposite.</para><para id="eip-34">How does market power by an employer affect labor market outcomes?  Intuitively, one might think that wages will be lower than in a competitive labor market.  Let’s prove it.  We will tell the story for a monopsonist, but the results will be qualitatively similar, although less extreme for any firm with labor market power.</para><para id="eip-473">Think back to monopoly.  The good news is that because the monopolist is the sole supplier in the market, it can charge any price it wishes.  The bad news is that if it wants to sell a greater quantity of output, it must lower the price it charges.  Monopsony is analogous.  Because the monopsonist is the sole employer in a labor market, it can offer any wage that it wishes.  However, because they face the market supply curve for labor, if they want to hire more workers, they must raise the wage they pay.  This creates a quandary, which we can understand by introducing a new concept: the marginal cost of labor.   The <term>marginal cost of labor</term> is the cost to the firm of hiring one more worker.  However, here is the thing: we assume that the firm is determining how many workers to hire in total.  They are not hiring sequentially.  Let’s look how this plays out with the example in <link target-id="eip-142"/>.</para><table id="eip-142" summary="..."><title>The Marginal Cost of Labor</title>
+<tgroup cols="6"><tbody>
+  <row>
+    <entry>Supply of Labor</entry>
+    <entry>1</entry>
+    <entry>2</entry>
+<entry>3</entry>
+    <entry>4</entry>
+<entry>5</entry>
+  </row>
+  <row>
+    <entry>Wage Rate</entry>
+    <entry>$1 per hour</entry>
+    <entry>$2 per hour</entry>
+<entry>$3 per hour</entry>
+    <entry>$4 per hour</entry>
+<entry>$5 per hour</entry>
+  </row>
+  <row>
+    <entry>Total Cost of Labor</entry>
+    <entry>$1</entry>
+    <entry>$4</entry>
+<entry>$9</entry>
+    <entry>$16</entry>
+<entry>$25</entry>
+  </row>
+<row><entry>Marginal Cost of Labor</entry>
+    <entry>$1</entry>
+    <entry>$3</entry>
+<entry>$5</entry>
+    <entry>$7</entry>
+<entry>$9</entry></row>
+</tbody>
+</tgroup>
+</table><para id="eip-731">There are a couple of things to notice from the table.  First, the marginal cost increases faster than the wage rate.  In fact, for any number of workers more than one, the marginal cost of labor is greater than the wage.  This is because to hire one more worker requires paying a higher wage rate, not just for the new worker but for all the previous hires also.  We can see this graphically in Figure 14.7.</para>
+
+
+<figure id="CNX_Econ2e_C15_011"><title>The Marginal Cost of Labor</title><media id="fs-idp95379036" alt="The graph illustrates the data in Table 14.5.  The x-axis is Labor, and the y-axis is Wages.  There are two curves.  The curve representing typical market supply for labor slopes upward from the bottom left to the top right.  The curve representing the marginal cost of hiring additional workers also, slopes from the bottom left to the top right, but it is steeper, and therefore always above the regular market supply curve.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ2e_C15_006.jpg"/>
+</media><caption>Since monopsonies are the sole demander for labor, they face the market supply curve for labor.  In order to increase employment they must raise the wage they pay not just for new workers, but for all the existing workers they could have hired at the previous lower wage.  As a result, the marginal cost of additional hiring labor is greater than the wage, and thus for any level of employment (above the first worker), MC<sub>L</sub> is above the Market Supply of Labor.</caption></figure><figure id="CNX_Econ2e_C15_012"><title>Labor Market Outcomes Under Monopsony</title><media id="fs-idp95336" alt=" The x-axis is Labor, and the y-axis is Wages.  There are three curves.  The curve representing typical market supply for labor slopes upward from the bottom left to the top right.  The curve representing the marginal cost of hiring additional workers also, slopes from the bottom left to the top right, but it is steeper, and therefore always above the regular market supply curve.   The third curve is the labor demand, sloping from the top left to the bottom right.  Graphically, we can draw a vertical line up from Lm to the Supply Curve for label and then read the wage Wm off the vertical axis to the left.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ2e_C15_007.jpg"/>
+</media><caption>A monopsony will hire workers up to the point Lm where its demand for labor equals the marginal cost of additional labor, paying the wage Wm given by the supply curve of labor necessary to obtain Lm workers.</caption></figure><para id="eip-278">If the firm wants to maximize profits, it will hire labor up to the point Lm where D<sub>L</sub> = VMP (or MRP) = MC<sub>L</sub>., as <link target-id="CNX_Econ2e_C15_012"/> shows.  Then, the supply curve for labor shows the wage the firm will have to pay to attract Lm workers.   Graphically, we can draw a vertical line up from Lm to the Supply Curve for label and then read the wage Wm off the vertical axis to the left.</para><para id="eip-62">How does this outcome compare to what would occur in a perfectly competitive market?  A competitive market would operate where D<sub>L</sub> = S<sub>L</sub>, hiring Lc workers and paying Wc wage.  In other words, under monopsony employers hire fewer workers and pay a lower wage.  While pure monopsony may be rare, many employers have some degree of market power in labor markets.  The outcomes for those employers will be qualitatively similar though not as extreme as monopsony.</para>
+
+
+
+<figure id="CNX_Econ2e_C15_013"><title>Comparison of labor market outcomes: Monopsony vs. Perfect Competition</title><media id="fs-idp95333336" alt=" The graph compares monopsony to perfect competition for labor market outcomes.  The x-axis is Labor, and the y-axis is Wages.  There are three curves.  The curve representing typical market supply for labor slopes upward from the bottom left to the top right.  The curve representing the marginal cost of hiring additional workers also, slopes from the bottom left to the top right, but it is steeper, and therefore always above the regular market supply curve.   The third curve is the labor demand, sloping from the top left to the bottom right.  A line representing the wage preferred by the union intersects the marginal cost curve, and a line representing the wage preferred by the monopsony intersects the market supply curve.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ2e_C15_009-d2a7.jpg"/>
+</media><caption>A monopsony hires fewer workers Lm than would be hired in a competitive labor market Lc.  In exploiting its market power, the monopsony can also pay a lower wage Wm than workers would earn in a competitive labor market Wc.</caption></figure><section id="fs-idm33072768" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idm113083200">A monopsony is the sole employer in a labor market.  The monopsony can pay any wage it chooses, subject to the market supply of labor.  This means that if the monopsony offers too low a wage, they may not find enough workers willing to work for them.  Since to obtain more workers, they must offer a higher wage, the marginal cost of additional labor is greater than the wage.  To maximize profits, a monopsonist will hire workers up to the point where the marginal cost of labor equals their labor demand.  This results in a lower level of employment than a competitive labor market would provide, but also a lower equilibrium wage.
+
+</para></section>
+
+
+
+
+<section id="fs-idp69418048" class="critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-idm473926352"><problem id="fs-idm483836752"><para id="fs-idm243892864">What is the marginal cost of labor for a firm that operates in a competitive labor market?  How does this compare with the MCL for a monopsony?</para></problem></exercise><exercise id="fs-idm599553280"><problem id="fs-idm257981968"><para id="fs-idm242057840">Given the decline in union membership over the past 50 years, what does the theory of bilateral monopoly suggest will have happened to the equilibrium level of wages over time?  Why?</para></problem></exercise></section><section id="fs-idm7878944" class="references">
+<title>References</title>
+<para id="fs-idm58464880">Clune, Michael S. “The Fiscal Impacts of Immigrants: A California Case Study.” In <emphasis effect="italics">The Immigration Debate: Studies on the Economic, Demographic, and Fiscal Effects of Immigration</emphasis>, edited by James P. Smith and Barry Edmonston. Washington, DC: National Academy Press, 1998, 120–182. http://www.nap.edu/openbook.php?record_id=5985&amp;page=120.</para>
+<para id="fs-idm6634432">Smith, James P. “Immigration Reform.” <emphasis effect="italics">Rand Corporation: Rand Review</emphasis>. http://www.rand.org/pubs/periodicals/rand-review/issues/2012/fall/leadership/immigration-reform.html.</para><para id="fs-idp56292176">U.S. Department of Homeland Security: Office of Immigration Statistics. “2011 Yearbook of Immigration Statistics.” September 2012. http://www.dhs.gov/sites/default/files/publications/immigration-statistics/yearbook/2011/ois_yb_2011.pdf.</para></section>
+
+
+</content>
+<glossary>
+<definition id="fs-idm169046752">
+<term>monopsony</term>
+<meaning id="fs-idm711669632">a labor market where there is only one employer</meaning>
+</definition>
+</glossary>
+</document>

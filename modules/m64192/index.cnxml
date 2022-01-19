@@ -1,0 +1,135 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Demand and Supply Shifts in Foreign Exchange Markets</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64192</md:content-id>
+  <md:title>Demand and Supply Shifts in Foreign Exchange Markets</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+<item>Explain supply and demand for exchange rates</item>
+<item>Define arbitrage</item>
+<item>Explain purchasing power parity's importance when comparing countries.</item>
+</list></md:abstract>
+  <md:uuid>ef438a73-d5f8-47ad-b65f-1bccc131af24</md:uuid>
+</metadata>
+
+<content>
+
+<para id="fs-idp1308160">The foreign exchange market involves firms, households, and investors who demand and supply currencies coming together through their banks and the key foreign exchange dealers. <link target-id="CNX_Econv1-2_C29_05"/> (a) offers an example for the exchange rate between the U.S. dollar and the Mexican peso. The vertical axis shows the exchange rate for U.S. dollars, which in this case is measured in pesos. The horizontal axis shows the quantity of U.S. dollars traded in the foreign exchange market each day. The demand curve (D) for U.S. dollars intersects with the supply curve (S) of U.S. dollars at the equilibrium point (E), which is an exchange rate of 10 pesos per dollar and a total volume of $8.5 billion.</para><figure id="CNX_Econv1-2_C29_05"><title>Demand and Supply for the U.S. Dollar and Mexican Peso Exchange Rate </title><media id="fs-idm4886768" alt="The left graph shows the supply and demand for exchanging U.S. dollars for pesos. The right graph shows the supply and demand for exchanging pesos to U.S. dollars.">
+<image mime-type="image/jpg" src="../../media/CNX_Econv1-2_C29_05.jpg"/>
+</media>
+
+<caption>(a) The quantity measured on the horizontal axis is in U.S. dollars, and the exchange rate on the vertical axis is the price of U.S. dollars measured in Mexican pesos. (b) The quantity measured on the horizontal axis is in Mexican pesos, while the price on the vertical axis is the price of pesos measured in U.S. dollars. In both graphs, the equilibrium exchange rate occurs at point E, at the intersection of the demand curve (D) and the supply curve (S).</caption></figure><para id="fs-idm44049536"><link target-id="CNX_Econv1-2_C29_05"/> (b) presents the same demand and supply information from the perspective of the Mexican peso. The vertical axis shows the exchange rate for Mexican pesos, which is measured in U.S. dollars. The horizontal axis shows the quantity of Mexican pesos traded in the foreign exchange market. The <term class="no-emphasis">demand curve</term> (D) for Mexican pesos intersects with the <term class="no-emphasis">supply curve</term> (S) of Mexican pesos at the equilibrium point (E), which is an exchange rate of 10 cents in U.S. currency for each Mexican peso and a total volume of 85 billion pesos. Note that the two exchange rates are inverses: 10 pesos per dollar is the same as 10 cents per peso (or $0.10 per peso). In the actual foreign exchange market, almost all of the trading for Mexican pesos is for U.S. dollars. What factors would cause the demand or supply to shift, thus leading to a change in the <term class="no-emphasis">equilibrium exchange rate</term>? We discuss the answer to this question in the following section.</para><section id="fs-idm87470224">
+<title>Expectations about Future Exchange Rates</title>
+<para id="fs-idm35308736">One reason to demand a currency on the foreign exchange market is the belief that the currency's value is about to increase. One reason to supply a currency—that is, sell it on the foreign exchange market—is the expectation that the currency's value is about to decline. For example, imagine that a leading business newspaper, like the <emphasis effect="italics">Wall Street Journal</emphasis> or the <emphasis effect="italics">Financial Times</emphasis>, runs an article predicting that the Mexican peso will appreciate in value. <link target-id="CNX_Econ_C29_008"/> illustrates the likely effects of such an article. Demand for the Mexican peso shifts to the right, from D<sub>0</sub> to D<sub>1</sub>, as investors become eager to purchase pesos. Conversely, the supply of pesos shifts to the left, from S<sub>0</sub> to S<sub>1</sub>, because investors will be less willing to give them up. The result is that the equilibrium exchange rate rises from 10 cents/peso to 12 cents/peso and the equilibrium exchange rate rises from 85 billion to 90 billion pesos as the equilibrium moves from E<sub>0</sub> to E<sub>1</sub>.</para><figure id="CNX_Econ_C29_008"><title>Exchange Rate Market for Mexican Peso Reacts to Expectations about Future Exchange Rates </title><media id="fs-idm55874368" alt="The graph shows how supply and demand would change if the exchange rate for pesos was predicted to strengthen.">
+<image mime-type="image/jpg" src="../../media/CNX_Econv1-2_C29_06.jpg"/>
+</media>
+
+<caption>An announcement that the peso exchange rate is likely to strengthen in the future will lead to greater demand for the peso in the present from investors who wish to benefit from the appreciation. Similarly, it will make investors less likely to supply pesos to the foreign exchange market. Both the shift of demand to the right and the shift of supply to the left cause an immediate appreciation in the exchange rate.</caption></figure><para id="fs-idm14938320"><link target-id="CNX_Econ_C29_008"/> also illustrates some peculiar traits of supply and demand diagrams in the foreign exchange market. In contrast to all the other cases of supply and demand you have considered, in the <term class="no-emphasis">foreign exchange market</term>, supply and demand typically both move at the same time. Groups of participants in the foreign exchange market like firms and investors include some who are buyers and some who are sellers. An expectation of a future shift in the exchange rate affects both buyers and sellers—that is, it affects both demand and supply for a currency.</para>
+<para id="fs-idm92984160">The shifts in demand and supply curves both cause the exchange rate to shift in the same direction. In this example, they both make the peso exchange rate stronger. However, the shifts in demand and supply work in opposing directions on the quantity traded. In this example, the rising demand for pesos is causing the quantity to rise while the falling supply of pesos is causing quantity to fall. In this specific example, the result is a higher quantity. However, in other cases, the result could be that quantity remains unchanged or declines.</para><para id="fs-idm57532992">This example also helps to explain why exchange rates often move quite substantially in a short period of a few weeks or months. When investors expect a country’s currency to strengthen in the future, they buy the currency and cause it to appreciate immediately. The currency's appreciation can lead other investors to believe that future appreciation is likely—and thus lead to even further appreciation. Similarly, a fear that a currency <emphasis effect="italics">might</emphasis> weaken quickly leads to an <emphasis effect="italics">actual</emphasis> weakening of the currency, which often reinforces the belief that the currency will weaken further. Thus, beliefs about the future path of exchange rates can be self-reinforcing, at least for a time, and a large share of the trading in foreign exchange markets involves dealers trying to outguess each other on what direction exchange rates will move next.</para></section>
+
+<section id="fs-idp40354544">
+<title>Differences across Countries in Rates of Return</title>
+<para id="fs-idp28571696">The motivation for investment, whether domestic or foreign, is to earn a return. If rates of return in a country look relatively high, then that country will tend to attract funds from abroad. Conversely, if rates of return in a country look relatively low, then funds will tend to flee to other economies. Changes in the expected rate of return will shift demand and supply for a currency. For example, imagine that interest rates rise in the United States as compared with Mexico. Thus, financial investments in the United States promise a higher return than previously. As a result, more investors will demand U.S. dollars so that they can buy interest-bearing assets and fewer investors will be willing to supply U.S. dollars to foreign exchange markets. Demand for the U.S. dollar will shift to the right, from D<sub>0</sub> to D<sub>1</sub>, and supply will shift to the left, from S<sub>0</sub> to S<sub>1</sub>, as <link target-id="CNX_Econ_C29_009"/> shows. The new equilibrium (E<sub>1</sub>), will occur at an exchange rate of nine pesos/dollar and the same quantity of $8.5 billion. Thus, a higher interest rate or rate of return relative to other countries leads a nation’s currency to appreciate or strengthen, and a lower interest rate relative to other countries leads a nation’s currency to depreciate or weaken. Since a nation’s central bank can use monetary policy to affect its interest rates, a central bank can also cause changes in exchange rates—a connection that we will discuss in more detail later in this chapter.</para><figure id="CNX_Econ_C29_009"><title>Exchange Rate Market for U.S. Dollars Reacts to Higher Interest Rates </title><media id="fs-idp9878720" alt="The graph shows how supply and demand would change if the U.S. dollar brought a higher rate of return.">
+<image mime-type="image/jpg" src="../../media/CNX_Econv1-2_C29_07.jpg"/>
+</media>
+
+<caption>A higher rate of return for U.S. dollars makes holding dollars more attractive. Thus, the demand for dollars in the foreign exchange market shifts to the right, from D<sub>0</sub> to D<sub>1</sub>, while the supply of dollars shifts to the left, from S<sub>0</sub> to S<sub>1</sub>. The new equilibrium (E<sub>1</sub>) has a stronger exchange rate than the original equilibrium (E<sub>0</sub>), but in this example, the equilibrium quantity traded does not change.</caption></figure></section>
+
+<section id="fs-idm75436704">
+<title>Relative Inflation</title>
+<para id="fs-idm57778288">If a country experiences a relatively high inflation rate compared with other economies, then the buying power of its currency is eroding, which will tend to discourage anyone from wanting to acquire or to hold the currency. <link target-id="CNX_Econ_C29_010"/> shows an example based on an actual episode concerning the Mexican peso. In 1986–87, Mexico experienced an inflation rate of over 200%. Not surprisingly, as inflation dramatically decreased the peso's purchasing power in Mexico. The peso's exchange rate value declined as well. <link target-id="CNX_Econ_C29_010"/> shows that the demand for the peso on foreign exchange markets decreased from D<sub>0</sub> to D<sub>1</sub>, while the peso's supply increased from S<sub>0</sub> to S<sub>1</sub>. The equilibrium exchange rate fell from $2.50 per peso at the original equilibrium (E<sub>0</sub>) to $0.50 per peso at the new equilibrium (E<sub>1</sub>). In this example, the quantity of pesos traded on foreign exchange markets remained the same, even as the exchange rate shifted.</para><figure id="CNX_Econ_C29_010"><title>Exchange Rate Markets React to Higher Inflation </title><media id="fs-idm72888640" alt="The graph shows how supply and demand would change if the pesos experienced inflation.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C29_010.jpg"/>
+</media>
+
+<caption>If a currency is experiencing relatively high inflation, then its buying power is decreasing and international investors will be less eager to hold it. Thus, a rise in inflation in the Mexican peso would lead demand to shift from D<sub>0</sub> to D<sub>1</sub>, and supply to increase from S<sub>0</sub> to S<sub>1</sub>. Both movements in demand and supply would cause the currency to depreciate. Here, we draw no effect on the quantity traded, but in truth it could be an increase or a decrease, depending on the actual movements of demand and supply.</caption></figure><note id="fs-idm9296784" class="economics linkup">
+<para id="fs-idm19158640">Visit this <link url="http://openstax.org/l/bigmac">website</link> to learn about the Big Mac index.</para>
+</note>
+</section>
+
+<section id="fs-idm5139904">
+<title>Purchasing Power Parity</title>
+<para id="fs-idm23713664">Over the long term, exchange rates must bear some relationship to the currency's buying power in terms of internationally traded goods. If at a certain exchange rate it was much cheaper to buy internationally traded goods—such as oil, steel, computers, and cars—in one country than in another country, businesses would start buying in the cheap country, selling in other countries, and pocketing the profits.</para><para id="fs-idm2176432">For example, if a U.S. dollar is worth $1.30 in Canadian currency, then a car that sells for $20,000 in the United States should sell for $26,000 in Canada. If the price of cars in Canada were much lower than $26,000, then at least some U.S. car-buyers would convert their U.S. dollars to Canadian dollars and buy their cars in Canada. If the price of cars were much higher than $26,000 in this example, then at least some Canadian buyers would convert their Canadian dollars to U.S. dollars and go to the United States to purchase their cars. This is known as <term>arbitrage</term>, the process of buying and selling goods or currencies across international borders at a profit. It may occur slowly, but over time, it will force prices and exchange rates to align so that the price of internationally traded goods is similar in all countries.</para><para id="fs-idm47567200">We call the exchange rate that equalizes the prices of internationally traded goods across countries the <term>purchasing power parity (PPP)</term> exchange rate. A group of economists at the International Comparison Program, run by the World Bank, have calculated the PPP exchange rate for all countries, based on detailed studies of the prices and quantities of internationally tradable goods.</para><para id="fs-idm41331616">The purchasing power parity exchange rate has two functions. First, economists often use PPP exchange rates for international comparison of GDP and other economic statistics. Imagine that you are preparing a table showing the size of <term class="no-emphasis">GDP</term> in many countries in several recent years, and for ease of comparison, you are converting all the values into U.S. dollars. When you insert the value for Japan, you need to use a yen/dollar exchange rate. However, should you use the market exchange rate or the PPP exchange rate? Market exchange rates bounce around. In 2014, the exchange rate was 105 yen/dollar, but in late 2015 the U.S. dollar exchange rate versus the yen was 121 yen/dollar. For simplicity, say that Japan’s GDP was ¥500 trillion in both 2014 and 2015. If you use the market exchange rates, then Japan’s GDP will be $4.8 trillion in 2014 (that is, ¥500 trillion /(¥105/dollar)) and $4.1 trillion in 2015 (that is, ¥500 trillion /(¥121/dollar)).</para><para id="fs-idm101412384">The misleading appearance of a changing Japanese economy occurs only because we used the market exchange rate, which often has short-run rises and falls. However, PPP exchange rates stay fairly constant and change only modestly, if at all, from year to year.</para><para id="fs-idp6618256">The second function of PPP is that exchanges rates will often get closer to it as time passes. It is true that in the short and medium run, as exchange rates adjust to relative inflation rates, rates of return, and to expectations about how interest rates and inflation will shift, the exchange rates will often move away from the PPP exchange rate for a time. However, knowing the PPP will allow you to track and predict exchange rate relationships.</para></section>
+
+<section id="fs-idm83855968" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idm44445216">In the extreme short run, ranging from a few minutes to a few weeks, speculators who are trying to invest in currencies that will grow stronger, and to sell currencies that will grow weaker influence exchange rates. Such speculation can create a self-fulfilling prophecy, at least for a time, where an expected appreciation leads to a stronger currency and vice versa. In the relatively short run, differences in rates of return influence exchange rate markets. Countries with relatively high real rates of return (for example, high interest rates) will tend to experience stronger currencies as they attract money from abroad, while countries with relatively low rates of return will tend to experience weaker exchange rates as investors convert to other currencies.</para><para id="fs-idm41557856">In the medium run of a few months or a few years, inflation rates influence exchange rate markets. Countries with relatively high inflation will tend to experience less demand for their currency than countries with lower inflation, and thus currency depreciation. Over long periods of many years, exchange rates tend to adjust toward the purchasing power parity (PPP) rate, which is the exchange rate such that the prices of internationally tradable goods in different countries, when converted at the PPP exchange rate to a common currency, are similar in all economies.</para></section>
+
+<section id="fs-idp1009376" class="self-check-questions">
+<title>Self-Check Questions</title>
+<exercise id="fs-idm66661904">
+<problem id="fs-idm114669808">
+<para id="fs-idm10924752">Suppose that political unrest in Egypt leads financial markets to anticipate a depreciation in the Egyptian pound. How will that affect the demand for pounds, supply of pounds, and exchange rate for pounds compared to, say, U.S. dollars?</para>
+</problem>
+<solution id="fs-idm35216880">
+<para id="fs-idm30238704">Expected depreciation in a currency will lead people to divest themselves of the currency. We should expect to see an increase in the supply of pounds and a decrease in demand for pounds. The result should be a decrease in the value of the pound <emphasis effect="italics">vis à vis</emphasis> the dollar.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm63810624">
+<problem id="fs-idp1070768">
+<para id="fs-idp5487312">Suppose U.S. interest rates decline compared to the rest of the world. What would be the likely impact on the demand for dollars, supply of dollars, and exchange rate for dollars compared to, say, euros?</para>
+</problem>
+<solution id="fs-idm57263072">
+<para id="fs-idm60868640">Lower U.S. interest rates make U.S. assets less desirable compared to assets in the European Union. We should expect to see a decrease in demand for dollars and an increase in supply of dollars in foreign currency markets. As a result, we should expect to see the dollar depreciate compared to the euro.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm2736944">
+<problem id="fs-idm32320736">
+<para id="fs-idm31744576">Suppose Argentina gets inflation under control and the Argentine inflation rate decreases substantially. What would likely happen to the demand for Argentine pesos, the supply of Argentine pesos, and the peso/U.S. dollar exchange rate?</para>
+</problem>
+<solution id="fs-idm66008416">
+<para id="fs-idm14916880">A decrease in Argentine inflation relative to other countries should cause an increase in demand for pesos, a decrease in supply of pesos, and an appreciation of the peso in foreign currency markets.</para>
+</solution>
+</exercise>
+</section>
+
+<section id="fs-idm134208" class="review-questions">
+<title>Review Questions</title>
+<exercise id="fs-idm40177072">
+<problem id="fs-idm13399936">
+<para id="fs-idp3382672">Does an expectation of a stronger exchange rate in the future affect the exchange rate in the present? If so, how?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm76627344">
+<problem id="fs-idm32796144">
+<para id="fs-idm62129568">Does a higher rate of return in a nation’s economy, all other things being equal, affect the exchange rate of its currency? If so, how?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm148826704">
+<problem id="fs-idm40002816">
+<para id="fs-idm39896320">Does a higher inflation rate in an economy, other things being equal, affect the exchange rate of its currency? If so, how?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm11884256">
+<problem id="fs-idm54978608">
+<para id="fs-idm56482000">What is the purchasing power parity exchange rate?</para>
+</problem>
+</exercise>
+</section>
+
+<section id="fs-idm40577776" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-idm34445792">
+<problem id="fs-idm1876496">
+<para id="fs-idp17328352">If a country’s currency is expected to appreciate in value, what would you think will be the impact of expected exchange rates on yields (e.g., the interest rate paid on government bonds) in that country? <emphasis effect="italics">Hint</emphasis>: Think about how expected exchange rate changes and interest rates affect a currency's demand and supply.</para></problem>
+</exercise>
+<exercise id="fs-idm64494592">
+<problem id="fs-idm59505504">
+<para id="fs-idm32956304">Do you think that a country experiencing hyperinflation is more or less likely to have an exchange rate equal to its purchasing power parity value when compared to a country with a low inflation rate?</para>
+</problem>
+</exercise>
+</section>
+
+</content>
+
+<glossary>
+<definition id="fs-idm58337840">
+<term>arbitrage</term>
+<meaning id="fs-idm58302768">the process of buying a good and selling goods across borders to take advantage of international price differences</meaning>
+</definition>
+<definition id="fs-idm32629168">
+<term>purchasing power parity (PPP)</term>
+<meaning id="fs-idm38641888">the exchange rate that equalizes the prices of internationally traded goods across countries</meaning>
+</definition>
+</glossary>
+
+</document>

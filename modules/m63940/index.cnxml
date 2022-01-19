@@ -1,0 +1,40 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Bilateral Monopoly</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63940</md:content-id>
+  <md:title>Bilateral Monopoly</md:title>
+  <md:abstract>By the end of this section, you will be able to explain:
+<list><item>How firms determine wages and employment when a specific labor market combines a union and a monopsony</item></list></md:abstract>
+  <md:uuid>2ca8e6bb-c54b-4a58-9909-005e5c4abb75</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">What happens when there is market power on both sides of the labor market, in other words, when a union meets a monopsony?  Economists call such a situation a <term>bilateral monopoly</term>.</para><figure id="fs-4465"><title>Bilateral Monopoly</title><media id="fs-5626565" alt=" The graph compares monopsony to perfect competition for labor market outcomes.  The x-axis is Labor, and the y-axis is Wages.  There are three curves.  The curve representing typical market supply for labor slopes upward from the bottom left to the top right.  The curve representing the marginal cost of hiring additional workers also, slopes from the bottom left to the top right, but it is steeper, and therefore always above the regular market supply curve.   The third curve is the labor demand, sloping from the top left to the bottom right.  A line representing the wage preferred by the union intersects the marginal cost curve, and a line representing the wage preferred by the monopsony intersects the market supply curve.">
+    <image mime-type="image/jpeg" src="../../media/CNX_Econ2e_C15_009-754e.jpg"/>
+  </media>
+  
+<caption>Employment, L*, will be lower in a bilateral monopoly than in a competitive labor market, but the equilibrium wage is indeterminate, somewhere in the range between Wu, what the union would choose, and Wm, what the monopsony would choose.
+  </caption></figure><para id="eip-335"><link target-id="fs-4465"/> is a combination of Figure 14.6 and Figure 14.11. A monopsony wants to reduce wages as well as employment, Wm and L* in the figure. A union wants to increase wages, but at the cost of lower employment, Wu and L* in the figure.  Since both sides want to reduce employment, we can be sure that the outcome will be lower employment compared to a competitive labor market.  What happens to the wage, though, is based on the monopsonist’s relative bargaining power compared to the union.  The actual outcome is indeterminate in the graph, but it will be closer to Wu if the union has more power and closer to Wm if the monopsonist has more power.</para>
+<section id="eip-956" class="summary"><title>Key Concepts and Summary</title><para id="eip-71">A bilateral monopoly is a labor market with a union on the supply side and a monopsony on the demand side.  Since both sides have monopoly power, the equilibrium level of employment will be lower than that for a competitive labor market, but the equilibrium wage could be higher or lower depending on which side negotiates better.  The union favors a higher wage, while the monopsony favors a lower wage, but the outcome is indeterminate in the model.
+</para></section><section id="eip-712" class="review-questions"><title>Review Questions</title><exercise id="eip-idm888178688"><problem id="eip-idm229315296"><para id="eip-idm870314336">What is a monopsony?</para></problem></exercise>
+
+<exercise id="eip-idm1392331248"><problem id="eip-idm1376048608"><para id="eip-idm1281573840">What is the marginal cost of labor?</para></problem></exercise>
+
+<exercise id="eip-idm238325264"><problem id="eip-idm1296997728"><para id="eip-idm243554128">How does monopsony affect the equilibrium wage and employment levels?</para></problem></exercise>
+
+<exercise id="eip-idm219269760"><problem id="eip-idm1352373328"><para id="eip-idm1314566992">What is a bilateral monopoly?</para></problem></exercise>
+
+<exercise id="eip-idm1297283120"><problem id="eip-idm185065824"><para id="eip-idm1377068400">How does a bilateral monopoly affect the equilibrium wage and employment levels compared to a perfectly competitive labor market?</para></problem></exercise>
+</section>
+
+</content>
+
+<glossary>
+<definition id="fs-idm684363520">
+<term>bilateral monopoly</term>
+<meaning id="fs-idm171469664">a labor market with a monopsony on the demand side and a union on the supply side</meaning>
+</definition>
+
+</glossary>
+</document>

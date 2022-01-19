@@ -1,0 +1,457 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Theory of Labor Markets</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63937</md:content-id>
+  <md:title>The Theory of Labor Markets</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+<item>Describe the demand for labor in perfectly competitive output markets</item>
+<item>Describe the demand for labor in imperfectly competitive output markets</item>
+<item>Identify what determines the going market rate</item>
+</list></md:abstract>
+  <md:uuid>42c23482-b04a-4ceb-88d1-4671fc1333e8</md:uuid>
+</metadata>
+
+<content>
+
+<note id="eip-770" class="economics clearup"><title>What is the labor market?</title><para id="eip-idm1389308928">The labor market is the term that economists use for all the different markets for labor.  There is no single labor market.  Rather, there is a different market for every different type of labor.  Labor differs by type of work (e.g. retail sales vs. scientist), skill level (entry level or more experienced), and location (the market for administrative assistants is probably more local or regional than the market for university presidents).  While each labor market is different, they all tend to operate in similar ways.  For example, when wages go up in one labor market, they tend to go up in others too.  When economists talk about the labor market, they are describing these similarities.</para></note>
+<para id="eip-idm1302416416">The labor market, like all markets, has a demand and a supply.  Why do firms demand labor?  Why is an employer willing to pay you for your labor?  It’s not because the employer likes you or is socially conscious.  Rather, it’s because your labor is worth something to the employer--your work brings in revenues to the firm.  How much is an employer willing to pay?  That depends on the skills and experience you bring to the firm.</para>
+<para id="eip-idm1038285968">If a firm wants to maximize profits, it will never pay more (in terms of wages and benefits) for a worker than the value of his or her marginal productivity to the firm.  We call this the <term>first rule of labor markets</term>.</para>
+<para id="eip-idm976735408">Suppose a worker can produce two widgets per hour and the firm can sell each widget for $4 each.  Then the worker is generating $8 per hour in revenues to the firm, and a profit-maximizing employer will pay the worker up to, but no more than, $8 per hour, because that is what the worker is worth to the firm.</para><para id="eip-idm1136308272">Recall the definition of marginal product.  Marginal product is the additional output a firm can produce by adding one more worker to the production process.  Since employers often hire labor by the hour, we’ll define marginal product as the additional output the firm produces by adding one more worker hour to the production process.  In this chapter, we assume that workers are homogeneous—they have the same background, experience and skills and they put in the same amount of effort.  Thus, marginal product depends on the capital and technology with which workers have to work.</para>
+<para id="eip-36">A typist can type more pages per hour with an electric typewriter than a manual typewriter, and he or she can type even more pages per hour with a personal computer and word processing software.  A ditch digger can dig more cubic feet of dirt in an hour with a backhoe than with at shovel.  </para><para id="fs-idp57037248">Thus, we can define the demand for labor as the marginal product of labor times the value of that output to the firm.</para><table id="eip-147" summary="Marginal Product of Labor"><title>Marginal Product of Labor</title>
+<tgroup cols="5"><tbody>
+  <row>
+    <entry># Workers (L)</entry>
+    <entry>1</entry>
+    <entry>2</entry>
+<entry>3</entry>
+<entry>4</entry>
+  </row>
+  <row>
+    <entry>MP<sub>L</sub></entry>
+    <entry>4</entry>
+    <entry>3</entry>
+<entry>2</entry>
+<entry>1</entry>
+  </row>
+</tbody>
+
+
+</tgroup>
+</table><figure id="CNX_Econ_C15_001"><title>Marginal Product of Labor</title><media id="fs-idp3958" alt="The graph shows the marginal product of labor. The x-axis is Labor, and has values from 0 through 4. The y-axis is Marginal Product (MP_1) and has values from 0 through 4. The curve proceeds downward as Labor increases. When labor is equal to 1, the Marginal Product is 4. But when Labor equals 4, the Marginal Product is 1.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ2e_C15_001.jpg"/>
+</media>
+
+<caption>Because of fixed capital, the marginal product of labor declines as the employer hires additional workers. </caption></figure><para id="eip-683">On what does the value of each worker’s marginal product depend?  If we assume that the employer sells its output in a perfectly competitive market, the value of each worker’s output will be the market price of the product. Thus, </para><para id="eip-241">Demand for Labor = MP<sub>L</sub> x P = Value of the Marginal Product of Labor</para><para id="eip-642">We show this in <link target-id="eip-258"/>, which is an expanded version of <link target-id="eip-147"/></para><table id="eip-258" summary="Value of the Marginal Product of Labor"><title>Value of the Marginal Product of Labor</title>
+<tgroup cols="5"><tbody>
+  <row>
+    <entry># Workers (L)</entry>
+    <entry>1</entry>
+    <entry>2</entry>
+<entry>3</entry>
+<entry>4</entry>
+  </row>
+  <row>
+    <entry>MP<sub>L</sub></entry>
+    <entry>4</entry>
+    <entry>3</entry>
+<entry>2</entry>
+<entry>1</entry>
+  </row>
+ <row>
+    <entry>Price of Output</entry>
+    <entry>$4</entry>
+    <entry>$4</entry>
+<entry>$4</entry>
+<entry>$4</entry>
+  </row>
+<row>
+    <entry>VMP<sub>L</sub></entry>
+    <entry>$16</entry>
+    <entry>$12</entry>
+<entry>$8</entry>
+<entry>$4</entry>
+  </row>
+</tbody>
+</tgroup>
+</table><para id="eip-325">Note that the value of each additional worker is less than the ones who came before.</para>
+
+
+
+
+<figure id="CNX_Econ_C15_002"><title>Value of the Marginal Product of Labor</title><media id="fs-idp39898958" alt="The graph shows the value of the marginal product of labor.  The x-axis is Labor, and has values from 0 through 4.   The y-axis is Value of the Marginal Product of Labor, and has values from 0 through 16 in increments of 4.  The curve proceeds downward as Labor increases.  When labor is equal to 1, the Value of the Marginal Product of Labor is 16.  But when Labor equals 4, the Value of the Marginal Product of Labor is near 0.  ">
+<image mime-type="image/jpg" src="../../media/CNX_Econ2e_C15_002.jpg"/>
+</media>
+
+<caption>For firms operating in a competitive output market, the value of additional output sold is the price the firms receive for the output.  Since MP<sub>L</sub> declines with additional labor employed, while that marginal product is worth the market price, the value of the marginal product declines as employment increases.</caption></figure><section id="fs-idm41651616"><title>Demand for Labor in Perfectly Competitive Output Markets</title><para id="fs-idp14421600">The question for any firm is how much labor to hire.</para><para id="fs-idm38905968">We can define a <term>Perfectly Competitive Labor Market</term> as one where firms can hire all the labor they wish at the going market wage.  Think about secretaries in a large city.  Employers who need secretaries can probably hire as many as they need if they pay the going wage rate.</para><para id="eip-576">Graphically, this means that firms face a horizontal supply curve for labor, as Figure 14.3 shows.</para><para id="eip-930">Given the market wage, profit maximizing firms hire workers up to the point where: W<sub>mkt</sub> = VMP<sub>L</sub> </para>
+
+
+
+
+<figure id="CNX_Econ_C15_003"><title>Equilibrium Employment for Firms in a Competitive Labor Market</title><media id="fs-idp3958988" alt="The graph shows the Marginal Product of Labor.  The x-axis is Labor.  The y-axis is Wage.  The curve proceeds from right to left in a downward direction.  A horizontal line indicating the going market wage projects from about halfway up the y-axis.  Where the curve and the horizontal line meet, it is point L1.  The caption provides context.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ2e_C15_003.jpg"/>
+</media>
+
+<caption>In a perfectly competitive labor market, firms can hire all the labor they want at the going market wage.  Therefore, they hire workers up to the point L<sub>1</sub> where the going market wage equals the value of the marginal product of labor.</caption></figure><note id="eip-375" class="economics clearup"><title>Derived Demand</title><para id="eip-idm304744672">Economists describe the demand for inputs like labor as a <term>derived demand</term>.   Since the demand for labor is MPL*P, it is dependent on the demand for the product the firm is producing.  We show this by the P term in the demand for labor.  An increase in demand for the firm’s product drives up the product’s price, which increases the firm’s demand for labor.  Thus, we derive the demand for labor from the demand for the firm’s output.</para></note></section><section id="fs-idm68184528"><title>Demand for Labor in Imperfectly Competitive Output Markets</title><para id="fs-idm57560416">If the employer does not sell its output in a perfectly competitive industry, they face a downward sloping demand curve for output, which means that in order to sell additional output the firm must lower its price.  This is true if the firm is a monopoly, but it’s also true if the firm is an oligopoly or monopolistically competitive.  In this situation, the value of a worker’s marginal product is the marginal revenue, not the price.  Thus, the demand for labor is the marginal product times the marginal revenue.</para><para id="eip-319">The Demand for Labor = MP<sub>L</sub> x MR = Marginal Revenue Product</para><table id="eip-736" summary="..."><title>Marginal Revenue Product</title>
+<tgroup cols="5"><tbody>
+  <row>
+    <entry># Workers (L)</entry>
+    <entry>1</entry>
+    <entry>2</entry>
+<entry>3</entry>
+<entry>4</entry>
+  </row>
+  <row>
+    <entry>MP<sub>L</sub></entry>
+    <entry>4</entry>
+    <entry>3</entry>
+<entry>2</entry>
+<entry>1</entry>
+  </row>
+ <row>
+    <entry>Marginal Revenue</entry>
+    <entry>$4</entry>
+    <entry>$3</entry>
+<entry>$2</entry>
+<entry>$1</entry>
+  </row>
+<row>
+    <entry>MRP<sub>L</sub></entry>
+    <entry>$16</entry>
+    <entry>$9</entry>
+<entry>$4</entry>
+<entry>$1</entry>
+  </row>
+</tbody>
+
+
+</tgroup>
+</table><figure id="CNX_Econ_C15_004"><title>Marginal Revenue Product</title><media id="fs-idm86929280" alt="The graph shows the value of the marginal revenue product. The x-axis is Labor, and has values from 0 through 4. The y-axis is Marginal Revenue Product of Labor (MRP_L), and has values from 0 through 16 in increments of 4. The curve proceeds downward as Labor increases. When labor is equal to 1, the Value of the Marginal Revenue Product of Labor is 16. But when Labor equals 4, the Value of the Marginal Revenue Product of Labor is near 0.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ2e_C15_012-6278.jpg"/>
+</media>
+
+<caption>For firms with some market power in their output market, the value of additional output sold is the firm’s marginal revenue.  Since MP<sub>L</sub> declines with additional labor employed and since MR declines with additional output sold, the firm’s marginal revenue declines as employment increases.</caption></figure><para id="fs-idp201647984">Everything else remains the same as we described above in the discussion of the labor demand in perfectly competitive labor markets.  Given the market wage, profit-maximizing firms will hire workers up to the point where the market wage equals the marginal revenue product, as <link target-id="CNX_Econ_C15_004"/> shows. </para><figure id="CNX_Econ2e_C15_009"><title>Equilibrium Level of Employment for Firms with Market Power</title><media id="fs-idp358" alt="The graph shows the Marginal Product of Labor.  The x-axis is Labor.  The y-axis is Wage.  A horizontal line indicating the going market wage projects from about halfway up the y-axis.  Two curves are includesd in order to demonstrate the difference for firms with market power.  The first curve represents normal firms, and proceeds from right to left in a downward direction; where it intersects the Wage horizontal line, it is point L1.  The second curve, representing firms with market power, is steeper, and intersects the Wage line earlier (at a lower level of employment), at point L2, where the going market wage equal's the firm's marginal revenue product.  ">
+<image mime-type="image/jpg" src="../../media/CNX_Econ2e_C15_004.jpg"/>
+</media>
+
+<caption>For firms with market power in their output market, they choose the number of workers, L<sub>2</sub>, where the going market wage equals the firm’s marginal revenue product.  Note that since marginal revenue is less than price, the demand for labor for a firm which has market power in its output market is less than the demand for labor (L<sub>1</sub>) for a perfectly competitive firm.  As a result, employment will be lower in an imperfectly competitive industry than in a perfectly competitive industry.</caption></figure><note id="eip-7" class="economics clearup"><title>Do Profit Maximizing Employers Exploit Labor?</title><para id="eip-idm895030112">If you look back at <link target-id="CNX_Econ_C15_003"/>, you will see that only the firm pays the last worker it hires what they’re worth to the firm.  Every other worker brings in more revenue than the firm pays him or her.  This has sometimes led to the claim that employers exploit workers because they do not pay workers what they are worth.  Let’s think about this claim.   The first worker is worth $x to the firm, and the second worker is worth $y, but why are they worth that much?  It is because of the capital and technology with which they work.  The difference between workers’ worth and their compensation goes to pay for the capital, technology, without which the workers wouldn’t have a job.  The difference also goes to the employer’s profit, without which the firm would close and workers wouldn’t have a job.  The firm may be earning excessive profits, but that is a different topic of discussion.</para></note></section><section id="fs-idm41225984">
+<title>What Determines the Going Market Wage Rate?</title><para id="fs-idm89695040">In the chapter on <link document="m63595">Labor and Financial Markets</link>, we learned that the labor market has demand and supply curves like other markets.  The demand for labor curve is a downward sloping function of the wage rate.  The market demand for labor is the horizontal sum of all firms’ demands for labor.  The supply for labor curve is an upward sloping function of the wage rate.  This is because if wages for a particular type of labor increase in a particular labor market, people with appropriate skills may change jobs, and vacancies will attract people from outside the geographic area.  The market supply for labor is the horizontal summation of all individuals’ supplies of labor.</para><figure id="CNX_Econ_C15_010"><title>The Market Wage Rate</title><media id="fs-idp39588228" alt="The graph compares the demand and supply for labor.  The x-axis is Labor, and the y-axis is Wages.  The Demand for Labor curve slopes downward from the top left to the bottom right.  The Supply for Labor slopes upward from the bottom left to the top right.  The two curves intersect at the equilibrium wage and employment level.  ">
+<image mime-type="image/jpg" src="../../media/CNX_Econ2e_C15_005-9aee.jpg"/>
+</media><caption>In a competitive labor market, the equilibrium wage and employment level are determined where the market demand for labor equals the market supply of labor.</caption></figure><para id="fs-idp170077696">Like all equilibrium prices, the market wage rate is determined through the interaction of supply and demand in the labor market.  Thus, we can see in <link target-id="CNX_Econ_C15_010"/> for competitive markets the wage rate and number of workers hired. </para><para id="eip-91">The FRED database has a great deal of data on labor markets, starting at
+<link url="https://openstax.org/l/cat10">the wage rate and number of workers hired</link>.
+</para><para id="fs-idm21900032">The United States Census Bureau for the Bureau of Labor Statistics publishes <emphasis effect="italics">The Current Population Survey</emphasis>, which is a monthly survey of households (link is on that page), which provides data on labor supply, including numerous measures of the labor force size (disaggregated by age, gender and educational attainment), labor force participation rates for different demographic groups, and employment.  It also includes more than 3,500 measures of earnings by different demographic groups.  </para><para id="eip-475"><emphasis effect="italics">The Current Employment Statistics</emphasis>, which is a survey of businesses, offers alternative estimates of employment across all sectors of the economy.</para><para id="eip-961">The link labeled "Productivity and Costs" has a wide range of data on productivity, labor costs and profits across the business sector.</para></section>
+
+
+<section id="fs-idm198791600" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idm166644736">A firm demands labor because of the value of the labor’s marginal productivity.  For a firm operating in a perfectly competitive output market, this will be the value of the marginal product, which we define as the marginal product of labor multiplied by the firm’s output price.  For a firm which is not perfectly competitive, the appropriate concept is the marginal revenue product, which we define as the marginal product of labor multiplied by the firm’s marginal revenue.  Profit maximizing firms employ labor up to the point where the market wage is equal to the firm’s demand for labor.  In a competitive labor market, we determine market wage  through the interaction between the market supply and market demand for labor.
+</para></section>
+
+
+
+<section id="fs-idm85528944" class="self-check-questions">
+<title>Self-Check Questions</title>
+
+<exercise id="eip-473"><problem id="eip-51">
+  <para id="eip-782"><link target-id="Table_15_04"/> shows levels of employment (Labor), the marginal product at each of those levels, and the price at which the firm can sell output in the perfectly competitive market where it operates.
+
+<table id="Table_15_04" summary=".">
+<tgroup cols="3">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+<row>
+<entry>Labor</entry>
+<entry>Marginal Product of Labor</entry>
+<entry>Price of the Product</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>1</entry>
+<entry>10</entry>
+<entry>$4</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>8</entry>
+<entry>$4</entry>
+</row>
+<row>
+<entry>3</entry>
+<entry>7</entry>
+<entry>$4</entry>
+</row>
+<row>
+<entry>4</entry>
+<entry>5</entry>
+<entry>$4</entry>
+</row>
+<row>
+<entry>5</entry>
+<entry>3</entry>
+<entry>$4</entry>
+</row>
+<row>
+<entry>6</entry>
+<entry>1</entry>
+<entry>$4</entry>
+</row>
+</tbody>
+</tgroup>
+<caption/>
+</table>
+
+<list id="eip-idm202926512" list-type="enumerated" number-style="lower-alpha"><item>What is the value of the marginal product at each level of labor?</item>
+<item>If the firm operates in a perfectly competitive labor market where the going market wage is $12, what is the firm’s profit maximizing level of employment?</item></list></para>
+</problem>
+
+<solution id="eip-idm1050660992">
+<list id="eip-idm929703984" list-type="enumerated" number-style="lower-alpha"><item> For a firm operating in a perfectly competitive output market, the value of the marginal product is the marginal product of labor multiplied by the firm’s output price.</item><item>In a perfectly competitive labor market where the going market wage is $12, a profit-maximizing firm will hire workers up to the point where the market wage equals the marginal revenue product. In this case, the market wage equals the marginal revenue product when the labor is 5 because at that level, the marginal revenue product is $12.</item></list></solution></exercise><exercise id="eip-194"><problem id="eip-5321">
+  <para id="eip-78232"><link target-id="Table_15_03"/> shows levels of employment (Labor), the marginal product at each of those levels, and a monopoly’s marginal revenue.
+
+<table id="Table_15_03" summary=".">
+<tgroup cols="3">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+<row>
+<entry>Labor</entry>
+<entry>Marginal Product of Labor</entry>
+<entry>Price of the Product</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>1</entry>
+<entry>10</entry>
+<entry>$10</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>8</entry>
+<entry>$7</entry>
+</row>
+<row>
+<entry>3</entry>
+<entry>7</entry>
+<entry>$5</entry>
+</row>
+<row>
+<entry>4</entry>
+<entry>5</entry>
+<entry>$4</entry>
+</row>
+<row>
+<entry>5</entry>
+<entry>3</entry>
+<entry>$2</entry>
+</row>
+<row>
+<entry>6</entry>
+<entry>1</entry>
+<entry>$1</entry>
+</row>
+</tbody>
+</tgroup>
+<caption/>
+</table>
+
+<list id="eip-idm20292323326512" list-type="enumerated" number-style="lower-alpha"><item>What is the monopoly’s marginal revenue product at each level of employment?</item>
+<item>If the monopoly operates in a perfectly competitive labor market where the going market wage is $20, what is the firm’s profit maximizing level of employment?</item></list></para>
+</problem>
+
+<solution id="eip-idm249648208">
+<list id="eip-idm251165840" list-type="enumerated" number-style="lower-alpha"><item>For firms with some market power in their output market, like a monopoly, the value of additional output sold is the firm’s marginal revenue, not the price. This is because they face a downward sloping demand curve for output, which means that in order to sell additional output, the firm must lower its price. The marginal revenue product equals the marginal product of labor multiplied by the marginal revenue.</item><item>A profit-maximizing firm will hire workers up to the point where the market wage equals the marginal revenue product. If the going market wage is $20, in this scenario, the profit-maximizing level of employment is 4 because at that point, the marginal revenue product is $20.</item></list></solution>
+
+</exercise><exercise id="fs-idm107386848">
+<problem id="fs-idp67168384">
+<para id="fs-idp42308352"><link target-id="Table_15_05"/> shows the quantity demanded and supplied in the labor market for driving city buses in the town of Unionville, where all the bus drivers belong to a union.
+
+
+<table id="Table_15_05" summary="The table shows the quantity demanded and supplied in the labor market for driving city buses in the town of Unionville, where all the bus drivers belong to a union. Column 1 lists the Wage Per Hour. Column 2 lists the Quantity of Workers Demanded. Column 3 lists the Quantity of Workers Supplied. $14 (wage per hour); 12,000 (workers demanded); 6,000 (workers supplied). $16 (wage per hour); 10,000 (workers demanded); 7,000 (workers supplied). $18 (wage per hour); 8,000 (workers demanded); 8,000 (workers supplied). $20 (wage per hour); 6,000 (workers demanded); 9,000 (workers supplied). $22 (wage per hour); 4,000 (workers demanded); 10,000 (workers supplied). $24 (wage per hour); 2,000 (workers demanded); 11,000 (workers supplied).">
+<tgroup cols="3">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+<row>
+<entry>Wage Per Hour</entry>
+<entry>Quantity of Workers Demanded</entry>
+<entry>Quantity of Workers Supplied</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>$14</entry>
+<entry>12,000</entry>
+<entry>6,000</entry>
+</row>
+<row>
+<entry>$16</entry>
+<entry>10,000</entry>
+<entry>7,000</entry>
+</row>
+<row>
+<entry>$18</entry>
+<entry>8,000</entry>
+<entry>8,000</entry>
+</row>
+<row>
+<entry>$20</entry>
+<entry>6,000</entry>
+<entry>9,000</entry>
+</row>
+<row>
+<entry>$22</entry>
+<entry>4,000</entry>
+<entry>10,000</entry>
+</row>
+<row>
+<entry>$24</entry>
+<entry>2,000</entry>
+<entry>11,000</entry>
+</row>
+</tbody>
+</tgroup>
+<caption/>
+</table></para><list id="fs-idm72892480" list-type="enumerated" number-style="lower-alpha">
+
+<item>What would the equilibrium wage and quantity be in this market if no union existed?</item>
+<item>Assume that the union has enough negotiating power to raise the wage to $4 per hour higher than it would otherwise be. Is there now excess demand or excess supply of labor?</item>
+</list>
+</problem>
+
+<solution id="fs-idp89396496">
+<list id="fs-idp22470112" list-type="enumerated" number-style="lower-alpha"><item> With no union, the equilibrium wage rate would be $18 per hour and there would be 8,000 bus drivers.</item>
+<item> If the union has enough negotiating power to raise the wage to $4 per hour higher than under the original equilibrium, the new wage would be $22 per hour. At this wage, 4,000 workers would be demanded while 10,000 would be supplied, leading to an excess supply of 6,000 workers.
+</item>
+</list></solution>
+</exercise>
+
+
+<exercise id="fs-idm53747568">
+<problem id="fs-idp3020960">
+<para id="fs-idm89849888">Do unions typically oppose new technology out of a fear that it will reduce the number of union jobs? Why or why not?</para>
+</problem>
+<solution id="fs-idm216809648">
+<para id="fs-idm52524528">Unions have sometimes opposed new technology out of a fear of losing jobs, but in other cases unions have helped to facilitate the introduction of new technology because unionized workers felt that the union was looking after their interests or that their higher skills meant that their jobs were essentially protected. And the new technologies meant increased productivity.</para>
+</solution>
+</exercise>
+
+<exercise id="fs-idm142354720">
+<problem id="fs-idm94680640">
+<para id="fs-idm33629440">Compared with the share of workers in most other high-income countries, is the share of U.S. workers whose wages are determined by union bargaining higher or lower? Why or why not?</para>
+</problem>
+<solution id="fs-idm106715568">
+<para id="fs-idp46698000">In a few other countries (such as France and Spain), the percentage of workers belonging to a union is similar to that in the United States. Union membership rates, however, are generally lower in the United States. When the share of workers whose wages are determined by union negotiations is considered, the United States ranks by far the lowest (because in countries like France and Spain, union negotiations often determine pay even for nonunion employees).</para>
+</solution>
+</exercise>
+
+<exercise id="fs-idp48117792">
+<problem id="fs-idp1348304">
+<para id="fs-idm52665920">Are firms with a high percentage of union employees more likely to go bankrupt because of the higher wages that they pay? Why or why not?</para>
+</problem>
+<solution id="fs-idp117297936">
+<para id="fs-idm91820064">No. While some unions may cause firms to go bankrupt, other unions help firms to become more competitive. No overall pattern exists.</para>
+</solution>
+</exercise>
+
+<exercise id="fs-idm83279824">
+<problem id="fs-idm85509664">
+<para id="fs-idm122120832">Do countries with a higher percentage of unionized workers usually have less growth in productivity because of strikes and other disruptions caused by the unions? Why or why not?</para></problem>
+<solution id="fs-idm84530416">
+<para id="fs-idm104907488">From a social point of view, the benefits of unions and the costs seem to counterbalance. There is no evidence that in countries with a higher percentage of unionized workers, the economies grow more or less slowly.</para>
+</solution>
+</exercise>
+
+
+</section>
+
+
+<section id="fs-idp24193264" class="review-questions">
+<title>Review Questions</title>
+<exercise id="eip-861"><problem id="eip-168">
+  <para id="eip-141">
+    What determines the demand for labor for a firm operating in a perfectly competitive output market?
+  </para>
+</problem>
+
+</exercise><exercise id="eip-345"><problem id="eip-528">
+  <para id="eip-754">
+    What determines the demand for labor for a firm with market power in the output market?
+  </para>
+</problem>
+
+</exercise><exercise id="eip-763"><problem id="eip-853">
+  <para id="eip-680">
+    What is a perfectly competitive labor market?
+  </para>
+</problem>
+
+</exercise><exercise id="fs-idp111441712">
+<problem id="fs-idp120919280">
+<para id="fs-idp117145488">What is a labor union?</para>
+</problem>
+</exercise>
+
+<exercise id="fs-idp110112992">
+<problem id="fs-idp56619744">
+<para id="fs-idp31608048">Why do employers have a natural advantage in bargaining with employees?</para>
+</problem>
+</exercise>
+
+<exercise id="fs-idp51337792">
+<problem id="fs-idp73023648">
+<para id="fs-idp186014320">What are some of the most important laws that protect employee rights?</para>
+</problem>
+</exercise>
+
+<exercise id="fs-idp19463760">
+<problem id="fs-idp25602960">
+<para id="fs-idp111109232">How does the presence of a labor union change negotiations between employers and workers?</para>
+</problem>
+</exercise>
+
+<exercise id="fs-idp40464352">
+<problem id="fs-idp10552832">
+<para id="fs-idp121171840">What is the long-term trend in American union membership?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp5079552">
+<problem id="fs-idp138807968">
+<para id="fs-idp168814800">Would you expect the presence of labor unions to lead to higher or lower pay for worker-members? Would you expect a higher or lower quantity of workers hired by those employers? Explain briefly.</para>
+</problem>
+</exercise>
+
+<exercise id="fs-idp156025216">
+<problem id="fs-idp57394480">
+<para id="fs-idp130311296">What are the main causes for the recent trends in union membership rates in the United States? Why are union rates lower in the United States than in many other developed countries?</para>
+</problem>
+</exercise>
+</section>
+
+
+<section id="fs-idm85989520" class="references">
+<title>References</title>
+<para id="fs-idm16915952">AFL-CIO. “Training and Apprenticeships.” http://www.aflcio.org/Learn-About-Unions/Training-and-Apprenticeships.</para>
+<para id="fs-idp22886256">Central Intelligence Agency. “The World Factbook.” https://www.cia.gov/library/publications/the-world-factbook/index.html.</para><para id="fs-idp92477200">Clark, John Bates. <emphasis effect="italics">Essentials of Economic Theory: As Applied to Modern Problems of Industry and Public Policy</emphasis>. New York: A. M. Kelley, 1907, 501.</para>
+<para id="fs-idm44853440">United Auto Workers (UAW). “About: Who We Are.” http://www.uaw.org/page/who-we-are.</para>
+<para id="fs-idm114246752">United States Department of Labor: Bureau of Labor Statistics. “Economic News Release: Union Members Summary.” Last modified January 23, 2013. http://www.bls.gov/news.release/union2.nr0.htm.</para>
+<para id="fs-idm200256">United States Department of Labor, Bureau of Labor Statistics. 2015. “Economic News; Union Members Summary.” Accessed April 13, 2015. http://www.bls.gov/news.release/union2.nr0.htm.</para></section>
+
+</content>
+<glossary>
+<definition id="fs-idm290880224">
+<term>first rule of labor markets</term>
+<meaning id="fs-idm796091120">an employer will never pay a worker more than the value of the worker's marginal productivity to the firm</meaning>
+</definition>
+<definition id="fs-idm775466592">
+<term>perfectly competitive labor market</term>
+<meaning id="fs-idm330003872">a labor market where neither suppliers of labor nor demanders of labor have any market power; thus, an employer can hire all the workers they would like at the going market wage</meaning>
+</definition>
+</glossary>
+
+</document>

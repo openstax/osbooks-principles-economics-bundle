@@ -1,0 +1,151 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Production in the Long Run</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63681</md:content-id>
+  <md:title>Production in the Long Run</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para><list><item>Understand how long run production differs from short run production.</item></list></md:abstract>
+  <md:uuid>e30946f4-2bcb-40a4-81d2-d4e588422c04</md:uuid>
+</metadata>
+
+<content>
+  <para id="eip-552">In the long run, all factors (including capital) are variable, so our production function is <m:math><m:mi>Q</m:mi><m:mo>=</m:mo><m:mi>f</m:mi><m:mo>[</m:mo><m:mi>L</m:mi><m:mtext>,</m:mtext><m:mspace width="0.2em"/><m:mi>K</m:mi><m:mo>]</m:mo></m:math>.</para><para id="eip-76">Consider a secretarial firm that does typing for hire using typists for labor and personal computers for capital.  To start, the firm has just enough business for one typist and one PC to keep busy for a day.  Say that’s five documents.  Now suppose the firm receives a rush order from a good customer for 10 documents tomorrow.  Ideally, the firm would like to use two typists and two PCs to produce twice their normal output of five documents.  However, in the short turn, the firm has fixed capital, i.e. only one PC.  The table below shows the situation:</para><table id="eip-568" summary="Table demonstrates the situation of the firm with the typists and the PC. With one typist, the workers product five letters per hour, and Marginal Productivity equals 5. With two typists, the firm produces seven letters per hour, and MP is 2. With three typists, they product 8 letters per hour, and MP is 1. For the remaining number of typists, 4, 5, and 6, the firm produces eight letters per hour, and MP is 0 for each."><title>Short Run Production Function for Typing</title>
+<tgroup cols="8"><tbody>
+  <row>
+    <entry># Typists (L)</entry>
+    <entry align="center">1</entry>
+    <entry align="center">2</entry>
+    <entry align="center">3</entry>
+    <entry align="center">4</entry>
+    <entry align="center">5</entry>
+    <entry align="center">6</entry>
+    <entry align="center"/>
+  </row>
+  <row>
+    <entry>Letters/hr (TP)</entry>
+    <entry align="center">5</entry>
+    <entry align="center">7</entry>
+    <entry align="center">8</entry>
+    <entry align="center">8</entry>
+    <entry align="center">8</entry>
+    <entry align="center">8</entry>
+    <entry align="center">For K = 1PC</entry>
+  </row>
+  <row>
+    <entry>MP</entry>
+    <entry align="center">5</entry>
+    <entry align="center">2</entry>
+    <entry align="center">1</entry>
+    <entry align="center">0</entry>
+    <entry align="center">0</entry>
+    <entry align="center">0</entry>
+    <entry align="center"/>
+  </row>
+</tbody>
+
+</tgroup>
+</table><para id="eip-72">In the short run, the only variable factor is labor so the only way the firm can produce more output is by hiring additional workers.  What could the second worker do?  What can they contribute to the firm?  Perhaps they can answer the phone, which is a major impediment to completing the typing assignment.  What about a third worker?  Perhaps he or she could bring coffee to the first two workers.  You can see both total product and marginal product for the firm above.  Now here’s something to think about: At what point (e.g. after how many workers) does diminishing marginal productivity kick in, and more importantly, why?</para><para id="eip-233">In this example, marginal productivity starts to decline after the second worker.  This is because capital is fixed.  The production process for typing works best with one worker and one PC.  If you add more than one typist, you get seriously diminishing marginal productivity.  </para><para id="eip-340">Consider the long run.  Suppose the firm’s demand increases to 15 documents per day.  What might the firm do to operate more efficiently?  If demand has tripled, the firm could acquire two more PCs, which would give us a new short run production function as <link target-id="eip-741">Table 7.12</link> below shows.</para><table id="eip-741" summary="The table illustrates the effects of two extra PCs on the firm. It adds to the previous table. With one PC, the firm can operate as follows: With one typist, the workers product five letters per hour, and Marginal Productivity equals 5. With two typists, the firm produces seven letters per hour, and MP is 2. With three typists, they product 8 letters per hour, and MP is 1. For the remaining number of typists, 4, 5, and 6, the firm produces eight letters per hour, and MP is 0 for each. With three PCs, one typist, the workers product five letters per hour, and Marginal Productivity equals 5. With two typists, the firm produces ten letters per hour, and MP is 5. With three typists, they product fifteen letters per hour, and MP is 5. With four typists, they produce 17 letters per hour, and MP is 2. For five typists, they product eighteen letters, and MP is one. And for six typists, they product 18 letters and MP is zero."><title>Long Run Production Function for Typing</title>
+<tgroup cols="8"><tbody>
+  <row>
+    <entry># Typists (L)</entry>
+    <entry align="center">1</entry>
+    <entry align="center">2</entry>
+    <entry align="center">3</entry>
+    <entry align="center">4</entry>
+    <entry align="center">5</entry>
+    <entry align="center">5</entry>
+    <entry align="center"/>
+  </row>
+  <row>
+    <entry>Letters/hr (TP)</entry>
+    <entry align="center">5</entry>
+    <entry align="center">6</entry>
+    <entry align="center">8</entry>
+    <entry align="center">8</entry>
+    <entry align="center">8</entry>
+    <entry align="center">8</entry>
+    <entry align="center">For K = 1PC</entry>
+  </row>
+  <row>
+    <entry>MP</entry>
+    <entry align="center">5</entry>
+    <entry align="center">2</entry>
+    <entry align="center">1</entry>
+    <entry align="center">0</entry>
+    <entry align="center">0</entry>
+    <entry align="center">0</entry>
+    <entry align="center"/>
+  </row>
+  <row>
+    <entry>Letters/hr (TP)</entry>
+    <entry align="center">5</entry>
+    <entry align="center">10</entry>
+    <entry align="center">15</entry>
+    <entry align="center">17</entry>
+    <entry align="center">18</entry>
+    <entry align="center">18</entry>
+    <entry align="center">For K = 3PC</entry>
+  </row>
+  <row>
+    <entry>MP</entry>
+    <entry align="center">5</entry>
+    <entry align="center">5</entry>
+    <entry align="center">5</entry>
+    <entry align="center">2</entry>
+    <entry align="center">1</entry>
+    <entry align="center">0</entry>
+    <entry align="center"/>
+  </row>
+</tbody>
+
+
+</tgroup>
+</table><para id="eip-353">With more capital, the firm can hire three workers before diminishing productivity comes into effect.  More generally, because all factors are variable, the long run production function shows the most efficient way of producing any level of output.  </para>
+<section id="fs-id1170272381821" class="summary">
+  <title>Key Concepts and Summary</title>
+<para id="fs-id1170277144237">In the long run, all inputs are variable.  Since diminishing marginal productivity is caused by fixed capital, there are no diminishing returns in the long run.  Firms can choose the optimal capital stock to produce their desired level of output.</para></section>
+<section id="fs-idm950822368" class="self-check-questions">
+  <title>Self-Check Questions</title>
+<exercise id="eip-561"><problem id="eip-idm444604832">
+      <para id="eip-idm648372704">If two painters can paint 200 square feet of wall in an hour, and three painters can paint 275 square feet, what is the marginal product of the third painter?
+</para>
+    </problem>
+  
+<solution id="eip-idm549826064">
+<para id="eip-idm417789856">The marginal product of the third painter is 75 square feet. </para>
+<para id="eip-idm332420768"><m:math><m:mtable>
+<m:mtr>
+<m:mtd columnalign="right"><m:mtext>marginal product</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mtext>change in total product/change in variable output</m:mtext></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>change in total product</m:mtext><m:mo>=</m:mo><m:mn>275</m:mn><m:mspace width="0.2em"/><m:mtext> square feet</m:mtext><m:mo>−</m:mo><m:mn>200</m:mn><m:mspace width="0.2em"/><m:mtext>square feet</m:mtext></m:mtd>
+</m:mtr>
+
+<m:mtr>
+<m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>change in total product</m:mtext><m:mo>=</m:mo><m:mn>75</m:mn><m:mspace width="0.2em"/><m:mtext> square feet</m:mtext></m:mtd>
+</m:mtr>
+
+<m:mtr>
+<m:mtd columnalign="right"><m:mtext>marginal product</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>75</m:mn><m:mspace width="0.2em"/><m:mtext> square feet</m:mtext><m:mo>/</m:mo><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>worker</m:mtext></m:mtd>
+</m:mtr>
+
+<m:mtr>
+<m:mtd columnalign="right"><m:mtext>marginal product</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>75</m:mn></m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></solution></exercise></section>
+<section id="fs-idm453030576" class="review-questions"><title>Review Questions</title><exercise id="eip-507"><problem id="eip-732">
+  <para id="eip-679">
+    How do we calculate each of the following: marginal cost, average total cost, and average variable cost? 
+  </para>
+</problem>
+
+</exercise><exercise id="eip-443"><problem id="eip-710">
+  <para id="eip-818">
+    What shapes would you generally expect each of the following cost curves to have: fixed costs, variable costs, marginal costs, average total costs, and average variable costs? 
+  </para>
+</problem>
+</exercise></section></content>
+
+</document>

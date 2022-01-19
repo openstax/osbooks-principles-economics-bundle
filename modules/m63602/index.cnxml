@@ -1,0 +1,514 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>Shifts in Demand and Supply for Goods and Services</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63602</md:content-id>
+  <md:title>Shifts in Demand and Supply for Goods and Services</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+<item>Identify factors that affect demand</item>
+<item>Graph demand curves and demand shifts</item>
+<item>Identify factors that affect supply</item>
+<item>Graph supply curves and supply shifts</item>
+</list></md:abstract>
+  <md:uuid>c952ee10-1123-4c25-8a8e-8ed2d67eae32</md:uuid>
+</metadata>
+
+<content>
+  <para id="fs-idp116321616">The previous module explored how <term class="no-emphasis">price</term> affects the quantity demanded and the quantity supplied. The result was the demand curve and the supply curve. Price, however, is not the only factor that influences buyers’ and sellers’ decisions. For example, how is demand for vegetarian food affected if, say, health concerns cause more consumers to avoid eating meat? How is the supply of diamonds affected if diamond producers discover several new diamond mines? What are the major factors, in addition to the price, that influence demand or supply?</para><note id="fs-idm157649136" class="economics linkup"><para id="fs-idm127210272">Visit this <link url="https://openstax.org/l/toothfish">website</link> to read a brief note on how marketing strategies can influence supply and demand of products.</para>
+</note><section id="fs-idp17963200">
+<title>What Factors Affect Demand?</title>
+<para id="fs-idm42705312">We defined demand as the amount of some product a consumer is willing and able to purchase at each price. That suggests at least two factors that affect demand. Willingness to purchase suggests a desire, based on what economists call tastes and preferences. If you neither need nor want something, you will not buy it. Ability to purchase suggests that income is important. Professors are usually able to afford better housing and transportation than students, because they have more income. Prices of related goods can affect demand also. If you need a new car, the price of a Honda may affect your demand for a Ford. Finally, the size or composition of the population can affect demand. The more children a family has, the greater their demand for clothing. The more driving-age children a family has, the greater their demand for car insurance, and the less for diapers and baby formula.</para><para id="fs-idm71852384">These factors matter for both individual and market demand as a whole. Exactly how do these various factors affect demand, and how do we show the effects graphically? To answer those questions, we need the <emphasis effect="italics">ceteris paribus</emphasis> assumption.</para></section>
+
+
+
+
+
+<section id="fs-idm104305088">
+<title>The <emphasis effect="italics">Ceteris Paribus</emphasis> Assumption</title>
+<para id="fs-idm144923824">A <term class="no-emphasis">demand curve</term> or a <term class="no-emphasis">supply curve</term> is a relationship between two, and only two, variables: quantity on the horizontal axis and price on the vertical axis. The assumption behind a demand curve or a supply curve is that no relevant economic factors, other than the product’s price, are changing. Economists call this assumption <term>ceteris paribus</term>, a Latin phrase meaning “other things being equal.” Any given demand or supply curve is based on the <emphasis effect="italics">ceteris paribus</emphasis> assumption that all else is held equal. A demand curve or a supply curve is a relationship between two, and only two, variables when all other variables are kept constant. If all else is not held equal, then the laws of supply and demand will not necessarily hold, as the following Clear It Up feature shows.</para><note id="fs-idm163434208" class="economics clearup">
+<title>When does <emphasis effect="italics">ceteris paribus</emphasis> apply?</title>
+<para id="fs-idm201392240">We typically apply <emphasis effect="italics">ceteris paribus</emphasis> when we observe how changes in price affect demand or supply, but we can apply <emphasis effect="italics">ceteris paribus</emphasis> more generally. In the real world, demand and supply depend on more factors than just price. For example, a consumer’s demand depends on income and a producer’s supply depends on the cost of producing the product. How can we analyze the effect on demand or supply if multiple factors are changing at the same time—say price rises and income falls? The answer is that we examine the changes one at a time, assuming the other factors are held constant.</para><para id="fs-idm113255424">For example, we can say that an increase in the price reduces the amount consumers will buy (assuming income, and anything else that affects demand, is unchanged). Additionally, a decrease in income reduces the amount consumers can afford to buy (assuming price, and anything else that affects demand, is unchanged). This is what the <emphasis effect="italics">ceteris paribus</emphasis> assumption really means. In this particular case, after we analyze each factor separately, we can combine the results. The amount consumers buy falls for two reasons: first because of the higher price and second because of the lower income.</para></note>
+</section>
+
+
+<section id="fs-idm90417728">
+<title>How Does Income Affect Demand?</title>
+<para id="fs-idm128474976">Let’s use income as an example of how factors other than price affect demand. <link target-id="CNX_Econ_C03_004"/> shows the initial demand for automobiles as D<sub>0</sub>. At point Q, for example, if the price is $20,000 per car, the quantity of cars demanded is 18 million. D<sub>0</sub> also shows how the quantity of cars demanded would change as a result of a higher or lower price. For example, if the price of a car rose to $22,000, the quantity demanded would decrease to 17 million, at point R.</para><para id="fs-idm88788912">The original demand curve D<sub>0</sub>, like every demand curve, is based on the <emphasis effect="italics">ceteris paribus</emphasis> assumption that no other economically relevant factors change. Now imagine that the economy expands in a way that raises the incomes of many people, making cars more affordable. How will this affect demand? How can we show this graphically?</para>
+<para id="fs-idm103204992">Return to <link target-id="CNX_Econ_C03_004"/>. The price of cars is still $20,000, but with higher incomes, the quantity demanded has now increased to 20 million cars, shown at point S. As a result of the higher income levels, the demand curve shifts to the right to the new demand curve D<sub>1</sub>, indicating an increase in demand. <link target-id="Table_03_04"/> shows clearly that this increased demand would occur at every price, not just the original one.</para>
+
+
+
+<figure id="CNX_Econ_C03_004">
+<title>Shifts in Demand: A Car Example </title>
+<media id="fs-idm155342160" alt="The graph shows demand curve D sub 0 as the original demand curve. Demand curve D sub 1 represents a shift based on increased income. Demand curve D sub 2 represents a shift based on decreased income.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C03_004.jpg"/>
+</media>
+<caption>Increased demand means that at every given price, the quantity demanded is higher, so that the demand curve shifts to the right from D<sub>0</sub> to D<sub>1</sub>. Decreased demand means that at every given price, the quantity demanded is lower, so that the demand curve shifts to the left from D<sub>0</sub> to D<sub>2</sub>.</caption></figure>
+
+
+<table id="Table_03_04" summary="The table is called “Price and Demand Shifts: A Car Example.” It has four columns that show how the demand for cars changes at different levels. The four columns are Price, Decrease to D2, Original Quantity Demanded D0, and Increase to D1. When a car is priced at $16,000, the Decrease to D2 is 17.6 million cars. The Original Quantity Demanded D0 is 22.0 million and the Increase to D1 is 24.0 million. When a car is $18,000, the Decrease to D2 is 16 million. The Original Quantity Demanded D0 is 20.0 million and the Increase to D1 is 22.0 million. At $20,000, the Decrease to D1 is 14.4 million cars. The Original Quantity Demanded D0 is 18.0 million and the Increase to D1 is 20.0 million. At $22,000, the Decrease to D1 is 13.6 million cars. The Original Quantity Demanded D0 is 17.0 million and the Increase to D1 is 19.0 million. At $24,000, the Decrease to D1 is 13.2 million cars. The Original Quantity Demanded D0 is 16.5 million and the Increase to D1 is 18.5 million. Finally, at $26,000, the Decrease to D1 is 12.8 million cars. The Original Quantity Demanded D0 is 16.0 million and the Increase to D1 is 18.0 million.">
+<title>Price and Demand Shifts: A Car Example</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<thead>
+<row>
+<entry>Price</entry>
+<entry>Decrease to D<sub>2</sub></entry>
+<entry>Original Quantity Demanded D<sub>0</sub></entry>
+<entry>Increase to D<sub>1</sub></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>$16,000</entry>
+<entry>17.6 million</entry>
+<entry>22.0 million</entry>
+<entry>24.0 million</entry>
+</row>
+
+<row>
+<entry>$18,000</entry>
+<entry>16.0 million</entry>
+<entry>20.0 million</entry>
+<entry>22.0 million</entry>
+</row>
+<row>
+<entry>$20,000</entry>
+<entry>14.4 million</entry>
+<entry>18.0 million</entry>
+<entry>20.0 million</entry>
+</row>
+<row>
+<entry>$22,000</entry>
+<entry>13.6 million</entry>
+<entry>17.0 million</entry>
+<entry>19.0 million</entry>
+</row>
+<row>
+<entry>$24,000</entry>
+<entry>13.2 million</entry>
+<entry>16.5 million</entry>
+<entry>18.5 million</entry>
+</row>
+<row>
+<entry>$26,000</entry>
+<entry>12.8 million</entry>
+<entry>16.0 million</entry>
+<entry>18.0 million</entry>
+</row>
+</tbody>
+</tgroup>
+<caption/></table>
+
+
+
+<para id="fs-idm39559696">Now, imagine that the economy slows down so that many people lose their jobs or work fewer hours, reducing their incomes. In this case, the decrease in income would lead to a lower quantity of cars demanded at every given price, and the original demand curve D<sub>0</sub> would shift left to D<sub>2</sub>. The shift from D<sub>0</sub> to D<sub>2</sub> represents such a decrease in demand: At any given price level, the quantity demanded is now lower. In this example, a price of $20,000 means 18 million cars sold along the original demand curve, but only 14.4 million sold after demand fell.</para>
+<para id="fs-idm64335872">When a demand curve shifts, it does not mean that the quantity demanded by every individual buyer changes by the same amount. In this example, not everyone would have higher or lower income and not everyone would buy or not buy an additional car. Instead, a shift in a demand curve captures a pattern for the market as a whole.</para><para id="fs-idm36684448">In the previous section, we argued that higher income causes greater demand at every price. This is true for most goods and services. For some—luxury cars, vacations in Europe, and fine jewelry—the effect of a rise in income can be especially pronounced. A product whose demand rises when income rises, and vice versa, is called a <term>normal good</term>. A few exceptions to this pattern do exist. As incomes rise, many people will buy fewer generic brand groceries and more name brand groceries. They are less likely to buy used cars and more likely to buy new cars. They will be less likely to rent an apartment and more likely to own a home. A product whose demand falls when income rises, and vice versa, is called an <term>inferior good</term>. In other words, when income increases, the demand curve shifts to the left.</para></section>
+
+
+
+<section id="fs-idm29397760">
+<title>Other Factors That Shift Demand Curves</title>
+<para id="fs-idm85170144">Income is not the only factor that causes a shift in demand. Other factors that change demand include tastes and preferences, the composition or size of the population, the prices of related goods, and even expectations. A change in any one of the underlying factors that determine what quantity people are willing to buy at a given price will cause a shift in demand. Graphically, the new demand curve lies either to the right (an increase) or to the left (a decrease) of the original demand curve. Let’s look at these factors.</para><para id="fs-idm115517696"><emphasis effect="bold">Changing Tastes or Preferences</emphasis></para>
+<para id="fs-idm141552672">From 1980 to 2014, the per-person consumption of chicken by Americans rose from 48 pounds per year to 85 pounds per year, and consumption of beef fell from 77 pounds per year to 54 pounds per year, according to the U.S. Department of Agriculture (USDA). Changes like these are largely due to movements in taste, which change the quantity of a good demanded at every price: that is, they shift the demand curve for that good, rightward for chicken and leftward for beef.</para><para id="fs-idm52526912"><emphasis effect="bold">Changes in the Composition of the Population </emphasis></para>
+<para id="fs-idm48776928">The proportion of elderly citizens in the United States population is rising. It rose from 9.8% in 1970 to 12.6% in 2000, and will be a projected (by the <term class="no-emphasis">U.S. Census Bureau</term>) 20% of the population by 2030. A society with relatively more children, like the United States in the 1960s, will have greater demand for goods and services like tricycles and day care facilities. A society with relatively more elderly persons, as the United States is projected to have by 2030, has a higher demand for nursing homes and hearing aids. Similarly, changes in the size of the population can affect the demand for housing and many other goods. Each of these changes in demand will be shown as a shift in the demand curve.</para>
+<para id="fs-idmnewpara01"><emphasis effect="bold">Changes in the Prices of Related Goods</emphasis></para>
+<para id="fs-idm107091696">Changes in the prices of related goods such as substitutes or complements also can affect the demand for a product. A <term>substitute</term> is a good or service that we can use in place of another good or service. As electronic books, like this one, become more available, you would expect to see a decrease in demand for traditional printed books. A lower price for a substitute decreases demand for the other product. For example, in recent years as the price of tablet computers has fallen, the quantity demanded has increased (because of the law of demand). Since people are purchasing tablets, there has been a decrease in demand for laptops, which we can show graphically as a leftward shift in the demand curve for laptops. A higher price for a substitute good has the reverse effect.</para><para id="fs-idp3135008">Other goods are <term>complements</term> for each other, meaning we often use the goods together, because consumption of one good tends to enhance consumption of the other. Examples include breakfast cereal and milk; notebooks and pens or pencils, golf balls and golf clubs; gasoline and sport utility vehicles; and the five-way combination of bacon, lettuce, tomato, mayonnaise, and bread. If the price of golf clubs rises, since the quantity demanded of golf clubs falls (because of the law of demand), demand for a complement good like golf balls decreases, too. Similarly, a higher price for skis would shift the demand curve for a complement good like ski resort trips to the left, while a lower price for a complement has the reverse effect.</para><para id="fs-idm83231456"><emphasis effect="bold">Changes in Expectations about Future Prices or Other Factors that Affect Demand</emphasis></para>
+<para id="fs-idm141098960">While it is clear that the price of a good affects the quantity demanded, it is also true that expectations about the future price (or expectations about tastes and preferences, income, and so on) can affect demand. For example, if people hear that a hurricane is coming, they may rush to the store to buy flashlight batteries and bottled water. If people learn that the price of a good like coffee is likely to rise in the future, they may head for the store to stock up on coffee now. We show these changes in demand as shifts in the curve. Therefore, a <term>shift in demand</term> happens when a change in some economic factor (other than price) causes a different quantity to be demanded at every price. The following Work It Out feature shows how this happens.</para><note id="fs-idm42358192" class="economics workout">
+<title>Shift in Demand</title>
+<para id="fs-idm22122272">A shift in demand means that at any price (and at every price), the quantity demanded will be different than it was before. Following is an example of a shift in demand due to an income increase.</para>
+<para id="fs-idm115694720">Step 1. Draw the graph of a demand curve for a normal good like pizza. Pick a price (like P<sub>0</sub>). Identify the corresponding Q<sub>0</sub>. See an example in <link target-id="CNX_Econ_C03_019"/>.</para><figure id="CNX_Econ_C03_019"><title>Demand Curve </title><media id="fs-idm94402672" alt="The graph represents the directions for step 1.A demand curve shows how much consumers would be willing to buy at any given price.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C03_019.jpg"/>
+</media>
+<caption>We can use the demand curve to identify how much consumers would buy at any given price.</caption></figure><para id="fs-idm23986688">Step 2. Suppose income increases. As a result of the change, are consumers going to buy more or less pizza? The answer is more. Draw a dotted horizontal line from the chosen price, through the original quantity demanded, to the new point with the new Q<sub>1</sub>. Draw a dotted vertical line down to the horizontal axis and label the new Q<sub>1</sub>. <link target-id="CNX_Econ_C03_020"/> provides an example.</para><figure id="CNX_Econ_C03_020">
+<title>Demand Curve with Income Increase </title>
+<media id="fs-idm4475184" alt="The graph represents the directions for step 2. With an increased income, consumers will wish to buy a higher quantity (Q sub 1) than they bought with a lower income.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C03_020.jpg"/>
+</media>
+<caption>With an increase in income, consumers will purchase larger quantities, pushing demand to the right.</caption></figure>
+
+<para id="fs-idp75089808">Step 3. Now, shift the curve through the new point. You will see that an increase in income causes an upward (or rightward) shift in the demand curve, so that at any price the quantities demanded will be higher, as <link target-id="CNX_Econ_C03_021"/> illustrates.</para><figure id="CNX_Econ_C03_021">
+<title>Demand Curve Shifted Right </title>
+<media id="fs-idm164619520" alt="The graph represents the directions for step 3. An increased income results in an increase in demand, which is shown by a rightward shift in the demand curve.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C03_021.jpg"/>
+</media>
+<caption>With an increase in income, consumers will purchase larger quantities, pushing demand to the right, and causing the demand curve to shift right.</caption></figure>
+</note>
+</section>
+
+
+<section id="fs-idp7448176">
+<title>Summing Up Factors That Change Demand</title>
+
+<para id="fs-idm99811792"><link target-id="CNX_Econ_C03_026"/> summarizes six factors that can shift demand curves. The direction of the arrows indicates whether the demand curve shifts represent an increase in demand or a decrease in demand. Notice that a change in the price of the good or service itself is not listed among the factors that can shift a demand curve. A change in the price of a good or service causes a movement along a specific demand curve, and it typically leads to some change in the quantity demanded, but it does not shift the demand curve.</para><figure id="CNX_Econ_C03_026">
+<title>Factors That Shift Demand Curves </title>
+<media id="fs-idm176066384" alt="The graph on the left lists events that could lead to increased demand. The graph on the right lists events that could lead to decreased demand.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C03_026.jpg"/>
+</media>
+<caption>(a) A list of factors that can cause an increase in demand from D<sub>0</sub> to D<sub>1</sub>. (b) The same factors, if their direction is reversed, can cause a decrease in demand from D<sub>0</sub> to D<sub>1</sub>.</caption></figure>
+
+<para id="fs-idm178358384">When a demand curve shifts, it will then intersect with a given supply curve at a different equilibrium price and quantity. We are, however, getting ahead of our story. Before discussing how changes in demand can affect equilibrium price and quantity, we first need to discuss shifts in supply curves.</para>
+</section>
+
+
+
+
+
+<section id="fs-idm65744640">
+<title>How Production Costs Affect Supply</title>
+<para id="fs-idm29526400">A supply curve shows how quantity supplied will change as the price rises and falls, assuming <emphasis effect="italics">ceteris paribus</emphasis> so that no other economically relevant factors are changing. If other factors relevant to supply do change, then the entire supply curve will shift. Just as we described a shift in demand as a change in the quantity demanded at every price, a <term>shift in supply</term> means a change in the quantity supplied at every price.</para><para id="fs-idm43531936">In thinking about the factors that affect supply, remember what motivates firms: profits, which are the difference between revenues and costs. A firm produces goods and services using combinations of labor, materials, and machinery, or what we call <term>inputs</term> or <term>factors of production</term>. If a firm faces lower costs of production, while the prices for the good or service the firm produces remain unchanged, a firm’s profits go up. When a firm’s profits increase, it is more motivated to produce output, since the more it produces the more profit it will earn. When costs of production fall, a firm will tend to supply a larger quantity at any given price for its output. We can show this by the supply curve shifting to the right.</para><para id="fs-idp59319552">Take, for example, a messenger company that delivers packages around a city. The company may find that buying gasoline is one of its main costs. If the price of gasoline falls, then the company will find it can deliver messages more cheaply than before. Since lower costs correspond to higher profits, the messenger company may now supply more of its services at any given price. For example, given the lower gasoline prices, the company can now serve a greater area, and increase its supply.</para>
+<para id="fs-idm15129456">Conversely, if a firm faces higher costs of production, then it will earn lower profits at any given selling price for its products. As a result, a higher cost of production typically causes a firm to supply a smaller quantity at any given price. In this case, the supply curve shifts to the left.</para>
+<para id="fs-idm25878112">Consider the supply for cars, shown by curve S<sub>0</sub> in <link target-id="CNX_Econ_C03_007"/>. Point J indicates that if the price is $20,000, the quantity supplied will be 18 million cars. If the price rises to $22,000 per car, <emphasis effect="italics">ceteris paribus,</emphasis> the quantity supplied will rise to 20 million cars, as point K on the S<sub>0</sub> curve shows. We can show the same information in table form, as in <link target-id="Table_03_05"/>.</para><figure id="CNX_Econ_C03_007">
+<title>Shifts in Supply: A Car Example </title>
+<media id="fs-idm85405328" alt="The graph shows supply curve S sub 0 as the original supply curve. Supply curve S sub 1 represents a shift based on decreased supply. Supply curve S sub 2 represents a shift based on increased supply.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C03_007.jpg"/>
+</media>
+<caption>Decreased supply means that at every given price, the quantity supplied is lower, so that the supply curve shifts to the left, from S<sub>0</sub> to S<sub>1</sub>. Increased supply means that at every given price, the quantity supplied is higher, so that the supply curve shifts to the right, from S<sub>0</sub> to S<sub>2</sub>.</caption>
+</figure>
+
+
+
+<table id="Table_03_05" summary="The table is called “Price and Shifts in Supply: A Car Example.” It has four columns that show how the supply of cars changes at different levels. The four columns are Price, Decrease to D1, Original Quantity Supplied S0, and Increase to S2. When a car is priced at $16,000, the Decrease to S1 is 10.5 million cars. The Original Quantity Supplied S0 is 12.0 million and the Increase to S2 is 13.2 million. When a car is $18,000, the Decrease to S1 is 13.5 million. The Original Quantity Supplied S0 is 15.0 million and the Increase to S2 is 16.5 million. At $20,000, the Decrease to S2 is 16.5 million cars. The Original Quantity Supplied S0 is 18.0 million and the Increase to S2 is 19.8 million. At $22,000, the Decrease to S1 is 18.5 million cars. The Original Quantity Supplied S0 is 20.0 million and the Increase to S2 is 22.0 million. At $24,000, the Decrease to S1 is 20.5 million cars. The Original Quantity Supplied S0 is 19.5 million and the Increase to S2 is 23.1 million. Finally, at $26,000, the Decrease to S1 is 20.5 million cars. The Original Quantity Supplied S0 is 22.0 million and the Increase to S2 is 24.2 million.">
+<title>Price and Shifts in Supply: A Car Example</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<thead>
+<row>
+<entry>Price</entry>
+<entry>Decrease to S<sub>1</sub></entry>
+<entry>Original Quantity Supplied S<sub>0</sub></entry>
+<entry>Increase to S<sub>2</sub></entry>
+</row>
+</thead>
+<tbody><row>
+<entry>$16,000</entry>
+<entry>10.5 million</entry>
+<entry>12.0 million</entry>
+<entry>13.2 million</entry>
+</row>
+<row>
+<entry>$18,000</entry>
+<entry>13.5 million</entry>
+<entry>15.0 million</entry>
+<entry>16.5 million</entry>
+</row>
+<row>
+<entry>$20,000</entry>
+<entry>16.5 million</entry>
+<entry>18.0 million</entry>
+<entry>19.8 million</entry>
+</row>
+<row>
+<entry>$22,000</entry>
+<entry>18.5 million</entry>
+<entry>20.0 million</entry>
+<entry>22.0 million</entry>
+</row>
+<row>
+<entry>$24,000</entry>
+<entry>19.5 million</entry>
+<entry>21.0 million</entry>
+<entry>23.1 million</entry>
+</row>
+<row>
+<entry>$26,000</entry>
+<entry>20.5 million</entry>
+<entry>22.0 million</entry>
+<entry>24.2 million</entry>
+</row>
+</tbody>
+</tgroup>
+<caption/>
+</table>
+
+
+<para id="fs-idm143891376">Now, imagine that the price of steel, an important ingredient in manufacturing cars, rises, so that producing a car has become more expensive. At any given price for selling cars, car manufacturers will react by supplying a lower quantity. We can show this graphically as a leftward shift of supply, from S<sub>0</sub> to S<sub>1</sub>, which indicates that at any given price, the quantity supplied decreases. In this example, at a price of $20,000, the quantity supplied decreases from 18 million on the original supply curve (S<sub>0</sub>) to 16.5 million on the supply curve S<sub>1</sub>, which is labeled as point L.</para><para id="fs-idm107781904">Conversely, if the price of steel decreases, producing a car becomes less expensive. At any given price for selling cars, car manufacturers can now expect to earn higher profits, so they will supply a higher quantity. The shift of supply to the right, from S<sub>0</sub> to S<sub>2</sub>, means that at all prices, the quantity supplied has increased. In this example, at a price of $20,000, the quantity supplied increases from 18 million on the original supply curve (S<sub>0</sub>) to 19.8 million on the supply curve S<sub>2</sub>, which is labeled M.</para>
+</section>
+
+
+<section id="fs-idp74095824">
+<title>Other Factors That Affect Supply</title>
+<para id="fs-idm23435184">In the example above, we saw that changes in the prices of inputs in the production process will affect the cost of production and thus the supply. Several other things affect the cost of production, too, such as changes in weather or other natural conditions, new technologies for production, and some government policies.</para>
+<para id="fs-idp111327232">Changes in weather and climate will affect the cost of production for many agricultural products. For example, in 2014 the Manchurian Plain in Northeastern China, which produces most of the country's wheat, corn, and soybeans, experienced its most severe drought in 50 years. A drought decreases the supply of agricultural products, which means that at any given price, a lower quantity will be supplied. Conversely, especially good weather would shift the supply curve to the right.</para><para id="fs-idm62101232">When a <term class="no-emphasis">firm</term> discovers a new technology that allows the firm to produce at a lower cost, the supply curve will shift to the right, as well. For instance, in the 1960s a major scientific effort nicknamed the Green Revolution focused on breeding improved seeds for basic crops like wheat and rice. By the early 1990s, more than two-thirds of the wheat and rice in low-income countries around the world used these Green Revolution seeds—and the harvest was twice as high per acre. A technological improvement that reduces costs of production will shift supply to the right, so that a greater quantity will be produced at any given price.</para><para id="fs-idp84369536">Government policies can affect the cost of production and the supply curve through taxes, regulations, and subsidies. For example, the U.S. government imposes a tax on alcoholic beverages that collects about $8 billion per year from producers. Businesses treat taxes as costs. Higher costs decrease supply for the reasons we discussed above. Other examples of policy that can affect cost are the wide array of government regulations that require firms to spend money to provide a cleaner environment or a safer workplace. Complying with regulations increases costs.</para><para id="fs-idm27650224">A government subsidy, on the other hand, is the opposite of a tax. A subsidy occurs when the government pays a firm directly or reduces the firm’s taxes if the firm carries out certain actions. From the firm’s perspective, taxes or regulations are an additional cost of production that shifts supply to the left, leading the firm to produce a lower quantity at every given price. Government subsidies reduce the cost of production and increase supply at every given price, shifting supply to the right. The following Work It Out feature shows how this shift happens.</para><note id="fs-idp9921616" class="economics workout">
+<title>Shift in Supply</title>
+<para id="fs-idp84368976">We know that a supply curve shows the minimum price a firm will accept to produce a given quantity of output. What happens to the supply curve when the cost of production goes up? Following is an example of a shift in supply due to a production cost increase. (We’ll introduce some other concepts regarding firm decision-making in Chapters 7 and 8.)</para><para id="fs-idp169557072">Step 1. Draw a graph of a supply curve for pizza. Pick a quantity (like Q<sub>0</sub>). If you draw a vertical line up from Q<sub>0</sub> to the supply curve, you will see the price the firm chooses. <link target-id="CNX_Econ_C03_022"/> provides an example.</para><figure id="CNX_Econ_C03_022"><title>Supply Curve </title><media id="fs-idp37229232" alt="The graph represents the directions for step 1. A supply curve shows the minimum price a firm will accept (P sub 0) to supply a given quantity of output (Q sub 0).">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C03_022.jpg"/>
+</media>
+<caption>You can use a supply curve to show the minimum price a firm will accept to produce a given quantity of output.</caption></figure><para id="fs-idm49126288">Step 2. Why did the firm choose that price and not some other? One way to think about this is that the price is composed of two parts. The first part is the cost of producing pizzas at the margin; in this case, the cost of producing the pizza, including cost of ingredients (e.g., dough, sauce, cheese, and pepperoni), the cost of the pizza oven, the shop rent, and the workers' wages. The second part is the firm’s desired profit, which is determined, among other factors, by the profit margins in that particular business. (Desired profit is not necessarily the same as economic profit, which will be explained in Chapter 7.) If you add these two parts together, you get the price the firm wishes to charge. The quantity Q0 and associated price P0 give you one point on the firm’s supply curve, as <link target-id="CNX_Econ_C03_023"/> illustrates.</para><figure id="CNX_Econ_C03_023">
+<title>Setting Prices </title>
+<media id="fs-idp61490608" alt="The graph represents the directions for step 2. For a given quantity of output (Q sub 0), the firm wishes to charge a price (P sub 0) equal to the cost of production plus the desired profit margin.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C03_023.jpg"/>
+</media>
+<caption>The cost of production and the desired profit equal the price a firm will set for a product.</caption></figure>
+
+
+
+<para id="fs-idm50030960">Step 3. Now, suppose that the cost of production increases. Perhaps cheese has become more expensive by $0.75 per pizza. If that is true, the firm will want to raise its price by the amount of the increase in cost ($0.75). Draw this point on the supply curve directly above the initial point on the curve, but $0.75 higher, as <link target-id="CNX_Econ_C03_024"/> shows.</para><figure id="CNX_Econ_C03_024">
+<title>Increasing Costs Leads to Increasing Price </title>
+<media id="fs-idm108114800" alt="The graph represents the directions for step 3. An increase in production cost will raise the price a firm wishes to charge (to P sub 1) for a given quantity of output (Q sub 0).">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C03_024.jpg"/>
+</media>
+<caption>Because the cost of production and the desired profit equal the price a firm will set for a product, if the cost of production increases, the price for the product will also need to increase.</caption></figure>
+
+<para id="fs-idp74824768">Step 4. Shift the supply curve through this point. You will see that an increase in cost causes an upward (or a leftward) shift of the supply curve so that at any price, the quantities supplied will be smaller, as <link target-id="CNX_Econ_C03_025"/> illustrates.</para><figure id="CNX_Econ_C03_025">
+<title>Supply Curve Shifts </title>
+<media id="fs-idp119534720" alt="The graph represents the directions for step 4. An increase in the cost of production will shift the supply curve vertically by the amount of the cost increase.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C03_025.jpg"/>
+</media>
+<caption>When the cost of production increases, the supply curve shifts upwardly to a new price level.</caption></figure>
+</note>
+</section>
+
+
+
+<section id="fs-idp50667120">
+<title>Summing Up Factors That Change Supply</title>
+<para id="fs-idp82835264">Changes in the cost of inputs, natural disasters, new technologies, and the impact of government decisions all affect the cost of production. In turn, these factors affect how much firms are willing to supply at any given price.</para>
+<para id="fs-idp15229536"><link target-id="CNX_Econ_C03_027"/> summarizes factors that change the supply of goods and services. Notice that a change in the price of the product itself is not among the factors that shift the supply curve. Although a change in price of a good or service typically causes a change in quantity supplied or a movement along the supply curve for that specific good or service, it does not cause the supply curve itself to shift.</para><figure id="CNX_Econ_C03_027"><title>Factors That Shift Supply Curves </title><media id="fs-idm3875296" alt="The graph on the left lists events that could lead to increased supply. The graph on the right lists events that could lead to decreased supply.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C03_027.jpg"/>
+</media>
+<caption>(a) A list of factors that can cause an increase in supply from S<sub>0</sub> to S<sub>1</sub>. (b) The same factors, if their direction is reversed, can cause a decrease in supply from S<sub>0</sub> to S<sub>1</sub>.
+</caption></figure><para id="fs-idm3871744">Because demand and supply curves appear on a two-dimensional diagram with only price and quantity on the axes, an unwary visitor to the land of economics might be fooled into believing that economics is about only four topics: demand, supply, price, and quantity. However, demand and supply are really “umbrella” concepts: demand covers all the factors that affect demand, and supply covers all the factors that affect supply. We include factors other than price that affect demand and supply are included by using shifts in the demand or the supply curve. In this way, the two-dimensional demand and supply model becomes a powerful tool for analyzing a wide range of economic circumstances.</para></section>
+
+<section id="fs-idm146864960" class="summary">
+  <title>Key Concepts and Summary</title>
+<para id="fs-idm93582096">Economists often use the <emphasis effect="italics">ceteris paribus</emphasis> or “other things being equal” assumption: while examining the economic impact of one event, all other factors remain unchanged for analysis purposes. Factors that can shift the demand curve for goods and services, causing a different quantity to be demanded at any given price, include changes in tastes, population, income, prices of substitute or complement goods, and expectations about future conditions and prices. Factors that can shift the supply curve for goods and services, causing a different quantity to be supplied at any given price, include input prices, natural conditions, changes in technology, and government taxes, regulations, or subsidies.</para></section>
+
+
+
+<section id="fs-idm24173264" class="self-check-questions">
+  <title>Self-Check Questions</title>
+  <exercise id="fs-idm44597008">
+    <problem id="fs-idm610192">
+      <para id="fs-idm75781376">Why do economists use the <emphasis effect="italics">ceteris paribus</emphasis> assumption?</para>
+</problem>
+<solution id="fs-idm74085904"><para id="fs-idm72957744">To make it easier to analyze complex problems. <emphasis effect="italics">Ceteris paribus</emphasis> allows you to look at the effect of one factor at a time on what it is you are trying to analyze. When you have analyzed all the factors individually, you add the results together to get the final answer. </para></solution>
+  </exercise>
+
+<exercise id="fs-idp3857984">
+    <problem id="fs-idm101124144">
+<para id="fs-idp64831120">In an analysis of the market for paint, an economist discovers the facts listed below. State whether each of these changes will affect supply or demand, and in what direction.
+<list id="fs-idm51555792" list-type="enumerated" number-style="lower-alpha">
+<item>There have recently been some important cost-saving inventions in the technology for making paint.</item>
+<item>Paint is lasting longer, so that property owners need not repaint as often.</item>
+<item>Because of severe hailstorms, many people need to repaint now.</item>
+
+<item>The hailstorms damaged several factories that make paint, forcing them to close down for several months.</item>
+</list></para></problem>
+<solution id="fs-idm71343200">
+<list id="fs-idp20137152" list-type="enumerated" number-style="lower-alpha">
+<item>An improvement in technology that reduces the cost of production will cause an increase in supply. Alternatively, you can think of this as a reduction in price necessary for firms to supply any quantity. Either way, this can be shown as a rightward (or downward) shift in the supply curve.</item>
+
+<item>An improvement in product quality is treated as an increase in tastes or preferences, meaning consumers demand more paint at any price level, so demand increases or shifts to the right. If this seems counterintuitive, note that demand in the future for the longer-lasting paint will fall, since consumers are essentially shifting demand from the future to the present.</item>
+<item>An increase in need causes an increase in demand or a rightward shift in the demand curve.</item>
+<item>Factory damage means that firms are unable to supply as much in the present. Technically, this is an increase in the cost of production. Either way you look at it, the supply curve shifts to the left.</item></list>
+</solution>
+</exercise>
+
+<exercise id="fs-idm630208">
+<problem id="fs-idm75572256">
+<para id="fs-idm81219584">Many changes are affecting the market for oil. Predict how each of the following events will affect the equilibrium price and quantity in the market for oil. In each case, state how the event will affect the supply and demand diagram. Create a sketch of the diagram if necessary.
+<list id="fs-idm71917264" list-type="enumerated" number-style="lower-alpha">
+<item>Cars are becoming more fuel efficient, and therefore get more miles to the gallon.</item>
+<item>The winter is exceptionally cold.</item>
+<item>A major discovery of new oil is made off the coast of Norway.</item>
+<item>The economies of some major oil-using nations, like Japan, slow down.</item>
+<item>A war in the Middle East disrupts oil-pumping schedules.</item>
+<item>Landlords install additional insulation in buildings.</item>
+<item>The price of solar energy falls dramatically.</item>
+<item>Chemical companies invent a new, popular kind of plastic made from oil.</item>
+</list>
+</para>
+</problem>
+<solution id="fs-idp49020240">
+<list id="fs-idp12922608" list-type="enumerated" number-style="lower-alpha">
+<item>More fuel-efficient cars means there is less need for gasoline. This causes a leftward shift in the demand for gasoline and thus oil. Since the demand curve is shifting down the supply curve, the equilibrium price and quantity both fall.</item>
+<item>Cold weather increases the need for heating oil. This causes a rightward shift in the demand for heating oil and thus oil. Since the demand curve is shifting up the supply curve, the equilibrium price and quantity both rise.</item>
+<item>A discovery of new oil will make oil more abundant. This can be shown as a rightward shift in the supply curve, which will cause a decrease in the equilibrium price along with an increase in the equilibrium quantity. (The supply curve shifts down the demand curve so price and quantity follow the law of demand. If price goes down, then the quantity goes up.)</item>
+<item>When an economy slows down, it produces less output and demands less input, including energy, which is used in the production of virtually everything. A decrease in demand for energy will be reflected as a decrease in the demand for oil, or a leftward shift in demand for oil. Since the demand curve is shifting down the supply curve, both the equilibrium price and quantity of oil will fall.</item>
+<item>Disruption of oil pumping will reduce the supply of oil. This leftward shift in the supply curve will show a movement up the demand curve, resulting in an increase in the equilibrium price of oil and a decrease in the equilibrium quantity.</item>
+<item>Increased insulation will decrease the demand for heating. This leftward shift in the demand for oil causes a movement down the supply curve, resulting in a decrease in the equilibrium price and quantity of oil.</item>
+<item>Solar energy is a substitute for oil-based energy. So if solar energy becomes cheaper, the demand for oil will decrease as consumers switch from oil to solar. The decrease in demand for oil will be shown as a leftward shift in the demand curve. As the demand curve shifts down the supply curve, both equilibrium price and quantity for oil will fall.</item>
+<item>A new, popular kind of plastic will increase the demand for oil. The increase in demand will be shown as a rightward shift in demand, raising the equilibrium price and quantity of oil.</item></list>
+</solution>
+</exercise>
+</section>
+
+
+<section id="fs-idm144464080" class="review-questions">
+  <title>Review Questions</title>
+  <exercise id="fs-idm120419136">
+    <problem id="fs-idm88858944">
+<para id="fs-idm140420448">When analyzing a market, how do economists deal with the problem that many factors that affect the market are changing at the same time?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm139504000">
+    <problem id="fs-idm212973264">
+<para id="fs-idp11809328">Name some factors that can cause a shift in the demand curve in markets for goods and services.</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm133420352">
+    <problem id="fs-idp88749536">
+<para id="fs-idm1293632">Name some factors that can cause a shift in the supply curve in markets for goods and services.</para>
+    </problem>
+  </exercise>
+</section>
+
+
+
+
+
+
+
+<section id="fs-idm105274544" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-idm70652288">
+<problem id="fs-idp15224480">
+<para id="fs-idm169436928">Consider the demand for hamburgers. If the price of a substitute good (for example, hot dogs) increases and the price of a complement good (for example, hamburger buns) increases, can you tell for sure what will happen to the demand for hamburgers? Why or why not? Illustrate your answer with a graph.</para>
+</problem>
+</exercise>
+
+<exercise id="fs-idm111391696">
+<problem id="fs-idm433712">
+<para id="fs-idm42120816">How do you suppose the demographics of an aging population of “Baby Boomers” in the United States will affect the demand for milk? Justify your answer.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm68643296">
+<problem id="fs-idm103250992">
+<para id="fs-idm93378256">We know that a change in the price of a product causes a movement along the demand curve. Suppose consumers believe that prices will be rising in the future. How will that affect demand for the product in the present? Can you show this graphically?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp45370304">
+<problem id="fs-idm93164528">
+<para id="fs-idm118858400">Suppose there is a soda tax to curb obesity. What should a reduction in the soda tax do to the supply of sodas and to the equilibrium price and quantity? Can you show this graphically? <emphasis effect="italics">Hint</emphasis>: Assume that the soda tax is collected from the sellers.</para></problem>
+</exercise>
+</section>
+
+
+
+<section id="fs-idp114117856" class="problems">
+  <title>Problems</title>
+  <exercise id="fs-idp46249600">
+    <problem id="fs-idp123984768">
+<para id="fs-idp39733056"><link target-id="Table_03_06"/> shows information on the demand and supply for bicycles, where the quantities of bicycles are measured in thousands.</para>
+
+<table id="Table_03_06" summary="The table shows information on the demand and supply for bicycles, where the quantities of bicycles are measured in thousands. At $120 per bicycle, the quantity demanded is 50,000 and the quantity supplied is 36,000. At $150, the quantity demanded is 40,000 and the quantity supplied is 40,000. At $180, the quantity demanded is 32,000 and the quantity supplied is 48,000. At $210, the quantity demanded is 28,000 and the quantity supplied is 56,000. Finally, at $240, the quantity demanded is 24,000 and the quantity supplied is 70,000.">
+<tgroup cols="3">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+<row>
+<entry>Price</entry>
+<entry>Qd</entry>
+<entry>Qs</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>$120</entry>
+<entry>50</entry>
+<entry>36</entry>
+</row>
+<row>
+<entry>$150</entry>
+<entry>40</entry>
+<entry>40</entry>
+</row>
+<row>
+<entry>$180</entry>
+<entry>32</entry>
+<entry>48</entry>
+</row>
+<row>
+<entry>$210</entry>
+<entry>28</entry>
+<entry>56</entry>
+</row>
+<row>
+<entry>$240</entry>
+<entry>24</entry>
+<entry>70</entry>
+</row>
+</tbody>
+</tgroup>
+<caption/></table>
+<list id="fs-idp40001392" list-type="enumerated" number-style="lower-alpha">
+<item>What is the quantity demanded and the quantity supplied at a price of $210?</item>
+<item> At what price is the quantity supplied equal to 48,000?</item>
+<item>Graph the demand and supply curve for bicycles. How can you determine the equilibrium price and quantity from the graph? How can you determine the equilibrium price and quantity from the table? What are the equilibrium price and equilibrium quantity?</item>
+<item>If the price was $120, what would the quantities demanded and supplied be? Would a shortage or surplus exist? If so, how large would the shortage or surplus be?</item></list>
+</problem>
+</exercise>
+
+<exercise id="fs-idp2104288">
+<problem id="fs-idm170032736">
+<para id="fs-idp49249776">The computer market in recent years has seen many more computers sell at much lower prices. What shift in demand or supply is most likely to explain this outcome? Sketch a demand and supply diagram and explain your reasoning for each.
+<list id="fs-idm74080960" list-type="enumerated" number-style="lower-alpha">
+<item>A rise in demand</item>
+<item>A fall in demand</item>
+<item>A rise in supply</item>
+<item>A fall in supply</item>
+</list></para></problem>
+</exercise>
+</section>
+
+
+
+<section id="fs-idm150285264" class="references">
+<title>References</title>
+<para id="fs-idm130580592">Landsburg, Steven E. <emphasis effect="italics">The Armchair Economist: Economics and Everyday Life</emphasis>. New York: The Free Press. 2012. specifically Section IV: How Markets Work.</para><para id="eip-237">National Chicken Council. 2015. "Per Capita Consumption of Poultry and Livestock, 1965 to Estimated 2015, in Pounds." Accessed April 13, 2015. https://www.nationalchickencouncil.org/about-the-industry/statistics/per-capita-consumption-of-poultry-and-livestock-1965-to-estimated-2012-in-pounds/.</para><para id="fs-idm110814192">Wessel, David. “Saudi Arabia Fears $40-a-Barrel Oil, Too.” <emphasis effect="italics">The Wall Street Journal</emphasis>. May 27, 2004, p. 42. https://online.wsj.com/news/articles/SB108561000087822300.</para></section>
+
+
+
+
+
+
+
+</content>
+
+
+<glossary>
+<definition id="fs-idp405664">
+<term>ceteris paribus</term>
+<meaning id="fs-idp406672">other things being equal</meaning>
+</definition>
+<definition id="fs-idp407184">
+<term>complements</term>
+<meaning id="fs-idp407824">goods that are often used together so that consumption of one good tends to enhance consumption of the other</meaning>
+</definition>
+<definition id="fs-idp408464">
+<term>factors of production</term>
+<meaning id="fs-idp409104">the resources such as labor, materials, and machinery that are used to produce goods and services; also called inputs</meaning>
+</definition>
+<definition id="fs-idp409744">
+<term>inferior good</term>
+<meaning id="fs-idp410384">a good in which the quantity demanded falls as income rises, and in which quantity demanded rises and income falls</meaning>
+</definition>
+<definition id="fs-idp411024">
+<term>inputs</term>
+<meaning id="fs-idp411664">the resources such as labor, materials, and machinery that are used to produce goods and services; also called factors of production</meaning>
+</definition>
+<definition id="fs-idp412320">
+<term>normal good</term>
+<meaning id="fs-idp412960">a good in which the quantity demanded rises as income rises, and in which quantity demanded falls as income falls</meaning>
+</definition>
+<definition id="fs-idp413600">
+<term>shift in demand</term>
+<meaning id="fs-idp414240">when a change in some economic factor (other than price) causes a different quantity to be demanded at every price</meaning>
+</definition>
+<definition id="fs-idp414880">
+<term>shift in supply</term>
+<meaning id="fs-idp415520">when a change in some economic factor (other than price) causes a different quantity to be supplied at every price</meaning>
+</definition>
+<definition id="fs-idp416160">
+<term>substitute</term>
+<meaning id="fs-idp416800">a good that can replace another to some extent, so that greater consumption of one good can mean less of the other</meaning>
+</definition>
+</glossary>
+</document>

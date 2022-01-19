@@ -1,0 +1,125 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Defining Money by Its Functions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63711</md:content-id>
+  <md:title>Defining Money by Its Functions</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+      <item>Explain the various functions of money</item>
+<item>Contrast commodity money and fiat money</item>
+</list></md:abstract>
+  <md:uuid>64b84242-80ce-42ac-a5bc-b23ace0aa25b</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm78687328">Money for the sake of money is not an end in itself. You cannot eat dollar bills or wear your bank account. Ultimately, the usefulness of money rests in exchanging it for goods or services. As the American writer and humorist Ambrose Bierce (1842–1914) wrote in 1911, money is a “blessing that is of no advantage to us excepting when we part with it.” Money is what people regularly use when purchasing or selling goods and services, and thus both buyers and sellers must widely accept money. This concept of money is intentionally flexible, because money has taken a wide variety of forms in different cultures.</para><section id="fs-idm27447296">
+<title>Barter and the Double Coincidence of Wants</title>
+<para id="fs-idp21122880">To understand the usefulness of money, we must consider what the world would be like without money. How would people exchange goods and services? Economies without money typically engage in the barter system. <term>Barter</term>—literally trading one good or service for another—is highly inefficient for trying to coordinate the trades in a modern advanced economy. In an economy without money, an exchange between two people would involve a <term>double coincidence of wants</term>, a situation in which two people each want some good or service that the other person can provide. For example, if an accountant wants a pair of shoes, this accountant must find someone who has a pair of shoes in the correct size and who is willing to exchange the shoes for some hours of accounting services. Such a trade is likely to be difficult to arrange. Think about the complexity of such trades in a modern economy, with its extensive division of labor that involves thousands upon thousands of different jobs and goods.</para>
+	<para id="fs-idp49478480">Another problem with the barter system is that it does not allow us to easily enter into future contracts for purchasing many goods and services. For example, if the goods are perishable it may be difficult to exchange them for other goods in the future. Imagine a farmer wanting to buy a tractor in six months using a fresh crop of strawberries. Additionally, while the barter system might work adequately in small economies, it will keep  these economies from growing. The time that individuals would otherwise spend producing goods and services and enjoying leisure time they spend bartering.</para></section>
+
+<section id="fs-idp67573392">
+<title>Functions for Money</title>
+<para id="fs-idp107091424">Money solves the problems that the barter system creates. (We will get to its definition soon.) First, money serves as a <term>medium of exchange</term>, which means that money acts as an intermediary between the buyer and the seller. Instead of exchanging accounting services for shoes, the accountant now exchanges accounting services for money. The accountant then uses this  money to buy shoes. To serve as a medium of exchange, people must widely accept money as a method of payment in the markets for goods, labor, and financial capital.</para><para id="fs-idm128840144">Second, money must serve as a <term>store of value</term>. In a barter system, we saw the example of the shoemaker trading shoes for accounting services. However, she risks having her shoes go out of style, especially if she keeps them in a warehouse for future use—their value will decrease with each season. Shoes are not a good store of value. Holding money is a much easier way of storing value. You know that you do not need to spend it immediately because it will still hold its value the next day, or the next year. This function of money does not require that money is a <emphasis effect="italics">perfect</emphasis> store of value. In an economy with inflation, money loses some buying power each year, but it remains money.</para><para id="fs-idp49879088">Third, money serves as a <term>unit of account</term>, which means that it is the ruler by which  we measure values. For example, an accountant may charge $100 to file your tax return. That $100 can purchase two pair of shoes at $50 a pair. Money acts as a common denominator, an accounting method that simplifies thinking about trade-offs.</para><para id="fs-idp59807728">Finally, another function of money is that it must serve as a <term>standard of deferred payment</term>. This means that if money is usable today to make purchases, it must also be acceptable to make purchases today that the purchaser will pay in the <emphasis effect="italics">future</emphasis>. Loans and future agreements are stated in monetary terms and the standard of deferred payment is what allows us to buy goods and services today and pay in the future. Thus, <term>money</term> serves all of these functions— it is a medium of exchange, store of value, unit of account, and standard of deferred payment.</para></section>
+
+<section id="fs-idm86097296">
+<title>Commodity versus Fiat Money</title>
+<para id="fs-idp66271360">Money has taken a wide variety of forms in different cultures. People have used gold, silver, cowrie shells, cigarettes, and even cocoa beans as money. Although we use these items as <term>commodity money</term>, they also have a value from use as something other than money. For example, people have used gold throughout the ages as money although today we do not use it as money but rather value it for its other attributes. Gold is a good conductor of electricity and  the electronics and aerospace industry use it. Other industries use gold too, such as to manufacture energy efficient reflective glass for skyscrapers and is used in the medical industry as well. Of course, gold also has value because of its beauty and malleability in creating jewelry.</para><para id="fs-idm88281536">As commodity money, gold has historically served its purpose as a medium of exchange, a store of value, and as a unit of account. <term>Commodity-backed currencies</term> are dollar bills or other currencies with values backed up by gold or other commodities held at a bank. During much of its history, gold and silver backed the money supply in the United States. Interestingly, antique dollars dated as late as 1957, have “Silver Certificate” printed over the portrait of George Washington, as <link target-id="CNX_Econ_C27_003" document=""/> shows. This meant that the holder could take the bill to the appropriate bank and exchange it for a dollar’s worth of silver.</para><figure id="CNX_Econ_C27_003"><title>A Silver Certificate and a Modern U.S. Bill</title><media id="fs-idm3773600" alt="Two images are shown. The bottom image is a silver certificate—U.S. paper currency from 1957 or earlier. The top image is of a modern U.S. currency which no longer indicates that it is commodity-backed, but which is still legal tender for all debts.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C27_003.jpg"/>
+</media>
+
+<caption>Until 1958, silver certificates were commodity-backed money—backed by silver, as indicated by the words “Silver Certificate” printed on the bill. Today, The Federal Reserve backs U.S. bills, but as fiat money (inconvertible paper money made legal tender by a government decree). (Credit: “The.Comedian”/Flickr Creative Commons)</caption></figure><para id="fs-idm56809936">As economies grew and became more global in nature, the use of commodity monies became more cumbersome. Countries moved towards the use of <term>fiat money</term>. Fiat money has no intrinsic value, but is declared by a government to be a country's legal tender. The United States’ paper money, for example, carries the statement: “THIS NOTE IS LEGAL TENDER FOR ALL DEBTS, PUBLIC AND PRIVATE.” In other words, by government decree, if you owe a debt, then legally speaking, you can pay that debt with the U.S. currency, even though it is not backed by a commodity. The only backing of our money is universal faith and trust that the currency has value, and nothing more.</para></section>
+
+<note id="fs-idm57548048" class="economics linkup"><para id="fs-idp78069984">Watch this <link url="http://openstax.org/l/moneyhistory">video</link> on the “History of Money.”</para>
+
+    </note><section id="fs-idm119061584" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idm86729008">Money is what people in a society regularly use when purchasing or selling goods and services. If money were not available, people would need to barter with each other, meaning that each person would need to identify others with whom they have a double coincidence of wants—that is, each party has a specific good or service that the other desires. Money serves several functions: a medium of exchange, a unit of account, a store of value, and a standard of deferred payment. There are two types of money: commodity money, which is an item used as money, but which also has value from its use as something other than money; and fiat money, which has no intrinsic value, but is declared by a government to be the country's legal tender.</para></section>
+
+
+<section id="fs-idm166358784" class="self-check-questions">
+<title>Self-Check Questions</title>
+<exercise id="fs-idm122415120">
+<problem id="fs-idm120648864">
+<para id="fs-idm125067856">In many casinos, a person buys chips to use for gambling. Within the casino's walls, customers often can use these chips to buy food and drink or even a hotel room. Do chips in a gambling casino serve all three functions of money?</para></problem>
+<solution id="fs-idm75918352">
+<para id="fs-idm1016832">As long as you remain within the walls of the casino, chips fit the definition of money; that is, they serve as a medium of exchange, a unit of account, and a store of value. Chips do not work very well as money once you leave the casino, but many kinds of money do not work well in other areas. For example, it is hard to spend money from Turkey or Brazil at your local supermarket or at the movie theater.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm147582960">
+<problem id="fs-idm2939504">
+<para id="fs-idm3328224">Can you name some item that is a store of value, but does not serve the other functions of money?</para>
+</problem>
+<solution id="fs-idp991568">
+<para id="fs-idm64942688">Many physical items that a person buys at one time but may sell at another time can serve as an answer to this question. Examples include a house, land, art, rare coins or stamps, and so on.</para>
+</solution>
+</exercise>
+</section>
+
+
+<section id="fs-idp10104384" class="review-questions">
+<title>Review Questions</title>
+<exercise id="fs-idp65668768">
+<problem id="fs-idp30399360">
+<para id="fs-idp25824288">What are the four functions that money serves?</para></problem>
+</exercise>
+<exercise id="fs-idp70050384">
+<problem id="fs-idp55860640">
+<para id="fs-idp70503008">How does the existence of money simplify the process of buying and selling?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp76784736">
+<problem id="fs-idp98923504">
+<para id="fs-idp79892224">What is the double-coincidence of wants?</para>
+</problem>
+</exercise>
+</section>
+
+<section id="fs-idm3464800" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-idp47376976">
+<problem id="fs-idp116813216">
+<para id="fs-idp82552976">The Bring it Home Feature discusses the use of cowrie shells as money. Although we no longer use cowrie shells as money, do you think other forms of commodity monies are possible? What role might technology play in our definition of money?</para></problem>
+</exercise>
+<exercise id="fs-idp15655968">
+<problem id="fs-idp31111808">
+<para id="fs-idp93673312">Imagine that you are a barber in a world without money. Explain why it would be tricky to obtain groceries, clothing, and a place to live.</para>
+ </problem>
+</exercise>
+</section>
+<section id="fs-idp13010368" class="references"><title>References</title>
+<para id="fs-idm147543136">Hogendorn, Jan and Marion Johnson. <emphasis effect="italics">The Shell Money of the Slave Trade</emphasis>. Cambridge University Press, 2003. 6.</para>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm40347520">
+<term>barter</term><meaning id="fs-idm44086480">literally, trading one good or service for another, without using money</meaning>
+</definition>
+<definition id="fs-idp58050032">
+<term>commodity money</term><meaning id="fs-idp49269296">  an item that is used as money, but which also has value from its use as something other than money</meaning>
+</definition>
+<definition id="fs-idp136685600">
+<term>commodity-backed currencies</term><meaning id="fs-idp50497600"> dollar bills or other currencies with values backed up by gold or another commodity</meaning>
+</definition>
+<definition id="fs-idp68360976">
+<term>double coincidence of wants</term><meaning id="fs-idm55808496"> a situation in which two people each want some good or service that the other person can provide</meaning>
+</definition>
+<definition id="fs-idp104577136">
+<term>fiat money</term><meaning id="fs-idp47543376"> has no intrinsic value, but is declared by a government to be the country's legal tender</meaning>
+</definition>
+<definition id="fs-idp58063328">
+<term>medium of exchange</term><meaning id="fs-idp12190096"> whatever is widely accepted as a method of payment</meaning>
+</definition>
+<definition id="fs-idp107752288">
+<term>money</term><meaning id="fs-idp111608992"> whatever serves society in four functions: as a medium of exchange, a store of value, a unit of account, and a standard of deferred payment.</meaning>
+</definition>
+<definition id="fs-idm35154144">
+<term>standard of deferred payment</term><meaning id="fs-idp108732832"> money must also be acceptable to make purchases today that will be paid in the future</meaning>
+</definition>
+<definition id="fs-idp111037520">
+<term>store of value</term><meaning id="fs-idm5782848"> something that serves as a way of preserving economic value that one can spend or consume in the future</meaning>
+</definition>
+<definition id="fs-idp111531360">
+<term>unit of account</term><meaning id="fs-idp16749456"> the common way in which we measure market values in an economy</meaning>
+</definition>
+</glossary>
+</document>

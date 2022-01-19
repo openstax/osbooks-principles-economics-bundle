@@ -1,0 +1,111 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Explicit and Implicit Costs, and Accounting and Economic Profit</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63677</md:content-id>
+  <md:title>Explicit and Implicit Costs, and Accounting and Economic Profit</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+<item>Explain the difference between explicit costs and implicit costs</item>
+<item>Understand the relationship between cost and revenue</item>
+</list></md:abstract>
+  <md:uuid>ee726a9f-f39a-4d4c-8226-98b5e035c2f8</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm21540240">Each business, regardless of size or complexity, tries to earn a profit: </para><equation class="unnumbered" id="eip-244"><m:math><m:mtext>Profit</m:mtext><m:mo>=</m:mo><m:mtext>Total Revenue – Total Cost</m:mtext></m:math></equation><para id="fs-idm55439424">Total <term>revenue</term> is the income the firm generates from selling its products. We calculate it by multiplying the price of the product times the quantity of output sold:</para><equation class="unnumbered" id="eip-624"><m:math><m:mtext>Total Revenue</m:mtext><m:mo>=</m:mo><m:mtext>Price × Quantity</m:mtext></m:math></equation><para id="fs-idp3903648">We will see in the following chapters that revenue is a function of the demand for the firm’s products.</para>
+<para id="eip-583">Total cost is what the firm pays for producing and selling its products.  Recall that production involves the firm converting inputs to outputs.  Each of those inputs has a cost to the firm.  The sum of all those costs is total cost.  We will learn in this chapter that short run costs are different from long run costs.</para><para id="fs-idm3611344">We can distinguish between two types of cost: explicit and implicit. <term>Explicit costs</term> are out-of-pocket costs, that is, actual payments. Wages that a firm pays its employees or rent that a firm pays for its office are explicit costs. <term>Implicit costs</term> are more subtle, but just as important. They represent the opportunity cost of using resources that the firm already owns. Often for small businesses, they are resources that the owners contribute. For example, working in the business while not earning a formal salary, or using the ground floor of a home as a retail store are both implicit costs. Implicit costs also include the depreciation of goods, materials, and equipment that are necessary for a company to operate. (See the Work It Out feature for an extended example.)</para><para id="fs-idm45004656">These two definitions of cost are important for distinguishing between two conceptions of profit, accounting profit, and economic profit. <term>Accounting profit</term> is a cash concept. It means total revenue minus explicit costs—the difference between dollars brought in and dollars paid out. <term>Economic profit</term> is total revenue minus total cost, including both explicit and implicit costs. The difference is important because even though a business pays income taxes based on its accounting profit, whether or not it is economically successful depends on its economic profit.</para><note id="fs-idp6233616" class="economics workout">
+      <title>Calculating Implicit Costs</title>
+      <para id="fs-idp26029040">Consider the following example. Fred currently works for a corporate law firm. He is considering opening his own legal practice, where he expects to earn $200,000 per year once he establishes himself. To run his own firm, he would need an office and a law clerk. He has found the perfect office, which rents for $50,000 per year. He could hire a law clerk for $35,000 per year. If these figures are accurate, would Fred’s legal practice be profitable?</para><para id="fs-idm21312000">Step 1. First you have to calculate the costs. You can take what you know about explicit costs and total them:</para>
+<equation class="unnumbered" id="eip-170"><m:math><m:mtable columnalign="left center"><m:mtr><m:mtd><m:mtext>Office rental</m:mtext><m:mo>:</m:mo></m:mtd><m:mtd><m:mtext>   $50,000</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Law clerk's salary</m:mtext><m:mo>:</m:mo></m:mtd><m:mtd><m:munder><m:mtext>+$35,000</m:mtext><m:mtext>____________</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Total explicit costs</m:mtext><m:mo>:</m:mo></m:mtd><m:mtd><m:mtext>   $85,000</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idp46012880">Step 2. Subtracting the explicit costs from the revenue gives you the accounting profit.</para>
+<equation class="unnumbered" id="eip-655"><m:math><m:mtable columnalign="left center"><m:mtr><m:mtd><m:mtext>Revenues</m:mtext><m:mo>:</m:mo></m:mtd><m:mtd><m:mtext>$200,000</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Explicit costs</m:mtext><m:mo>:</m:mo></m:mtd><m:mtd><m:munder><m:mtext>–$85,000</m:mtext><m:mtext>____________</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Accounting profit</m:mtext><m:mo>:</m:mo></m:mtd><m:mtd><m:mtext>$115,000</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idp20321520">However, these calculations consider only the explicit costs. To open his own practice, Fred would have to quit his current job, where he is earning an annual salary of $125,000. This would be an implicit cost of opening his own firm.</para><para id="fs-idm73628736">Step 3. You need to subtract both the explicit and implicit costs to determine the true economic profit:</para>
+<equation class="unnumbered" id="eip-239"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Economic profit</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mtext>total revenues – explicit costs – implicit costs</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mtext>$200,000 – $85,000 – $125,000</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mtext>–$10,000 per year</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idp13931712">Fred would be losing $10,000 per year. That does not mean he would not want to open his own business, but it does mean he would be earning $10,000 less than if he worked for the corporate firm.</para>
+      <para id="fs-idm33926096">Implicit costs can include other things as well. Maybe Fred values his leisure time, and starting his own firm would require him to put in more hours than at the corporate firm. In this case, the lost leisure would also be an implicit cost that would subtract from economic profits.</para>
+    </note>
+<para id="fs-idm90065088">Now that we have an idea about the different types of costs, let’s look at cost structures. A firm’s cost structure in the long run may be different from that in the short run. We turn to that distinction in the next few sections.</para><section id="fs-idp27288672" class="summary">
+  <title>Key Concepts and Summary</title>
+  <para id="fs-idm22858432">Privately owned firms are motivated to earn profits. Profit is the difference between revenues and costs. While accounting profit considers only explicit costs, economic profit considers both explicit and implicit costs.</para></section>
+<section id="fs-idm28930832" class="self-check-questions">
+  <title>Self-Check Questions</title>
+  <exercise id="fs-idm18450688">
+    <problem id="fs-idp730512">
+      <para id="fs-idm64765376">A firm had sales revenue of $1 million last year. It spent $600,000 on labor, $150,000 on capital and $200,000 on materials. What was the firm’s accounting profit? </para>
+    </problem>
+    <solution id="fs-idm37741456"><para id="fs-idp11284528">Accounting profit = total revenues minus explicit costs = $1,000,000 – ($600,000 + $150,000 + $200,000) = $50,000.</para></solution>
+  </exercise>
+  <exercise id="fs-idp12466368">
+    <problem id="fs-idm33925456">
+      <para id="fs-idm31452496">Continuing from <link target-id="fs-idm18450688" document=""/>, the firm’s factory sits on land owned by the firm that it could rent for $30,000 per year. What was the firm’s economic profit last year? </para></problem>
+    <solution id="fs-idm14827104"><para id="fs-idm2473280">Economic profit = accounting profit minus implicit cost = $50,000 – $30,000 = $20,000.</para></solution>
+  </exercise>
+</section>
+<section id="fs-idm46210816" class="review-questions">
+  <title>Review Questions</title>
+  <exercise id="fs-idm30960832">
+    <problem id="fs-idp20874144">
+      <para id="fs-idp34612160">What are explicit and implicit costs?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm5313344">
+    <problem id="fs-idm10444752">
+      <para id="fs-idp1066896">Would you consider an interest payment on a loan to a firm an explicit or implicit cost? </para></problem>
+  </exercise>
+
+  <exercise id="fs-idm769280">
+    <problem id="fs-idp8705200">
+      <para id="fs-idp21876496">What is the difference between accounting and economic profit?</para></problem>
+  </exercise>
+</section>
+<section id="fs-idm38754320" class="critical-thinking">
+  <title>Critical Thinking Questions</title>
+  <exercise id="fs-idp67302192">
+    <problem id="fs-idp51187328">
+      <para id="fs-idp33914720">Small “Mom and Pop firms,” like inner city grocery stores, sometimes exist even though they do not earn economic profits. How can you explain this?</para>
+    </problem>
+  </exercise>
+</section>
+<section id="fs-idp239408" class="problems">
+  <title>Problems</title>
+  <exercise id="fs-idp42899008">
+    <problem id="fs-idp74570352">
+      <para id="fs-idp70057904">A firm is considering an investment that will earn a 6% rate of return. If it were to borrow the money, it would have to pay 8% interest on the loan, but it currently has the cash, so it will not need to borrow. Should the firm make the investment? Show your work.</para>
+    </problem>
+  </exercise>
+</section>
+<section id="fs-idm17763872" class="references"><title>References</title>
+<para id="fs-idp48815200">2010 U.S. Census. www.census.gov.</para></section>
+</content>
+<glossary>
+   <definition id="fs-idp47083712">
+      <term>accounting profit</term>
+      <meaning id="fs-idm27437232">total revenues minus explicit costs, including depreciation</meaning>
+    </definition>
+   <definition id="fs-idp43822992">
+      <term>economic profit</term>
+      <meaning id="fs-idp14606240">total revenues minus total costs (explicit plus implicit costs)</meaning>
+    </definition>
+   <definition id="fs-idm12310608">
+      <term>explicit costs</term>
+      <meaning id="fs-idm37283888">out-of-pocket costs for a firm, for example, payments for wages and salaries, rent, or materials</meaning>
+    </definition>
+   <definition id="fs-idp34356896">
+      <term>firm</term>
+      <meaning id="fs-idm42325936">an organization that combines inputs of labor, capital, land, and raw or finished component materials to produce outputs.</meaning>
+    </definition>
+   <definition id="fs-idp2531392">
+      <term>implicit costs</term>
+      <meaning id="fs-idp42749744">opportunity cost of resources already owned by the firm and used in business, for example, expanding a factory onto land already owned</meaning>
+    </definition>
+   <definition id="fs-idm80052912">
+      <term>private enterprise</term>
+      <meaning id="fs-idp13338576">the ownership of businesses by private individuals</meaning>
+    </definition>
+   <definition id="fs-idm40196320">
+      <term>production</term>
+      <meaning id="fs-idm42331312">the process of combining inputs to produce outputs, ideally of a value greater than the value of the inputs</meaning>
+    </definition>
+   <definition id="fs-idm19677984">
+      <term>revenue</term>
+      <meaning id="fs-idp6970304">income from selling a firm’s product; defined as price times quantity sold</meaning>
+    </definition>
+</glossary>
+</document>

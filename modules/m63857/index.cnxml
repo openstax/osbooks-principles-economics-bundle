@@ -1,0 +1,398 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Monopolistic Competition</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63857</md:content-id>
+  <md:title>Monopolistic Competition</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+<item>Explain the significance of differentiated products</item>
+<item>Describe how a monopolistic competitor chooses price and quantity</item>
+<item>Discuss entry, exit, and efficiency as they pertain to monopolistic competition</item>
+<item>Analyze how advertising can impact monopolistic competition</item>
+</list></md:abstract>
+  <md:uuid>80a92d5e-d0fc-4235-897c-f78fa775076a</md:uuid>
+</metadata>
+
+<content>
+
+
+<para id="fs-idm160032432">Monopolistic competition involves many <term class="no-emphasis">firms</term> competing against each other, but selling products that are distinctive in some way. Examples include stores that sell different styles of clothing; restaurants or grocery stores that sell a variety of food; and even products like golf balls or beer that may be at least somewhat similar but differ in public perception because of advertising and brand names. There are over 600,000 restaurants in the United States. When products are distinctive, each firm has a mini-monopoly on its particular style or flavor or brand name. However, firms producing such products must also compete with other styles and flavors and brand names. The term “monopolistic competition” captures this mixture of mini-monopoly and tough competition, and the following Clear It Up feature introduces its derivation.</para><note id="fs-idm14179360" class="economics clearup">
+<title>Who invented the theory of imperfect competition?</title>
+<para id="fs-idm106047600">Two economists independently but simultaneously developed the theory of imperfect competition in 1933. The first was Edward Chamberlin of Harvard University who published <emphasis effect="italics">The Economics of Monopolistic Competition</emphasis>. The second was Joan Robinson of Cambridge University who published <emphasis effect="italics">The Economics of Imperfect Competition</emphasis>. Robinson subsequently became interested in macroeconomics and she became a prominent Keynesian, and later a post-Keynesian economist. (See the <link document="m63579">Welcome to Economics!</link> and <link document="m63849">The Keynesian Perspective</link> chapters for more on Keynes.)</para></note>
+
+
+
+<section id="fs-idm87760096">
+<title>Differentiated Products</title>
+<para id="fs-idm73897456">A firm can try to make its products different from those of its competitors in several ways: physical aspects of the product, location from which it sells the product, intangible aspects of the product, and perceptions of the product. We call products that are distinctive in one of these ways <term>differentiated products</term>.</para><para id="fs-idm100400176">Physical aspects of a product include all the phrases you hear in advertisements: unbreakable bottle, nonstick surface, freezer-to-microwave, non-shrink, extra spicy, newly redesigned for your comfort. A firm's location can also create a difference between producers. For example, a gas station located at a heavily traveled intersection can probably sell more gas, because more cars drive by that corner. A supplier to an automobile manufacturer may find that it is an advantage to locate close to the car factory.</para><para id="fs-idm50248928">Intangible aspects can differentiate a product, too. Some intangible aspects may be promises like a guarantee of satisfaction or money back, a reputation for high quality, services like free delivery, or offering a loan to purchase the product. Finally, <term class="no-emphasis">product differentiation</term> may occur in the minds of buyers. For example, many people could not tell the difference in taste between common varieties of ketchup or mayonnaise if they were blindfolded but, because of past habits and advertising, they have strong preferences for certain brands. Advertising can play a role in shaping these intangible preferences.</para><para id="fs-idm76420176">The concept of differentiated products is closely related to the degree of variety that is available. If everyone in the economy wore only blue jeans, ate only white bread, and drank only tap water, then the markets for clothing, food, and drink would be much closer to perfectly competitive. The variety of styles, flavors, locations, and characteristics creates product differentiation and monopolistic competition.</para>
+</section>
+
+
+
+<section id="fs-idm3544848">
+<title>Perceived Demand for a Monopolistic Competitor</title>
+<para id="fs-idp40146176">A monopolistically competitive firm perceives a demand for its goods that is an intermediate case between monopoly and competition. <link target-id="CNX_Econ_C10_008"/> offers a reminder that the <term class="no-emphasis">demand curve</term> that a perfectly competitive firm faces is <term class="no-emphasis">perfectly elastic</term> or flat, because the perfectly competitive firm can sell any quantity it wishes at the prevailing <term class="no-emphasis">market price</term>. In contrast, the demand curve, as faced by a monopolist, is the market demand curve, since a monopolist is the only firm in the market, and hence is downward sloping.</para><figure id="CNX_Econ_C10_008"><title>Perceived Demand for Firms in Different Competitive Settings </title><media id="fs-idm40902336" alt="The three graphs show (a) a horizontal straight line to represent a perfectly competitive firm; (b) a downward sloping curve to represent a monopoly; and (c) a gradually downward sloping, highly elastic curve to represent a monopolistically competitive firm.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C10_008.jpg"/>
+</media>
+
+<caption>The demand curve that a perfectly competitive firm faces is perfectly elastic, meaning it can sell all the output it wishes at the prevailing market price. The demand curve that a monopoly faces is the market demand. It can sell more output only by decreasing the price it charges. The demand curve that a monopolistically competitive firm faces falls in between.</caption></figure><para id="fs-idm193238288">The demand curve as a monopolistic competitor faces is not flat, but rather downward-sloping, which means that the monopolistic competitor can raise its price without losing all of its customers or lower the price and gain more customers. Since there are substitutes, the demand curve facing a monopolistically competitive firm is more elastic than that of a monopoly where there are no close substitutes. If a monopolist raises its price, some consumers will choose not to purchase its product—but they will then need to buy a completely different product. However, when a monopolistic competitor raises its price, some consumers will choose not to purchase the product at all, but others will choose to buy a similar product from another firm. If a monopolistic competitor raises its price, it will not lose as many customers as would a perfectly competitive firm, but it will lose more customers than would a monopoly that raised its prices.</para><para id="fs-idm163299536">At a glance, the demand curves that a monopoly and a monopolistic competitor face look similar—that is, they both slope down. However, the underlying economic meaning of these perceived demand curves is different, because a monopolist faces the market demand curve and a monopolistic competitor does not. Rather, a monopolistically competitive firm’s demand curve is but one of many firms that make up the “before” market demand curve. Are you following? If so, how would you categorize the market for golf balls? Take a swing, then see the following Clear It Up feature.</para><note id="fs-idm31578928" class="economics clearup">
+<title>Are golf balls really differentiated products?</title>
+<para id="fs-idp79522512">Monopolistic competition refers to an industry that has more than a few firms, each offering a product which, from the consumer’s perspective, is different from its competitors. The U.S. Golf Association runs a laboratory that tests 20,000 golf balls a year. There are strict rules for what makes a golf ball legal. A ball's weight cannot exceed 1.620 ounces and its diameter cannot be less than 1.680 inches (which is a weight of 45.93 grams and a diameter of 42.67 millimeters, in case you were wondering). The Association also tests the balls by hitting them at different speeds. For example, the distance test involves having a mechanical golfer hit the ball with a titanium driver and a swing speed of 120 miles per hour. As the testing center explains: “The USGA system then uses an array of sensors that accurately measure the flight of a golf ball during a short, indoor trajectory from a ball launcher. From this flight data, a computer calculates the lift and drag forces that are generated by the speed, spin, and dimple pattern of the ball. ... The distance limit is 317 yards.”</para><para id="fs-idp80747408">Over 1800 golf balls made by more than 100 companies meet the USGA standards. The balls do differ in various ways, such as the pattern of dimples on the ball, the types of plastic on the cover and in the cores, and other factors. Since all balls need to conform to the USGA tests, they are much more alike than different. In other words, golf ball manufacturers are monopolistically competitive.</para><para id="fs-idp13371936">However, retail sales of golf balls are about $500 million per year, which means that many large companies have a powerful incentive to persuade players that golf balls are highly differentiated and that it makes a huge difference which one you choose. Sure, Tiger Woods can tell the difference. For the average amateur golfer who plays a few times a summer—and who loses many golf balls to the woods and lake and needs to buy new ones—most golf balls are pretty much indistinguishable.</para></note>
+</section>
+
+
+<section id="fs-idp27308912">
+<title>How a Monopolistic Competitor Chooses Price and Quantity</title>
+<para id="fs-idp98628944">The monopolistically competitive firm decides on its profit-maximizing quantity and price in much the same way as a monopolist. A monopolistic competitor, like a monopolist, faces a downward-sloping demand curve, and so it will choose some combination of price and quantity along its perceived demand curve.</para>
+<para id="fs-idm24337024">As an example of a <term class="no-emphasis">profit-maximizing</term> monopolistic competitor, consider the Authentic Chinese Pizza store, which serves pizza with cheese, sweet and sour sauce, and your choice of vegetables and meats. Although Authentic Chinese Pizza must compete against other pizza businesses and restaurants, it has a differentiated product. The firm’s perceived demand curve is downward sloping, as <link target-id="CNX_Econ_C10_004"/> shows and the first two columns of <link target-id="Table_10_01"/>.</para><figure id="CNX_Econ_C10_004"><title>How a Monopolistic Competitor Chooses its Profit Maximizing Output and Price </title><media id="fs-idp41696928" alt="The graph shows that the point for profit maximizing output occurs where marginal revenue equals marginal cost. In addition, profit maximizing price is given by the height of the demand curve at the profit maximizing quantity.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ2e_C10_004.jpg"/>
+</media>
+<caption>To maximize profits, the Authentic Chinese Pizza shop would choose a quantity where marginal revenue equals marginal cost, or Q where MR = MC. Here it would choose a quantity of 40 and a price of $16.</caption>
+</figure><table id="Table_10_01" summary="The table shows a revenue and cost schedule. Column 1 is labeled “quantity.” Column 2 is labeled “price.” Column 3 is labeled “total revenue.” Column 4 is labeled “marginal revenue.” Column 5 is labeled “total cost.” Column 6 is labeled “marginal cost.” Column 7 is labeled “average cost.” At quantity 10, price = $23; total revenue = $230; marginal revenue = $23; total cost = $340; marginal cost = $34; average cost = $34. At quantity 20, price = $20; total revenue = $400; marginal revenue = $17; total cost = $400; marginal cost = $6; average cost = $20. At quantity 30, price = $18; total revenue = $540; marginal revenue = $14; total cost = $480; marginal cost = $8; average cost = $16. At quantity 40, price = $16; total revenue = $640; marginal revenue = $10; total cost = $580; marginal cost = $10; average cost = $14.50. At quantity 50, price = $14; total revenue = $700; marginal revenue = $6; total cost = $700; marginal cost = $12; average cost = $14. At quantity 60, price = $12; total revenue = $720; marginal revenue = $2; total cost = $840; marginal cost = 14; average cost = $14. At quantity 70, price = $10; total revenue = $700; marginal revenue = –$2; total cost = $1,020; marginal cost = $18; average cost = $14.57. At quantity $80, price = $8; total revenue = $640; marginal revenue = –$6; total cost = $1,280; marginal cost = $26; average cost = $16.">
+<title>Revenue and Cost Schedule</title>
+<tgroup cols="7">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<colspec colnum="6" colname="col6"/>
+<colspec colnum="7" colname="col7"/>
+<thead>
+<row>
+<entry>Quantity</entry>
+<entry>Price</entry>
+<entry>Total Revenue</entry>
+<entry>Marginal Revenue</entry>
+<entry>Total Cost</entry>
+<entry>Marginal Cost</entry>
+<entry>Average Cost</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>10</entry>
+<entry>$23</entry>
+<entry>$230</entry>
+<entry>$23</entry>
+<entry>$340</entry>
+<entry>$34</entry>
+<entry>$34</entry>
+</row>
+<row>
+<entry>20</entry>
+<entry>$20</entry>
+<entry>$400</entry>
+<entry>$17</entry>
+<entry>$400</entry>
+<entry>$6</entry>
+<entry>$20</entry>
+</row>
+<row>
+<entry>30</entry>
+<entry>$18</entry>
+<entry>$540</entry>
+<entry>$14</entry>
+<entry>$480</entry>
+<entry>$8</entry>
+<entry>$16</entry>
+</row>
+<row>
+<entry>40</entry>
+<entry>$16</entry>
+<entry>$640</entry>
+<entry>$10</entry>
+<entry>$580</entry>
+<entry>$10</entry>
+<entry>$14.50</entry>
+</row>
+<row>
+<entry>50</entry>
+<entry>$14</entry>
+<entry>$700</entry>
+<entry>$6</entry>
+<entry>$700</entry>
+<entry>$12</entry>
+<entry>$14</entry>
+</row>
+<row>
+<entry>60</entry>
+<entry>$12</entry>
+<entry>$720</entry>
+<entry>$2</entry>
+<entry>$840</entry>
+<entry>$14</entry>
+<entry>$14</entry>
+</row>
+<row>
+<entry>70</entry>
+<entry>$10</entry>
+<entry>$700</entry>
+<entry>–$2</entry>
+<entry>$1,020</entry>
+<entry>$18</entry>
+<entry>$14.57</entry>
+</row>
+<row>
+<entry>80</entry>
+<entry>$8</entry>
+<entry>$640</entry>
+<entry>–$6</entry>
+<entry>$1,280</entry>
+<entry>$26</entry>
+<entry>$16</entry>
+</row>
+</tbody>
+</tgroup>
+<caption/>
+</table>
+
+
+<para id="fs-idp18856528">We can multiply the combinations of price and quantity at each point on the demand curve to calculate the total revenue that the firm would receive, which is in the third column of <link target-id="Table_10_01"/>. We calculate marginal revenue, in the  fourth column, as the change in total revenue divided by the change in quantity. The final columns of <link target-id="Table_10_01"/> show total cost, marginal cost, and average cost. As always, we calculate marginal cost by dividing the change in total cost by the change in quantity, while we calculate average cost by dividing total cost by quantity. The following Work It Out feature shows how these firms calculate how much of their products to supply at what price.</para><note id="fs-idp20697392" class="economics workout">
+<title>How a Monopolistic Competitor Determines How Much to Produce and at What Price</title>
+<para id="fs-idp60030512">The process by which a monopolistic competitor chooses its profit-maximizing quantity and price resembles closely how a monopoly makes these decisions process. First, the firm selects the profit-maximizing quantity to produce. Then the firm decides what price to charge for that quantity.</para>
+<para id="fs-idp1280048">Step 1. The monopolistic competitor determines its profit-maximizing level of output. In this case, the Authentic Chinese Pizza company will determine the profit-maximizing quantity to produce by considering its marginal revenues and marginal costs. Two scenarios are possible:
+<list id="fs-idp14651952">
+<item>If the firm is producing at a quantity of output where marginal revenue exceeds marginal cost, then the firm should keep expanding production, because each marginal unit is adding to profit by bringing in more revenue than its cost. In this way, the firm will produce up to the quantity where MR = MC.</item>
+<item>If the firm is producing at a quantity where marginal costs exceed marginal revenue, then each marginal unit is costing more than the revenue it brings in, and the firm will increase its profits by reducing the quantity of output until MR = MC.</item>
+</list>
+</para>
+<para id="fs-idm28058464">In this example, MR and MC intersect at a quantity of 40, which is the profit-maximizing level of output for the firm.</para>
+<para id="fs-idm20922624">Step 2. The monopolistic competitor decides what price to charge. When the firm has determined its profit-maximizing quantity of output, it can then look to its perceived demand curve to find out what it can charge for that quantity of output. On the graph, we show this process as a vertical line reaching up through the profit-maximizing quantity until it hits the firm’s perceived demand curve. For Authentic Chinese Pizza, it should charge a price of $16 per pizza for a quantity of 40.</para><para id="fs-idp25320368">Once the firm has chosen price and quantity, it’s in a position to calculate total revenue, total cost, and profit. At a quantity of 40, the price of $16 lies above the average cost curve, so the firm is making economic profits. From <link target-id="Table_10_01"/> we can see that, at an output of 40, the firm’s total revenue is $640 and its total cost is $580, so profits are $60. In <link target-id="CNX_Econ_C10_004"/>, the firm’s total revenues are the rectangle with the quantity of 40 on the horizontal axis and the price of $16 on the vertical axis. The firm’s total costs are the light shaded rectangle with the same quantity of 40 on the horizontal axis but the average cost of $14.50 on the vertical axis. Profits are total revenues minus total costs, which is the shaded area above the average cost curve.</para>
+</note>
+
+
+<para id="fs-idp52910288">Although the process by which a monopolistic competitor makes decisions about quantity and price is similar to the way in which a monopolist makes such decisions, two differences are worth remembering. First, although both a monopolist and a monopolistic competitor face downward-sloping demand curves, the monopolist’s perceived demand curve is the market demand curve, while the perceived <term class="no-emphasis">demand curve</term> for a monopolistic competitor is based on the extent of its product differentiation and how many competitors it faces. Second, a monopolist is surrounded by barriers to entry and need not fear entry, but a monopolistic competitor who earns profits must expect the entry of firms with similar, but differentiated, products.</para>
+</section>
+
+<section id="fs-idm42529632">
+<title>Monopolistic Competitors and Entry</title>
+<para id="fs-idm145707200">If one monopolistic competitor earns positive economic profits, other firms will be tempted to enter the market. A gas station with a great location must worry that other gas stations might open across the street or down the road—and perhaps the new gas stations will sell coffee or have a carwash or some other attraction to lure customers. A successful restaurant with a unique barbecue sauce must be concerned that other restaurants will try to copy the sauce or offer their own unique recipes. A laundry detergent with a great reputation for quality must take  note that other competitors may seek to build their own reputations.</para><para id="fs-idm168411568">The entry of other firms into the same general market (like gas, restaurants, or detergent) shifts the demand curve that a monopolistically competitive firm faces. As more firms enter the market, the quantity demanded at a given price for any particular firm will decline, and the firm’s perceived demand curve will shift to the left. As a firm’s perceived demand curve shifts to the left, its marginal revenue curve will shift to the left, too. The shift in marginal revenue will change the profit-maximizing quantity that the firm chooses to produce, since marginal revenue will then equal marginal cost at a lower quantity.</para><para id="fs-idm108642576"><link target-id="CNX_Econ_C10_009"/> (a) shows a situation in which a monopolistic competitor was earning a profit with its original perceived demand curve (D<sub>0</sub>). The intersection of the marginal revenue curve (MR<sub>0</sub>) and marginal cost curve (MC) occurs at point S, corresponding to quantity Q<sub>0</sub>, which is associated on the demand curve at point T with price P<sub>0</sub>. The combination of price P<sub>0</sub> and quantity Q<sub>0</sub> lies above the average cost curve, which shows that the firm is earning positive economic profits.</para>
+
+
+
+
+<figure id="CNX_Econ_C10_009"><title>Monopolistic Competition, Entry, and Exit </title><media id="fs-idp183944112" alt="The two graphs show how under monopolistic competition profits induce firms to enter an industry and losses induce firms to exit an industry.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C10_009.jpg"/>
+</media>
+<caption>(a) At P<sub>0</sub> and Q<sub>0</sub>, the monopolistically competitive firm in this figure is making a positive economic profit. This is clear because if you follow the dotted line above Q<sub>0</sub>, you can see that price is above average cost. Positive economic profits attract competing firms to the industry, driving the original firm’s demand down to D<sub>1</sub>. At the new equilibrium quantity (P<sub>1</sub>, Q<sub>1</sub>), the original firm is earning zero economic profits, and entry into the industry ceases. In (b) the opposite occurs. At P<sub>0</sub> and Q<sub>0</sub>, the firm is losing money. If you follow the dotted line above Q<sub>0</sub>, you can see that average cost is above price. Losses induce firms to leave the industry. When they do, demand for the original firm rises to D<sub>1</sub>, where once again the firm is earning zero economic profit.</caption></figure><para id="fs-idp41606928">Unlike a monopoly, with its high barriers to entry, a monopolistically competitive firm with positive economic profits will attract competition. When another competitor enters the market, the original firm’s perceived demand curve shifts to the left, from D<sub>0</sub> to D<sub>1</sub>, and the associated marginal revenue curve shifts from MR<sub>0</sub> to MR<sub>1</sub>. The new profit-maximizing output is Q<sub>1</sub>, because the intersection of the MR<sub>1</sub> and MC now occurs at point U. Moving vertically up from that quantity on the new demand curve, the optimal price is at P<sub>1</sub>.</para>
+<para id="fs-idp155578224">As long as the <term class="no-emphasis">firm</term> is earning positive economic profits, new competitors will continue to enter the market, reducing the original firm’s demand and marginal revenue curves. The long-run <term class="no-emphasis">equilibrium</term> is in the figure at point Y, where the firm’s perceived demand curve touches the average cost curve. When price is equal to average cost, economic profits are zero. Thus, although a monopolistically competitive firm may earn positive economic profits in the short term, the process of new entry will drive down economic profits to zero in the long run. Remember that zero economic profit is not equivalent to zero <term class="no-emphasis">accounting profit</term>. A zero economic profit means the firm’s accounting profit is equal to what its resources could earn in their next best use. <link target-id="CNX_Econ_C10_009"/> (b) shows the reverse situation, where a monopolistically competitive firm is originally losing money. The adjustment to long-run equilibrium is analogous to the previous example. The economic losses lead to firms exiting, which will result in increased demand for this particular firm, and consequently lower losses. Firms exit up to the point where there are no more losses in this market, for example when the demand curve touches the average cost curve, as in point Z.</para><para id="fs-idp57248432">Monopolistic competitors can make an economic profit or loss in the short run, but in the long run, entry and exit will drive these firms toward a zero economic profit outcome. However, the zero economic profit outcome in monopolistic competition looks different from the zero economic profit outcome in perfect competition in several ways relating both to efficiency and to variety in the market.</para>
+</section>
+
+
+<section id="fs-idp126957456">
+<title>Monopolistic Competition and Efficiency</title>
+<para id="fs-idm46089152">The long-term result of entry and exit in a perfectly competitive market is that all firms end up selling at the price level determined by the lowest point on the average cost curve. This outcome is why perfect competition displays <term class="no-emphasis">productive efficiency</term>: goods are produced at the lowest possible average cost. However, in monopolistic competition, the end result of entry and exit is that firms end up with a price that lies on the downward-sloping portion of the average cost curve, not at the very bottom of the AC curve. Thus, monopolistic competition will not be productively efficient.</para><para id="fs-idp38993136">In a perfectly competitive market, each firm produces at a quantity where price is set equal to marginal cost, both in the short and long run. This outcome is why perfect competition displays allocative efficiency: the social benefits of additional production, as measured by the marginal benefit, which is the same as the price, equal the marginal costs to society of that production. In a monopolistically competitive market, the rule for maximizing profit is to set MR = MC—and price is higher than marginal revenue, not equal to it because the demand curve is downward sloping. When P &gt; MC, which is the outcome in a monopolistically competitive market, the benefits to society of providing additional quantity, as measured by the price that people are willing to pay, exceed the marginal costs to society of producing those units. A monopolistically competitive firm does not produce more, which means that society loses the net benefit of those extra units. This is the same argument we made about monopoly, but in this case the allocative inefficiency will be smaller. Thus, a monopolistically competitive industry will produce a lower quantity of a good and charge a higher price for it than would a perfectly competitive industry. See the following Clear It Up feature for more detail on the impact of demand shifts.</para><note id="fs-idm61712896" class="economics clearup">
+<title>Why does a shift in perceived demand cause a shift in marginal revenue?</title>
+<para id="fs-idm14257024">We use the combinations of price and quantity at each point on a firm’s perceived demand curve to calculate total revenue for each combination of price and quantity. We then use this information on total revenue to calculate marginal revenue, which is the change in total revenue divided by the change in quantity. A change in perceived demand will change total revenue at every quantity of output and in turn, the change in total revenue will shift marginal revenue at each quantity of output. Thus, when entry occurs in a monopolistically competitive industry, the perceived demand curve for each firm will shift to the left, because a smaller quantity will be demanded at any given price. Another way of interpreting this shift in demand is to notice that, for each quantity sold, the firm will charge a lower price. Consequently, the marginal revenue will be lower for each quantity sold—and the marginal revenue curve will shift to the left as well. Conversely, exit causes the perceived demand curve for a monopolistically competitive firm to shift to the right and the corresponding marginal revenue curve to shift right, too.</para></note>
+
+
+<para id="fs-idm302768">A monopolistically competitive industry does not display productive or allocative efficiency in either the short run, when firms are making economic profits and losses, nor in the long run, when firms are earning zero profits.</para></section>
+
+<section id="fs-idp24081488">
+<title>The Benefits of Variety and Product Differentiation</title>
+<para id="fs-idm47771488">Even though monopolistic competition does not provide productive efficiency or allocative efficiency, it does have benefits of its own. Product differentiation is based on variety and innovation. Most people would prefer to live in an economy with many kinds of clothes, foods, and car styles; not in a world of perfect competition where everyone will always wear blue jeans and white shirts, eat only spaghetti with plain red sauce, and drive an identical model of car. Most people would prefer to live in an economy where firms are struggling to figure out ways of attracting customers by methods like friendlier service, free delivery, guarantees of quality, variations on existing products, and a better shopping experience.</para><para id="fs-idp13106992">Economists have struggled, with only partial success, to address the question of whether a market-oriented economy produces the optimal amount of variety. Critics of market-oriented economies argue that society does not really need dozens of different athletic shoes or breakfast cereals or automobiles. They argue that much of the cost of creating such a high degree of product differentiation, and then of advertising and marketing this differentiation, is socially wasteful—that is, most people would be just as happy with a smaller range of <term class="no-emphasis">differentiated products</term> produced and sold at a lower price. Defenders of a market-oriented economy respond that if people do not want to buy differentiated products or highly advertised brand names, no one is forcing them to do so. Moreover, they argue that consumers benefit substantially when firms seek short-term profits by providing differentiated products. This controversy may never be fully resolved, in part because deciding on the optimal amount of variety is very difficult, and in part because the two sides often place different values on what variety means for consumers. Read the following Clear It Up feature for a discussion on the role that advertising plays in monopolistic competition.</para>
+
+
+
+<note id="fs-idp26661856" class="economics clearup">
+<title>How does advertising impact monopolistic competition?</title>
+<para id="fs-idm92879456">The U.S. economy spent about $180.12 billion on advertising in 2014, according to eMarketer.com. Roughly one third of this was television advertising, and another third was divided roughly equally between internet, newspapers, and radio. The remaining third was divided between direct mail, magazines, telephone directory yellow pages, and billboards. Mobile devices are increasing the opportunities for advertisers.</para><para id="fs-idp22437120">Advertising is all about explaining to people, or making people believe, that the products of one firm are differentiated from another firm's products. In the framework of monopolistic competition, there are two ways to conceive of how advertising works: either advertising causes a firm’s perceived demand curve to become more inelastic (that is, it causes the perceived demand curve to become steeper); or advertising causes demand for the firm’s product to increase (that is, it causes the firm’s perceived demand curve to shift to the right). In either case, a successful advertising campaign may allow a firm to sell either a greater quantity or to charge a higher price, or both, and thus increase its profits.</para><para id="fs-idp10301392">However, economists and business owners have also long suspected that much of the advertising may only offset other advertising. Economist A. C. Pigou wrote the following back in 1920 in his book, <emphasis effect="italics">The Economics of Welfare</emphasis>:</para>
+<quote id="fs-idm24096064"><para id="fs-idp20634000">It may happen that expenditures on advertisement made by competing monopolists [that is, what we now call monopolistic competitors] will simply neutralise one another, and leave the industrial position exactly as it would have been if neither had expended anything. For, clearly, if each of two rivals makes equal efforts to attract the favour of the public away from the other, the total result is the same as it would have been if neither had made any effort at all.</para></quote>
+</note>
+</section>
+
+
+
+<section id="fs-idm1636640" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idm147485184">Monopolistic competition refers to a market where many firms sell differentiated products. Differentiated products can arise from characteristics of the good or service, location from which the firm sells the product, intangible aspects of the product, and perceptions of the product.</para><para id="fs-idm170609952">The perceived demand curve for a monopolistically competitive firm is downward-sloping, which shows that it is a price maker and chooses a combination of price and quantity. However, the perceived demand curve for a monopolistic competitor is more elastic than the perceived demand curve for a monopolist, because the monopolistic competitor has direct competition, unlike the pure monopolist. A profit-maximizing monopolistic competitor will seek out the quantity where marginal revenue is equal to marginal cost. The monopolistic competitor will produce that level of output and charge the price that the firm’s demand curve indicates.</para><para id="fs-idm82078416">If the firms in a monopolistically competitive industry are earning economic profits, the industry will attract entry until profits are driven down to zero in the long run. If the firms in a monopolistically competitive industry are suffering economic losses, then the industry will experience exit of firms until economic losses are driven up to zero in the long run.</para><para id="fs-idp2436400">A monopolistically competitive firm is not productively efficient because it does not produce at the minimum of its average cost curve. A monopolistically competitive firm is not allocatively efficient because it does not produce where P = MC, but instead produces where P &gt; MC. Thus, a monopolistically competitive firm will tend to produce a lower quantity at a higher cost and to charge a higher price than a perfectly competitive firm.</para>
+<para id="fs-idm55648896">Monopolistically competitive industries do offer benefits to consumers in the form of greater variety and incentives for improved products and services. There is some controversy over whether a market-oriented economy generates too much variety.</para>
+</section>
+
+
+
+
+<section id="fs-idm42209328" class="self-check-questions">
+<title>Self-Check Questions</title>
+
+<exercise id="fs-idm64669072">
+<problem id="fs-idm2339456">
+<para id="fs-idm125710816">Suppose that, due to a successful advertising campaign, a monopolistic competitor experiences an increase in demand for its product. How will that affect the price it charges and the quantity it supplies?</para>
+</problem>
+
+<solution id="fs-idm171206272"><para id="fs-idm171206144">An increase in demand will manifest itself as a rightward shift in the demand curve, and a rightward shift in marginal revenue. The shift in marginal revenue will cause a movement up the marginal cost curve to the new intersection between MR and MC at a higher level of output. The new price can be read by drawing a line up from the new output level to the new demand curve, and then over to the vertical axis. The new price should be higher. The increase in quantity will cause a movement along the average cost curve to a possibly higher level of average cost. The price, though, will increase more, causing an increase in total profits.</para></solution>
+</exercise>
+
+<exercise id="fs-idm141628400">
+<problem id="fs-idm124130976">
+<para id="fs-idm43515040">Continuing with the scenario in question 1, in the long run, the positive economic profits that the monopolistic competitor earns will attract a response either from existing firms in the industry or firms outside. As those firms capture the original firm’s profit, what will happen to the original firm’s profit-maximizing price and output levels?</para></problem>
+
+<solution id="fs-idm239172848"><para id="fs-idm175354368">As long as the original firm is earning positive economic profits, other firms will respond in ways that take away the original firm’s profits. This will manifest itself as a decrease in demand for the original firm’s product, a decrease in the firm’s profit-maximizing price and a decrease in the firm’s profit-maximizing level of output, essentially unwinding the process described in the answer to question 1. In the long-run equilibrium, all firms in monopolistically competitive markets will earn zero economic profits.</para></solution>
+</exercise>
+</section>
+
+
+
+
+
+<section id="fs-idm196128" class="review-questions">
+<title>Review Questions</title>
+
+<exercise id="fs-idp39222928">
+<problem id="fs-idp94220656">
+<para id="fs-idp68404688">What is the relationship between product differentiation and monopolistic competition?</para>
+</problem>
+</exercise>
+
+<exercise id="fs-idp29517840">
+<problem id="fs-idp14242256">
+<para id="fs-idp30981728">How is the perceived demand curve for a monopolistically competitive firm different from the perceived demand curve for a monopoly or a perfectly competitive firm?</para>
+</problem>
+</exercise>
+
+<exercise id="fs-idp47876368">
+<problem id="fs-idp29320992">
+<para id="fs-idp71554480">How does a monopolistic competitor choose its profit-maximizing quantity of output and price?</para>
+</problem>
+</exercise>
+
+<exercise id="fs-idp99305312">
+<problem id="fs-idp181644864">
+<para id="fs-idp146624704">How can a monopolistic competitor tell whether the price it is charging will cause the firm to earn profits or experience losses?</para>
+</problem>
+</exercise>
+
+<exercise id="fs-idp66700864">
+<problem id="fs-idp13997712">
+<para id="fs-idp117303024">If the firms in a monopolistically competitive market are earning economic profits or losses in the short run, would you expect them to continue doing so in the long run? Why?</para>
+</problem>
+</exercise>
+
+<exercise id="fs-idp183469440">
+<problem id="fs-idp181724416">
+<para id="fs-idp52323024">Is a monopolistically competitive firm productively efficient? Is it allocatively efficient? Why or why not?</para>
+</problem>
+</exercise>
+</section>
+
+
+
+<section id="fs-idp14408688" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-idm31218032">
+<problem id="fs-idm38594112">
+<para id="fs-idm23223136">Aside from advertising, how can monopolistically competitive firms increase demand for their products?</para>
+</problem>
+</exercise>
+
+<exercise id="fs-idp127971824">
+<problem id="fs-idp87160864">
+<para id="fs-idm83444512">Make a case for why monopolistically competitive industries never reach long-run equilibrium.</para>
+</problem>
+</exercise>
+
+<exercise id="fs-idp46539456">
+<problem id="fs-idp120649936">
+<para id="fs-idm33693984">Would you rather have efficiency or variety? That is, one opportunity cost of the variety of products we have is that each product costs more per unit than if there were only one kind of product of a given type, like shoes. Perhaps a better question is, “What is the right amount of variety? Can there be too many varieties of shoes, for example?”</para>
+</problem>
+</exercise>
+</section>
+
+
+
+<section id="fs-idp9599808" class="problems">
+<title>Problems</title>
+<exercise id="fs-idp29566128">
+<problem id="fs-idp91488016">
+<para id="fs-idp108654400">Andrea’s Day Spa began to offer a relaxing aromatherapy treatment. The firm asks you how much to charge to maximize profits. The first two columns in <link target-id="Table_10_02"/> provide the price and quantity for the demand curve for treatments. The third column shows its total costs.
+ For each level of output, calculate total revenue, marginal revenue, average cost, and marginal cost. What is the profit-maximizing level of output for the treatments and how much will the firm earn in profits?</para><table id="Table_10_02" summary="The table shows the price, quantity and total cost (TC). When price = $25.00, quantity = 0, TC = $130. When price = $24.00, quantity = 10, TC = $275. When price = $23.00, quantity = 20; TC = $435. When price = $22.50, quantity = 30, TC = $610. When price = $22.00, quantity = 40, TC = $800. When price = $21.60, quantity = 50, TC = $1,005. When price = $21.20, quantity = 60, TC = $1,225.">
+<tgroup cols="3">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+<row>
+<entry>Price</entry>
+<entry>Quantity</entry>
+<entry>TC</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>$25.00</entry>
+<entry>0</entry>
+<entry>$130</entry>
+</row>
+<row>
+<entry>$24.00</entry>
+<entry>10</entry>
+<entry>$275</entry>
+</row>
+<row>
+<entry>$23.00</entry>
+<entry>20</entry>
+<entry>$435</entry>
+</row>
+<row>
+<entry>$22.50</entry>
+<entry>30</entry>
+<entry>$610</entry>
+</row>
+<row>
+<entry>$22.00</entry>
+<entry>40</entry>
+<entry>$800</entry>
+</row>
+<row>
+<entry>$21.60</entry>
+<entry>50</entry>
+<entry>$1,005</entry>
+</row>
+<row>
+<entry>$21.20</entry>
+<entry>60</entry>
+<entry>$1,225</entry>
+</row>
+</tbody>
+</tgroup>
+<caption/>
+</table>
+</problem>
+</exercise>
+</section>
+
+
+<section id="fs-idm11411840" class="references">
+<title>References</title>
+<para id="fs-idp15834640">Kantar Media. “Our Insights: Infographic—U.S. Advertising Year End Trends Report 2012.” Accessed October 17, 2013. http://kantarmedia.us/insight-center/reports/infographic-us-advertising-year-end-trends-report-2012.</para><para id="eip-188">Statistica.com. 2015. “Number of Restaurants in the United States from 2011 to 2014.” Accessed March 27, 2015. http://www.statista.com/statistics/244616/number-of-qsr-fsr-chain-independent-restaurants-in-the-us/.</para></section>
+
+
+
+</content>
+
+<glossary>
+<definition id="fs-idp1197008">
+<term>differentiated product</term>
+<meaning id="fs-idm52518928">a product that consumers perceive as distinctive in some way</meaning>
+</definition>
+<definition id="fs-idp56493104">
+<term>imperfectly competitive</term>
+<meaning id="fs-idp55780416">firms and organizations that fall between the extremes of monopoly and perfect competition</meaning>
+</definition>
+<definition id="fs-idm111028448">
+<term>monopolistic competition</term>
+<meaning id="fs-idm8375104">many firms competing to sell similar but differentiated products</meaning>
+</definition>
+<definition id="fs-idm57377264">
+<term>oligopoly</term>
+<meaning id="fs-idp11594752">when a few large firms have all or most of the sales in an industry</meaning>
+</definition>
+<definition id="fs-idm454314896">
+<term>product differentiation</term>
+<meaning id="fs-idm323040384">any action that firms do to make consumers think their products are different from their competitors'</meaning>
+</definition>
+</glossary>
+
+
+</document>

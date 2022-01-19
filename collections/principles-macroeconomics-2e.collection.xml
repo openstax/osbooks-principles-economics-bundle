@@ -1,7 +1,7 @@
 <col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11626</md:content-id>
-  <md:title>Principles of Macroeconomics</md:title>
+  <md:content-id>col12190</md:content-id>
+  <md:title>Principles of Macroeconomics 2e</md:title>
   
   
   <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
@@ -15,13 +15,13 @@
   
   
 
-  <md:uuid>4061c832-098e-4b3c-a1d9-7eb593a2cb31</md:uuid>
-<md:slug>principles-macroeconomics</md:slug>
+  <md:uuid>27f59064-990e-48f1-b604-5188b9086c29</md:uuid>
+<md:slug>principles-macroeconomics-2e</md:slug>
 </metadata>
 
   <col:content>
     
-      <col:module document="m49460"/>
+      <col:module document="m64269"/>
         
       
     
@@ -37,27 +37,27 @@
         <col:content>
           
     
-      <col:module document="m48590"/>
+      <col:module document="m63579"/>
         
       
     
     
-      <col:module document="m48591"/>
+      <col:module document="m63580"/>
         
       
     
     
-      <col:module document="m48592"/>
+      <col:module document="m63581"/>
         
       
     
     
-      <col:module document="m48593"/>
+      <col:module document="m63582"/>
         
       
     
     
-      <col:module document="m48594"/>
+      <col:module document="m63584"/>
         
       
     
@@ -76,22 +76,22 @@
         <col:content>
           
     
-      <col:module document="m48602"/>
+      <col:module document="m63593"/>
         
       
     
     
-      <col:module document="m48605"/>
+      <col:module document="m63594"/>
         
       
     
     
-      <col:module document="m48607"/>
+      <col:module document="m63610"/>
         
       
     
     
-      <col:module document="m48608"/>
+      <col:module document="m63611"/>
         
       
     
@@ -110,32 +110,32 @@
         <col:content>
           
     
-      <col:module document="m48628"/>
+      <col:module document="m63600"/>
         
       
     
     
-      <col:module document="m48629"/>
+      <col:module document="m63601"/>
         
       
     
     
-      <col:module document="m48630"/>
+      <col:module document="m63602"/>
         
       
     
     
-      <col:module document="m48631"/>
+      <col:module document="m63603"/>
         
       
     
     
-      <col:module document="m48632"/>
+      <col:module document="m63604"/>
         
       
     
     
-      <col:module document="m50323"/>
+      <col:module document="m63605"/>
         
       
     
@@ -154,22 +154,22 @@
         <col:content>
           
     
-      <col:module document="m48636"/>
+      <col:module document="m63595"/>
         
       
     
     
-      <col:module document="m48637"/>
+      <col:module document="m63596"/>
         
       
     
     
-      <col:module document="m48638"/>
+      <col:module document="m63597"/>
         
       
     
     
-      <col:module document="m48639"/>
+      <col:module document="m63599"/>
         
       
     
@@ -188,27 +188,27 @@
         <col:content>
           
     
-      <col:module document="m48611"/>
+      <col:module document="m63915"/>
         
       
     
     
-      <col:module document="m48614"/>
+      <col:module document="m63916"/>
         
       
     
     
-      <col:module document="m48616"/>
+      <col:module document="m63917"/>
         
       
     
     
-      <col:module document="m48618"/>
+      <col:module document="m63925"/>
         
       
     
     
-      <col:module document="m48619"/>
+      <col:module document="m63929"/>
         
       
     
@@ -227,32 +227,32 @@
         <col:content>
           
     
-      <col:module document="m48705"/>
+      <col:module document="m63717"/>
         
       
     
     
-      <col:module document="m48708"/>
+      <col:module document="m63719"/>
         
       
     
     
-      <col:module document="m48709"/>
+      <col:module document="m63724"/>
         
       
     
     
-      <col:module document="m48710"/>
+      <col:module document="m63727"/>
         
       
     
     
-      <col:module document="m48711"/>
+      <col:module document="m63733"/>
         
       
     
     
-      <col:module document="m48712"/>
+      <col:module document="m63734"/>
         
       
     
@@ -271,27 +271,27 @@
         <col:content>
           
     
-      <col:module document="m48713"/>
+      <col:module document="m64104"/>
         
       
     
     
-      <col:module document="m48714"/>
+      <col:module document="m64111"/>
         
       
     
     
-      <col:module document="m48715"/>
+      <col:module document="m64108"/>
         
       
     
     
-      <col:module document="m48716"/>
+      <col:module document="m64112"/>
         
       
     
     
-      <col:module document="m48718"/>
+      <col:module document="m64102"/>
         
       
     
@@ -310,27 +310,27 @@
         <col:content>
           
     
-      <col:module document="m48719"/>
+      <col:module document="m64096"/>
         
       
     
     
-      <col:module document="m48720"/>
+      <col:module document="m64100"/>
         
       
     
     
-      <col:module document="m48721"/>
+      <col:module document="m64092"/>
         
       
     
     
-      <col:module document="m48722"/>
+      <col:module document="m64090"/>
         
       
     
     
-      <col:module document="m48723"/>
+      <col:module document="m64098"/>
         
       
     
@@ -349,32 +349,32 @@
         <col:content>
           
     
-      <col:module document="m48724"/>
+      <col:module document="m64150"/>
         
       
     
     
-      <col:module document="m48725"/>
+      <col:module document="m64146"/>
         
       
     
     
-      <col:module document="m48726"/>
+      <col:module document="m64154"/>
         
       
     
     
-      <col:module document="m48727"/>
+      <col:module document="m64156"/>
         
       
     
     
-      <col:module document="m48729"/>
+      <col:module document="m64139"/>
         
       
     
     
-      <col:module document="m48730"/>
+      <col:module document="m64138"/>
         
       
     
@@ -393,37 +393,37 @@
         <col:content>
           
     
-      <col:module document="m48731"/>
+      <col:module document="m64021"/>
         
       
     
     
-      <col:module document="m48732"/>
+      <col:module document="m64147"/>
         
       
     
     
-      <col:module document="m48733"/>
+      <col:module document="m64152"/>
         
       
     
     
-      <col:module document="m48734"/>
+      <col:module document="m64155"/>
         
       
     
     
-      <col:module document="m48736"/>
+      <col:module document="m64157"/>
         
       
     
     
-      <col:module document="m48737"/>
+      <col:module document="m64158"/>
         
       
     
     
-      <col:module document="m48738"/>
+      <col:module document="m64159"/>
         
       
     
@@ -442,37 +442,37 @@
         <col:content>
           
     
-      <col:module document="m48739"/>
+      <col:module document="m63805"/>
         
       
     
     
-      <col:module document="m48740"/>
+      <col:module document="m63812"/>
         
       
     
     
-      <col:module document="m48741"/>
+      <col:module document="m63807"/>
         
       
     
     
-      <col:module document="m48742"/>
+      <col:module document="m63808"/>
         
       
     
     
-      <col:module document="m48745"/>
+      <col:module document="m63809"/>
         
       
     
     
-      <col:module document="m48747"/>
+      <col:module document="m63810"/>
         
       
     
     
-      <col:module document="m48748"/>
+      <col:module document="m63811"/>
         
       
     
@@ -491,27 +491,27 @@
         <col:content>
           
     
-      <col:module document="m48749"/>
+      <col:module document="m63849"/>
         
       
     
     
-      <col:module document="m48750"/>
+      <col:module document="m63850"/>
         
       
     
     
-      <col:module document="m48751"/>
+      <col:module document="m63851"/>
         
       
     
     
-      <col:module document="m48753"/>
+      <col:module document="m63852"/>
         
       
     
     
-      <col:module document="m48754"/>
+      <col:module document="m63853"/>
         
       
     
@@ -530,22 +530,22 @@
         <col:content>
           
     
-      <col:module document="m48756"/>
+      <col:module document="m63798"/>
         
       
     
     
-      <col:module document="m48758"/>
+      <col:module document="m63802"/>
         
       
     
     
-      <col:module document="m48759"/>
+      <col:module document="m63803"/>
         
       
     
     
-      <col:module document="m48760"/>
+      <col:module document="m63804"/>
         
       
     
@@ -564,27 +564,27 @@
         <col:content>
           
     
-      <col:module document="m48761"/>
+      <col:module document="m63710"/>
         
       
     
     
-      <col:module document="m48762"/>
+      <col:module document="m63711"/>
         
       
     
     
-      <col:module document="m48763"/>
+      <col:module document="m63712"/>
         
       
     
     
-      <col:module document="m48766"/>
+      <col:module document="m63713"/>
         
       
     
     
-      <col:module document="m48767"/>
+      <col:module document="m63714"/>
         
       
     
@@ -603,32 +603,32 @@
         <col:content>
           
     
-      <col:module document="m48768"/>
+      <col:module document="m63716"/>
         
       
     
     
-      <col:module document="m48770"/>
+      <col:module document="m63726"/>
         
       
     
     
-      <col:module document="m48771"/>
+      <col:module document="m63945"/>
         
       
     
     
-      <col:module document="m48772"/>
+      <col:module document="m63944"/>
         
       
     
     
-      <col:module document="m48773"/>
+      <col:module document="m63941"/>
         
       
     
     
-      <col:module document="m48774"/>
+      <col:module document="m63943"/>
         
       
     
@@ -647,27 +647,27 @@
         <col:content>
           
     
-      <col:module document="m48776"/>
+      <col:module document="m64190"/>
         
       
     
     
-      <col:module document="m48784"/>
+      <col:module document="m64200"/>
         
       
     
     
-      <col:module document="m48785"/>
+      <col:module document="m64192"/>
         
       
     
     
-      <col:module document="m48788"/>
+      <col:module document="m64196"/>
         
       
     
     
-      <col:module document="m48790"/>
+      <col:module document="m64198"/>
         
       
     
@@ -686,42 +686,42 @@
         <col:content>
           
     
-      <col:module document="m48791"/>
+      <col:module document="m63969"/>
         
       
     
     
-      <col:module document="m48792"/>
+      <col:module document="m63970"/>
         
       
     
     
-      <col:module document="m48793"/>
+      <col:module document="m63971"/>
         
       
     
     
-      <col:module document="m48794"/>
+      <col:module document="m63972"/>
         
       
     
     
-      <col:module document="m48795"/>
+      <col:module document="m63973"/>
         
       
     
     
-      <col:module document="m48797"/>
+      <col:module document="m63974"/>
         
       
     
     
-      <col:module document="m48798"/>
+      <col:module document="m63975"/>
         
       
     
     
-      <col:module document="m48799"/>
+      <col:module document="m63976"/>
         
       
     
@@ -740,27 +740,27 @@
         <col:content>
           
     
-      <col:module document="m48800"/>
+      <col:module document="m64113"/>
         
       
     
     
-      <col:module document="m48802"/>
+      <col:module document="m64118"/>
         
       
     
     
-      <col:module document="m48807"/>
+      <col:module document="m64121"/>
         
       
     
     
-      <col:module document="m48808"/>
+      <col:module document="m64114"/>
         
       
     
     
-      <col:module document="m48809"/>
+      <col:module document="m64137"/>
         
       
     
@@ -779,32 +779,32 @@
         <col:content>
           
     
-      <col:module document="m48811"/>
+      <col:module document="m64022"/>
         
       
     
     
-      <col:module document="m48812"/>
+      <col:module document="m64130"/>
         
       
     
     
-      <col:module document="m48813"/>
+      <col:module document="m64133"/>
         
       
     
     
-      <col:module document="m48814"/>
+      <col:module document="m64135"/>
         
       
     
     
-      <col:module document="m48815"/>
+      <col:module document="m64124"/>
         
       
     
     
-      <col:module document="m48816"/>
+      <col:module document="m64126"/>
         
       
     
@@ -823,27 +823,27 @@
         <col:content>
           
     
-      <col:module document="m48818"/>
+      <col:module document="m63822"/>
         
       
     
     
-      <col:module document="m48819"/>
+      <col:module document="m63823"/>
         
       
     
     
-      <col:module document="m48820"/>
+      <col:module document="m63824"/>
         
       
     
     
-      <col:module document="m48822"/>
+      <col:module document="m63825"/>
         
       
     
     
-      <col:module document="m48823"/>
+      <col:module document="m63826"/>
         
       
     
@@ -862,32 +862,32 @@
         <col:content>
           
     
-      <col:module document="m48824"/>
+      <col:module document="m63827"/>
         
       
     
     
-      <col:module document="m48825"/>
+      <col:module document="m63829"/>
         
       
     
     
-      <col:module document="m48827"/>
+      <col:module document="m63831"/>
         
       
     
     
-      <col:module document="m48828"/>
+      <col:module document="m63833"/>
         
       
     
     
-      <col:module document="m48829"/>
+      <col:module document="m63834"/>
         
       
     
     
-      <col:module document="m48830"/>
+      <col:module document="m63835"/>
         
       
     
@@ -895,12 +895,12 @@
       </col:subcollection>
     
     
-      <col:module document="m48831"/>
+      <col:module document="m63990"/>
         
       
     
     
-      <col:module document="m48835"/>
+      <col:module document="m64270"/>
         
       
     
