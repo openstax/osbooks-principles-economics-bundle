@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m63974</md:content-id>
   <md:title>Automatic Stabilizers</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para><list id="list-00001">
 <item>Describe how the federal government can use discretionary fiscal policy to stabilize the economy</item>
 <item>Identify examples of automatic stabilizers</item>
 <item>Understand how a government can use standardized employment budget to identify automatic stabilizers</item>
@@ -14,7 +14,7 @@
 
 <content>
 
-<para id="fs-idm81313344">The millions of unemployed in 2008–2009 could collect unemployment insurance benefits to replace some of their salaries. Federal fiscal policies include <term>discretionary fiscal policy</term>, when the government passes a new law that explicitly changes tax or spending levels. The 2009 stimulus package is an example. Changes in tax and spending levels can also occur automatically, due to <term>automatic stabilizers</term>, such as unemployment insurance and food stamps, which are programs that are already laws that stimulate aggregate demand in a recession and hold down aggregate demand in a potentially inflationary boom.</para><section id="fs-idp80084160">
+<para id="fs-idm81313344">The millions of unemployed in 2008–2009 could collect unemployment insurance benefits to replace some of their salaries. Federal fiscal policies include <term id="term-00001">discretionary fiscal policy</term>, when the government passes a new law that explicitly changes tax or spending levels. The 2009 stimulus package is an example. Changes in tax and spending levels can also occur automatically, due to <term id="term-00002">automatic stabilizers</term>, such as unemployment insurance and food stamps, which are programs that are already laws that stimulate aggregate demand in a recession and hold down aggregate demand in a potentially inflationary boom.</para><section id="fs-idp80084160">
 <title>Counterbalancing Recession and Boom</title>
 <para id="fs-idp74656768">Consider first the situation where aggregate demand has risen sharply, causing the equilibrium to occur at a level of output above potential GDP. This situation will increase inflationary pressure in the economy. The policy prescription in this setting would be a dose of contractionary fiscal policy, implemented through some combination of higher taxes and lower spending. To some extent, <emphasis effect="italics">both</emphasis> changes happen automatically. On the tax side, a rise in aggregate demand means that workers and firms throughout the economy earn more. Because taxes are based on personal income and corporate profits, a rise in aggregate demand automatically increases tax payments. On the spending side, stronger aggregate demand typically means lower unemployment and fewer layoffs, and so there is less need for government spending on unemployment benefits, welfare, Medicaid, and other programs in the social safety net.</para>
 
@@ -22,7 +22,7 @@
 
 <section id="fs-idp48879968">
 <title>The Standardized Employment Deficit or Surplus</title>
-<para id="fs-idp63192880">Each year, the nonpartisan Congressional Budget Office (CBO) calculates the <term>standardized employment budget</term>—that is, what the budget deficit or surplus would be if the economy were producing at potential GDP, where people who look for work were finding jobs in a reasonable period of time and businesses were making normal profits, with the result that both workers and businesses would be earning more and paying more taxes. In effect, the standardized employment deficit eliminates the impact of the automatic stabilizers. <link target-id="CNX_Econ_C30_012"/> compares the actual budget deficits of recent decades with the CBO’s standardized deficit.</para>
+<para id="fs-idp63192880">Each year, the nonpartisan Congressional Budget Office (CBO) calculates the <term id="term-00003">standardized employment budget</term>—that is, what the budget deficit or surplus would be if the economy were producing at potential GDP, where people who look for work were finding jobs in a reasonable period of time and businesses were making normal profits, with the result that both workers and businesses would be earning more and paying more taxes. In effect, the standardized employment deficit eliminates the impact of the automatic stabilizers. <link target-id="CNX_Econ_C30_012"/> compares the actual budget deficits of recent decades with the CBO’s standardized deficit.</para>
 
 <note id="fs-idp21278368" class="economics linkup"><para id="fs-idp7093664">Visit this <link url="http://openstax.org/l/CBO">website</link> to learn more from the Congressional Budget Office.</para>
 </note><figure id="CNX_Econ_C30_012"><title>Comparison of Actual Budget Deficits with the Standardized Employment Deficit </title><media id="fs-idp12612800" alt="The graph shows how the standardized deficit surplus and the actual deficit surplus have changed since 1970. Both lines tend to rise and fall at similar times. The only time both were positive numbers was between the mid-1990s and early 2000s. As of 2014, both standardized deficit surplus and actual deficit surplus had dropped to their lowest amount, both below –6%.">

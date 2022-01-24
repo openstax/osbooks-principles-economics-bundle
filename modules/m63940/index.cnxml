@@ -5,12 +5,12 @@
   <md:content-id>m63940</md:content-id>
   <md:title>Bilateral Monopoly</md:title>
   <md:abstract>By the end of this section, you will be able to explain:
-<list><item>How firms determine wages and employment when a specific labor market combines a union and a monopsony</item></list></md:abstract>
+<list id="list-00001"><item>How firms determine wages and employment when a specific labor market combines a union and a monopsony</item></list></md:abstract>
   <md:uuid>2ca8e6bb-c54b-4a58-9909-005e5c4abb75</md:uuid>
 </metadata>
 
 <content>
-  <para id="delete_me">What happens when there is market power on both sides of the labor market, in other words, when a union meets a monopsony?  Economists call such a situation a <term>bilateral monopoly</term>.</para><figure id="fs-4465"><title>Bilateral Monopoly</title><media id="fs-5626565" alt=" The graph compares monopsony to perfect competition for labor market outcomes.  The x-axis is Labor, and the y-axis is Wages.  There are three curves.  The curve representing typical market supply for labor slopes upward from the bottom left to the top right.  The curve representing the marginal cost of hiring additional workers also, slopes from the bottom left to the top right, but it is steeper, and therefore always above the regular market supply curve.   The third curve is the labor demand, sloping from the top left to the bottom right.  A line representing the wage preferred by the union intersects the marginal cost curve, and a line representing the wage preferred by the monopsony intersects the market supply curve.">
+  <para id="delete_me">What happens when there is market power on both sides of the labor market, in other words, when a union meets a monopsony?  Economists call such a situation a <term id="term-00001">bilateral monopoly</term>.</para><figure id="fs-4465"><title>Bilateral Monopoly</title><media id="fs-5626565" alt=" The graph compares monopsony to perfect competition for labor market outcomes.  The x-axis is Labor, and the y-axis is Wages.  There are three curves.  The curve representing typical market supply for labor slopes upward from the bottom left to the top right.  The curve representing the marginal cost of hiring additional workers also, slopes from the bottom left to the top right, but it is steeper, and therefore always above the regular market supply curve.   The third curve is the labor demand, sloping from the top left to the bottom right.  A line representing the wage preferred by the union intersects the marginal cost curve, and a line representing the wage preferred by the monopsony intersects the market supply curve.">
     <image mime-type="image/jpeg" src="../../media/CNX_Econ2e_C15_009-754e.jpg"/>
   </media>
   

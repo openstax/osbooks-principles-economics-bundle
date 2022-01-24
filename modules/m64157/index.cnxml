@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m64157</md:content-id>
   <md:title>The National Saving and Investment Identity</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para><list id="list-00001">
 <item>Explain the determinants of trade and current account balance</item>
 <item>Identify and calculate supply and demand for financial capital</item>
 <item>Explain how a nation's own level of domestic saving and investment determines a nation's balance of trade</item>
@@ -22,7 +22,7 @@
 
 <section id="fs-idp30191872">
 <title>Understanding the Determinants of the Trade and Current Account Balance</title>
-<para id="fs-idp88207216">The <term>national saving and investment identity</term> provides a useful way to understand the determinants of the trade and current account balance. In a nation’s <term class="no-emphasis">financial capital market</term>, the quantity of financial capital supplied at any given time must equal the quantity of financial capital demanded for purposes of making investments. What is on the supply and demand sides of financial capital? See the following Clear It Up feature for the answer to this question.</para>
+<para id="fs-idp88207216">The <term id="term-00001">national saving and investment identity</term> provides a useful way to understand the determinants of the trade and current account balance. In a nation’s <term class="no-emphasis" id="term-00002">financial capital market</term>, the quantity of financial capital supplied at any given time must equal the quantity of financial capital demanded for purposes of making investments. What is on the supply and demand sides of financial capital? See the following Clear It Up feature for the answer to this question.</para>
 
 
 
@@ -40,8 +40,8 @@
 
 
 
-<para id="fs-idm49020288">However, certain components of the national savings and investment identity can switch between the supply side and the demand side. Some countries, like the United States in most years since the 1970s, have budget deficits, which mean the government is spending more than it collects in taxes, and so the government needs to borrow funds. In this case, the government term would be G – T &gt; 0, showing that spending is larger than taxes, and the government would be a demander of financial capital on the left-hand side of the equation (that is, a borrower), not a supplier of financial capital on the right-hand side. However, if the government runs a budget surplus so that the taxes exceed spending, as the U.S. government did from 1998 to 2001, then the government in that year was contributing to the supply of financial capital (T – G &gt; 0), and would appear on the left (saving) side of the national savings and investment identity.</para><para id="fs-idm30182720">Similarly, if a national economy runs a trade surplus, the trade sector will involve an outflow of financial capital to other countries. A trade surplus means that the domestic financial capital is in surplus within a country and can be invested in other countries.</para>
-<para id="fs-idp39873728">The fundamental notion that total quantity of <term class="no-emphasis">financial capital</term> demanded equals total quantity of financial capital supplied must always remain true. Domestic savings will always appear as part of the supply of financial capital and domestic investment will always appear as part of the demand for financial capital. However, the government and trade balance elements of the equation can move back and forth as either suppliers or demanders of financial capital, depending on whether government budgets and the trade balance are in surplus or deficit.</para>
+<para id="fs-idm49020288">However, certain components of the national savings and investment identity can switch between the supply side and the demand side. Some countries, like the United States in most years since the 1970s, have budget deficits, which mean the government is spending more than it collects in taxes, and so the government needs to borrow funds. In this case, the government term would be G – T > 0, showing that spending is larger than taxes, and the government would be a demander of financial capital on the left-hand side of the equation (that is, a borrower), not a supplier of financial capital on the right-hand side. However, if the government runs a budget surplus so that the taxes exceed spending, as the U.S. government did from 1998 to 2001, then the government in that year was contributing to the supply of financial capital (T – G > 0), and would appear on the left (saving) side of the national savings and investment identity.</para><para id="fs-idm30182720">Similarly, if a national economy runs a trade surplus, the trade sector will involve an outflow of financial capital to other countries. A trade surplus means that the domestic financial capital is in surplus within a country and can be invested in other countries.</para>
+<para id="fs-idp39873728">The fundamental notion that total quantity of <term class="no-emphasis" id="term-00003">financial capital</term> demanded equals total quantity of financial capital supplied must always remain true. Domestic savings will always appear as part of the supply of financial capital and domestic investment will always appear as part of the demand for financial capital. However, the government and trade balance elements of the equation can move back and forth as either suppliers or demanders of financial capital, depending on whether government budgets and the trade balance are in surplus or deficit.</para>
 </section>
 
 
@@ -53,7 +53,7 @@
 <math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Trade deficit</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>Domestic investment – Private domestic saving – Government (or public) savings</mtext></mtd></mtr><mtr><mtd><mtext>(M – X)</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>I – S – (T – G)</mtext></mtd></mtr></mtable></math>
 
 </equation></para>
-<para id="fs-idm55658960">In this case, domestic investment is higher than domestic saving, including both private and government saving. The only way that domestic investment can exceed domestic saving is if capital is flowing into a country from abroad. After all, that extra financial capital for investment has to come from someplace.</para>
+<para id="fs-idm55658960" xmlns="http://cnx.rice.edu/cnxml">In this case, domestic investment is higher than domestic saving, including both private and government saving. The only way that domestic investment can exceed domestic saving is if capital is flowing into a country from abroad. After all, that extra financial capital for investment has to come from someplace.</para>
 
 
 <para id="fs-idp49837968">Now consider a trade <emphasis effect="italics">surplus</emphasis> from the standpoint of the national saving and investment identity:
@@ -62,7 +62,7 @@
 <math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Trade surplus</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>Private domestic saving + Public saving – Domestic investment</mtext></mtd></mtr><mtr><mtd><mtext>(X – M)</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>S + (T – G) – I</mtext></mtd></mtr></mtable></math>
 
 </equation></para>
-<para id="fs-idp34635936">In this case, domestic savings (both private and public) is higher than domestic investment. That extra financial capital will be invested abroad.</para>
+<para id="fs-idp34635936" xmlns="http://cnx.rice.edu/cnxml">In this case, domestic savings (both private and public) is higher than domestic investment. That extra financial capital will be invested abroad.</para>
 <para id="fs-idp1159200">This connection of domestic saving and investment to the trade balance explains why economists view the balance of trade as a fundamentally macroeconomic phenomenon. As the national saving and investment identity shows, the performance of certain sectors of an economy, like cars or steel, do not determine the trade balance. Further, whether the nation’s trade laws and regulations encourage free trade or protectionism also does not determine the trade balance (see <link document="m63827">Globalization and Protectionism</link>).</para></section>
 
 <section id="fs-idp415744">
@@ -141,14 +141,14 @@
 <math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>(X – M)</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>S + </mtext><mtext>(T – G)</mtext><mtext> – I</mtext></mtd></mtr></mtable></math>
 </equation></para>
 
-<para id="fs-idm81464288">Step 2. In the formula, put the amount for the trade deficit in as a negative number (X – M). The left side of your formula is now:
+<para id="fs-idm81464288" xmlns="http://cnx.rice.edu/cnxml">Step 2. In the formula, put the amount for the trade deficit in as a negative number (X – M). The left side of your formula is now:
 <equation class="unnumbered" id="fs-idp149592400">
 <math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>–200</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>S + (T – G) – I</mtext></mtd></mtr></mtable></math>
 </equation></para>
 
 
 
-<para id="fs-idm19011024">Step 3. Enter the private domestic savings (S) of $500 in the formula:
+<para id="fs-idm19011024" xmlns="http://cnx.rice.edu/cnxml">Step 3. Enter the private domestic savings (S) of $500 in the formula:
 <equation class="unnumbered" id="fs-idm74637248">
 <m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>   –200</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mn>500</m:mn><m:mtext> + (T – G) – I</m:mtext></m:mtd></m:mtr></m:mtable></m:math>
 </equation></para><para id="fs-idm2672560">Step 4. Enter the private domestic investment (I) of $500 into the formula:
@@ -161,22 +161,22 @@
 
 
 
-<para id="fs-idm13747024">Step 6. Your formula now is:<equation class="unnumbered" id="fs-idp25419776">
+<para id="fs-idm13747024" xmlns="http://cnx.rice.edu/cnxml">Step 6. Your formula now is:<equation class="unnumbered" id="fs-idp25419776">
 <math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right"><mtr><mtd><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>(X – M)</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>S + (T – G) – I</mtext></mtd></mtr><mtr><mtd><mtext>–200</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>500 + (–200) – 500</mtext></mtd></mtr></mtable></mtd></mtr></mtable></math>
 </equation></para>
 
-<para id="fs-idp65803264">The question is: To reduce your trade deficit (X – M) of –200 to –100 (in billions of dollars), by how much will savings have to rise?
+<para id="fs-idp65803264" xmlns="http://cnx.rice.edu/cnxml">The question is: To reduce your trade deficit (X – M) of –200 to –100 (in billions of dollars), by how much will savings have to rise?
 <equation class="unnumbered" id="fs-idp69678208">
 <math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>(X – M)</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>S + (T – G) – I</mtext></mtd></mtr><mtr><mtd><mtext>–100</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>S + (–200)</mtext><mtext> – </mtext><mtext>500</mtext></mtd></mtr><mtr><mtd><mtext>600</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>S</mtext></mtd></mtr></mtable></math>
 </equation></para>
-<para id="fs-idm35895696">Step 7. Summarize the answer: Private domestic savings needs to rise by $100 billion, to a total of $600 billion, for the two sides of the equation to remain equal (–100 = –100).</para></note>
+<para id="fs-idm35895696" xmlns="http://cnx.rice.edu/cnxml">Step 7. Summarize the answer: Private domestic savings needs to rise by $100 billion, to a total of $600 billion, for the two sides of the equation to remain equal (–100 = –100).</para></note>
 </section>
 
 
 
 <section id="fs-idm178263456">
 <title>Short-Term Movements in the Business Cycle and the Trade Balance</title>
-<para id="fs-idm92331296">In the short run, whether an economy is in a recession or on the upswing can affect trade imbalances. A recession tends to make a trade deficit smaller, or a trade surplus larger, while a period of strong economic growth tends to make a trade deficit larger, or a trade surplus smaller.</para><para id="fs-idp13491456">As an example, note in <link target-id="CNX_Econ_C23_004" document="m64152"/> that the U.S. trade deficit declined by almost half from 2006 to 2009. One primary reason for this change is that during the recession, as the U.S. economy slowed down, it purchased fewer of all goods, including fewer imports from abroad. However, buying power abroad fell less, and so U.S. exports did not fall by as much.</para><para id="fs-idm126935488">Conversely, in the mid-2000s, when the U.S. trade deficit became very large, a contributing short-term reason is that the U.S. economy was growing. As a result, there was considerable aggressive buying in the U.S. economy, including the buying of imports. Thus, a trade deficit (or a much lower trade surplus) often accompanies a rapidly growing domestic economy, while a trade surplus (or a much lower trade deficit) accompanies a slowing or recessionary domestic economy.</para><para id="fs-idm172129600">When the trade deficit rises, it necessarily means a greater net inflow of <term class="no-emphasis">foreign financial capital</term>. The national saving and investment identity teaches that the rest of the economy can absorb this inflow of foreign financial capital in several different ways. For example, reduced private savings could offset the additional inflow of financial capital from abroad, leaving domestic investment and public saving unchanged. Alternatively, the inflow of foreign financial capital could result in higher domestic investment, leaving private and public saving unchanged. Yet another possibility is that greater government borrowing could absorb the inflow of foreign financial capital, leaving domestic saving and investment unchanged. The national saving and investment identity does not specify which of these scenarios, alone or in combination, will occur—only that one of them must occur.</para></section>
+<para id="fs-idm92331296">In the short run, whether an economy is in a recession or on the upswing can affect trade imbalances. A recession tends to make a trade deficit smaller, or a trade surplus larger, while a period of strong economic growth tends to make a trade deficit larger, or a trade surplus smaller.</para><para id="fs-idp13491456">As an example, note in <link target-id="CNX_Econ_C23_004" document="m64152"/> that the U.S. trade deficit declined by almost half from 2006 to 2009. One primary reason for this change is that during the recession, as the U.S. economy slowed down, it purchased fewer of all goods, including fewer imports from abroad. However, buying power abroad fell less, and so U.S. exports did not fall by as much.</para><para id="fs-idm126935488">Conversely, in the mid-2000s, when the U.S. trade deficit became very large, a contributing short-term reason is that the U.S. economy was growing. As a result, there was considerable aggressive buying in the U.S. economy, including the buying of imports. Thus, a trade deficit (or a much lower trade surplus) often accompanies a rapidly growing domestic economy, while a trade surplus (or a much lower trade deficit) accompanies a slowing or recessionary domestic economy.</para><para id="fs-idm172129600">When the trade deficit rises, it necessarily means a greater net inflow of <term class="no-emphasis" id="term-00004">foreign financial capital</term>. The national saving and investment identity teaches that the rest of the economy can absorb this inflow of foreign financial capital in several different ways. For example, reduced private savings could offset the additional inflow of financial capital from abroad, leaving domestic investment and public saving unchanged. Alternatively, the inflow of foreign financial capital could result in higher domestic investment, leaving private and public saving unchanged. Yet another possibility is that greater government borrowing could absorb the inflow of foreign financial capital, leaving domestic saving and investment unchanged. The national saving and investment identity does not specify which of these scenarios, alone or in combination, will occur—only that one of them must occur.</para></section>
 
 
 <section id="fs-idp1845344" class="summary">
@@ -190,7 +190,7 @@ A recession tends to increase the trade balance (meaning a higher trade surplus 
 
 
 
-<section id="fs-idm92026400" class="self-check-questions">
+<section id="fs-idm92026400" class="self-check-questions" xmlns="http://cnx.rice.edu/cnxml">
   <title>Self-Check Questions</title>
   <exercise id="fs-idm109971344">
     <problem id="fs-idm104670144">
@@ -205,7 +205,7 @@ A recession tends to increase the trade balance (meaning a higher trade surplus 
 <math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Supply of capital</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>Demand for capital</mtext></mtd></mtr><mtr><mtd><mtext>S +  (M – X) + (T – G)</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>I</mtext><mo> </mo></mtd></mtr><mtr><mtd><mtext>Savings +  (trade deficit) +  (government budget surplus)</mtext></mtd><mtd><mtext>=</mtext></mtd><mtd><mtext>Investment</mtext></mtd></mtr></mtable></math>
 
 </equation>
-If domestic savings increases and nothing else changes, then the trade deficit will fall. In effect, the economy would be relying more on domestic capital and less on foreign capital. If the government starts borrowing instead of saving, then the trade deficit must rise. In effect, the government is no longer providing savings and so, if nothing else is to change, more investment funds must arrive from abroad. If the rate of domestic investment surges, then, <emphasis effect="italics">ceteris paribus</emphasis>, the trade deficit must also rise, to provide the extra capital. The <emphasis effect="italics">ceteris paribus</emphasis>—or “other things being equal”—assumption is important here. In all of these situations, there is no reason to expect in the real world that the original change will affect only, or primarily, the trade deficit. The identity only says that something will adjust—it does not specify what.</para></solution>
+If domestic savings increases and nothing else changes, then the trade deficit will fall. In effect, the economy would be relying more on domestic capital and less on foreign capital. If the government starts borrowing instead of saving, then the trade deficit must rise. In effect, the government is no longer providing savings and so, if nothing else is to change, more investment funds must arrive from abroad. If the rate of domestic investment surges, then, <emphasis effect="italics" xmlns="http://cnx.rice.edu/cnxml">ceteris paribus</emphasis>, the trade deficit must also rise, to provide the extra capital. The <emphasis effect="italics">ceteris paribus</emphasis>—or “other things being equal”—assumption is important here. In all of these situations, there is no reason to expect in the real world that the original change will affect only, or primarily, the trade deficit. The identity only says that something will adjust—it does not specify what.</para></solution>
   </exercise>
   <exercise id="fs-idp83973936">
 <problem id="fs-idm68287792">
