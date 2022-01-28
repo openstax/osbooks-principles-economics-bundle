@@ -1,7 +1,7 @@
 <container xmlns="https://openstax.org/namespaces/book-container" version="1">
-    <book slug="principles-economics" collection-id="col11613" href="../collections/principles-economics.collection.xml" />
-    <book slug="principles-macroeconomics" collection-id="col11626" href="../collections/principles-macroeconomics.collection.xml" />
-    <book slug="principles-microeconomics" collection-id="col11627" href="../collections/principles-microeconomics.collection.xml" />
-    <book slug="principles-macroeconomics-ap-courses" collection-id="col11864" href="../collections/principles-macroeconomics-ap-courses.collection.xml" />
-    <book slug="principles-microeconomics-ap-courses" collection-id="col11858" href="../collections/principles-microeconomics-ap-courses.collection.xml" />
+    <book slug="principles-economics" collection-id="col11613" style="economics" href="../collections/principles-economics.collection.xml" />
+    <book slug="principles-macroeconomics" collection-id="col11626" style="economics" href="../collections/principles-macroeconomics.collection.xml" />
+    <book slug="principles-microeconomics" collection-id="col11627" style="economics" href="../collections/principles-microeconomics.collection.xml" />
+    <book slug="principles-macroeconomics-ap-courses" collection-id="col11864" style="economics" href="../collections/principles-macroeconomics-ap-courses.collection.xml" />
+    <book slug="principles-microeconomics-ap-courses" collection-id="col11858" style="economics" href="../collections/principles-microeconomics-ap-courses.collection.xml" />
 </container>
