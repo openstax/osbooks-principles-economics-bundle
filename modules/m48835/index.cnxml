@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" class="appendix">
 
 <title>The Expenditure-Output Model</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
@@ -8,7 +8,7 @@
   <md:uuid>2c962197-8004-45c5-8c65-0eb785cbe09b</md:uuid>
 </metadata>
 
-<content>
+<content class="appendix">
 <para id="fs-idm88585488">(This appendix should be consulted after first reading <link document="m48739">The Aggregate Demand/Aggregate Supply Model</link> and <link document="m48749">The Keynesian Perspective</link>.) The fundamental ideas of Keynesian economics were developed before the AD/AS model was popularized. From the 1930s until the 1970s, Keynesian economics was usually explained with a different model, known as the expenditure-output approach. This approach is strongly rooted in the fundamental assumptions of Keynesian economics: it focuses on the total amount of spending in the economy, with no explicit mention of aggregate supply or of the price level (although as you will see, it is possible to draw some inferences about aggregate supply and price levels based on the diagram).</para><section id="fs-idm190331616"><title>The Axes of the Expenditure-Output Diagram</title>
 <para id="fs-idm149780240">The <term class="no-emphasis" id="term-00001">expenditure-output model</term>, sometimes also called the <term class="no-emphasis" id="term-00002">Keynesian cross diagram</term>, determines the equilibrium level of real GDP by the point where the total or aggregate expenditures in the economy are equal to the amount of output produced. The axes of the Keynesian cross diagram presented in <link target-id="CNX_Econ_C25_011"/> show real GDP on the horizontal axis as a measure of output and aggregate expenditures on the vertical axis as a measure of spending.</para>
 <figure id="CNX_Econ_C25_011">
