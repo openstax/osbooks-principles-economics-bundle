@@ -51,7 +51,7 @@
 <problem id="fs-idp95464368">
 <para id="fs-idp121035952">Suppose a city releases 16 million gallons of raw sewage into a nearby lake. <link target-id="Table_12_10" document=""/> shows the total costs of cleaning up the sewage to different levels, together with the total benefits of doing so. (Benefits include environmental, recreational, health, and industrial benefits.)</para>
 
-<table id="Table_12_10" class="unnumbered" summary="The table has 2 columns and 5 rows of data. The header row includes Column 1 Total Cost (in thousands of dollars), and Column 2 Total Benefits (in thousands of dollars). Row 1 16 Million Gallons = Current situation, Current Situation. Row 2 12 million gallons = 50, 800. Row 3 8 million gallons = 150, 1,300, Row 4 4 million gallons = 500, 1,650. Row 5 0 Gallons = 1,200, 1,900">
+<table id="Table_12_10" summary="The table has 2 columns and 5 rows of data. The header row includes Column 1 Total Cost (in thousands of dollars), and Column 2 Total Benefits (in thousands of dollars). Row 1 16 Million Gallons = Current situation, Current Situation. Row 2 12 million gallons = 50, 800. Row 3 8 million gallons = 150, 1,300, Row 4 4 million gallons = 500, 1,650. Row 5 0 Gallons = 1,200, 1,900">
 <tgroup cols="3"><colspec colnum="1" colname="col1"/>
 <colspec colnum="2" colname="col2"/>
 <colspec colnum="3" colname="col3"/>
