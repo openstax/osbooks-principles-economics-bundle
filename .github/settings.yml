@@ -1,7 +1,7 @@
 # These settings are synced to GitHub by https://probot.github.io/apps/settings/ via https://github.com/openstax/staxly
 
 repository:
-  private: false
+  private: true
 
   has_issues: false
   has_wiki: false
@@ -10,6 +10,10 @@ repository:
 
   allow_auto_merge: true
   delete_branch_on_merge: true
+  
+collaborators:
+  - username: ww-openstax
+    permission: push
 
 teams:
   - name: ce-admins
