@@ -22,3 +22,5 @@ teams:
     permission: triage
   - name: content-managers
     permission: push
+  - name: katalyst
+    permission: pull
