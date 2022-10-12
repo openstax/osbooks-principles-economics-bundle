@@ -21,6 +21,6 @@ teams:
   - name: ce-all
     permission: triage
   - name: content-managers
-    permission: pull
+    permission: push
   - name: katalyst
     permission: pull
