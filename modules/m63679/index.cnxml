@@ -1,751 +1,751 @@
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
 
-<title>Costs in the Short Run</title>
-<metadata xmlns:md="http://cnx.rice.edu/mdml">
-  <md:content-id>m63679</md:content-id>
-  <md:title>Costs in the Short Run</md:title>
-  <md:abstract><para id="para-00001">
-By the end of this section, you will be able to:</para><list id="list-00001">
-<item>Understand the relationship between production and costs</item>
-<item>Understand that every factor of production has a corresponding factor price</item>
-<item>Analyze short-run costs in terms of total cost, fixed cost, variable cost, marginal cost, and average cost</item>
-<item>Calculate average profit</item>
-<item>Evaluate patterns of costs to determine potential profit</item>
-</list></md:abstract>
-  <md:uuid>9039ac3e-b3c9-40b4-9cfa-77b2d16741e2</md:uuid>
-</metadata>
-
-<content>
-
-<para id="fs-idm59267776">We’ve explained that a firm’s total costs depend on the quantities of inputs the firm uses to produce its output and the cost of those inputs to the firm.  The firm’s production function tells us how much output the firm will produce with given amounts of inputs.  However, if we think about that backwards, it tells us how many inputs the firm needs to produce a given quantity of output, which is the first thing we need to determine total cost.  Let’s move to the second factor we need to determine.</para><para id="eip-112">For every factor of production (or input), there is an associated factor payment. <term id="term-00001">Factor payments</term> are what the firm pays for the use of the factors of production.  From the firm’s perspective, factor payments are costs.  From the owner of each factor’s perspective, factor payments are income.  Factor payments include:</para><list id="eip-185"><item><term id="term-00002">Raw materials prices</term> for raw materials</item>
-<item><term id="term-00003">Rent</term> for land or buildings</item>
-<item><term id="term-00004">Wages and salaries</term> for labor</item>
-<item><term id="term-00005">Interest and dividends</term> for the use of financial capital (loans and equity investments)</item>
-<item><term id="term-00006">Profit</term> for entrepreneurship.  Profit is the residual, what’s left over from revenues after the firm pays all the other costs.  While it may seem odd to treat profit as a “cost”, it is what entrepreneurs earn for taking the risk of starting a business.  You can see this correspondence between factors of production and factor payments in the inside loop of the circular flow diagram in <link target-id="CNX_Econ_C01_002" document="m63582"/>.</item>
-</list><para id="eip-479">We now have all the information necessary to determine a firm’s costs.</para><para id="eip-967">A cost function is a mathematical expression or equation that shows the cost of producing different levels of output.</para><table id="eip-147" summary="The table indicates the cost function or producing widgets. For one widget, written as Q=1,, the cost function is >2.50. For two, it is $44. For three, it is $52. And to build four widgets, the cost is $90."><title>Cost Function for Producing Widgets</title>
-<tgroup cols="5"><tbody>
+  <title>Costs in the Short Run</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:content-id>m63679</md:content-id>
+    <md:title>Costs in the Short Run</md:title>
+    <md:abstract><para id="para-00001">
+  By the end of this section, you will be able to:</para><list id="list-00001">
+  <item>Understand the relationship between production and costs</item>
+  <item>Understand that every factor of production has a corresponding factor price</item>
+  <item>Analyze short-run costs in terms of total cost, fixed cost, variable cost, marginal cost, and average cost</item>
+  <item>Calculate average profit</item>
+  <item>Evaluate patterns of costs to determine potential profit</item>
+  </list></md:abstract>
+    <md:uuid>9039ac3e-b3c9-40b4-9cfa-77b2d16741e2</md:uuid>
+  </metadata>
+  
+  <content>
+  
+  <para id="fs-idm59267776">We’ve explained that a firm’s total costs depend on the quantities of inputs the firm uses to produce its output and the cost of those inputs to the firm.  The firm’s production function tells us how much output the firm will produce with given amounts of inputs.  However, if we think about that backwards, it tells us how many inputs the firm needs to produce a given quantity of output, which is the first thing we need to determine total cost.  Let’s move to the second factor we need to determine.</para><para id="eip-112">For every factor of production (or input), there is an associated factor payment. <term id="term-00001">Factor payments</term> are what the firm pays for the use of the factors of production.  From the firm’s perspective, factor payments are costs.  From the owner of each factor’s perspective, factor payments are income.  Factor payments include:</para><list id="eip-185"><item><term id="term-00002">Raw materials prices</term> for raw materials</item>
+  <item><term id="term-00003">Rent</term> for land or buildings</item>
+  <item><term id="term-00004">Wages and salaries</term> for labor</item>
+  <item><term id="term-00005">Interest and dividends</term> for the use of financial capital (loans and equity investments)</item>
+  <item><term id="term-00006">Profit</term> for entrepreneurship.  Profit is the residual, what’s left over from revenues after the firm pays all the other costs.  While it may seem odd to treat profit as a “cost”, it is what entrepreneurs earn for taking the risk of starting a business.  You can see this correspondence between factors of production and factor payments in the inside loop of the circular flow diagram in <link target-id="CNX_Econ_C01_002" document="m63582"/>.</item>
+  </list><para id="eip-479">We now have all the information necessary to determine a firm’s costs.</para><para id="eip-967">A cost function is a mathematical expression or equation that shows the cost of producing different levels of output.</para><table id="eip-147" summary="The table indicates the cost function or producing widgets. For one widget, written as Q=1,, the cost function is >2.50. For two, it is $44. For three, it is $52. And to build four widgets, the cost is $90."><title>Cost Function for Producing Widgets</title>
+  <tgroup cols="5"><tbody>
+    <row>
+      <entry align="center">Q</entry>
+      <entry align="center">1</entry>
+      <entry align="center">2</entry>
+      <entry align="center">3</entry>
+      <entry align="center">4</entry>
+    </row>
+    <row>
+      <entry align="center">Cost</entry>
+      <entry align="center">$32.50</entry>
+      <entry align="center">$44</entry>
+      <entry align="center">$52</entry>
+      <entry align="center">$90</entry>
+    </row>
+  </tbody>
+  
+  
+  
+  
+  </tgroup>
+  </table><para id="eip-340">What we observe is that the cost increases as the firm produces higher quantities of output.  This is pretty intuitive, since producing more output requires greater quantities of inputs, which cost more dollars to acquire.</para><para id="eip-994">What is the origin of these cost figures?  They come from the production function and the factor payments. The discussion of costs in the short run above, <link document="m63679">Costs in the Short Run</link>, was based on the following production function, which is similar to <link target-id="eip-147"/> except for "widgets" instead of trees.</para><table id="eip-549" summary="The table indicates the production function for widgets. One worker has a function of 0.2. Two workers has a function of 0.4. Three workers has a function of 0.8. Three point two five has a function of 1. Four point four has a function of 2. Five point two has a function of 3. Six has a function of 3.5. Seven has a function of 3.8. Eight has a function of 3.95. Nine has a function of 4.">
+  <tgroup cols="11"><tbody>
+    <row>
+      <entry align="center"><emphasis>Workers (L)</emphasis></entry>
+      <entry align="center">1</entry>
+      <entry align="center">2</entry>
+      <entry align="center">3</entry>
+      <entry align="center">3.25</entry>
+      <entry align="center">4.4</entry>
+      <entry align="center">5.2</entry>
+      <entry align="center">6</entry>
+      <entry align="center">7</entry>
+      <entry align="center">8</entry>
+      <entry align="center">9</entry>
+    </row>
+    <row>
+      <entry align="center"><emphasis>Widgets (Q)</emphasis></entry>
+      <entry align="center">0.2</entry>
+      <entry align="center">0.4</entry>
+      <entry align="center">0.8</entry>
+      <entry align="center">1</entry>
+      <entry align="center">2</entry>
+      <entry align="center">3</entry>
+      <entry align="center">3.5</entry>
+      <entry align="center">3.8</entry>
+      <entry align="center">3.95</entry>
+      <entry align="center">4</entry>
+    </row>
+  </tbody>
+  
+  </tgroup>
+  </table><para id="eip-480">We can use the information from the production function to determine production costs.  What we need to know is how many workers are required to produce any quantity of output.  If we flip the order of the rows, we “invert” the production function so it shows <m:math><m:mi>L</m:mi><m:mo>=</m:mo><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>Q</m:mi><m:mo>)</m:mo></m:math>.</para><table id="eip-353" summary="This table inverts the previous one, so that Widgets (Q) is on top. 0.2 widgets requires 1 worker. 0.4 requires 2 workers . 0.8 widgets requires 3 workers. 1 widget requires 3.25 workers. 2 requires 4.4. 3 widgets require 5.2 workers. 3.5 widgets requires 6 workers. 3.8 requires 7 workers. 3.95 widgets requires 8 workers. And four requires nine workers.">
+  <tgroup cols="11"><tbody>
+    <row>
+      <entry align="center"><emphasis>Widgets (Q)</emphasis></entry>
+      <entry align="center">0.2</entry>
+      <entry align="center">0.4</entry>
+      <entry align="center">0.8</entry>
+      <entry align="center">1</entry>
+      <entry align="center">2</entry>
+      <entry align="center">3</entry>
+      <entry align="center">3.5</entry>
+      <entry align="center">3.8</entry>
+      <entry align="center">3.95</entry>
+      <entry align="center">4</entry>
+    </row>
+    <row>
+      <entry align="center"><emphasis>Workers (L)</emphasis></entry>
+      <entry align="center">1</entry>
+      <entry align="center">2</entry>
+      <entry align="center">3</entry>
+      <entry align="center">3.25</entry>
+      <entry align="center">4.4</entry>
+      <entry align="center">5.2</entry>
+      <entry align="center">6</entry>
+      <entry align="center">7</entry>
+      <entry align="center">8</entry>
+      <entry align="center">9</entry>
+    </row>
+  
+  </tbody>
+  
+  </tgroup>
+  </table><para id="eip-623">Now focus on the whole number quantities of output.  We’ll eliminate the fractions from the table:</para><table id="eip-935" summary="In this table, any quantities of widgets that were not whole numbers have been eliminated. The remaining values are: One widget requires 3.25 workers. Two widgets requires 4.4 workers. Three widgets requires 5.2 workers. And four widgets requires 9 workers.">
+  <tgroup cols="11"><tbody>
+    <row>
+      <entry align="center"><emphasis>Widgets (Q)</emphasis></entry>
+      <entry align="center"/>
+      <entry align="center"/>
+      <entry align="center"/>
+      <entry align="center">1</entry>
+      <entry align="center">2</entry>
+      <entry align="center">3</entry>
+      <entry align="center"/>
+      <entry align="center"/>
+      <entry align="center"/>
+      <entry align="center">4</entry>
+    </row>
+    <row>
+      <entry align="center"><emphasis>Workers (L)</emphasis></entry>
+      <entry align="center"/>
+      <entry align="center"/>
+      <entry align="center"/>
+      <entry align="center">3.25</entry>
+      <entry align="center">4.4</entry>
+      <entry align="center">5.2</entry>
+      <entry align="center"/>
+      <entry align="center"/>
+      <entry align="center"/>
+      <entry align="center">9</entry>
+    </row>
+  
+  </tbody>
+  
+  
+  </tgroup>
+  </table><para id="eip-958">Suppose widget workers receive $10 per hour.  Multiplying the Workers row by $10 (and eliminating the blanks) gives us the cost of producing different levels of output.</para><table id="eip-236" summary="This table displays the costs of widget production based on the previous information. For each value in the previous table, the worker cost of 0 per hour is applied by multiplying. Building one widget requires 3.25 workers. At 0 per hour, the cost is >2.50. Two widgets requires 4.4 workers, which costs $44. Three widgets requires 5.2 workers, which costs $52. And four widgets requires 9 workers, and costs $90.">
+  <tgroup cols="5"><tbody>
+    <row>
+      <entry><emphasis>Widgets (Q)</emphasis></entry>
+      <entry align="center">1.00</entry>
+      <entry align="center">2.00</entry>
+      <entry align="center">3.00</entry>
+      <entry align="center">4.00</entry>
+    </row>
+    <row>
+      <entry><emphasis>Workers (L)</emphasis></entry>
+      <entry align="center">3.25</entry>
+      <entry align="center">4.4</entry>
+      <entry align="center">5.2</entry>
+      <entry align="center">9</entry>
+    </row>
+    <row>
+      <entry><emphasis>× Wage Rate per hour</emphasis></entry>
+      <entry align="center">$10</entry>
+      <entry align="center">$10</entry>
+      <entry align="center">$10</entry>
+      <entry align="center">$10</entry>
+    </row>
+    <row>
+      <entry><emphasis>= Cost</emphasis></entry>
+      <entry align="center">$32.50</entry>
+      <entry align="center">$44.00</entry>
+      <entry align="center">$52.00</entry>
+      <entry align="center">$90.00</entry>
+    </row>
+  </tbody>
+  
+  
+  </tgroup>
+  </table><para id="eip-164">This is same cost function with which we began! (shown in <link target-id="eip-147"/>)</para><para id="eip-302">Now that we have the basic idea of the cost origins and how they are related to production, let’s drill down into the details.</para><section id="eip-363"><title>Average and Marginal Costs</title><para id="eip-398">
+  The cost of producing a firm’s output depends on how much labor and physical capital the firm uses. A list of the costs involved in producing cars will look very different from the costs involved in producing computer software or haircuts or fast-food meals.
+  </para><para id="eip-343">We can measure costs in a variety of ways.  Each way provides its own insight into costs.  Sometimes firms need to look at their cost per unit of output, not just their total cost.  There are two ways to measure per unit costs.  The most intuitive way is average cost.  Average cost is the cost on average of producing a given quantity.  We define <term id="term-00007">average cost</term> as total cost divided by the quantity of output produced.  <m:math><m:mi>A</m:mi><m:mi>C</m:mi><m:mo>=</m:mo><m:mi>T</m:mi><m:mi>C</m:mi><m:mo>/</m:mo><m:mi>Q</m:mi></m:math>
+  If producing two widgets costs a total of $44, the average cost per widget is <m:math><m:mn>$44</m:mn><m:mo>/</m:mo><m:mn>2</m:mn><m:mo>=</m:mo><m:mn>$22</m:mn></m:math> per widget.   The other way of measuring cost per unit is marginal cost.  If average cost is the cost of the average unit of output produced, marginal cost is the cost of each individual unit produced.  More formally, marginal cost is the cost of producing one more unit of output.  Mathematically, <term id="term-00008">marginal cost</term> is the change in total cost divided by the change in output: <m:math><m:mi>M</m:mi><m:mi>C</m:mi><m:mo>=</m:mo><m:mi>Δ</m:mi><m:mi>T</m:mi><m:mi>C</m:mi><m:mo>/</m:mo><m:mi>Δ</m:mi><m:mi>Q</m:mi></m:math>. If the cost of the first widget is $32.50 and the cost of two widgets is $44, the marginal cost of the second widget is <m:math><m:mn>$44</m:mn><m:mo>−</m:mo><m:mn>$32.50</m:mn><m:mo>=</m:mo><m:mn>$11.50.</m:mn></m:math>  We can see the Widget Cost table redrawn below with average and marginal cost added.
+  </para><table id="eip-672" summary="This table illustrates the extended cost function. For one widget, the cost is 32.50, and the average and marginal costs are the same value. For two widgets, the cost is 44.00; the average cost is 22.00, and the marginal costs is 11.50. For three widgets the total costs is 52.00. The average cost is 17.33 and the marginal cost is 8.00. For four widgets, the cost is 90.00; the average cost is 22.50 and the marginal cost is 38.00."><title>Extended Cost Function for Producing Widgets</title>
+  <tgroup cols="5"><tbody>
+    <row>
+      <entry align="center">Q</entry>
+      <entry align="center">1</entry>
+      <entry align="center">2</entry>
+      <entry align="center">3</entry>
+      <entry align="center">4</entry>
+    </row>
+    <row>
+      <entry align="center">Total Cost</entry>
+      <entry align="center">$32.50</entry>
+      <entry align="center">$44.00</entry>
+      <entry align="center">$52.00</entry>
+      <entry align="center">$90.00</entry>
+    </row>
+    <row>
+      <entry align="center">Average Cost</entry>
+      <entry align="center">$32.50</entry>
+      <entry align="center">$22.00</entry>
+      <entry align="center">$17.33</entry>
+      <entry align="center">$22.50</entry>
+    </row>
+    <row>
+      <entry align="center">Marginal Cost</entry>
+      <entry align="center">$32.50</entry>
+      <entry align="center">$11.50</entry>
+      <entry align="center">$8.00</entry>
+      <entry align="center">$38.00</entry>
+    </row>
+  </tbody>
+  
+  
+  
+  
+  </tgroup>
+  </table><para id="eip-270">Note that the marginal cost of the first unit of output is always the same as total cost.</para></section><section id="fs-idm22111344"><title>Fixed and Variable Costs</title>
+  <para id="fs-idm45882416">We can decompose costs into fixed and variable costs. Fixed costs are the costs of the fixed inputs (e.g., capital). Because fixed inputs do not change in the short run, fixed costs are expenditures that do not change regardless of the level of production. Whether you produce a great deal or a little, the fixed costs are the same. One example is the rent on a factory or a retail space. Once you sign the lease, the rent is the same regardless of how much you produce, at least until the lease expires. Fixed costs can take many other forms: for example, the cost of machinery or equipment to produce the product, research and development costs to develop new products, even an expense like advertising to popularize a brand name. The amount of fixed costs varies according to the specific line of business: for instance, manufacturing computer chips requires an expensive factory, but a local moving and hauling business can get by with almost no fixed costs at all if it rents trucks by the day when needed. </para><para id="fs-idm30818352"><term id="term-00009">Variable costs</term> are the costs of the variable inputs (e.g., labor). The only way to increase or decrease output is by increasing or decreasing the variable inputs. Therefore, variable costs increase or decrease with output. We treat labor as a variable cost, since producing a greater quantity of a good or service typically requires more workers or more work hours. Variable costs would also include raw materials.</para><para id="fs-idm30866864">Total costs are the sum of fixed plus variable costs. Let's look at another example. Consider the barber shop called “The Clip Joint” in <link target-id="CNX_Econ_C07_002" document=""/>. The data for output and costs are in <link target-id="Table_07_02" document=""/>. The fixed costs of operating the barber shop, including the space and equipment, are $160 per day. The variable costs are the costs of hiring barbers, which in our example is $80 per barber each day. The first two columns of the table show the quantity of haircuts the barbershop can produce as it hires additional barbers. The third column shows the fixed costs, which do not change regardless of the level of production. The fourth column shows the variable costs at each level of output. We calculate these by taking the amount of labor hired and multiplying by the wage. For example, two barbers cost: 2 × $80 = $160. Adding together the fixed costs in the third column and the variable costs in the fourth column produces the total costs in the fifth column. For example, with two barbers the total cost is: $160 + $160 = $320.</para><table id="Table_07_02" summary="This table has 5 columns and 7 rows of data. The following information reflects the data within each column from top to bottom. Column 1 shows Labor 1, 2, 3, 4, 5, 6, 7. Column 2 shows Quantity 16, 40, 60, 72, 80, 84, 82. Column 3 shows Fixed cost $160 all throughout. Column 4 shows Variable cost $80, $160, $240, $320, $400, $480, $560. Column 5 shows Total cost $240, $320, $400, $480, $560, $640, $720.">
+  <title>Output and Total Costs</title>
+     <tgroup cols="5">
+  <colspec colnum="1" colname="col1"/>
+  <colspec colnum="2" colname="col2"/>
+  <colspec colnum="3" colname="col3"/>
+  <colspec colnum="4" colname="col3"/>
+  <colspec colnum="5" colname="col3"/>
+  <thead>
   <row>
-    <entry align="center">Q</entry>
-    <entry align="center">1</entry>
-    <entry align="center">2</entry>
-    <entry align="center">3</entry>
-    <entry align="center">4</entry>
+    <entry>Labor</entry>
+    <entry>Quantity</entry>
+    <entry>Fixed Cost</entry>
+    <entry>Variable Cost</entry>
+    <entry>Total Cost</entry>
   </row>
+  </thead>
+  
+        <tbody>
+          <row>
+            <entry>1</entry>
+            <entry>16</entry>
+            <entry>$160</entry>
+            <entry>$80</entry>
+            <entry>$240</entry>
+          </row>
+  
+          <row>
+            <entry>2</entry>
+            <entry>40</entry>
+            <entry>$160</entry>
+            <entry>$160</entry>
+            <entry>$320</entry>
+          </row>
+  
+          <row>
+            <entry>3</entry>
+            <entry>60</entry>
+            <entry>$160</entry>
+            <entry>$240</entry>
+            <entry>$400</entry>
+          </row>
+  
+          <row>
+            <entry>4</entry>
+            <entry>72</entry>
+            <entry>$160</entry>
+            <entry>$320</entry>
+            <entry>$480</entry>
+          </row>
+  
+          <row>
+            <entry>5</entry>
+            <entry>80</entry>
+            <entry>$160</entry>
+            <entry>$400</entry>
+            <entry>$560</entry>
+          </row>
+  
+          <row>
+            <entry>6</entry>
+            <entry>84</entry>
+            <entry>$160</entry>
+            <entry>$480</entry>
+            <entry>$640</entry>
+          </row>
+  
+          <row>
+            <entry>7</entry>
+            <entry>82</entry>
+            <entry>$160</entry>
+            <entry>$560</entry>
+            <entry>$720</entry>
+          </row>
+  
+  
+        </tbody>
+      </tgroup>
+      <caption/>
+  </table>
+  <figure id="CNX_Econ_C07_002"><title>How Output Affects Total Costs </title><media id="fs-idm68225648" alt="The graph shows how costs increase with output.">
+        <image mime-type="image/jpeg" src="../../media/CNX_Econ_C07_002.jpg"/>
+      </media>
+  
+  <caption>At zero production, the fixed costs of $160 are still present. As production increases, variable costs are added to fixed costs, and the total cost is the sum of the two.</caption></figure><para id="fs-idm7566480">At zero production, the fixed costs of $160 are still present. As production increases, we add variable costs to fixed costs, and the total cost is the sum of the two.  <link target-id="CNX_Econ_C07_002"/> graphically shows the relationship between the quantity of output produced and the cost of producing that output. We always show the fixed costs as the vertical intercept of the total cost curve; that is, they are the costs incurred when output is zero so there are no variable costs.
+  </para><para id="fs-idm75174080">You can see from the graph that once production starts, total costs and variable costs rise. While variable costs may initially increase at a decreasing rate, at some point they begin increasing at an increasing rate. This is caused by diminishing marginal productivity which we discussed earlier in the <link document="m63678">Production in the Short Run</link> section of this chapter, which is easiest to see with an example. As the number of barbers increases from zero to one in the table, output increases from 0 to 16 for a marginal gain (or marginal product) of 16. As the number rises from one to two barbers, output increases from 16 to 40, a marginal gain of 24. From that point on, though, the marginal product diminishes as we add each additional barber. For example, as the number of barbers rises from two to three, the marginal product is only 20; and as the number rises from three to four, the marginal product is only 12.</para><para id="fs-idp3896848">To understand the reason behind this pattern, consider that a one-man barber shop is a very busy operation. The single barber needs to do everything: say hello to people entering, answer the phone, cut hair, sweep, and run the cash register. A second barber reduces the level of disruption from jumping back and forth between these tasks, and allows a greater division of labor and specialization. The result can be increasing marginal productivity. However, as the shop adds other barbers, the advantage of each additional barber is less, since the specialization of labor can only go so far. The addition of a sixth or seventh or eighth barber just to greet people at the door will have less impact than the second one did. This is the pattern of diminishing marginal productivity. As a result, the total costs of production will begin to rise more rapidly as output increases. At some point, you may even see negative returns as the additional barbers begin bumping elbows and getting in each other’s way. In this case, the addition of still more barbers would actually cause output to decrease, as the last row of <link target-id="Table_07_02" document=""/> shows.</para><para id="fs-idm10691472">This pattern of <term class="no-emphasis" id="term-00010">diminishing marginal productivity</term> is common in production. As another example, consider the problem of irrigating a crop on a farmer’s field. The plot of land is the fixed factor of production, while the water that the farmer can add to the land is the key variable cost. As the farmer adds water to the land, output increases. However, adding increasingly more water brings smaller increases in output, until at some point the water floods the field and actually reduces output. Diminishing marginal productivity occurs because, with fixed inputs (land in this example), each additional unit of input (e.g., water) contributes less to overall production.</para></section>
+  
+  <section id="fs-idm33974496"><title>Average Total Cost, Average Variable Cost, Marginal Cost</title>
+  <para id="fs-idp94453824">The breakdown of total costs into fixed and variable costs can provide a basis for other insights as well. The first five columns of <link target-id="Table_07_03" document=""/> duplicate the previous table, but the last three columns show average total costs, average variable costs, and marginal costs. These new measures analyze costs on a per-unit (rather than a total) basis and are reflected in the curves in <link target-id="CNX_Econ_C07_003" document=""/>.</para><figure id="CNX_Econ_C07_003"><title>Cost Curves at the Clip Joint </title><media id="fs-idm15595840" alt="The graph shows marginal cost as an upward-sloping curve, and average variable cost and average total cost as U-shaped curves.">
+        <image mime-type="image/jpeg" src="../../media/CNX_Econ_C07_003.jpg"/>
+      </media>
+  
+    <caption>We can also present the information on total costs, fixed cost, and variable cost on a per-unit basis. We calculate average total cost (ATC) by dividing total cost by the total quantity produced. The average total cost curve is typically U-shaped. We calculate average variable cost (AVC) by dividing variable cost by the quantity produced. The average variable cost curve lies below the average total cost curve and is also typically U-shaped. We calculate marginal cost (MC) by taking the change in total cost between two levels of output and dividing by the change in output. The marginal cost curve is upward-sloping.</caption></figure><table id="Table_07_03" summary="Table"><title>Different Types of Costs</title>
+  <tgroup cols="8"><colspec colnum="1" colname="col1"/>
+  <colspec colnum="2" colname="col2"/>
+  <colspec colnum="3" colname="col3"/>
+  <colspec colnum="4" colname="col3"/>
+  <colspec colnum="5" colname="col3"/>
+  <colspec colnum="6" colname="col3"/>
+  <colspec colnum="7" colname="col3"/>
+  <colspec colnum="8" colname="col3"/>
+  <thead>
   <row>
-    <entry align="center">Cost</entry>
-    <entry align="center">$32.50</entry>
-    <entry align="center">$44</entry>
-    <entry align="center">$52</entry>
-    <entry align="center">$90</entry>
+    <entry>Labor</entry>
+    <entry>Quantity</entry>
+    <entry>Fixed Cost</entry>
+    <entry>Variable Cost</entry>
+    <entry>Total Cost</entry>
+    <entry>Marginal Cost</entry>
+    <entry>Average Total Cost</entry>
+    <entry>Average Variable Cost</entry>
   </row>
-</tbody>
-
-
-
-
-</tgroup>
-</table><para id="eip-340">What we observe is that the cost increases as the firm produces higher quantities of output.  This is pretty intuitive, since producing more output requires greater quantities of inputs, which cost more dollars to acquire.</para><para id="eip-994">What is the origin of these cost figures?  They come from the production function and the factor payments. The discussion of costs in the short run above, <link document="m63679">Costs in the Short Run</link>, was based on the following production function, which is similar to <link target-id="eip-147"/> except for "widgets" instead of trees.</para><table id="eip-549" summary="The table indicates the production function for widgets. One worker has a function of 0.2. Two workers has a function of 0.4. Three workers has a function of 0.8. Three point two five has a function of 1. Four point four has a function of 2. Five point two has a function of 3. Six has a function of 3.5. Seven has a function of 3.8. Eight has a function of 3.95. Nine has a function of 4.">
-<tgroup cols="11"><tbody>
-  <row>
-    <entry align="center"><emphasis>Workers (L)</emphasis></entry>
-    <entry align="center">1</entry>
-    <entry align="center">2</entry>
-    <entry align="center">3</entry>
-    <entry align="center">3.25</entry>
-    <entry align="center">4.4</entry>
-    <entry align="center">5.2</entry>
-    <entry align="center">6</entry>
-    <entry align="center">7</entry>
-    <entry align="center">8</entry>
-    <entry align="center">9</entry>
-  </row>
-  <row>
-    <entry align="center"><emphasis>Widgets (Q)</emphasis></entry>
-    <entry align="center">0.2</entry>
-    <entry align="center">0.4</entry>
-    <entry align="center">0.8</entry>
-    <entry align="center">1</entry>
-    <entry align="center">2</entry>
-    <entry align="center">3</entry>
-    <entry align="center">3.5</entry>
-    <entry align="center">3.8</entry>
-    <entry align="center">3.95</entry>
-    <entry align="center">4</entry>
-  </row>
-</tbody>
-
-</tgroup>
-</table><para id="eip-480">We can use the information from the production function to determine production costs.  What we need to know is how many workers are required to produce any quantity of output.  If we flip the order of the rows, we “invert” the production function so it shows <m:math><m:mi>L</m:mi><m:mo>=</m:mo><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>Q</m:mi><m:mo>)</m:mo></m:math>.</para><table id="eip-353" summary="This table inverts the previous one, so that Widgets (Q) is on top. 0.2 widgets requires 1 worker. 0.4 requires 2 workers . 0.8 widgets requires 3 workers. 1 widget requires 3.25 workers. 2 requires 4.4. 3 widgets require 5.2 workers. 3.5 widgets requires 6 workers. 3.8 requires 7 workers. 3.95 widgets requires 8 workers. And four requires nine workers.">
-<tgroup cols="11"><tbody>
-  <row>
-    <entry align="center"><emphasis>Widgets (Q)</emphasis></entry>
-    <entry align="center">0.2</entry>
-    <entry align="center">0.4</entry>
-    <entry align="center">0.8</entry>
-    <entry align="center">1</entry>
-    <entry align="center">2</entry>
-    <entry align="center">3</entry>
-    <entry align="center">3.5</entry>
-    <entry align="center">3.8</entry>
-    <entry align="center">3.95</entry>
-    <entry align="center">4</entry>
-  </row>
-  <row>
-    <entry align="center"><emphasis>Workers (L)</emphasis></entry>
-    <entry align="center">1</entry>
-    <entry align="center">2</entry>
-    <entry align="center">3</entry>
-    <entry align="center">3.25</entry>
-    <entry align="center">4.4</entry>
-    <entry align="center">5.2</entry>
-    <entry align="center">6</entry>
-    <entry align="center">7</entry>
-    <entry align="center">8</entry>
-    <entry align="center">9</entry>
-  </row>
-
-</tbody>
-
-</tgroup>
-</table><para id="eip-623">Now focus on the whole number quantities of output.  We’ll eliminate the fractions from the table:</para><table id="eip-935" summary="In this table, any quantities of widgets that were not whole numbers have been eliminated. The remaining values are: One widget requires 3.25 workers. Two widgets requires 4.4 workers. Three widgets requires 5.2 workers. And four widgets requires 9 workers.">
-<tgroup cols="11"><tbody>
-  <row>
-    <entry align="center"><emphasis>Widgets (Q)</emphasis></entry>
-    <entry align="center"/>
-    <entry align="center"/>
-    <entry align="center"/>
-    <entry align="center">1</entry>
-    <entry align="center">2</entry>
-    <entry align="center">3</entry>
-    <entry align="center"/>
-    <entry align="center"/>
-    <entry align="center"/>
-    <entry align="center">4</entry>
-  </row>
-  <row>
-    <entry align="center"><emphasis>Workers (L)</emphasis></entry>
-    <entry align="center"/>
-    <entry align="center"/>
-    <entry align="center"/>
-    <entry align="center">3.25</entry>
-    <entry align="center">4.4</entry>
-    <entry align="center">5.2</entry>
-    <entry align="center"/>
-    <entry align="center"/>
-    <entry align="center"/>
-    <entry align="center">9</entry>
-  </row>
-
-</tbody>
-
-
-</tgroup>
-</table><para id="eip-958">Suppose widget workers receive $10 per hour.  Multiplying the Workers row by $10 (and eliminating the blanks) gives us the cost of producing different levels of output.</para><table id="eip-236" summary="This table displays the costs of widget production based on the previous information. For each value in the previous table, the worker cost of 0 per hour is applied by multiplying. Building one widget requires 3.25 workers. At 0 per hour, the cost is >2.50. Two widgets requires 4.4 workers, which costs $44. Three widgets requires 5.2 workers, which costs $52. And four widgets requires 9 workers, and costs $90.">
-<tgroup cols="5"><tbody>
-  <row>
-    <entry><emphasis>Widgets (Q)</emphasis></entry>
-    <entry align="center">1.00</entry>
-    <entry align="center">2.00</entry>
-    <entry align="center">3.00</entry>
-    <entry align="center">4.00</entry>
-  </row>
-  <row>
-    <entry><emphasis>Workers (L)</emphasis></entry>
-    <entry align="center">3.25</entry>
-    <entry align="center">4.4</entry>
-    <entry align="center">5.2</entry>
-    <entry align="center">9</entry>
-  </row>
-  <row>
-    <entry><emphasis>× Wage Rate per hour</emphasis></entry>
-    <entry align="center">$10</entry>
-    <entry align="center">$10</entry>
-    <entry align="center">$10</entry>
-    <entry align="center">$10</entry>
-  </row>
-  <row>
-    <entry><emphasis>= Cost</emphasis></entry>
-    <entry align="center">$32.50</entry>
-    <entry align="center">$44.00</entry>
-    <entry align="center">$52.00</entry>
-    <entry align="center">$90.00</entry>
-  </row>
-</tbody>
-
-
-</tgroup>
-</table><para id="eip-164">This is same cost function with which we began! (shown in <link target-id="eip-147"/>)</para><para id="eip-302">Now that we have the basic idea of the cost origins and how they are related to production, let’s drill down into the details.</para><section id="eip-363"><title>Average and Marginal Costs</title><para id="eip-398">
-The cost of producing a firm’s output depends on how much labor and physical capital the firm uses. A list of the costs involved in producing cars will look very different from the costs involved in producing computer software or haircuts or fast-food meals.
-</para><para id="eip-343">We can measure costs in a variety of ways.  Each way provides its own insight into costs.  Sometimes firms need to look at their cost per unit of output, not just their total cost.  There are two ways to measure per unit costs.  The most intuitive way is average cost.  Average cost is the cost on average of producing a given quantity.  We define <term id="term-00007">average cost</term> as total cost divided by the quantity of output produced.  <m:math><m:mi>A</m:mi><m:mi>C</m:mi><m:mo>=</m:mo><m:mi>T</m:mi><m:mi>C</m:mi><m:mo>/</m:mo><m:mi>Q</m:mi></m:math>
-If producing two widgets costs a total of $44, the average cost per widget is <m:math><m:mn>$44</m:mn><m:mo>/</m:mo><m:mn>2</m:mn><m:mo>=</m:mo><m:mn>$22</m:mn></m:math> per widget.   The other way of measuring cost per unit is marginal cost.  If average cost is the cost of the average unit of output produced, marginal cost is the cost of each individual unit produced.  More formally, marginal cost is the cost of producing one more unit of output.  Mathematically, <term id="term-00008">marginal cost</term> is the change in total cost divided by the change in output: <m:math><m:mi>M</m:mi><m:mi>C</m:mi><m:mo>=</m:mo><m:mi>Δ</m:mi><m:mi>T</m:mi><m:mi>C</m:mi><m:mo>/</m:mo><m:mi>Δ</m:mi><m:mi>Q</m:mi></m:math>. If the cost of the first widget is $32.50 and the cost of two widgets is $44, the marginal cost of the second widget is <m:math><m:mn>$44</m:mn><m:mo>−</m:mo><m:mn>$32.50</m:mn><m:mo>=</m:mo><m:mn>$11.50.</m:mn></m:math>  We can see the Widget Cost table redrawn below with average and marginal cost added.
-</para><table id="eip-672" summary="This table illustrates the extended cost function. For one widget, the cost is 32.50, and the average and marginal costs are the same value. For two widgets, the cost is 44.00; the average cost is 22.00, and the marginal costs is 11.50. For three widgets the total costs is 52.00. The average cost is 17.33 and the marginal cost is 8.00. For four widgets, the cost is 90.00; the average cost is 22.50 and the marginal cost is 38.00."><title>Extended Cost Function for Producing Widgets</title>
-<tgroup cols="5"><tbody>
-  <row>
-    <entry align="center">Q</entry>
-    <entry align="center">1</entry>
-    <entry align="center">2</entry>
-    <entry align="center">3</entry>
-    <entry align="center">4</entry>
-  </row>
-  <row>
-    <entry align="center">Total Cost</entry>
-    <entry align="center">$32.50</entry>
-    <entry align="center">$44.00</entry>
-    <entry align="center">$52.00</entry>
-    <entry align="center">$90.00</entry>
-  </row>
-  <row>
-    <entry align="center">Average Cost</entry>
-    <entry align="center">$32.50</entry>
-    <entry align="center">$22.00</entry>
-    <entry align="center">$17.33</entry>
-    <entry align="center">$22.50</entry>
-  </row>
-  <row>
-    <entry align="center">Marginal Cost</entry>
-    <entry align="center">$32.50</entry>
-    <entry align="center">$11.50</entry>
-    <entry align="center">$8.00</entry>
-    <entry align="center">$38.00</entry>
-  </row>
-</tbody>
-
-
-
-
-</tgroup>
-</table><para id="eip-270">Note that the marginal cost of the first unit of output is always the same as total cost.</para></section><section id="fs-idm22111344"><title>Fixed and Variable Costs</title>
-<para id="fs-idm45882416">We can decompose costs into fixed and variable costs. Fixed costs are the costs of the fixed inputs (e.g. capital). Because fixed inputs do not change in the short run, fixed costs are expenditures that do not change regardless of the level of production. Whether you produce a great deal or a little, the fixed costs are the same. One example is the rent on a factory or a retail space. Once you sign the lease, the rent is the same regardless of how much you produce, at least until the lease expires. Fixed costs can take many other forms: for example, the cost of machinery or equipment to produce the product, research and development costs to develop new products, even an expense like advertising to popularize a brand name. The amount of fixed costs varies according to the specific line of business: for instance, manufacturing computer chips requires an expensive factory, but a local moving and hauling business can get by with almost no fixed costs at all if it rents trucks by the day when needed. </para><para id="fs-idm30818352"><term id="term-00009">Variable costs</term> are the costs of the variable inputs (e.g. labor). The only way to increase or decrease output is by increasing or decreasing the variable inputs. Therefore, variable costs increase or decrease with output. We treat labor as a variable cost, since producing a greater quantity of a good or service typically requires more workers or more work hours. Variable costs would also include raw materials.</para><para id="fs-idm30866864">Total costs are the sum of fixed plus variable costs. Let's look at another example. Consider the barber shop called “The Clip Joint” in <link target-id="CNX_Econ_C07_002" document=""/>. The data for output and costs are in <link target-id="Table_07_02" document=""/>. The fixed costs of operating the barber shop, including the space and equipment, are $160 per day. The variable costs are the costs of hiring barbers, which in our example is $80 per barber each day. The first two columns of the table show the quantity of haircuts the barbershop can produce as it hires additional barbers. The third column shows the fixed costs, which do not change regardless of the level of production. The fourth column shows the variable costs at each level of output. We calculate these by taking the amount of labor hired and multiplying by the wage. For example, two barbers cost: 2 × $80 = $160. Adding together the fixed costs in the third column and the variable costs in the fourth column produces the total costs in the fifth column. For example, with two barbers the total cost is: $160 + $160 = $320.</para><table id="Table_07_02" summary="This table has 5 columns and 7 rows of data. The following information reflects the data within each column from top to bottom. Column 1 shows Labor 1, 2, 3, 4, 5, 6, 7. Column 2 shows Quantity 16, 40, 60, 72, 80, 84, 82. Column 3 shows Fixed cost $160 all throughout. Column 4 shows Variable cost $80, $160, $240, $320, $400, $480, $560. Column 5 shows Total cost $240, $320, $400, $480, $560, $640, $720.">
-<title>Output and Total Costs</title>
-   <tgroup cols="5">
-<colspec colnum="1" colname="col1"/>
-<colspec colnum="2" colname="col2"/>
-<colspec colnum="3" colname="col3"/>
-<colspec colnum="4" colname="col3"/>
-<colspec colnum="5" colname="col3"/>
-<thead>
-<row>
-	<entry>Labor</entry>
-	<entry>Quantity</entry>
-	<entry>Fixed Cost</entry>
-	<entry>Variable Cost</entry>
-	<entry>Total Cost</entry>
-</row>
-</thead>
-
-      <tbody>
-        <row>
-          <entry>1</entry>
-          <entry>16</entry>
-          <entry>$160</entry>
-          <entry>$80</entry>
-          <entry>$240</entry>
-        </row>
-
-        <row>
-          <entry>2</entry>
-          <entry>40</entry>
-          <entry>$160</entry>
-          <entry>$160</entry>
-          <entry>$320</entry>
-        </row>
-
-        <row>
-          <entry>3</entry>
-          <entry>60</entry>
-          <entry>$160</entry>
-          <entry>$240</entry>
-          <entry>$400</entry>
-        </row>
-
-        <row>
-          <entry>4</entry>
-          <entry>72</entry>
-          <entry>$160</entry>
-          <entry>$320</entry>
-          <entry>$480</entry>
-        </row>
-
-        <row>
-          <entry>5</entry>
-          <entry>80</entry>
-          <entry>$160</entry>
-          <entry>$400</entry>
-          <entry>$560</entry>
-        </row>
-
-        <row>
-          <entry>6</entry>
-          <entry>84</entry>
-          <entry>$160</entry>
-          <entry>$480</entry>
-          <entry>$640</entry>
-        </row>
-
-        <row>
-          <entry>7</entry>
-          <entry>82</entry>
-          <entry>$160</entry>
-          <entry>$560</entry>
-          <entry>$720</entry>
-        </row>
-
-
-      </tbody>
-    </tgroup>
-    <caption/>
-</table>
-<figure id="CNX_Econ_C07_002"><title>How Output Affects Total Costs </title><media id="fs-idm68225648" alt="The graph shows how costs increase with output.">
-      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C07_002.jpg"/>
-    </media>
-
-<caption>At zero production, the fixed costs of $160 are still present. As production increases, variable costs are added to fixed costs, and the total cost is the sum of the two.</caption></figure><para id="fs-idm7566480">At zero production, the fixed costs of $160 are still present. As production increases, we add variable costs to fixed costs, and the total cost is the sum of the two.  <link target-id="CNX_Econ_C07_002"/> graphically shows the relationship between the quantity of output produced and the cost of producing that output. We always show the fixed costs as the vertical intercept of the total cost curve; that is, they are the costs incurred when output is zero so there are no variable costs.
-</para><para id="fs-idm75174080">You can see from the graph that once production starts, total costs and variable costs rise. While variable costs may initially increase at a decreasing rate, at some point they begin increasing at an increasing rate. This is caused by diminishing marginal productivity which we discussed earlier in the <link document="m63678">Production in the Short Run</link> section of this chapter, which is easiest to see with an example. As the number of barbers increases from zero to one in the table, output increases from 0 to 16 for a marginal gain (or marginal product) of 16. As the number rises from one to two barbers, output increases from 16 to 40, a marginal gain of 24. From that point on, though, the marginal product diminishes as we add each additional barber. For example, as the number of barbers rises from two to three, the marginal product is only 20; and as the number rises from three to four, the marginal product is only 12.</para><para id="fs-idp3896848">To understand the reason behind this pattern, consider that a one-man barber shop is a very busy operation. The single barber needs to do everything: say hello to people entering, answer the phone, cut hair, sweep, and run the cash register. A second barber reduces the level of disruption from jumping back and forth between these tasks, and allows a greater division of labor and specialization. The result can be increasing marginal productivity. However, as the shop adds other barbers, the advantage of each additional barber is less, since the specialization of labor can only go so far. The addition of a sixth or seventh or eighth barber just to greet people at the door will have less impact than the second one did. This is the pattern of diminishing marginal productivity. As a result, the total costs of production will begin to rise more rapidly as output increases. At some point, you may even see negative returns as the additional barbers begin bumping elbows and getting in each other’s way. In this case, the addition of still more barbers would actually cause output to decrease, as the last row of <link target-id="Table_07_02" document=""/> shows.</para><para id="fs-idm10691472">This pattern of <term class="no-emphasis" id="term-00010">diminishing marginal productivity</term> is common in production. As another example, consider the problem of irrigating a crop on a farmer’s field. The plot of land is the fixed factor of production, while the water that the farmer can add to the land is the key variable cost. As the farmer adds water to the land, output increases. However, adding increasingly more water brings smaller increases in output, until at some point the water floods the field and actually reduces output. Diminishing marginal productivity occurs because, with fixed inputs (land in this example), each additional unit of input (e.g. water) contributes less to overall production.</para></section>
-
-<section id="fs-idm33974496"><title>Average Total Cost, Average Variable Cost, Marginal Cost</title>
-<para id="fs-idp94453824">The breakdown of total costs into fixed and variable costs can provide a basis for other insights as well. The first five columns of <link target-id="Table_07_03" document=""/> duplicate the previous table, but the last three columns show average total costs, average variable costs, and marginal costs. These new measures analyze costs on a per-unit (rather than a total) basis and are reflected in the curves in <link target-id="CNX_Econ_C07_003" document=""/>.</para><figure id="CNX_Econ_C07_003"><title>Cost Curves at the Clip Joint </title><media id="fs-idm15595840" alt="The graph shows marginal cost as an upward-sloping curve, and average variable cost and average total cost as U-shaped curves.">
-      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C07_003.jpg"/>
-    </media>
-
-  <caption>We can also present the information on total costs, fixed cost, and variable cost on a per-unit basis. We calculate average total cost (ATC) by dividing total cost by the total quantity produced. The average total cost curve is typically U-shaped. We calculate average variable cost (AVC) by dividing variable cost by the quantity produced. The average variable cost curve lies below the average total cost curve and is also typically U-shaped. We calculate marginal cost (MC) by taking the change in total cost between two levels of output and dividing by the change in output. The marginal cost curve is upward-sloping.</caption></figure><table id="Table_07_03" summary="Table"><title>Different Types of Costs</title>
-<tgroup cols="8"><colspec colnum="1" colname="col1"/>
-<colspec colnum="2" colname="col2"/>
-<colspec colnum="3" colname="col3"/>
-<colspec colnum="4" colname="col3"/>
-<colspec colnum="5" colname="col3"/>
-<colspec colnum="6" colname="col3"/>
-<colspec colnum="7" colname="col3"/>
-<colspec colnum="8" colname="col3"/>
-<thead>
-<row>
-	<entry>Labor</entry>
-	<entry>Quantity</entry>
-	<entry>Fixed Cost</entry>
-	<entry>Variable Cost</entry>
-	<entry>Total Cost</entry>
-	<entry>Marginal Cost</entry>
-	<entry>Average Total Cost</entry>
-	<entry>Average Variable Cost</entry>
-</row>
-</thead>
-
-      <tbody>
-        <row>
-          <entry>1</entry>
-          <entry>16</entry>
-          <entry>$160</entry>
-          <entry>$80</entry>
-          <entry>$240</entry>
-          <entry>$15.00</entry>
-          <entry>$15.00</entry>
-          <entry>$5.00</entry>
-        </row>
-
-        <row>
-          <entry>2</entry>
-          <entry>40</entry>
-          <entry>$160</entry>
-          <entry>$160</entry>
-          <entry>$320</entry>
-          <entry>$3.33</entry>
-          <entry>$8.00</entry>
-          <entry>$4.00</entry>
-        </row>
-
-        <row>
-          <entry>3</entry>
-          <entry>60</entry>
-          <entry>$160</entry>
-          <entry>$240</entry>
-          <entry>$400</entry>
-          <entry>$4.00</entry>
-          <entry>$6.67</entry>
-          <entry>$4.00</entry>
-        </row>
-
-        <row>
-          <entry>4</entry>
-          <entry>72</entry>
-          <entry>$160</entry>
-          <entry>$320</entry>
-          <entry>$480</entry>
-          <entry>$6.67</entry>
-          <entry>$6.67</entry>
-          <entry>$4.44</entry>
-        </row>
-
-        <row>
-          <entry>5</entry>
-          <entry>80</entry>
-          <entry>$160</entry>
-          <entry>$400</entry>
-          <entry>$560</entry>
-          <entry>$10.00</entry>
-          <entry>$7.00</entry>
-          <entry>$5.00</entry>
-        </row>
-
-        <row>
-          <entry>6</entry>
-          <entry>84</entry>
-          <entry>$160</entry>
-          <entry>$480</entry>
-          <entry>$640</entry>
-          <entry>$20.00</entry>
-          <entry>$7.62</entry>
-          <entry>$5.71</entry>
-        </row>
-
-
-      </tbody>
-
-
-
-</tgroup>
-</table><para id="fs-idm54004032"><term id="term-00011">Average total cost</term> (sometimes referred to simply as average cost) is total cost divided by the quantity of output. Since the total cost of producing 40 haircuts is $320, the average total cost for producing each of 40 haircuts is $320/40, or $8 per haircut. Average cost curves are typically U-shaped, as <link target-id="CNX_Econ_C07_003" document=""/> shows. Average total cost starts off relatively high, because at low levels of output total costs are dominated by the fixed cost. Mathematically, the denominator is so small that average total cost is large. Average total cost then declines, as the fixed costs are spread over an increasing quantity of output. In the average cost calculation, the rise in the numerator of total costs is relatively small compared to the rise in the denominator of quantity produced. However, as output expands still further, the average cost begins to rise. At the right side of the average cost curve, total costs begin rising more rapidly as diminishing returns come into effect.</para><para id="fs-idm42454032">We obtain <term id="term-00012">average variable cost</term> when we divide variable cost by quantity of output. For example, the variable cost of producing 80 haircuts is $400, so the average variable cost is $400/80, or $5 per haircut. Note that at any level of output, the average variable cost curve will always lie below the curve for average total cost, as <link target-id="CNX_Econ_C07_003" document=""/> shows. The reason is that average total cost includes average variable cost and average fixed cost. Thus, for Q = 80 haircuts, the average total cost is $8 per haircut, while the average variable cost is $5 per haircut. However, as output grows, fixed costs become relatively less important (since they do not rise with output), so average variable cost sneaks closer to average cost.</para><para id="fs-idm83686000">Average total and variable costs measure the average costs of producing some quantity of output. Marginal cost is somewhat different. <term id="term-00013">Marginal cost</term> is the additional cost of producing one more unit of output. It is not the cost per unit of <emphasis effect="italics">all</emphasis> units produced, but only the next one (or next few). We calculate marginal cost by taking the change in total cost and dividing it by the change in quantity. For example, as quantity produced increases from 40 to 60 haircuts, total costs rise by 400 – 320, or 80. Thus, the marginal cost for each of those marginal 20 units will be 80/20, or $4 per haircut. The marginal cost curve is generally upward-sloping, because diminishing marginal returns implies that additional units are more costly to produce. We can see small range of increasing marginal returns in the figure as a dip in the marginal cost curve before it starts rising. There is a point at which marginal and average costs meet, as the following Clear it Up feature discusses.</para><note id="fs-idm70710336" class="economics clearup">
-      <title>Where do marginal and average costs meet?</title>
-      <para id="fs-idm67201792">The marginal cost line intersects the average cost line exactly at the bottom of the average cost curve—which occurs at a quantity of 72 and cost of $6.60 in <link target-id="CNX_Econ_C07_003" document=""/>. The reason why the intersection occurs at this point is built into the economic meaning of marginal and average costs. If the marginal cost of production is below the average cost for producing previous units, as it is for the points to the left of where MC crosses ATC, then producing one more additional unit will reduce average costs overall—and the ATC curve will be downward-sloping in this zone. Conversely, if the marginal cost of production for producing an additional unit is above the average cost for producing the earlier units, as it is for points to the right of where MC crosses ATC, then producing a marginal unit will increase average costs overall—and the ATC curve must be upward-sloping in this zone. The point of transition, between where MC is pulling ATC down and where it is pulling it up, must occur at the minimum point of the ATC curve. </para><para id="fs-idm55648768">This idea of the marginal cost “pulling down” the average cost or “pulling up” the average cost may sound abstract, but think about it in terms of your own grades. If the score on the most recent quiz you take is lower than your average score on previous quizzes, then the marginal quiz pulls down your average. If your score on the most recent quiz is higher than the average on previous quizzes, the marginal quiz pulls up your average. In this same way, low marginal costs of production first pull down average costs and then higher marginal costs pull them up. </para>
-    </note>
-<para id="fs-idm80307024">The numerical calculations behind average cost, average variable cost, and marginal cost will change from firm to firm. However, the general patterns of these curves, and the relationships and economic intuition behind them, will not change.</para>
-</section>
-
-<section id="fs-idm38625792"><title>Lessons from Alternative Measures of Costs</title>
-<para id="fs-idm23777424">Breaking down total costs into fixed cost, marginal cost, average total cost, and average variable cost is useful because each statistic offers its own insights for the firm.</para>
-<para id="fs-idp18509888">Whatever the firm’s quantity of production, total revenue must exceed total costs if it is to earn a profit. As explored in the chapter <link document="m63593">Choice in a World of Scarcity</link>, fixed costs are often <term class="no-emphasis" id="term-00014">sunk costs</term> that a firm cannot recoup. In thinking about what to do next, typically you should ignore sunk costs, since you have already spent this money and cannot make any changes. However, you can change variable costs, so they convey information about the firm’s ability to cut costs in the present and the extent to which costs will increase if production rises.</para><note id="fs-idm60136640" class="economics clearup">
-      <title>Why are total cost and average cost not on the same graph?</title>
-      <para id="fs-idm28362272">Total cost, fixed cost, and variable cost each reflect different aspects of the cost of production over the entire quantity of output produced. We measure these costs in dollars. In contrast, marginal cost, average cost, and average variable cost are costs per unit. In the previous example, we measured them as dollars per haircut. Thus, it would not make sense to put all of these numbers on the same graph, since we measure them in different units ($ versus $ per unit of output).</para><para id="fs-idm68541088">It would be as if the vertical axis measured two different things. In addition, as a practical matter, if they were on the same graph, the lines for marginal cost, average cost, and average variable cost would appear almost flat against the horizontal axis, compared to the values for total cost, fixed cost, and variable cost. Using the figures from the previous example, the total cost of producing 40 haircuts is $320. However, the average cost is $320/40, or $8. If you graphed both total and average cost on the same axes, the average cost would hardly show. </para></note>
-<para id="fs-idm857440">Average cost tells a firm whether it can earn profits given the current price in the market. If we divide profit by the quantity of output produced we get <term id="term-00015">average profit</term>, also known as the firm’s <emphasis effect="italics">profit margin</emphasis>. Expanding the equation for profit gives:</para>
-
-<equation class="unnumbered" id="eip-794"><m:math><m:mtable columnspacing="2px 2px 2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>average profit</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mtext>profit</m:mtext><m:mtext>quantity produced</m:mtext></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mtext>total revenue – total cost</m:mtext><m:mtext>quantity produced</m:mtext></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mtext>total revenue</m:mtext><m:mtext>quantity produced</m:mtext></m:mfrac><m:mo>–</m:mo><m:mfrac><m:mtext>total cost</m:mtext><m:mtext>quantity produced</m:mtext></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mtext>average revenue – average cost</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idp22988144">However, note that: </para><equation class="unnumbered" id="eip-14"><m:math><m:mtable columnspacing="2px 2px 2px" columnalign="left center left"><m:mtr><m:mtd><m:mtext>average revenue</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mtext>price × quantity produced</m:mtext><m:mtext>quantity produced</m:mtext></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mtext>price</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="eip-380">Thus:</para><equation class="unnumbered" id="eip-731"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>average profit</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mtext>price – average cost</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm15671920">This is the firm’s <term id="term-00016">profit margin</term>. This definition implies that if the market price is above average cost, average profit, and thus total profit, will be positive. If price is below average cost, then profits will be negative.</para><para id="fs-idp5176656">We can compare this marginal cost of producing an additional unit with the marginal revenue gained by selling that additional unit to reveal whether the additional unit is adding to total profit—or not. Thus, marginal cost helps producers understand how increasing or decreasing production affects profits.</para></section>
-
-<section id="fs-idp28698976"><title>A Variety of Cost Patterns</title>
-<para id="fs-idp15867952">The pattern of costs varies among industries and even among firms in the same industry. Some businesses have high fixed costs, but low marginal costs. Consider, for example, an internet company that provides medical advice to customers. Consumers might pay such a company directly, or perhaps hospitals or healthcare practices might subscribe on behalf of their patients. Setting up the website, collecting the information, writing the content, and buying or leasing the computer space to handle the web traffic are all fixed costs that the company must undertake before the site can work. However, when the website is up and running, it can provide a high quantity of service with relatively low variable costs, like the cost of monitoring the system and updating the information. In this case, the total cost curve might start at a high level, because of the high fixed costs, but then might appear close to flat, up to a large quantity of output, reflecting the low variable costs of operation. If the website is popular, however, a large rise in the number of visitors will overwhelm the website, and increasing output further could require a purchase of additional computer space.</para><para id="fs-idp24744224">For other firms, fixed costs may be relatively low. For example, consider firms that rake leaves in the fall or shovel snow off sidewalks and driveways in the winter. For fixed costs, such firms may need little more than a car to transport workers to homes of customers and some rakes and shovels. Still other firms may find that diminishing marginal returns set in quite sharply. If a manufacturing plant tried to run 24 hours a day, seven days a week, little time remains for routine equipment maintenance, and marginal costs can increase dramatically as the firm struggles to repair and replace overworked equipment.</para><para id="fs-idp26270656">Every firm can gain insight into its task of earning profits by dividing its total costs into fixed and variable costs, and then using these calculations as a basis for average total cost, average variable cost, and marginal cost. However, making a final decision about the profit-maximizing quantity to produce and the price to charge will require combining these perspectives on cost with an analysis of sales and revenue, which in turn requires looking at the market structure in which the firm finds itself. Before we turn to the analysis of market structure in other chapters, we will analyze the firm’s cost structure from a long-run perspective.</para>
-</section>
-
-<section id="fs-idm36976624" class="summary"><title>Key Concepts and Summary</title><para id="eip-id4786462">For every input (e.g. labor), there is an associated factor payment (e.g. wages and salaries).  The cost of production for a given quantity of output is the sum of the amount of each input required to produce that quantity of output times the associated factor payment.</para>
-
-<para id="eip-id5986753">In a short-run perspective, we can divide a firm’s total costs into fixed costs, which a firm must incur before producing any output, and variable costs, which the firm incurs in the act of producing. Fixed costs are sunk costs; that is, because they are in the past and the firm cannot alter them, they should play no role in economic decisions about future production or pricing. Variable costs typically show diminishing marginal returns, so that the marginal cost of producing higher levels of output rises.</para>
-
-<para id="eip-id1170801738589">We calculate marginal cost by taking the change in total cost (or the change in variable cost, which will be the same thing) and dividing it by the change in output, for each possible change in output. Marginal costs are typically rising. A firm can compare marginal cost to the additional revenue it gains from selling another unit to find out whether its marginal unit is adding to profit.</para>
-
-<para id="eip-id1170801360730">We calculate average total cost by taking total cost and dividing by total output at each different level of output.  Average costs are typically U-shaped on a graph. If a firm’s average cost of production is lower than the market price, a firm will be earning profits. </para>
-
-<para id="eip-id5985026">We calculate average variable cost by taking variable cost and dividing by the total output at each level of output.  Average variable costs are typically U-shaped.  If a firm’s average variable cost of production is lower than the market price, then the firm would be earning profits if fixed costs are left out of the picture.</para>
-</section><section id="fs-idm29942864" class="self-check-questions">
-  <title>Self-Check Questions</title>
-  <exercise id="fs-idm67487424"><problem id="fs-idm43173088">
-      <para id="fs-idm37361568">The WipeOut Ski Company manufactures skis for beginners. Fixed costs are $30. Fill in <link target-id="Table_07_04" document=""/> for total cost, average variable cost, average total cost, and marginal cost.</para>
-
-<table id="Table_07_04" summary="This table has 7 columns and 7 rows of data. Columns 4-7 are “Total cost”, “Average variable cost”, “Average total cost”, and “Marginal cost” and have all been left blank. Column 1 shows Quantity 0, 1, 2, 3, 4, 5, 6. Column 2 shows Variable cost 0, $10, $25, $45, $70, $100, $135. Column 3 shows Fixed cost $30 all throughout.">
-   <tgroup cols="7">
-<colspec colnum="1" colname="col1"/>
-<colspec colnum="2" colname="col2"/>
-<colspec colnum="3" colname="col3"/>
-<colspec colnum="4" colname="col3"/>
-<colspec colnum="5" colname="col3"/>
-<colspec colnum="6" colname="col3"/>
-<colspec colnum="7" colname="col3"/>
-<thead>
-<row>
-	<entry>Quantity</entry>
-	<entry>Variable Cost</entry>
-	<entry>Fixed Cost</entry>
-	<entry>Total Cost</entry>
-	<entry>Average Variable Cost</entry>
-	<entry>Average Total Cost</entry>
-	<entry>Marginal Cost</entry>
-</row>
-</thead>
-
-      <tbody>
-        <row>
-          <entry>0</entry>
-          <entry>0</entry>
-          <entry>$30</entry>
-          <entry/>
-          <entry/>
-          <entry/>
-          <entry/>
-        </row>
-
-        <row>
-          <entry>1</entry>
-          <entry>$10</entry>
-          <entry>$30</entry>
-          <entry/>
-          <entry/>
-          <entry/>
-          <entry/>
-        </row>
-
-        <row>
-          <entry>2</entry>
-          <entry>$25</entry>
-          <entry>$30</entry>
-          <entry/>
-          <entry/>
-          <entry/>
-          <entry/>
-        </row>
-
-        <row>
-          <entry>3</entry>
-          <entry>$45</entry>
-          <entry>$30</entry>
-          <entry/>
-          <entry/>
-          <entry/>
-          <entry/>
-        </row>
-
-        <row>
-          <entry>4</entry>
-          <entry>$70</entry>
-          <entry>$30</entry>
-          <entry/>
-          <entry/>
-          <entry/>
-          <entry/>
-        </row>
-
-        <row>
-          <entry>5</entry>
-          <entry>$100</entry>
-          <entry>$30</entry>
-          <entry/>
-          <entry/>
-          <entry/>
-          <entry/>
-        </row>
-
-        <row>
-          <entry>6</entry>
-          <entry>$135</entry>
-          <entry>$30</entry>
-          <entry/>
-          <entry/>
-          <entry/>
-          <entry/>
-        </row>
-
-
-      </tbody>
-
-    </tgroup>
-
-    </table>
-    </problem>
-    <solution id="fs-idm154753312">
-
-<table id="Table_07_05" class="unnumbered" summary="Completed column 4 shows Total cost $30, $40, $55, $75, $100, $130, $165. Completed column 5 shows Average variable cost “blank”, $10, $12.50, $15, $17.50, $20, $22.5. Completed column 6 shows Average total cost “blank”, $40, $27.5, $25, $25, $26, $27.50. Completed column 7 shows marginal cost “blank”, $10, $15, $20, $25, $30, $35."><label/>
-   <tgroup cols="7">
-<colspec colnum="1" colname="col1"/>
-<colspec colnum="2" colname="col2"/>
-<colspec colnum="3" colname="col3"/>
-<colspec colnum="4" colname="col3"/>
-<colspec colnum="5" colname="col3"/>
-<colspec colnum="6" colname="col3"/>
-<colspec colnum="7" colname="col3"/>
-<thead>
-<row>
-	<entry>Quantity</entry>
-	<entry>Variable Cost</entry>
-	<entry>Fixed Cost</entry>
-	<entry>Total Cost</entry>
-	<entry>Average Variable Cost</entry>
-	<entry>Average Total Cost</entry>
-	<entry>Marginal Cost</entry>
-</row>
-</thead>
-
-      <tbody>
-        <row>
-          <entry>0</entry>
-          <entry>0</entry>
-          <entry>$30</entry>
-          <entry>$30</entry>
-          <entry>-</entry>
-          <entry>-</entry>
-          <entry/>
-        </row>
-
-        <row>
-          <entry>1</entry>
-          <entry>$10</entry>
-          <entry>$30</entry>
-          <entry>$40</entry>
-          <entry>$10.00</entry>
-          <entry>$40.00</entry>
-          <entry>$10</entry>
-        </row>
-
-        <row>
-          <entry>2</entry>
-          <entry>$25</entry>
-          <entry>$30</entry>
-          <entry>$55</entry>
-          <entry>$12.50</entry>
-          <entry>$27.50</entry>
-          <entry>$15</entry>
-        </row>
-
-        <row>
-          <entry>3</entry>
-          <entry>$45</entry>
-          <entry>$30</entry>
-          <entry>$75</entry>
-          <entry>$15.00</entry>
-          <entry>$25.00</entry>
-          <entry>$20</entry>
-        </row>
-
-        <row>
-          <entry>4</entry>
-          <entry>$70</entry>
-          <entry>$30</entry>
-          <entry>$100</entry>
-          <entry>$17.50</entry>
-          <entry>$25.00</entry>
-          <entry>$25</entry>
-        </row>
-
-        <row>
-          <entry>5</entry>
-          <entry>$100</entry>
-          <entry>$30</entry>
-          <entry>$130</entry>
-          <entry>$20.00</entry>
-          <entry>$26.00</entry>
-          <entry>$30</entry>
-        </row>
-
-        <row>
-          <entry>6</entry>
-          <entry>$135</entry>
-          <entry>$30</entry>
-          <entry>$165</entry>
-          <entry>$22.50</entry>
-          <entry>$27.50</entry>
-          <entry>$35</entry>
-        </row>
-
-
-      </tbody>
-
-    </tgroup>
-
-    </table>
-</solution>
-  </exercise><exercise id="fs-idm78693232">
-    <problem id="fs-idm66001344">
-      <para id="fs-idm63112512">Based on your answers to the WipeOut Ski Company in <link target-id="fs-idm67487424" document=""/>, now imagine a situation where the firm produces a quantity of 5 units that it sells for a price of $25 each.</para><list id="fs-idm10014144" list-type="enumerated" number-style="lower-alpha">
-        <item>What will be the company’s profits or losses?</item>
-        <item>How can you tell at a glance whether the company is making or losing money at this price by looking at average cost?</item>
-        <item>At the given quantity and price, is the marginal unit produced adding to profits?</item>
-      </list>
-
-    </problem>
-    <solution id="fs-idm16872256">
-      <list id="fs-idm22966192" list-type="enumerated" number-style="lower-alpha">
-        <item>Total revenues in this example will be a quantity of five units multiplied by the price of $25/unit, which equals $125. Total costs when producing five units are $130. Thus, at this level of quantity and output the firm experiences losses (or negative profits) of $5.</item>
-        <item>If price is less than average cost, the firm is not making a profit. At an output of five units, the average cost is $26/unit. Thus, at a glance you can see the firm is making losses. At a second glance, you can see that it must be losing $1 for each unit produced (that is, average cost of $26/unit minus the price of $25/unit). With five units produced, this observation implies total losses of $5.</item>
-        <item>When producing five units, marginal costs are $30/unit. Price is $25/unit. Thus, the marginal unit is not adding to profits, but is actually subtracting from profits, which suggests that the firm should reduce its quantity produced.</item>
-      </list>
-</solution>
-  </exercise>
-</section>
-
-
-<section id="fs-idm57014544" class="review-questions">
-  <title>Review Questions</title>
-  <exercise id="fs-idm16908240">
-    <problem id="fs-idm21643024">
-      <para id="fs-idm66187040">How do we calculate marginal product?  </para></problem>
-  </exercise>
-  <exercise id="fs-idm16874112">
-    <problem id="fs-idm67181952">
-      <para id="fs-idm20157872">What shapes would you generally expect a total product curve and a marginal product curve to have?  </para></problem>
-  </exercise>
-  <exercise id="fs-idm34414912">
-    <problem id="fs-idm41147680">
-      <para id="fs-idm2251792">What are the factor payments for land, labor, and capital?</para></problem>
-  </exercise>
-
-  <exercise id="fs-idm31544768">
-    <problem id="fs-idm36684352">
-      <para id="fs-idm66221840">What is the difference between fixed costs and variable costs?  </para></problem>
-  </exercise>
-
+  </thead>
+  
+        <tbody>
+          <row>
+            <entry>1</entry>
+            <entry>16</entry>
+            <entry>$160</entry>
+            <entry>$80</entry>
+            <entry>$240</entry>
+            <entry>$15.00</entry>
+            <entry>$15.00</entry>
+            <entry>$5.00</entry>
+          </row>
+  
+          <row>
+            <entry>2</entry>
+            <entry>40</entry>
+            <entry>$160</entry>
+            <entry>$160</entry>
+            <entry>$320</entry>
+            <entry>$3.33</entry>
+            <entry>$8.00</entry>
+            <entry>$4.00</entry>
+          </row>
+  
+          <row>
+            <entry>3</entry>
+            <entry>60</entry>
+            <entry>$160</entry>
+            <entry>$240</entry>
+            <entry>$400</entry>
+            <entry>$4.00</entry>
+            <entry>$6.67</entry>
+            <entry>$4.00</entry>
+          </row>
+  
+          <row>
+            <entry>4</entry>
+            <entry>72</entry>
+            <entry>$160</entry>
+            <entry>$320</entry>
+            <entry>$480</entry>
+            <entry>$6.67</entry>
+            <entry>$6.67</entry>
+            <entry>$4.44</entry>
+          </row>
+  
+          <row>
+            <entry>5</entry>
+            <entry>80</entry>
+            <entry>$160</entry>
+            <entry>$400</entry>
+            <entry>$560</entry>
+            <entry>$10.00</entry>
+            <entry>$7.00</entry>
+            <entry>$5.00</entry>
+          </row>
+  
+          <row>
+            <entry>6</entry>
+            <entry>84</entry>
+            <entry>$160</entry>
+            <entry>$480</entry>
+            <entry>$640</entry>
+            <entry>$20.00</entry>
+            <entry>$7.62</entry>
+            <entry>$5.71</entry>
+          </row>
+  
+  
+        </tbody>
+  
+  
+  
+  </tgroup>
+  </table><para id="fs-idm54004032"><term id="term-00011">Average total cost</term> (sometimes referred to simply as average cost) is total cost divided by the quantity of output. Since the total cost of producing 40 haircuts is $320, the average total cost for producing each of 40 haircuts is $320/40, or $8 per haircut. Average cost curves are typically U-shaped, as <link target-id="CNX_Econ_C07_003" document=""/> shows. Average total cost starts off relatively high, because at low levels of output total costs are dominated by the fixed cost. Mathematically, the denominator is so small that average total cost is large. Average total cost then declines, as the fixed costs are spread over an increasing quantity of output. In the average cost calculation, the rise in the numerator of total costs is relatively small compared to the rise in the denominator of quantity produced. However, as output expands still further, the average cost begins to rise. At the right side of the average cost curve, total costs begin rising more rapidly as diminishing returns come into effect.</para><para id="fs-idm42454032">We obtain <term id="term-00012">average variable cost</term> when we divide variable cost by quantity of output. For example, the variable cost of producing 80 haircuts is $400, so the average variable cost is $400/80, or $5 per haircut. Note that at any level of output, the average variable cost curve will always lie below the curve for average total cost, as <link target-id="CNX_Econ_C07_003" document=""/> shows. The reason is that average total cost includes average variable cost and average fixed cost. Thus, for Q = 80 haircuts, the average total cost is $8 per haircut, while the average variable cost is $5 per haircut. However, as output grows, fixed costs become relatively less important (since they do not rise with output), so average variable cost sneaks closer to average cost.</para><para id="fs-idm83686000">Average total and variable costs measure the average costs of producing some quantity of output. Marginal cost is somewhat different. <term id="term-00013">Marginal cost</term> is the additional cost of producing one more unit of output. It is not the cost per unit of <emphasis effect="italics">all</emphasis> units produced, but only the next one (or next few). We calculate marginal cost by taking the change in total cost and dividing it by the change in quantity. For example, as quantity produced increases from 40 to 60 haircuts, total costs rise by 400 – 320, or 80. Thus, the marginal cost for each of those marginal 20 units will be 80/20, or $4 per haircut. The marginal cost curve is generally upward-sloping, because diminishing marginal returns implies that additional units are more costly to produce. We can see small range of increasing marginal returns in the figure as a dip in the marginal cost curve before it starts rising. There is a point at which marginal and average costs meet, as the following Clear it Up feature discusses.</para><note id="fs-idm70710336" class="economics clearup">
+        <title>Where do marginal and average costs meet?</title>
+        <para id="fs-idm67201792">The marginal cost line intersects the average cost line exactly at the bottom of the average cost curve—which occurs at a quantity of 72 and cost of $6.60 in <link target-id="CNX_Econ_C07_003" document=""/>. The reason why the intersection occurs at this point is built into the economic meaning of marginal and average costs. If the marginal cost of production is below the average cost for producing previous units, as it is for the points to the left of where MC crosses ATC, then producing one more additional unit will reduce average costs overall—and the ATC curve will be downward-sloping in this zone. Conversely, if the marginal cost of production for producing an additional unit is above the average cost for producing the earlier units, as it is for points to the right of where MC crosses ATC, then producing a marginal unit will increase average costs overall—and the ATC curve must be upward-sloping in this zone. The point of transition, between where MC is pulling ATC down and where it is pulling it up, must occur at the minimum point of the ATC curve. </para><para id="fs-idm55648768">This idea of the marginal cost “pulling down” the average cost or “pulling up” the average cost may sound abstract, but think about it in terms of your own grades. If the score on the most recent quiz you take is lower than your average score on previous quizzes, then the marginal quiz pulls down your average. If your score on the most recent quiz is higher than the average on previous quizzes, the marginal quiz pulls up your average. In this same way, low marginal costs of production first pull down average costs and then higher marginal costs pull them up. </para>
+      </note>
+  <para id="fs-idm80307024">The numerical calculations behind average cost, average variable cost, and marginal cost will change from firm to firm. However, the general patterns of these curves, and the relationships and economic intuition behind them, will not change.</para>
   </section>
-
-
-<section id="fs-idm46247664" class="critical-thinking">
-  <title>Critical Thinking Questions</title>
-  <exercise id="fs-idm61377552">
-    <problem id="fs-idm58088896">
-      <para id="fs-idm21850816">A common name for fixed cost is “overhead.” If you divide fixed cost by the quantity of output produced, you get average fixed cost. Suppose fixed cost is $1,000. What does the average fixed cost curve look like? Use your response to explain what “spreading the overhead” means.</para>
-    </problem>
-  </exercise>
-
-  <exercise id="fs-idp15241328">
-    <problem id="fs-idm36651424">
-      <para id="fs-idm41309536">How does fixed cost affect marginal cost? Why is this relationship important?</para>
-    </problem>
-  </exercise>
-  <exercise id="fs-idm6163728">
-    <problem id="fs-idm30287152">
-      <para id="fs-idm30310880">Average cost curves (except for average fixed cost) tend to be U-shaped, decreasing and then increasing. Marginal cost curves have the same shape, though this may be harder to see since most of the marginal cost curve is increasing. Why do you think that average and marginal cost curves have the same general shape?</para>
-    </problem>
-  </exercise>
-
-</section>
-
-
-
-<section id="fs-idm13933520" class="problems">
-  <title>Problems</title>
-  <exercise id="fs-idm31031648">
-    <problem id="fs-idm61336112">
-      <para id="fs-idm20159680">Return to <link target-id="CNX_Econ_C07_002" document=""/>. What is the marginal gain in output from increasing the number of barbers from 4 to 5 and from 5 to 6? Does it continue the pattern of diminishing marginal returns?</para></problem>
-  </exercise>
-  <exercise id="fs-idm32682144">
-    <problem id="fs-idm4154848">
-      <para id="fs-idm28877824">Compute the average total cost, average variable cost, and marginal cost of producing 60 and 72 haircuts. Draw the graph of the three curves between 60 and 72 haircuts.</para>
-    </problem>
-  </exercise>
-</section>
-
-</content>
-<glossary>
-   <definition id="fs-idm39256208">
-      <term>average profit</term>
-      <meaning id="fs-idm14236480">profit divided by the quantity of output produced; also known as profit margin</meaning>
-    </definition>
-
-   <definition id="fs-idm50033360">
-      <term>average total cost</term>
-      <meaning id="fs-idm37332864">total cost divided by the quantity of output</meaning>
-    </definition>
-   <definition id="fs-idm35065872">
-      <term>average variable cost</term>
-      <meaning id="fs-idm34564480">variable cost divided by the quantity of output</meaning>
-    </definition>
-   <definition id="fs-idm4491120">
-      <term>fixed cost</term>
-      <meaning id="fs-idm135680">cost of the fixed inputs; expenditure that a firm must make before production starts and that does not change regardless of the production level</meaning>
-    </definition>
-   <definition id="fs-idm14799520">
-      <term>marginal cost</term>
-      <meaning id="fs-idm20606032">the additional cost of producing one more unit; mathematically, <m:math><m:mi>M</m:mi><m:mi>C</m:mi><m:mo>=</m:mo><m:mi>Δ</m:mi><m:mi>T</m:mi><m:mi>C</m:mi><m:mo>/</m:mo><m:mi>Δ</m:mi><m:mi>L</m:mi></m:math></meaning>
-    </definition>
-   <definition id="fs-idm15016912">
-      <term>total cost</term>
-      <meaning id="fs-idm82013952">the sum of fixed and variable costs of production</meaning>
-    </definition>
-   <definition id="fs-idm32742128">
-      <term>variable cost</term>
-      <meaning id="fs-idm91548992">cost of production that increases with the quantity produced; the cost of the variable inputs</meaning>
-    </definition>
-</glossary>
-
-</document>
+  
+  <section id="fs-idm38625792"><title>Lessons from Alternative Measures of Costs</title>
+  <para id="fs-idm23777424">Breaking down total costs into fixed cost, marginal cost, average total cost, and average variable cost is useful because each statistic offers its own insights for the firm.</para>
+  <para id="fs-idp18509888">Whatever the firm’s quantity of production, total revenue must exceed total costs if it is to earn a profit. As explored in the chapter <link document="m63593">Choice in a World of Scarcity</link>, fixed costs are often <term class="no-emphasis" id="term-00014">sunk costs</term> that a firm cannot recoup. In thinking about what to do next, typically you should ignore sunk costs, since you have already spent this money and cannot make any changes. However, you can change variable costs, so they convey information about the firm’s ability to cut costs in the present and the extent to which costs will increase if production rises.</para><note id="fs-idm60136640" class="economics clearup">
+        <title>Why are total cost and average cost not on the same graph?</title>
+        <para id="fs-idm28362272">Total cost, fixed cost, and variable cost each reflect different aspects of the cost of production over the entire quantity of output produced. We measure these costs in dollars. In contrast, marginal cost, average cost, and average variable cost are costs per unit. In the previous example, we measured them as dollars per haircut. Thus, it would not make sense to put all of these numbers on the same graph, since we measure them in different units ($ versus $ per unit of output).</para><para id="fs-idm68541088">It would be as if the vertical axis measured two different things. In addition, as a practical matter, if they were on the same graph, the lines for marginal cost, average cost, and average variable cost would appear almost flat against the horizontal axis, compared to the values for total cost, fixed cost, and variable cost. Using the figures from the previous example, the total cost of producing 40 haircuts is $320. However, the average cost is $320/40, or $8. If you graphed both total and average cost on the same axes, the average cost would hardly show. </para></note>
+  <para id="fs-idm857440">Average cost tells a firm whether it can earn profits given the current price in the market. If we divide profit by the quantity of output produced we get <term id="term-00015">average profit</term>, also known as the firm’s <emphasis effect="italics">profit margin</emphasis>. Expanding the equation for profit gives:</para>
+  
+  <equation class="unnumbered" id="eip-794"><m:math><m:mtable columnspacing="2px 2px 2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>average profit</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mtext>profit</m:mtext><m:mtext>quantity produced</m:mtext></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mtext>total revenue – total cost</m:mtext><m:mtext>quantity produced</m:mtext></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mtext>total revenue</m:mtext><m:mtext>quantity produced</m:mtext></m:mfrac><m:mo>–</m:mo><m:mfrac><m:mtext>total cost</m:mtext><m:mtext>quantity produced</m:mtext></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mtext>average revenue – average cost</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idp22988144">However, note that: </para><equation class="unnumbered" id="eip-14"><m:math><m:mtable columnspacing="2px 2px 2px" columnalign="left center left"><m:mtr><m:mtd><m:mtext>average revenue</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mtext>price × quantity produced</m:mtext><m:mtext>quantity produced</m:mtext></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mtext>price</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="eip-380">Thus:</para><equation class="unnumbered" id="eip-731"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>average profit</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mtext>price – average cost</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm15671920">This is the firm’s <term id="term-00016">profit margin</term>. This definition implies that if the market price is above average cost, average profit, and thus total profit, will be positive. If price is below average cost, then profits will be negative.</para><para id="fs-idp5176656">We can compare this marginal cost of producing an additional unit with the marginal revenue gained by selling that additional unit to reveal whether the additional unit is adding to total profit—or not. Thus, marginal cost helps producers understand how increasing or decreasing production affects profits.</para></section>
+  
+  <section id="fs-idp28698976"><title>A Variety of Cost Patterns</title>
+  <para id="fs-idp15867952">The pattern of costs varies among industries and even among firms in the same industry. Some businesses have high fixed costs, but low marginal costs. Consider, for example, an internet company that provides medical advice to customers. Consumers might pay such a company directly, or perhaps hospitals or healthcare practices might subscribe on behalf of their patients. Setting up the website, collecting the information, writing the content, and buying or leasing the computer space to handle the web traffic are all fixed costs that the company must undertake before the site can work. However, when the website is up and running, it can provide a high quantity of service with relatively low variable costs, like the cost of monitoring the system and updating the information. In this case, the total cost curve might start at a high level, because of the high fixed costs, but then might appear close to flat, up to a large quantity of output, reflecting the low variable costs of operation. If the website is popular, however, a large rise in the number of visitors will overwhelm the website, and increasing output further could require a purchase of additional computer space.</para><para id="fs-idp24744224">For other firms, fixed costs may be relatively low. For example, consider firms that rake leaves in the fall or shovel snow off sidewalks and driveways in the winter. For fixed costs, such firms may need little more than a car to transport workers to homes of customers and some rakes and shovels. Still other firms may find that diminishing marginal returns set in quite sharply. If a manufacturing plant tried to run 24 hours a day, seven days a week, little time remains for routine equipment maintenance, and marginal costs can increase dramatically as the firm struggles to repair and replace overworked equipment.</para><para id="fs-idp26270656">Every firm can gain insight into its task of earning profits by dividing its total costs into fixed and variable costs, and then using these calculations as a basis for average total cost, average variable cost, and marginal cost. However, making a final decision about the profit-maximizing quantity to produce and the price to charge will require combining these perspectives on cost with an analysis of sales and revenue, which in turn requires looking at the market structure in which the firm finds itself. Before we turn to the analysis of market structure in other chapters, we will analyze the firm’s cost structure from a long-run perspective.</para>
+  </section>
+  
+  <section id="fs-idm36976624" class="summary"><title>Key Concepts and Summary</title><para id="eip-id4786462">For every input (e.g., labor), there is an associated factor payment (e.g., wages and salaries).  The cost of production for a given quantity of output is the sum of the amount of each input required to produce that quantity of output times the associated factor payment.</para>
+  
+  <para id="eip-id5986753">In a short-run perspective, we can divide a firm’s total costs into fixed costs, which a firm must incur before producing any output, and variable costs, which the firm incurs in the act of producing. Fixed costs are sunk costs; that is, because they are in the past and the firm cannot alter them, they should play no role in economic decisions about future production or pricing. Variable costs typically show diminishing marginal returns, so that the marginal cost of producing higher levels of output rises.</para>
+  
+  <para id="eip-id1170801738589">We calculate marginal cost by taking the change in total cost (or the change in variable cost, which will be the same thing) and dividing it by the change in output, for each possible change in output. Marginal costs are typically rising. A firm can compare marginal cost to the additional revenue it gains from selling another unit to find out whether its marginal unit is adding to profit.</para>
+  
+  <para id="eip-id1170801360730">We calculate average total cost by taking total cost and dividing by total output at each different level of output.  Average costs are typically U-shaped on a graph. If a firm’s average cost of production is lower than the market price, a firm will be earning profits. </para>
+  
+  <para id="eip-id5985026">We calculate average variable cost by taking variable cost and dividing by the total output at each level of output.  Average variable costs are typically U-shaped.  If a firm’s average variable cost of production is lower than the market price, then the firm would be earning profits if fixed costs are left out of the picture.</para>
+  </section><section id="fs-idm29942864" class="self-check-questions">
+    <title>Self-Check Questions</title>
+    <exercise id="fs-idm67487424"><problem id="fs-idm43173088">
+        <para id="fs-idm37361568">The WipeOut Ski Company manufactures skis for beginners. Fixed costs are $30. Fill in <link target-id="Table_07_04" document=""/> for total cost, average variable cost, average total cost, and marginal cost.</para>
+  
+  <table id="Table_07_04" summary="This table has 7 columns and 7 rows of data. Columns 4-7 are “Total cost”, “Average variable cost”, “Average total cost”, and “Marginal cost” and have all been left blank. Column 1 shows Quantity 0, 1, 2, 3, 4, 5, 6. Column 2 shows Variable cost 0, $10, $25, $45, $70, $100, $135. Column 3 shows Fixed cost $30 all throughout.">
+     <tgroup cols="7">
+  <colspec colnum="1" colname="col1"/>
+  <colspec colnum="2" colname="col2"/>
+  <colspec colnum="3" colname="col3"/>
+  <colspec colnum="4" colname="col3"/>
+  <colspec colnum="5" colname="col3"/>
+  <colspec colnum="6" colname="col3"/>
+  <colspec colnum="7" colname="col3"/>
+  <thead>
+  <row>
+    <entry>Quantity</entry>
+    <entry>Variable Cost</entry>
+    <entry>Fixed Cost</entry>
+    <entry>Total Cost</entry>
+    <entry>Average Variable Cost</entry>
+    <entry>Average Total Cost</entry>
+    <entry>Marginal Cost</entry>
+  </row>
+  </thead>
+  
+        <tbody>
+          <row>
+            <entry>0</entry>
+            <entry>0</entry>
+            <entry>$30</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+  
+          <row>
+            <entry>1</entry>
+            <entry>$10</entry>
+            <entry>$30</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+  
+          <row>
+            <entry>2</entry>
+            <entry>$25</entry>
+            <entry>$30</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+  
+          <row>
+            <entry>3</entry>
+            <entry>$45</entry>
+            <entry>$30</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+  
+          <row>
+            <entry>4</entry>
+            <entry>$70</entry>
+            <entry>$30</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+  
+          <row>
+            <entry>5</entry>
+            <entry>$100</entry>
+            <entry>$30</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+  
+          <row>
+            <entry>6</entry>
+            <entry>$135</entry>
+            <entry>$30</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+  
+  
+        </tbody>
+  
+      </tgroup>
+  
+      </table>
+      </problem>
+      <solution id="fs-idm154753312">
+  
+  <table id="Table_07_05" class="unnumbered" summary="Completed column 4 shows Total cost $30, $40, $55, $75, $100, $130, $165. Completed column 5 shows Average variable cost “blank”, $10, $12.50, $15, $17.50, $20, $22.5. Completed column 6 shows Average total cost “blank”, $40, $27.5, $25, $25, $26, $27.50. Completed column 7 shows marginal cost “blank”, $10, $15, $20, $25, $30, $35."><label/>
+     <tgroup cols="7">
+  <colspec colnum="1" colname="col1"/>
+  <colspec colnum="2" colname="col2"/>
+  <colspec colnum="3" colname="col3"/>
+  <colspec colnum="4" colname="col3"/>
+  <colspec colnum="5" colname="col3"/>
+  <colspec colnum="6" colname="col3"/>
+  <colspec colnum="7" colname="col3"/>
+  <thead>
+  <row>
+    <entry>Quantity</entry>
+    <entry>Variable Cost</entry>
+    <entry>Fixed Cost</entry>
+    <entry>Total Cost</entry>
+    <entry>Average Variable Cost</entry>
+    <entry>Average Total Cost</entry>
+    <entry>Marginal Cost</entry>
+  </row>
+  </thead>
+  
+        <tbody>
+          <row>
+            <entry>0</entry>
+            <entry>0</entry>
+            <entry>$30</entry>
+            <entry>$30</entry>
+            <entry>-</entry>
+            <entry>-</entry>
+            <entry/>
+          </row>
+  
+          <row>
+            <entry>1</entry>
+            <entry>$10</entry>
+            <entry>$30</entry>
+            <entry>$40</entry>
+            <entry>$10.00</entry>
+            <entry>$40.00</entry>
+            <entry>$10</entry>
+          </row>
+  
+          <row>
+            <entry>2</entry>
+            <entry>$25</entry>
+            <entry>$30</entry>
+            <entry>$55</entry>
+            <entry>$12.50</entry>
+            <entry>$27.50</entry>
+            <entry>$15</entry>
+          </row>
+  
+          <row>
+            <entry>3</entry>
+            <entry>$45</entry>
+            <entry>$30</entry>
+            <entry>$75</entry>
+            <entry>$15.00</entry>
+            <entry>$25.00</entry>
+            <entry>$20</entry>
+          </row>
+  
+          <row>
+            <entry>4</entry>
+            <entry>$70</entry>
+            <entry>$30</entry>
+            <entry>$100</entry>
+            <entry>$17.50</entry>
+            <entry>$25.00</entry>
+            <entry>$25</entry>
+          </row>
+  
+          <row>
+            <entry>5</entry>
+            <entry>$100</entry>
+            <entry>$30</entry>
+            <entry>$130</entry>
+            <entry>$20.00</entry>
+            <entry>$26.00</entry>
+            <entry>$30</entry>
+          </row>
+  
+          <row>
+            <entry>6</entry>
+            <entry>$135</entry>
+            <entry>$30</entry>
+            <entry>$165</entry>
+            <entry>$22.50</entry>
+            <entry>$27.50</entry>
+            <entry>$35</entry>
+          </row>
+  
+  
+        </tbody>
+  
+      </tgroup>
+  
+      </table>
+  </solution>
+    </exercise><exercise id="fs-idm78693232">
+      <problem id="fs-idm66001344">
+        <para id="fs-idm63112512">Based on your answers to the WipeOut Ski Company in <link target-id="fs-idm67487424" document=""/>, now imagine a situation where the firm produces a quantity of 5 units that it sells for a price of $25 each.</para><list id="fs-idm10014144" list-type="enumerated" number-style="lower-alpha">
+          <item>What will be the company’s profits or losses?</item>
+          <item>How can you tell at a glance whether the company is making or losing money at this price by looking at average cost?</item>
+          <item>At the given quantity and price, is the marginal unit produced adding to profits?</item>
+        </list>
+  
+      </problem>
+      <solution id="fs-idm16872256">
+        <list id="fs-idm22966192" list-type="enumerated" number-style="lower-alpha">
+          <item>Total revenues in this example will be a quantity of five units multiplied by the price of $25/unit, which equals $125. Total costs when producing five units are $130. Thus, at this level of quantity and output the firm experiences losses (or negative profits) of $5.</item>
+          <item>If price is less than average cost, the firm is not making a profit. At an output of five units, the average cost is $26/unit. Thus, at a glance you can see the firm is making losses. At a second glance, you can see that it must be losing $1 for each unit produced (that is, average cost of $26/unit minus the price of $25/unit). With five units produced, this observation implies total losses of $5.</item>
+          <item>When producing five units, marginal costs are $30/unit. Price is $25/unit. Thus, the marginal unit is not adding to profits, but is actually subtracting from profits, which suggests that the firm should reduce its quantity produced.</item>
+        </list>
+  </solution>
+    </exercise>
+  </section>
+  
+  
+  <section id="fs-idm57014544" class="review-questions">
+    <title>Review Questions</title>
+    <exercise id="fs-idm16908240">
+      <problem id="fs-idm21643024">
+        <para id="fs-idm66187040">How do we calculate marginal product?  </para></problem>
+    </exercise>
+    <exercise id="fs-idm16874112">
+      <problem id="fs-idm67181952">
+        <para id="fs-idm20157872">What shapes would you generally expect a total product curve and a marginal product curve to have?  </para></problem>
+    </exercise>
+    <exercise id="fs-idm34414912">
+      <problem id="fs-idm41147680">
+        <para id="fs-idm2251792">What are the factor payments for land, labor, and capital?</para></problem>
+    </exercise>
+  
+    <exercise id="fs-idm31544768">
+      <problem id="fs-idm36684352">
+        <para id="fs-idm66221840">What is the difference between fixed costs and variable costs?  </para></problem>
+    </exercise>
+  
+    </section>
+  
+  
+  <section id="fs-idm46247664" class="critical-thinking">
+    <title>Critical Thinking Questions</title>
+    <exercise id="fs-idm61377552">
+      <problem id="fs-idm58088896">
+        <para id="fs-idm21850816">A common name for fixed cost is “overhead.” If you divide fixed cost by the quantity of output produced, you get average fixed cost. Suppose fixed cost is $1,000. What does the average fixed cost curve look like? Use your response to explain what “spreading the overhead” means.</para>
+      </problem>
+    </exercise>
+  
+    <exercise id="fs-idp15241328">
+      <problem id="fs-idm36651424">
+        <para id="fs-idm41309536">How does fixed cost affect marginal cost? Why is this relationship important?</para>
+      </problem>
+    </exercise>
+    <exercise id="fs-idm6163728">
+      <problem id="fs-idm30287152">
+        <para id="fs-idm30310880">Average cost curves (except for average fixed cost) tend to be U-shaped, decreasing and then increasing. Marginal cost curves have the same shape, though this may be harder to see since most of the marginal cost curve is increasing. Why do you think that average and marginal cost curves have the same general shape?</para>
+      </problem>
+    </exercise>
+  
+  </section>
+  
+  
+  
+  <section id="fs-idm13933520" class="problems">
+    <title>Problems</title>
+    <exercise id="fs-idm31031648">
+      <problem id="fs-idm61336112">
+        <para id="fs-idm20159680">Return to <link target-id="CNX_Econ_C07_002" document=""/>. What is the marginal gain in output from increasing the number of barbers from 4 to 5 and from 5 to 6? Does it continue the pattern of diminishing marginal returns?</para></problem>
+    </exercise>
+    <exercise id="fs-idm32682144">
+      <problem id="fs-idm4154848">
+        <para id="fs-idm28877824">Compute the average total cost, average variable cost, and marginal cost of producing 60 and 72 haircuts. Draw the graph of the three curves between 60 and 72 haircuts.</para>
+      </problem>
+    </exercise>
+  </section>
+  
+  </content>
+  <glossary>
+     <definition id="fs-idm39256208">
+        <term>average profit</term>
+        <meaning id="fs-idm14236480">profit divided by the quantity of output produced; also known as profit margin</meaning>
+      </definition>
+  
+     <definition id="fs-idm50033360">
+        <term>average total cost</term>
+        <meaning id="fs-idm37332864">total cost divided by the quantity of output</meaning>
+      </definition>
+     <definition id="fs-idm35065872">
+        <term>average variable cost</term>
+        <meaning id="fs-idm34564480">variable cost divided by the quantity of output</meaning>
+      </definition>
+     <definition id="fs-idm4491120">
+        <term>fixed cost</term>
+        <meaning id="fs-idm135680">cost of the fixed inputs; expenditure that a firm must make before production starts and that does not change regardless of the production level</meaning>
+      </definition>
+     <definition id="fs-idm14799520">
+        <term>marginal cost</term>
+        <meaning id="fs-idm20606032">the additional cost of producing one more unit; mathematically, <m:math><m:mi>M</m:mi><m:mi>C</m:mi><m:mo>=</m:mo><m:mi>Δ</m:mi><m:mi>T</m:mi><m:mi>C</m:mi><m:mo>/</m:mo><m:mi>Δ</m:mi><m:mi>L</m:mi></m:math></meaning>
+      </definition>
+     <definition id="fs-idm15016912">
+        <term>total cost</term>
+        <meaning id="fs-idm82013952">the sum of fixed and variable costs of production</meaning>
+      </definition>
+     <definition id="fs-idm32742128">
+        <term>variable cost</term>
+        <meaning id="fs-idm91548992">cost of production that increases with the quantity produced; the cost of the variable inputs</meaning>
+      </definition>
+  </glossary>
+  
+  </document>

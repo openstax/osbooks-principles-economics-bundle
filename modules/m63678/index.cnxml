@@ -1,103 +1,103 @@
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
 
-<title>Production in the Short Run</title>
-<metadata xmlns:md="http://cnx.rice.edu/mdml">
-  <md:content-id>m63678</md:content-id>
-  <md:title>Production in the Short Run</md:title>
-  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para><list id="list-00001">
-<item>Understand the concept of a production function</item>
-<item>Differentiate between the different types of inputs or factors in a production function</item>
-<item>Differentiate between fixed and variable inputs</item>
-<item>Differentiate between production in the short run and in the long run</item>
-<item>Differentiate between total and marginal product</item>
-<item>Understand the concept of diminishing marginal productivity</item>
-</list></md:abstract>
-  <md:uuid>992fe9d7-917e-4ac5-bd37-bd65edb96600</md:uuid>
-</metadata>
-
-<content>
-  <para id="eip-217">In this chapter, we want to explore the relationship between the quantity of output a firm produces, and the cost of producing that output.  We mentioned that the cost of the product depends on how many inputs are required to produce the product and what those inputs cost.  We can answer the former question by looking at the firm’s production function.</para>
-<figure id="fs-id1168148721712"><media id="fs-id1168147930665" alt="Image of a pizza peel with mushroom and arugula."><image mime-type="image/jpeg" src="../../media/CNX_Econ2e_C07_000.jpg"/></media><caption>The production process for pizza includes inputs such as ingredients, the efforts of the pizza maker, and tools and materials for cooking and serving. (Credit: Haldean Brown/Flickr Creative Commons)</caption></figure><para id="eip-442">Production is the process (or processes) a firm uses to transform inputs (e.g. labor, capital, raw materials) into outputs, i.e. the goods or services the firm wishes to sell. Consider pizza making. The pizzaiolo (pizza maker) takes flour, water, and yeast to make dough. Similarly, the pizzaiolo may take tomatoes, spices, and water to make pizza sauce. The cook rolls out the dough, brushes on the pizza sauce, and adds cheese and other toppings. The pizzaiolo uses a peel—the shovel-like wooden tool—to put the pizza into the oven to cook. Once baked, the pizza goes into a box (if it’s for takeout) and the customer pays for the good. What are the inputs (or factors of production) in the production process for this pizza?  </para><para id="eip-240">Economists divide factors of production into several categories:</para><list id="eip-100"><item><term id="term-00001">Natural Resources (Land and Raw Materials)</term> - The ingredients for the pizza are raw materials.  These include the flour, yeast, and water for the dough, the tomatoes, herbs, and water for the sauce, the cheese, and the toppings.  If the pizza place uses a wood-burning oven, we would include the wood as a raw material.  If the establishment heats the oven with natural gas, we would count this as a raw material. Don’t forget electricity for lights.  If, instead of pizza, we were looking at an agricultural product, like wheat, we would include the land the farmer used for crops here.</item>
-<item><term id="term-00002">Labor</term> – When we talk about production, labor means human effort, both physical and mental.  The pizzaiolo was the primary example of labor here.  He or she needs to be strong enough to roll out the dough and to insert and retrieve the pizza from the oven, but he or she also needs to know <emphasis>how</emphasis> to make the pizza, how long it cooks in the oven and a myriad of other aspects of pizza-making.  The business may also have one or more people to work the counter, take orders, and receive payment.</item>
-<item><term id="term-00003">Capital</term> – When economists uses the term capital, they do not mean financial capital (money); rather, they mean physical capital, the machines, equipment, and buildings that one uses to produce the product.  In the case of pizza, the capital includes the peel, the oven, the building, and any other necessary equipment (for example, tables and chairs).</item>
-<item><term id="term-00004">Technology</term> – Technology refers to the process or processes for producing the product.  How does the pizzaiolo combine ingredients to make pizza?  How hot should the oven be?  How long should the pizza cook?  What is the best oven to use?  Gas or wood burning?  Should the restaurant make its own dough, sauce, cheese, toppings, or should it buy them?</item>
-<item><term id="term-00005">Entrepreneurship</term> – Production involves many decisions and much knowledge, even for something as simple as pizza.  Who makes those decisions?  Ultimately, it is the entrepreneur, the person who creates the business, whose idea it is to combine the inputs to produce the outputs. </item></list><para id="eip-154">The cost of producing pizza (or any output) depends on the amount of labor capital, raw materials, and other inputs required and the price of each input to the entrepreneur.  Let’s explore these ideas in more detail. </para><para id="eip-646">We can summarize the ideas so far in terms of a <term id="term-00006">production function</term>, a mathematical expression or equation that explains the engineering relationship between inputs and outputs:</para><equation id="eip-973" class="unnumbered"><m:math><m:mi>Q</m:mi><m:mo>=</m:mo><m:mi>f</m:mi><m:mo>[</m:mo><m:mi>N</m:mi><m:mi>R</m:mi><m:mtext>,</m:mtext><m:mspace width="0.2em"/><m:mi>L</m:mi><m:mtext>,</m:mtext><m:mspace width="0.2em"/><m:mi>K</m:mi><m:mtext>,</m:mtext><m:mspace width="0.2em"/> <m:mi>t</m:mi><m:mtext>,</m:mtext><m:mspace width="0.2em"/><m:mi>E</m:mi><m:mo>]</m:mo></m:math></equation><para id="eip-447">The production function gives the answer to the question, how much output can the firm produce given different amounts of inputs?  Production functions are specific to the product.  Different products have different production functions.  The amount of labor a farmer uses to produce a bushel of wheat is likely different than that required to produce an automobile. Firms in the same industry may have somewhat different production functions, since each firm may produce a little differently.  One pizza restaurant may make its own dough and sauce, while another may buy those pre-made.  A sit-down pizza restaurant probably uses more labor (to handle table service) than a purely take-out restaurant.</para><para id="eip-353">We can describe inputs as either <term id="term-00007">fixed</term> or <term id="term-00008">variable</term>.</para><para id="eip-687"><term id="term-00009">Fixed inputs</term> are those that can’t easily be increased or decreased in a short period of time.  In the pizza example, the building is a fixed input.  Once the entrepreneur signs the lease, he or she is stuck in the building until the lease expires.  Fixed inputs define the firm’s maximum output capacity.  This is analogous to the potential real GDP shown by society’s production possibilities curve, i.e. the maximum quantities of outputs a society can produce at a given time with its available resources.</para><para id="eip-446"><term id="term-00010">Variable inputs</term> are those that can easily be increased or decreased in a short period of time.  The pizzaiolo can order more ingredients with a phone call, so ingredients would be variable inputs.  The owner could hire a new person to work the counter pretty quickly as well.  </para><para id="eip-480">Economists often use a short-hand form for the production function:</para><equation id="eip-989" class="unnumbered"><m:math><m:mi>Q</m:mi><m:mo>=</m:mo><m:mi>f</m:mi><m:mo>[</m:mo><m:mi>L</m:mi><m:mtext>,</m:mtext><m:mspace width="0.2em"/><m:mi>K</m:mi><m:mo>]</m:mo><m:mtext>,</m:mtext></m:math></equation><para id="eip-530">where L represents all the variable inputs, and K represents all the fixed inputs.</para><para id="eip-725">Economists differentiate between short and long run production. </para><para id="eip-308">The <term id="term-00011">short run</term> is the period of time during which at least some factors of production are fixed.  During the period of the pizza restaurant lease, the pizza restaurant is operating in the short run, because it is limited to using the current building—the owner can’t choose a larger or smaller building.</para><para id="eip-598">The <term id="term-00012">long run</term> is the period of time during which all factors are variable.  Once the lease expires for the pizza restaurant, the shop owner can move to a larger or smaller place.</para><para id="eip-618">Let’s explore production in the short run using a specific example: tree cutting (for lumber) with a two-person crosscut saw.  </para>
-<figure id="fs-id1168143098941"><media id="fs-id1168147446066" alt="Image of two men at a crosscut saw event."><image mime-type="image/jpeg" src="../../media/CNX_Econ2e_C07_001.jpg"/></media><caption>Production in the short run may be explored through the example of lumberjacks using a two-person saw. (Credit: Wknight94/Wikimedia Commons)</caption></figure><para id="eip-444">Since by definition capital is fixed in the short run, our production function becomes </para><equation id="eip-338" class="unnumbered"><m:math><m:mi>Q</m:mi><m:mo>=</m:mo><m:mi>f</m:mi><m:mo stretchy="false">[</m:mo><m:mi>L</m:mi><m:mtext>,</m:mtext><m:mspace width="0.2em"/><m:mover><m:mi>K</m:mi><m:mo>−</m:mo></m:mover><m:mo stretchy="false">]</m:mo><m:mspace width="0.2em"/><m:mtext>or</m:mtext><m:mspace width="0.2em"/><m:mi>Q</m:mi><m:mo>=</m:mo><m:mi>f</m:mi><m:mo stretchy="false">[</m:mo><m:mi>L</m:mi><m:mo stretchy="false">]</m:mo></m:math></equation><para id="eip-839">This equation simply indicates that since capital is fixed, the amount of output (e.g. trees cut down per day) depends only on the amount of labor employed (e.g. number of lumberjacks working).  We can express this production function numerically as <link target-id="eip-600"/> below shows.</para><table id="eip-600" summary="Increased quantities of lumberjacks result in more trees cut. One lumberjack cuts down four trees, with marginal product (abbreviated M P) of four. Two lumberjacks cut ten trees, with a marginal product of six. Three lumberjacks cut twelve trees, with a marginal product of 2. Four lumberjacks cut thirteen trees, with a marginal product of one. Five lumberjacks also cut thirteen trees, with a marginal product of zero."><title>Short Run Production Function for Trees</title>
-<tgroup cols="6"><tbody>
-  <row>
-    <entry align="center"># Lumberjacks</entry>
-    <entry align="center">1</entry>
-    <entry align="center">2</entry>
-    <entry align="center">3</entry>
-    <entry align="center">4</entry>
-    <entry align="center">5</entry>
-  </row>
-  <row>
-    <entry align="center"># Trees (TP)</entry>
-    <entry align="center">4</entry>
-    <entry align="center">10</entry>
-    <entry align="center">12</entry>
-    <entry align="center">13</entry>
-    <entry align="center">13</entry>
-  </row>
-  <row>
-    <entry align="center">MP</entry>
-    <entry align="center">4</entry>
-    <entry align="center">6</entry>
-    <entry align="center">2</entry>
-    <entry align="center">1</entry>
-    <entry align="center">0</entry>
-  </row>
-</tbody>
-
-</tgroup>
-</table><para id="eip-711">Note that we have introduced some new language.  We also call Output (Q) Total Product (TP), which means the amount of output produced with a given amount of labor and a fixed amount of capital.  In this example, one lumberjack using a two-person saw can cut down four trees in an hour.  Two lumberjacks using a two-person saw can cut down ten trees in an hour.</para><para id="eip-196">We should also introduce a critical concept: <term id="term-00013">marginal product</term>.  Marginal product is the additional output of one more worker.  Mathematically, Marginal Product is the change in total product divided by the change in labor:  <m:math><m:mi>M</m:mi><m:mi>P</m:mi><m:mo>=</m:mo><m:mi>Δ</m:mi><m:mi>T</m:mi><m:mi>P</m:mi><m:mo>/</m:mo><m:mi>Δ</m:mi><m:mi>L</m:mi></m:math>. In the table above, since 0 workers produce 0 trees, the marginal product of the first worker is four trees per day, but the marginal product of the second worker is six trees per day.  Why might that be the case?  It’s because of the nature of the capital the workers are using.  A two-person saw works much better with two persons than with one.  Suppose we add a third lumberjack to the story.  What will that person’s marginal product be?  What will that person contribute to the team?  Perhaps he or she can oil the saw's teeth to keep it sawing smoothly or he or she could bring water to the two people sawing.  What you see in the table is a critically important conclusion about production in the short run: It may be that as we add workers, the marginal product increases at first, but sooner or later additional workers will have decreasing marginal product. In fact, there may eventually be no effect or a negative effect on output.  This is called the <term id="term-00014">Law of Diminishing Marginal Product</term> and it’s a characteristic of production in the short run.  Diminishing marginal productivity is very similar to the concept of diminishing marginal utility that we learned about in the chapter on consumer choice.  Both concepts are examples of the more general concept of diminishing marginal returns.  Why does diminishing marginal productivity occur?  It’s because of fixed capital.  We will see this more clearly when we discuss production in the long run.</para><para id="eip-676">We can show these concepts graphically as <link target-id="fs-id1169820082704"/> and <link target-id="fs-id1169819510579"/> illustrate.  <link target-id="fs-id1169820082704"/> graphically shows the data from <link target-id="eip-600"/>.  <link target-id="fs-id1169819510579"/> shows the more general cases of total product and marginal product curves.</para><figure id="fs-id1169820082704"><media id="fs-id1169820381951" alt="Figure 7.5a is a graph showing the short run total product for trees.  The x-axis is the number of lumberjacks and is numbered one through five.  The y-axis is the number of trees and is numbered zero through sixteen in increments of four.   The curve begins at the left of the graph, at coordinates indicating one lumberjack and four trees.  It curves upward as it moves to the right, as the number of lumberjacks increases.  It levels off at thirteen.                                       Figure 7.5b is a graph showing the marginal product for trees.  The x-axis is the number of lumberjacks and is numbered one through five.  The y-axis is the marginal product and is numbered zero through eight in increments of two.  The curve begins at the left of the graph, at coordinates indicating one lumberjack and a marginal product of four.  It then increases (moves up) to a marginal product of six when the lumberjacks increase to two, but then proceeds downward and to the right as the number of lumberjacks increases, ultimately reaching zero when the number of lumberjacks equals five.                                         "><image mime-type="image/jpeg" src="../../media/CNX_Econ2e_C7_004.jpg"/></media></figure><figure id="fs-id1169819510579"><media id="fs-id1169819347233" alt="The graph shows the data from figure 7.2.  The x-axis is the change in labor, and is labelled L.  The y-axis is the change in total product, and is labelled TP.  The curve in the graph starts relatively steeply, and levels off after time. The graph shows the more general cases of total product and marginal product curves.  The x-axis is labor, and is labelled L.  The y-axis is marginal product, and is labeled MP.  The graph initially curves upward, then peaks before continuning in a downward direction until it tails off near the x-axis, showing nearly zero marginal product as labor increases.   "><image mime-type="image/jpeg" src="../../media/CNX_Econ2e_C7_005.jpg"/></media></figure><section id="fs-id4331933" class="summary"><title>Key Concepts and Summary </title><para id="fs-id5904782">Production is the process a firm uses to transform inputs (e.g. labor, capital, raw materials, etc.) into outputs. It is not possible to vary fixed inputs (e.g. capital) in a short period of time.  Thus, in the short run the only way to change output is to change the variable inputs (e.g. labor).  Marginal product is the additional output a firm obtains by employing more labor in production.  At some point, employing additional labor leads to diminishing marginal productivity, meaning the additional output obtained is less than for the previous increment to labor.  Mathematically, marginal product is the slope of the total product curve.</para></section>
-<section id="fs-idm476761328" class="review-questions"><title>Review Questions</title><exercise id="eip-865"><problem id="eip-140">
-  <para id="eip-617">
-    What is a production function?   
-  </para>
-</problem>
-
-
-</exercise><exercise id="eip-661"><problem id="eip-947">
-  <para id="eip-939">
-    What is the difference between a fixed input and a variable input?    
-  </para>
-</problem>
-
-</exercise></section></content>
-<glossary>
-<definition id="fs-id1166742187022">
-<term>diminishing marginal productivity</term>
-<meaning id="fs-id1166742154447">general rule that as a firm employs more labor, eventually the amount of additional output produced declines</meaning>
-</definition>
-<definition id="fs-id7093140">
-<term>factors of production (or inputs)</term>
-<meaning id="fs-id1211588">resources that firms use to produce their products, for example, labor and capital</meaning>
-</definition>
-<definition id="fs-id1164567565507">
-<term>fixed inputs</term>
-<meaning id="fs-id1164567565652">factors of production that can’t be easily increased or decreased in a short period of time</meaning>
-</definition>
-<definition id="fs-id1168119498237">
-<term>marginal product</term>
-<meaning id="fs-id1168114583507">change in a firm’s output when it employees more labor;  mathematically, <m:math><m:mi>M</m:mi><m:mi>P</m:mi><m:mo>=</m:mo><m:mi>Δ</m:mi><m:mi>T</m:mi><m:mi>P</m:mi><m:mo>/</m:mo><m:mi>Δ</m:mi><m:mi>L</m:mi></m:math></meaning>
-</definition>
-<definition id="fs-id1166031055231">
-<term>production function</term>
-<meaning id="fs-id1166031055236">mathematical equation that tells how much output a firm can produce with given amounts of the inputs</meaning>
-</definition>
-<definition id="fs-id1167539748944">
-<term>short run</term>
-<meaning id="fs-id1167524581332">period of time during which at least one or more of the firm’s inputs is fixed</meaning>
-</definition>
-<definition id="fs-id1165959365250">
-<term>total product</term>
-<meaning id="fs-id1165963071643">synonym for a firm’s output</meaning>
-</definition>
-<definition id="fs-id1165995931353">
-<term>variable inputs</term>
-<meaning id="fs-id1165950490432">factors of production that a firm can easily increase or decrease in a short period of time</meaning>
-</definition>
-</glossary>
-</document>
+  <title>Production in the Short Run</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:content-id>m63678</md:content-id>
+    <md:title>Production in the Short Run</md:title>
+    <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para><list id="list-00001">
+  <item>Understand the concept of a production function</item>
+  <item>Differentiate between the different types of inputs or factors in a production function</item>
+  <item>Differentiate between fixed and variable inputs</item>
+  <item>Differentiate between production in the short run and in the long run</item>
+  <item>Differentiate between total and marginal product</item>
+  <item>Understand the concept of diminishing marginal productivity</item>
+  </list></md:abstract>
+    <md:uuid>992fe9d7-917e-4ac5-bd37-bd65edb96600</md:uuid>
+  </metadata>
+  
+  <content>
+    <para id="eip-217">In this chapter, we want to explore the relationship between the quantity of output a firm produces, and the cost of producing that output.  We mentioned that the cost of the product depends on how many inputs are required to produce the product and what those inputs cost.  We can answer the former question by looking at the firm’s production function.</para>
+  <figure id="fs-id1168148721712"><media id="fs-id1168147930665" alt="Image of a pizza peel with mushroom and arugula."><image mime-type="image/jpeg" src="../../media/CNX_Econ2e_C07_000.jpg"/></media><caption>The production process for pizza includes inputs such as ingredients, the efforts of the pizza maker, and tools and materials for cooking and serving. (Credit: Haldean Brown/Flickr Creative Commons)</caption></figure><para id="eip-442">Production is the process (or processes) a firm uses to transform inputs (e.g., labor, capital, raw materials) into outputs, i.e. the goods or services the firm wishes to sell. Consider pizza making. The pizzaiolo (pizza maker) takes flour, water, and yeast to make dough. Similarly, the pizzaiolo may take tomatoes, spices, and water to make pizza sauce. The cook rolls out the dough, brushes on the pizza sauce, and adds cheese and other toppings. The pizzaiolo uses a peel—the shovel-like wooden tool—to put the pizza into the oven to cook. Once baked, the pizza goes into a box (if it’s for takeout) and the customer pays for the good. What are the inputs (or factors of production) in the production process for this pizza?  </para><para id="eip-240">Economists divide factors of production into several categories:</para><list id="eip-100"><item><term id="term-00001">Natural Resources (Land and Raw Materials)</term> - The ingredients for the pizza are raw materials.  These include the flour, yeast, and water for the dough, the tomatoes, herbs, and water for the sauce, the cheese, and the toppings.  If the pizza place uses a wood-burning oven, we would include the wood as a raw material.  If the establishment heats the oven with natural gas, we would count this as a raw material. Don’t forget electricity for lights.  If, instead of pizza, we were looking at an agricultural product, like wheat, we would include the land the farmer used for crops here.</item>
+  <item><term id="term-00002">Labor</term> – When we talk about production, labor means human effort, both physical and mental.  The pizzaiolo was the primary example of labor here. They need to be strong enough to roll out the dough and to insert and retrieve the pizza from the oven, but they also must know <emphasis>how</emphasis> to make the pizza, how long it cooks in the oven and a myriad of other aspects of pizza-making.  The business may also have one or more people to work the counter, take orders, and receive payment.</item>
+  <item><term id="term-00003">Capital</term> – When economists uses the term capital, they do not mean financial capital (money); rather, they mean physical capital, the machines, equipment, and buildings that one uses to produce the product.  In the case of pizza, the capital includes the peel, the oven, the building, and any other necessary equipment (for example, tables and chairs).</item>
+  <item><term id="term-00004">Technology</term> – Technology refers to the process or processes for producing the product.  How does the pizzaiolo combine ingredients to make pizza?  How hot should the oven be?  How long should the pizza cook?  What is the best oven to use?  Gas or wood burning?  Should the restaurant make its own dough, sauce, cheese, toppings, or should it buy them?</item>
+  <item><term id="term-00005">Entrepreneurship</term> – Production involves many decisions and much knowledge, even for something as simple as pizza.  Who makes those decisions?  Ultimately, it is the entrepreneur, the person who creates the business, whose idea it is to combine the inputs to produce the outputs. </item></list><para id="eip-154">The cost of producing pizza (or any output) depends on the amount of labor capital, raw materials, and other inputs required and the price of each input to the entrepreneur.  Let’s explore these ideas in more detail. </para><para id="eip-646">We can summarize the ideas so far in terms of a <term id="term-00006">production function</term>, a mathematical expression or equation that explains the engineering relationship between inputs and outputs:</para><equation id="eip-973" class="unnumbered"><m:math><m:mi>Q</m:mi><m:mo>=</m:mo><m:mi>f</m:mi><m:mo>[</m:mo><m:mi>N</m:mi><m:mi>R</m:mi><m:mtext>,</m:mtext><m:mspace width="0.2em"/><m:mi>L</m:mi><m:mtext>,</m:mtext><m:mspace width="0.2em"/><m:mi>K</m:mi><m:mtext>,</m:mtext><m:mspace width="0.2em"/> <m:mi>t</m:mi><m:mtext>,</m:mtext><m:mspace width="0.2em"/><m:mi>E</m:mi><m:mo>]</m:mo></m:math></equation><para id="eip-447">The production function gives the answer to the question, how much output can the firm produce given different amounts of inputs?  Production functions are specific to the product.  Different products have different production functions.  The amount of labor a farmer uses to produce a bushel of wheat is likely different than that required to produce an automobile. Firms in the same industry may have somewhat different production functions, since each firm may produce a little differently.  One pizza restaurant may make its own dough and sauce, while another may buy those pre-made.  A sit-down pizza restaurant probably uses more labor (to handle table service) than a purely take-out restaurant.</para><para id="eip-353">We can describe inputs as either <term id="term-00007">fixed</term> or <term id="term-00008">variable</term>.</para><para id="eip-687"><term id="term-00009">Fixed inputs</term> are those that can’t easily be increased or decreased in a short period of time.  In the pizza example, the building is a fixed input. The restaurant owner signs a lease and is stuck in the building until the lease expires.  Fixed inputs define the firm’s maximum output capacity.  This is analogous to the potential real GDP shown by society’s production possibilities curve, i.e., the maximum quantities of outputs a society can produce at a given time with its available resources.</para><para id="eip-446"><term id="term-00010">Variable inputs</term> are those that can easily be increased or decreased in a short period of time.  The pizzaiolo can order more ingredients with a phone call, so ingredients would be variable inputs.  The owner could hire a new person to work the counter pretty quickly as well.  </para><para id="eip-480">Economists often use a short-hand form for the production function:</para><equation id="eip-989" class="unnumbered"><m:math><m:mi>Q</m:mi><m:mo>=</m:mo><m:mi>f</m:mi><m:mo>[</m:mo><m:mi>L</m:mi><m:mtext>,</m:mtext><m:mspace width="0.2em"/><m:mi>K</m:mi><m:mo>]</m:mo><m:mtext>,</m:mtext></m:math></equation><para id="eip-530">where L represents all the variable inputs, and K represents all the fixed inputs.</para><para id="eip-725">Economists differentiate between short and long run production. </para><para id="eip-308">The <term id="term-00011">short run</term> is the period of time during which at least some factors of production are fixed.  During the period of the pizza restaurant lease, the pizza restaurant is operating in the short run, because it is limited to using the current building—the owner can’t choose a larger or smaller building.</para><para id="eip-598">The <term id="term-00012">long run</term> is the period of time during which all factors are variable.  Once the lease expires for the pizza restaurant, the shop owner can move to a larger or smaller place.</para><para id="eip-618">Let’s explore production in the short run using a specific example: tree cutting (for lumber) with a two-person crosscut saw.  </para>
+  <figure id="fs-id1168143098941"><media id="fs-id1168147446066" alt="Image of two men at a crosscut saw event."><image mime-type="image/jpeg" src="../../media/CNX_Econ2e_C07_001.jpg"/></media><caption>Production in the short run may be explored through the example of lumberjacks using a two-person saw. (Credit: Wknight94/Wikimedia Commons)</caption></figure><para id="eip-444">Since by definition capital is fixed in the short run, our production function becomes </para><equation id="eip-338" class="unnumbered"><m:math><m:mi>Q</m:mi><m:mo>=</m:mo><m:mi>f</m:mi><m:mo stretchy="false">[</m:mo><m:mi>L</m:mi><m:mtext>,</m:mtext><m:mspace width="0.2em"/><m:mover><m:mi>K</m:mi><m:mo>−</m:mo></m:mover><m:mo stretchy="false">]</m:mo><m:mspace width="0.2em"/><m:mtext>or</m:mtext><m:mspace width="0.2em"/><m:mi>Q</m:mi><m:mo>=</m:mo><m:mi>f</m:mi><m:mo stretchy="false">[</m:mo><m:mi>L</m:mi><m:mo stretchy="false">]</m:mo></m:math></equation><para id="eip-839">This equation simply indicates that since capital is fixed, the amount of output (e.g., trees cut down per day) depends only on the amount of labor employed (e.g., number of lumberjacks working).  We can express this production function numerically as <link target-id="eip-600"/> below shows.</para><table id="eip-600" summary="Increased quantities of lumberjacks result in more trees cut. One lumberjack cuts down four trees, with marginal product (abbreviated M P) of four. Two lumberjacks cut ten trees, with a marginal product of six. Three lumberjacks cut twelve trees, with a marginal product of 2. Four lumberjacks cut thirteen trees, with a marginal product of one. Five lumberjacks also cut thirteen trees, with a marginal product of zero."><title>Short Run Production Function for Trees</title>
+  <tgroup cols="6"><tbody>
+    <row>
+      <entry align="center"># Lumberjacks</entry>
+      <entry align="center">1</entry>
+      <entry align="center">2</entry>
+      <entry align="center">3</entry>
+      <entry align="center">4</entry>
+      <entry align="center">5</entry>
+    </row>
+    <row>
+      <entry align="center"># Trees (TP)</entry>
+      <entry align="center">4</entry>
+      <entry align="center">10</entry>
+      <entry align="center">12</entry>
+      <entry align="center">13</entry>
+      <entry align="center">13</entry>
+    </row>
+    <row>
+      <entry align="center">MP</entry>
+      <entry align="center">4</entry>
+      <entry align="center">6</entry>
+      <entry align="center">2</entry>
+      <entry align="center">1</entry>
+      <entry align="center">0</entry>
+    </row>
+  </tbody>
+  
+  </tgroup>
+  </table><para id="eip-711">Note that we have introduced some new language.  We also call Output (Q) Total Product (TP), which means the amount of output produced with a given amount of labor and a fixed amount of capital.  In this example, one lumberjack using a two-person saw can cut down four trees in an hour.  Two lumberjacks using a two-person saw can cut down ten trees in an hour.</para><para id="eip-196">We should also introduce a critical concept: <term id="term-00013">marginal product</term>.  Marginal product is the additional output of one more worker.  Mathematically, Marginal Product is the change in total product divided by the change in labor:  <m:math><m:mi>M</m:mi><m:mi>P</m:mi><m:mo>=</m:mo><m:mi>Δ</m:mi><m:mi>T</m:mi><m:mi>P</m:mi><m:mo>/</m:mo><m:mi>Δ</m:mi><m:mi>L</m:mi></m:math>. In the table above, since 0 workers produce 0 trees, the marginal product of the first worker is four trees per day, but the marginal product of the second worker is six trees per day.  Why might that be the case?  It’s because of the nature of the capital the workers are using.  A two-person saw works much better with two persons than with one.  Suppose we add a third lumberjack to the story.  What will that person’s marginal product be?  What will that person contribute to the team? Perhaps they can oil the saw's teeth to keep it sawing smoothly or they could bring water to the two people sawing.  What you see in the table is a critically important conclusion about production in the short run: It may be that as we add workers, the marginal product increases at first, but sooner or later additional workers will have decreasing marginal product. In fact, there may eventually be no effect or a negative effect on output.  This is called the <term id="term-00014">Law of Diminishing Marginal Product</term> and it’s a characteristic of production in the short run.  Diminishing marginal productivity is very similar to the concept of diminishing marginal utility that we learned about in the chapter on consumer choice.  Both concepts are examples of the more general concept of diminishing marginal returns.  Why does diminishing marginal productivity occur?  It’s because of fixed capital.  We will see this more clearly when we discuss production in the long run.</para><para id="eip-676">We can show these concepts graphically as <link target-id="fs-id1169820082704"/> and <link target-id="fs-id1169819510579"/> illustrate.  <link target-id="fs-id1169820082704"/> graphically shows the data from <link target-id="eip-600"/>.  <link target-id="fs-id1169819510579"/> shows the more general cases of total product and marginal product curves.</para><figure id="fs-id1169820082704"><media id="fs-id1169820381951" alt="Figure 7.5a is a graph showing the short run total product for trees.  The x-axis is the number of lumberjacks and is numbered one through five.  The y-axis is the number of trees and is numbered zero through sixteen in increments of four.   The curve begins at the left of the graph, at coordinates indicating one lumberjack and four trees.  It curves upward as it moves to the right, as the number of lumberjacks increases.  It levels off at thirteen.                                       Figure 7.5b is a graph showing the marginal product for trees.  The x-axis is the number of lumberjacks and is numbered one through five.  The y-axis is the marginal product and is numbered zero through eight in increments of two.  The curve begins at the left of the graph, at coordinates indicating one lumberjack and a marginal product of four.  It then increases (moves up) to a marginal product of six when the lumberjacks increase to two, but then proceeds downward and to the right as the number of lumberjacks increases, ultimately reaching zero when the number of lumberjacks equals five.                                         "><image mime-type="image/jpeg" src="../../media/CNX_Econ2e_C7_004.jpg"/></media></figure><figure id="fs-id1169819510579"><media id="fs-id1169819347233" alt="The graph shows the data from figure 7.2.  The x-axis is the change in labor, and is labelled L.  The y-axis is the change in total product, and is labelled TP.  The curve in the graph starts relatively steeply, and levels off after time. The graph shows the more general cases of total product and marginal product curves.  The x-axis is labor, and is labelled L.  The y-axis is marginal product, and is labeled MP.  The graph initially curves upward, then peaks before continuning in a downward direction until it tails off near the x-axis, showing nearly zero marginal product as labor increases.   "><image mime-type="image/jpeg" src="../../media/CNX_Econ2e_C7_005.jpg"/></media></figure><section id="fs-id4331933" class="summary"><title>Key Concepts and Summary </title><para id="fs-id5904782">Production is the process a firm uses to transform inputs (e.g., labor, capital, raw materials, etc.) into outputs. It is not possible to vary fixed inputs (e.g., capital) in a short period of time.  Thus, in the short run the only way to change output is to change the variable inputs (e.g., labor).  Marginal product is the additional output a firm obtains by employing more labor in production.  At some point, employing additional labor leads to diminishing marginal productivity, meaning the additional output obtained is less than for the previous increment to labor.  Mathematically, marginal product is the slope of the total product curve.</para></section>
+  <section id="fs-idm476761328" class="review-questions"><title>Review Questions</title><exercise id="eip-865"><problem id="eip-140">
+    <para id="eip-617">
+      What is a production function?   
+    </para>
+  </problem>
+  
+  
+  </exercise><exercise id="eip-661"><problem id="eip-947">
+    <para id="eip-939">
+      What is the difference between a fixed input and a variable input?    
+    </para>
+  </problem>
+  
+  </exercise></section></content>
+  <glossary>
+  <definition id="fs-id1166742187022">
+  <term>diminishing marginal productivity</term>
+  <meaning id="fs-id1166742154447">general rule that as a firm employs more labor, eventually the amount of additional output produced declines</meaning>
+  </definition>
+  <definition id="fs-id7093140">
+  <term>factors of production (or inputs)</term>
+  <meaning id="fs-id1211588">resources that firms use to produce their products, for example, labor and capital</meaning>
+  </definition>
+  <definition id="fs-id1164567565507">
+  <term>fixed inputs</term>
+  <meaning id="fs-id1164567565652">factors of production that can’t be easily increased or decreased in a short period of time</meaning>
+  </definition>
+  <definition id="fs-id1168119498237">
+  <term>marginal product</term>
+  <meaning id="fs-id1168114583507">change in a firm’s output when it employees more labor;  mathematically, <m:math><m:mi>M</m:mi><m:mi>P</m:mi><m:mo>=</m:mo><m:mi>Δ</m:mi><m:mi>T</m:mi><m:mi>P</m:mi><m:mo>/</m:mo><m:mi>Δ</m:mi><m:mi>L</m:mi></m:math></meaning>
+  </definition>
+  <definition id="fs-id1166031055231">
+  <term>production function</term>
+  <meaning id="fs-id1166031055236">mathematical equation that tells how much output a firm can produce with given amounts of the inputs</meaning>
+  </definition>
+  <definition id="fs-id1167539748944">
+  <term>short run</term>
+  <meaning id="fs-id1167524581332">period of time during which at least one or more of the firm’s inputs is fixed</meaning>
+  </definition>
+  <definition id="fs-id1165959365250">
+  <term>total product</term>
+  <meaning id="fs-id1165963071643">synonym for a firm’s output</meaning>
+  </definition>
+  <definition id="fs-id1165995931353">
+  <term>variable inputs</term>
+  <meaning id="fs-id1165950490432">factors of production that a firm can easily increase or decrease in a short period of time</meaning>
+  </definition>
+  </glossary>
+  </document>
