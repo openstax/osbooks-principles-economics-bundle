@@ -1,1490 +1,1490 @@
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
 
-<title>How Perfectly Competitive Firms Make Output Decisions</title>
-<metadata xmlns:md="http://cnx.rice.edu/mdml">
-  <md:content-id>m63906</md:content-id>
-  <md:title>How Perfectly Competitive Firms Make Output Decisions</md:title>
-  <md:abstract>By the end of this section, you will be able to:
-<list id="list-00001">
-<item>Calculate profits by comparing total revenue and total cost</item>
-<item>Identify profits and losses with the average cost curve</item>
-<item>Explain the shutdown point</item>
-<item>Determine the price at which a firm should continue producing in the short run</item>
-</list></md:abstract>
-  <md:uuid>12464b69-d2a1-45ed-b7b1-a2d366d6174b</md:uuid>
-</metadata>
-
-<content>
-<para id="ch08mod02_p01">A <term class="no-emphasis" id="term-00001">perfectly competitive firm</term> has only one major decision to make—namely, what quantity to produce. To understand this, consider a different way of writing out the basic definition of <term class="no-emphasis" id="term-00002">profit</term>:</para><equation id="ch08mod02_uneq01" class="unnumbered"><m:math display="block">
- <m:mrow>
-  <m:mtable columnalign="left">
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mtext>Profit</m:mtext><m:mo>=</m:mo><m:mtext>Total revenue</m:mtext><m:mo>−</m:mo><m:mtext>Total cost</m:mtext>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mtext>         </m:mtext><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mtext>Price</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mtext>Quantity produced</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>−</m:mo><m:mo stretchy="false">(</m:mo><m:mtext>Average cost</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mtext>Quantity produced</m:mtext><m:mo stretchy="false">)</m:mo>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-
-  </m:mtable>
- </m:mrow>
-</m:math></equation><!--@eq:{eq}-->
-<para id="ch08mod02_p02">Since a perfectly competitive firm must accept the price for its output as determined by the product’s market demand and supply, it cannot choose the price it charges. This is already determined in the profit equation, and so the perfectly competitive firm can sell any number of units at exactly the same price. It implies that the firm faces a perfectly elastic demand curve for its product: buyers are willing to buy any number of units of output from the firm at the market price. When the perfectly competitive firm chooses what quantity to produce, then this quantity—along with the prices prevailing in the market for output and inputs—will determine the firm’s total revenue, total costs, and ultimately, level of profits.</para>
-<section id="ch08mod02_01"><title>Determining the Highest Profit by Comparing Total Revenue and Total Cost</title><para id="ch08mod02_p03">A perfectly competitive firm can sell as large a quantity as it wishes, as long as it accepts the prevailing market price. The formula above shows that total revenue depends on the quantity sold and the price charged.  If the firm sells a higher quantity of output, then total revenue will increase. If the market price of the product increases, then total revenue also increases whatever the quantity of output sold. As an example of how a perfectly competitive firm decides what quantity to produce, consider the case of a small farmer who produces raspberries and sells them frozen for $4 per pack. Sales of one pack of raspberries will bring in $4, two packs will be $8, three packs will be $12, and so on. If, for example, the price of frozen raspberries doubles to $8 per pack, then sales of one pack of raspberries will be $8, two packs will be $16, three packs will be $24, and so on.</para><para id="ch08mod02_p04"><link target-id="ch08mod02_tab01"/> graphically shows <term class="no-emphasis" id="term-00003">total revenue</term> and <term class="no-emphasis" id="term-00004">total costs</term> for the raspberry farm, also appear in <link target-id="CNX_Econ_C08_001"/>. The horizontal axis shows the quantity of frozen raspberries produced in packs. The vertical axis shows both total revenue and total costs, measured in dollars. The total cost curve intersects with the vertical axis at a value that shows the level of fixed costs, and then slopes upward. All these cost curves follow the same characteristics as the curves that we covered in the <link document="m63680">Production, Costs and Industry Structure</link> chapter.</para><figure id="CNX_Econ_C08_001"><title>Total Cost and Total Revenue at the Raspberry Farm</title><media id="mCNX_Econ_C08_001" alt="The graph shows that firms will incur a loss if the total cost is higher than the total revenue.  The x-axis is the quantity of raspberry packs.  The y-axis is the total cost/total revenue.  The description of the graph is located in the paragraph below the table.  ">
-<image src="../../media/CNX_Econ2e_C08_001.jpg" mime-type="image/jpg"/>
-</media>
-
-<caption>Total revenue for a perfectly competitive firm is a straight line sloping up. The slope is equal to the price of the good. Total cost also slopes up, but with some curvature. At higher levels of output, total cost begins to slope upward more steeply because of diminishing marginal returns. The maximum profit will occur at the quantity where the difference between total revenue and total cost is largest.</caption></figure><table id="ch08mod02_tab01" summary="The table shows the total cost and total revenue at the raspberry farm. Column 1 shows the quantity (Q). Column 2 shows the total cost (TC). Column 3 shows the fixed cost (FC). Column 4 shows the variable cost (VC). Column 5 shows the total revenue (TR). Column 6 shows the profit. Row 1: At Q = 0, TC = $62, FC = $62, VC = (blank cell), TR = $0, profit = –$62.  Row 2: At Q = 10, TC = $90, FC = $62, VC = $28, TR = $40, profit = –$52. Row 3: At Q = 20, TC = $110, FC = $62, VC = $48, TR = $80, profit = –$30. Row 4: At Q = 30, TC = $126, FC = $62, VC = $64, TR = $120, profit = –$6. Row 5: At Q = 40, TC = $144, FC = $62, VC = $82, TR = $160, profit = $16. Row 6: At Q = 50, TC = $166, FC = $62, VC = $104, TR = $200, profit = $34. Row 7: At Q = 60, TC = $192, FC = $62, VC = $130, TR = $280, profit = $48. Row 8: At Q = 70, TC = $224, FC = $62, VC = $162, TR = $280, profit = $56. Row 9: At Q = 80, TC = $264, FC = $62, VC = $202, TR = $320, profit = $56. Row 10: At Q = 90, TC = $324, FC = $62, VC = $262, TR = $360, profit = $36. Row 11: At Q = 100, TC = $404, FC = $62, VC = $342, TR = $400, profit = –$4."><title>Total Cost and Total Revenue at the Raspberry Farm</title>
-<tgroup cols="4">
-<thead>
-<row>
-<entry align="center">Quantity<newline count="1"/>(Q)</entry>
-<entry align="center">Total Cost<newline count="1"/>(TC)</entry>
-<entry align="center">Total Revenue<newline count="1"/>(TR)</entry>
-<entry align="center">Profit<newline count="1"/></entry>
-</row>
-</thead>
-<tbody>
-<row>
-<entry>0</entry>
-<entry>$62</entry>
-<entry>$0</entry>
-<entry>−$62</entry>
-</row>
-<row>
-<entry>10</entry>
-<entry>$90</entry>
-<entry>$40</entry>
-<entry>−$50</entry>
-</row>
-<row>
-<entry>20</entry>
-<entry>$110</entry>
-<entry>$80</entry>
-<entry>−$30</entry>
-</row>
-<row>
-<entry>30</entry>
-<entry>$126</entry>
-<entry>$120</entry>
-<entry>−$6</entry>
-</row>
-<row>
-<entry>40</entry>
-<entry>$138</entry>
-<entry>$160</entry>
-<entry>$22</entry>
-</row>
-<row>
-<entry>50</entry>
-<entry>$150</entry>
-<entry>$200</entry>
-<entry>$50</entry>
-</row>
-<row>
-<entry>60</entry>
-<entry>$165</entry>
-<entry>$240</entry>
-<entry>$75</entry>
-</row>
-<row>
-<entry>70</entry>
-<entry>$190</entry>
-<entry>$280</entry>
-<entry>$90</entry>
-</row>
-<row>
-<entry>80</entry>
-<entry>$230</entry>
-<entry>$320</entry>
-<entry>$90</entry>
-</row>
-<row>
-<entry>90</entry>
-<entry>$296</entry>
-<entry>$360</entry>
-<entry>$64</entry>
-</row>
-<row>
-<entry>100</entry>
-<entry>$400</entry>
-<entry>$400</entry>
-<entry>$0</entry>
-</row>
-<row>
-<entry>110</entry>
-<entry>$550</entry>
-<entry>$440</entry>
-<entry>$−110</entry>
-</row>
-<row>
-<entry>120</entry>
-<entry>$715</entry>
-<entry>$480</entry>
-<entry>$−235</entry>
-</row>
-</tbody>
-</tgroup>
-</table><para id="ch08mod02_p05">Based on its total revenue and total cost curves, a perfectly competitive firm like the raspberry farm can calculate the quantity of output that will provide the highest level of profit. At any given quantity, total revenue minus total cost will equal profit. One way to determine the most profitable quantity to produce is to see at what quantity total revenue exceeds total cost by the largest amount. <link target-id="CNX_Econ_C08_001"/> shows total revenue, total cost and profit using the data from <link target-id="ch08mod02_tab01"/>.  The vertical gap between total revenue and total cost is profit, for example, at Q = 60, TR = 240 and TC = 165.  The difference is 75, which is the height of the profit curve at that output level. The firm doesn’t make a profit at every level of output. In this example, total costs will exceed total revenues at output levels from 0 to approximately 30, and so over this range of output, the firm will be making losses. At output levels from 40 to 100, total revenues exceed total costs, so the firm is earning profits. However, at any output greater than 100, total costs again exceed total revenues and the firm is making increasing losses. Total profits appear in the final column of <link target-id="ch08mod02_tab01"/>. Maximum profit occurs at an output between 70 and 80, when profit equals $90.</para><para id="ch08mod02_p06">A higher price would mean that total revenue would be higher for every quantity sold. A lower price would mean that total revenue would be lower for every quantity sold. What happens if the price drops low enough so that the total revenue line is completely below the total cost curve; that is, at every level of output, total costs are higher than total revenues? In this instance, the best the firm can do is to suffer losses. However, a profit-maximizing firm will prefer the quantity of output where total revenues come closest to total costs and thus where the losses are smallest.</para><para id="ch08mod02_p07">(Later we will see that sometimes it will make sense for the firm to close, rather than stay in operation producing output.)</para></section><section id="ch08mod02_02"><title>Comparing Marginal Revenue and Marginal Costs</title><para id="eip-566">The approach that we described in the previous section, using total revenue and total cost, is not the only approach to determining the profit maximizing level of output.  In this section, we provide an alternative approach which uses marginal revenue and marginal cost.</para><para id="ch08mod02_p08">Firms often do not have the necessary data they need to draw a complete total cost curve for all levels of production. They cannot be sure of what total costs would look like if they, say, doubled production or cut production in half, because they have not tried it. Instead, firms experiment. They produce a slightly greater or lower quantity and observe how it affects profits. In economic terms, this practical approach to maximizing profits means examining how changes in production affect marginal revenue and marginal cost.</para>
-<para id="ch08mod02_p09"><link target-id="CNX_Econ_C08_002"/> presents the marginal revenue and marginal cost curves based on the total revenue and total cost in <link target-id="ch08mod02_tab01"/>. The <term id="term-00005">marginal revenue</term> curve shows the additional revenue gained from selling one more unit. As mentioned before, a firm in perfect competition faces a perfectly elastic demand curve for its product—that is, the firm’s demand curve is a horizontal line drawn at the market price level. This also means that the firm’s marginal revenue curve is the same as the firm’s demand curve: Every time a consumer demands one more unit, the firm sells one more unit and revenue increases by exactly the same amount equal to the market price. In this example, every time the firm sells a pack of frozen raspberries, the firm’s revenue increases by $4. <link target-id="ch08mod02_tab02"/> shows an example of this. This condition only holds for price taking firms in perfect competition where:</para><equation id="eip-53" class="unnumbered"><m:math display="block">
- <m:mrow>
-  <m:mtext>marginal revenue = price</m:mtext>
- </m:mrow>
-</m:math>
-</equation><para id="eip-190">The formula for marginal revenue is:</para><equation id="ch08mod02_uneq02" class="unnumbered">
-<m:math>
-<m:mrow>
-<m:mtext>marginal revenue = </m:mtext><m:mfrac>
-<m:mrow>
-<m:mtext>change in total revenue</m:mtext>
-</m:mrow>
-<m:mrow>
-<m:mtext>change in quantity</m:mtext>
-</m:mrow>
-</m:mfrac>
-</m:mrow>
-</m:math>
-</equation>
-<table id="ch08mod02_tab02" summary="Column 1 shows the price (P); column 2 shows the quantity (Q); column 3 shows the total revenue (TR); column 4 shows marginal revenue (MR). Row 1: P = $4, Quantity = 1, TR = $4, MR = (blank cell). Row 2: P = $4, Q = 2, TR = $8, MR = $4. Row 3: P = $4, Q = 3, TR =  2, MR = $4. Row 4: P = $4, Q = 4, TR =  6, MR = $4.">
-<tgroup cols="4"><thead>
-<row>
-<entry>Price</entry>
-<entry>Quantity</entry>
-<entry>Total Revenue</entry>
-<entry>Marginal Revenue</entry>
-</row>
-</thead>
-<tbody>
-<row>
-<entry>$4</entry>
-<entry>1</entry>
-<entry>$4</entry>
-<entry>-</entry>
-</row>
-<row>
-<entry>$4</entry>
-<entry>2</entry>
-<entry>$8</entry>
-<entry>$4</entry>
-</row>
-<row>
-<entry>$4</entry>
-<entry>3</entry>
-<entry>$12</entry>
-<entry>$4</entry>
-</row>
-<row>
-<entry>$4</entry>
-<entry>4</entry>
-<entry>$16</entry>
-<entry>$4</entry>
-</row>
-</tbody>
-
-
-</tgroup>
-</table>
-<para id="ch08mod02_p10">Notice that marginal revenue does not change as the firm produces more output. That is because under perfect competition, the price is determined through the interaction of supply and demand in the market and does not change as the farmer produces more (keeping in mind that, due to the relative small size of each firm, increasing their supply has no impact on the total market supply where price is determined).</para>
-<para id="ch08mod02_p11">Since a perfectly competitive firm is a price taker, it can sell whatever quantity it wishes at the market-determined price. We calculate marginal cost, the cost per additional unit sold, by dividing the change in total cost by the change in quantity. The formula for marginal cost is: </para>
-<equation id="ch08mod02_uneq03" class="unnumbered">
-<m:math>
-<m:mrow>
-<m:mtext>marginal cost = </m:mtext><m:mfrac>
-<m:mrow>
-<m:mtext>change in total cost</m:mtext>
-</m:mrow>
-<m:mrow>
-<m:mtext>change in quantity</m:mtext>
-</m:mrow>
-</m:mfrac>
-</m:mrow>
-</m:math>
-</equation>
-<para id="ch08mod02_p12">Ordinarily, marginal cost changes as the firm produces a greater quantity.</para>
-<para id="ch08mod02_p13">In the raspberry farm example, in <link target-id="CNX_Econ_C08_002"/>, <link target-id="CNX_Econ_C08_015"/> and <link target-id="ch08mod02_tab03"/>, marginal cost at first declines as production increases from 10 to 20 to 30 to 40 packs of raspberries—which represents the area of increasing marginal returns that is not uncommon at low levels of production. At some point, though, marginal costs start to increase, displaying the typical pattern of diminishing marginal returns. If the firm is producing at a quantity where MR > MC, like 40 or 50 packs of raspberries, then it can increase profit by increasing output because the marginal revenue is exceeding the marginal cost. If the firm is producing at a quantity where MC > MR, like 90 or 100 packs, then it can increase profit by reducing output because the reductions in marginal cost will exceed the reductions in marginal revenue. The firm’s profit-maximizing choice of output will occur where MR = MC (or at a choice close to that point). </para><figure id="CNX_Econ_C08_002"><title>Marginal Revenues and Marginal Costs at the Raspberry Farm: Individual Farmer</title><media id="mCNX_Econ_C08_002" alt="The market-level graph shows that the equilibrium price ($4.00) is determined through the interaction between market demand and market supply.">
-<image src="../../media/CNX_Econ2e_C08_002.jpg" mime-type="image/jpg"/>
-</media>
-
-<caption>For a perfectly competitive firm, the marginal revenue (MR) curve is a horizontal line because it is equal to the price of the good, which is determined by the market, as <link target-id="CNX_Econ_C08_015"/> illustrates. The marginal cost (MC) curve is sometimes initially downward-sloping, if there is a region of increasing marginal returns at low levels of output, but is eventually upward-sloping at higher levels of output as diminishing marginal returns kick in.</caption></figure><figure id="CNX_Econ_C08_015"><title>Marginal Revenues and Marginal Costs at the Raspberry Farm: Raspberry Market</title><media id="mCNX_Econ_C08_015" alt="The firm-level graph shows how a firm uses the market price to determine its profit-maximizing level of output.">
-<image src="../../media/CNX_Econ2e_C08_015.jpg" mime-type="image/jpg"/>
-</media>
-<caption>The equilibrium price of raspberries is determined through the interaction of market supply and market demand at $4.00.</caption>
-</figure><table id="ch08mod02_tab03" summary="The table shows the marginal revenues and marginal costs at the raspberry farm. Column 1 shows the quantity (Q). Column 2 shows the total cost (TC). Column 3 shows the fixed cost (FC). Column 4 shows the variable cost (VC). Column 5 shows the marginal cost (MC). Column 6 shows the total revenue (TR). Column 7 shows the marginal revenue (MR). Row 1: At Q = 0, TC = $62, FC = $62, and VC, MC, TR, and MR are all blank. Row 2: At Q = 10, TC = $90, FC = $62, VC = $28, MC = $2.80, TR = $40, MR = $4.00. Row 3: At Q = 20, TC = $110, FC = $62, VC = $48, MC = $2.00, TR = $8, MR = $4.00.  Row 4: At Q = 30, TC = $126, FC = $62, VC = $64, MC = $1.60, TR = $120, MR = $4.00. Row 5: At Q = 40, TC = $144, FC = $62, VC = $82, MC = $1.80, TR = $160, MR = $4.00.  Row 6: At Q = 50, TC = $166, FC = $62, VC = $104, MC = $2.20, TR = $200, MR = $4.00. Row 7: At Q =60, TC = $192, FC = $62, VC = $130, MC = $2.60, TR = $240, MR = $4.00. Row 8: At Q = 70, TC = $224, FC = $62, VC = $162, MC = $3.20, TR = $280, MR = $4.00.  Row 9: At Q = 80, TC = $264, FC = $62, VC = $202, MC = $4.00, TR = $320, MR = $4.00. Row 10: At Q = 90, TC = $324, FC = $62, VC = $262, MC = $6.00, TR = $360, MR = $4.00. Row 11: At Q = 100, TC = $404, FC = $62, VC = $342, MC = $8.00, TR = $400, MR = $4.00."><title>Marginal Revenues and Marginal Costs at the Raspberry Farm</title>
-<tgroup cols="7"><thead>
-<row>
-<entry>Quantity</entry>
-<entry>Total Cost</entry>
-<entry>Marginal Cost</entry>
-<entry>Total Revenue</entry>
-<entry>Marginal Revenue</entry>
-<entry>Profit</entry>
-</row>
-</thead>
-<tbody>
-<row>
-<entry>0</entry>
-<entry>$62</entry>
-<entry>-</entry>
-<entry>$0</entry>
-<entry>$4</entry>
-<entry>-$62</entry>
-</row>
-<row>
-<entry>10</entry>
-<entry>$90</entry>
-<entry>$2.80</entry>
-<entry>$40</entry>
-<entry>$4</entry>
-<entry>-$50</entry>
-</row>
-<row>
-<entry>20</entry>
-<entry>$110</entry>
-<entry>$2.00</entry>
-<entry>$80</entry>
-<entry>$4</entry>
-<entry>-$30</entry>
-</row>
-<row>
-<entry>30</entry>
-<entry>$126</entry>
-<entry>$1.60</entry>
-<entry>$120</entry>
-<entry>$4</entry>
-<entry>-$6</entry>
-</row>
-<row>
-<entry>40</entry>
-<entry>$138</entry>
-<entry>$1.20</entry>
-<entry>$160</entry>
-<entry>$4</entry>
-<entry>$22</entry>
-</row>
-<row>
-<entry>50</entry>
-<entry>$150</entry>
-<entry>$1.20</entry>
-<entry>$200</entry>
-<entry>$4</entry>
-<entry>$50</entry>
-</row>
-<row>
-<entry>60</entry>
-<entry>$165</entry>
-<entry>$1.50</entry>
-<entry>$240</entry>
-<entry>$4</entry>
-<entry>$75</entry>
-</row>
-<row>
-<entry>70</entry>
-<entry>$190</entry>
-<entry>$2.50</entry>
-<entry>$280</entry>
-<entry>$4</entry>
-<entry>$90</entry>
-</row>
-<row>
-<entry>80</entry>
-<entry>$230</entry>
-<entry>$4.00</entry>
-<entry>$320</entry>
-<entry>$4</entry>
-<entry>$90</entry>
-</row>
-<row>
-<entry>90</entry>
-<entry>$296</entry>
-<entry>$6.60</entry>
-<entry>$360</entry>
-<entry>$4</entry>
-<entry>$64</entry>
-</row>
-<row>
-<entry>100</entry>
-<entry>$400</entry>
-<entry>$10.40</entry>
-<entry>$400</entry>
-<entry>$4</entry>
-<entry>$0</entry>
-</row>
-<row>
-<entry>110</entry>
-<entry>$550</entry>
-<entry>$15.00</entry>
-<entry>$440</entry>
-<entry>$4</entry>
-<entry>-$110</entry>
-</row>
-<row>
-<entry>120</entry>
-<entry>$715</entry>
-<entry>$16.50</entry>
-<entry>$480</entry>
-<entry>$4</entry>
-<entry>-$235</entry>
-</row>
-</tbody>
-
-
-</tgroup>
-</table><para id="ch08mod02_p14">In this example, the marginal revenue and <term class="no-emphasis" id="term-00006">marginal cost</term> curves cross at a price of $4 and a quantity of 80 produced. If the farmer started out producing at a level of 60, and then experimented with increasing production to 70, marginal revenues from the increase in production would exceed marginal costs—and so profits would rise. The farmer has an incentive to keep producing. At a level of output of 80, marginal cost and marginal revenue are equal so profit doesn’t change. If the farmer then experimented further with increasing production from 80 to 90, he would find that marginal costs from the increase in production are greater than marginal revenues, and so profits would decline.</para><para id="ch08mod02_p15">The profit-maximizing choice for a perfectly competitive firm will occur at the level of output where marginal revenue is equal to marginal cost—that is, where MR = MC. This occurs at Q = 80 in the figure. </para><note id="ch8mod02_workitout012e" class="economics workout"><label/><title>Does Profit Maximization Occur at a Range of Output or a Specific Level of Output? </title><link target-id="ch08mod02_tab01"/> shows that maximum profit occurs at any output level between 70 and 80 units of output.  But MR = MC occurs only at 80 units of output.  How can we explain this slight discrepancy?  As long as MR > MC, a profit-seeking firm should keep expanding production. Expanding production into the zone where MR &lt; MC reduces economic profits.  It’s true that profit is the same at Q = 70 and Q = 80, but it’s only when the firm goes beyond that Q that it will see that profits fall. Thus, MR = MC is the signal to stop expanding, so that is the level of output they should target.
-</note><para id="eip-758">Because the marginal revenue received by a perfectly competitive firm is equal to the price P, we can also write the profit-maximizing rule for a perfectly competitive firm as a recommendation to produce at the quantity of output where P = MC.</para></section><section id="ch08mod02_03"><title>Profits and Losses with the Average Cost Curve</title><para id="ch08mod02_p16">Does maximizing profit (producing where MR = MC) imply an actual economic profit? The answer depends on the relationship between price and average total cost, which is the average profit or <term id="term-00007">profit margin</term>. If the market price is higher than the firm's average cost of production for that quantity produced, then the profit margin is positive and the firm will earn profits. Conversely, if the market price is lower than the  average cost of production, the profit margin is negative and the firm will suffer losses. You might think that, in this situation, the firm may want to shut down immediately. Remember, however, that the firm has already paid for fixed costs, such as equipment, so it may continue to produce for a while and incur a loss. <link target-id="ch08mod02_tab03"/> continues the raspberry farm example. <link target-id="CNX_Econ_C08_014"/> illustrates the three possible scenarios: (a) where price intersects marginal cost at a level above the average cost curve, (b) where price intersects marginal cost at a level equal to the average cost curve, and (c) where price intersects marginal cost at a level below the average cost curve.</para><figure id="CNX_Econ_C08_014"><title>Price and Average Cost at the Raspberry Farm</title><media id="mCNX_Econ_C08_014" alt="The three graphs show how profits are affected depending on where total cost intersects average cost.">
-<image src="../../media/CNX_Econ2e_C08_014.jpg" mime-type="image/jpg"/>
-</media>
-
-<caption>In (a), price intersects marginal cost above the average cost curve. Since price is greater than average cost, the firm is making a profit. In (b), price intersects marginal cost at the minimum point of the average cost curve. Since price is equal to average cost, the firm is breaking even. In (c), price intersects marginal cost below the average cost curve. Since price is less than average cost, the firm is making a loss.</caption></figure><para id="ch08mod02_p17">First consider a situation where the price is equal to $5 for a pack of frozen raspberries. The rule for a profit-maximizing perfectly competitive firm is to produce the level of output where Price= MR = MC, so the raspberry farmer will produce a quantity of approximately 85, which is labeled as E' in <link target-id="CNX_Econ_C08_014"/> (a). Remember that the area of a rectangle is equal to its base multiplied by its height. The farm’s total revenue at this price will be shown by the rectangle from the origin over to a quantity of 85 packs (the base) up to point E' (the height), over to the price of $5, and back to the origin. The average cost of producing 80 packs is shown by point C or about $3.50. Total costs will be the quantity of 85 times the average cost of $3.50, which is shown by the area of the rectangle from the origin to a quantity of 90, up to point C, over to the vertical axis and down to the origin. The difference between total revenues and total costs is profits. Thus, profits will be the blue shaded rectangle on top.</para><para id="ch08mod02_p18">We calculate this as:</para><equation id="ch08mod02_uneq04" class="unnumbered"><m:math display="block">
- <m:mtable columnalign="left">
-  <m:mtr>
-   <m:mtd>
-    <m:mtext>profit</m:mtext></m:mtd>
-<m:mtd><m:mo>=</m:mo> </m:mtd> <m:mtd><m:mtext>total revenue</m:mtext><m:mo>−</m:mo><m:mtext>total cost</m:mtext>
-   </m:mtd>
-  </m:mtr>
-  <m:mtr><m:mtd/>
+   <title>How Perfectly Competitive Firms Make Output Decisions</title>
+   <metadata xmlns:md="http://cnx.rice.edu/mdml">
+     <md:content-id>m63906</md:content-id>
+     <md:title>How Perfectly Competitive Firms Make Output Decisions</md:title>
+     <md:abstract>By the end of this section, you will be able to:
+   <list id="list-00001">
+   <item>Calculate profits by comparing total revenue and total cost</item>
+   <item>Identify profits and losses with the average cost curve</item>
+   <item>Explain the shutdown point</item>
+   <item>Determine the price at which a firm should continue producing in the short run</item>
+   </list></md:abstract>
+     <md:uuid>12464b69-d2a1-45ed-b7b1-a2d366d6174b</md:uuid>
+   </metadata>
+   
+   <content>
+   <para id="ch08mod02_p01">A <term class="no-emphasis" id="term-00001">perfectly competitive firm</term> has only one major decision to make—namely, what quantity to produce. To understand this, consider a different way of writing out the basic definition of <term class="no-emphasis" id="term-00002">profit</term>:</para><equation id="ch08mod02_uneq01" class="unnumbered"><m:math display="block">
+    <m:mrow>
+     <m:mtable columnalign="left">
+      <m:mtr columnalign="left">
+       <m:mtd columnalign="left">
+        <m:mrow>
+         <m:mtext>Profit</m:mtext><m:mo>=</m:mo><m:mtext>Total revenue</m:mtext><m:mo>−</m:mo><m:mtext>Total cost</m:mtext>
+        </m:mrow>
+       </m:mtd>
+      </m:mtr>
+      <m:mtr columnalign="left">
+       <m:mtd columnalign="left">
+        <m:mrow>
+         <m:mtext>         </m:mtext><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mtext>Price</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mtext>Quantity produced</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>−</m:mo><m:mo stretchy="false">(</m:mo><m:mtext>Average cost</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mtext>Quantity produced</m:mtext><m:mo stretchy="false">)</m:mo>
+        </m:mrow>
+       </m:mtd>
+      </m:mtr>
+   
+     </m:mtable>
+    </m:mrow>
+   </m:math></equation><!--@eq:{eq}-->
+   <para id="ch08mod02_p02">Since a perfectly competitive firm must accept the price for its output as determined by the product’s market demand and supply, it cannot choose the price it charges. This is already determined in the profit equation, and so the perfectly competitive firm can sell any number of units at exactly the same price. It implies that the firm faces a perfectly elastic demand curve for its product: buyers are willing to buy any number of units of output from the firm at the market price. When the perfectly competitive firm chooses what quantity to produce, then this quantity—along with the prices prevailing in the market for output and inputs—will determine the firm’s total revenue, total costs, and ultimately, level of profits.</para>
+   <section id="ch08mod02_01"><title>Determining the Highest Profit by Comparing Total Revenue and Total Cost</title><para id="ch08mod02_p03">A perfectly competitive firm can sell as large a quantity as it wishes, as long as it accepts the prevailing market price. The formula above shows that total revenue depends on the quantity sold and the price charged.  If the firm sells a higher quantity of output, then total revenue will increase. If the market price of the product increases, then total revenue also increases whatever the quantity of output sold. As an example of how a perfectly competitive firm decides what quantity to produce, consider the case of a small farmer who produces raspberries and sells them frozen for $4 per pack. Sales of one pack of raspberries will bring in $4, two packs will be $8, three packs will be $12, and so on. If, for example, the price of frozen raspberries doubles to $8 per pack, then sales of one pack of raspberries will be $8, two packs will be $16, three packs will be $24, and so on.</para><para id="ch08mod02_p04"><link target-id="ch08mod02_tab01"/> shows <term class="no-emphasis" id="term-00003">total revenue</term> and <term class="no-emphasis" id="term-00004">total costs</term> for the raspberry farm; these data also appear in <link target-id="CNX_Econ_C08_001"/>. The horizontal axis shows the quantity of frozen raspberries produced in packs. The vertical axis shows both total revenue and total costs, measured in dollars. The total cost curve intersects with the vertical axis at a value that shows the level of fixed costs, and then slopes upward. All these cost curves follow the same characteristics as the curves that we covered in the <link document="m63680">Production, Costs and Industry Structure</link> chapter.</para><figure id="CNX_Econ_C08_001"><title>Total Cost and Total Revenue at the Raspberry Farm</title><media id="mCNX_Econ_C08_001" alt="The graph shows that firms will incur a loss if the total cost is higher than the total revenue.  The x-axis is the quantity of raspberry packs.  The y-axis is the total cost/total revenue.  The description of the graph is located in the paragraph below the table.  ">
+   <image src="../../media/CNX_Econ2e_C08_001.jpg" mime-type="image/jpg"/>
+   </media>
+   
+   <caption>Total revenue for a perfectly competitive firm is a straight line sloping up. The slope is equal to the price of the good. Total cost also slopes up, but with some curvature. At higher levels of output, total cost begins to slope upward more steeply because of diminishing marginal returns. The maximum profit will occur at the quantity where the difference between total revenue and total cost is largest.</caption></figure><table id="ch08mod02_tab01" summary="The table shows the total cost and total revenue at the raspberry farm. Column 1 shows the quantity (Q). Column 2 shows the total cost (TC). Column 3 shows the fixed cost (FC). Column 4 shows the variable cost (VC). Column 5 shows the total revenue (TR). Column 6 shows the profit. Row 1: At Q = 0, TC = $62, FC = $62, VC = (blank cell), TR = $0, profit = –$62.  Row 2: At Q = 10, TC = $90, FC = $62, VC = $28, TR = $40, profit = –$52. Row 3: At Q = 20, TC = $110, FC = $62, VC = $48, TR = $80, profit = –$30. Row 4: At Q = 30, TC = $126, FC = $62, VC = $64, TR = $120, profit = –$6. Row 5: At Q = 40, TC = $144, FC = $62, VC = $82, TR = $160, profit = $16. Row 6: At Q = 50, TC = $166, FC = $62, VC = $104, TR = $200, profit = $34. Row 7: At Q = 60, TC = $192, FC = $62, VC = $130, TR = $280, profit = $48. Row 8: At Q = 70, TC = $224, FC = $62, VC = $162, TR = $280, profit = $56. Row 9: At Q = 80, TC = $264, FC = $62, VC = $202, TR = $320, profit = $56. Row 10: At Q = 90, TC = $324, FC = $62, VC = $262, TR = $360, profit = $36. Row 11: At Q = 100, TC = $404, FC = $62, VC = $342, TR = $400, profit = –$4."><title>Total Cost and Total Revenue at the Raspberry Farm</title>
+   <tgroup cols="4">
+   <thead>
+   <row>
+   <entry align="center">Quantity<newline count="1"/>(Q)</entry>
+   <entry align="center">Total Cost<newline count="1"/>(TC)</entry>
+   <entry align="center">Total Revenue<newline count="1"/>(TR)</entry>
+   <entry align="center">Profit<newline count="1"/></entry>
+   </row>
+   </thead>
+   <tbody>
+   <row>
+   <entry>0</entry>
+   <entry>$62</entry>
+   <entry>$0</entry>
+   <entry>−$62</entry>
+   </row>
+   <row>
+   <entry>10</entry>
+   <entry>$90</entry>
+   <entry>$40</entry>
+   <entry>−$50</entry>
+   </row>
+   <row>
+   <entry>20</entry>
+   <entry>$110</entry>
+   <entry>$80</entry>
+   <entry>−$30</entry>
+   </row>
+   <row>
+   <entry>30</entry>
+   <entry>$126</entry>
+   <entry>$120</entry>
+   <entry>−$6</entry>
+   </row>
+   <row>
+   <entry>40</entry>
+   <entry>$138</entry>
+   <entry>$160</entry>
+   <entry>$22</entry>
+   </row>
+   <row>
+   <entry>50</entry>
+   <entry>$150</entry>
+   <entry>$200</entry>
+   <entry>$50</entry>
+   </row>
+   <row>
+   <entry>60</entry>
+   <entry>$165</entry>
+   <entry>$240</entry>
+   <entry>$75</entry>
+   </row>
+   <row>
+   <entry>70</entry>
+   <entry>$190</entry>
+   <entry>$280</entry>
+   <entry>$90</entry>
+   </row>
+   <row>
+   <entry>80</entry>
+   <entry>$230</entry>
+   <entry>$320</entry>
+   <entry>$90</entry>
+   </row>
+   <row>
+   <entry>90</entry>
+   <entry>$296</entry>
+   <entry>$360</entry>
+   <entry>$64</entry>
+   </row>
+   <row>
+   <entry>100</entry>
+   <entry>$400</entry>
+   <entry>$400</entry>
+   <entry>$0</entry>
+   </row>
+   <row>
+   <entry>110</entry>
+   <entry>$550</entry>
+   <entry>$440</entry>
+   <entry>$−110</entry>
+   </row>
+   <row>
+   <entry>120</entry>
+   <entry>$715</entry>
+   <entry>$480</entry>
+   <entry>$−235</entry>
+   </row>
+   </tbody>
+   </tgroup>
+   </table><para id="ch08mod02_p05">Based on its total revenue and total cost curves, a perfectly competitive firm like the raspberry farm can calculate the quantity of output that will provide the highest level of profit. At any given quantity, total revenue minus total cost will equal profit. One way to determine the most profitable quantity to produce is to see at what quantity total revenue exceeds total cost by the largest amount. <link target-id="CNX_Econ_C08_001"/> shows total revenue, total cost and profit using the data from <link target-id="ch08mod02_tab01"/>.  The vertical gap between total revenue and total cost is profit, for example, at Q = 60, TR = 240 and TC = 165.  The difference is 75, which is the height of the profit curve at that output level. The firm doesn’t make a profit at every level of output. In this example, total costs will exceed total revenues at output levels from 0 to approximately 30, and so over this range of output, the firm will be making losses. At output levels from 40 to 100, total revenues exceed total costs, so the firm is earning profits. However, at any output greater than 100, total costs again exceed total revenues and the firm is making increasing losses. Total profits appear in the final column of <link target-id="ch08mod02_tab01"/>. Maximum profit occurs at an output between 70 and 80, when profit equals $90.</para><para id="ch08mod02_p06">A higher price would mean that total revenue would be higher for every quantity sold. A lower price would mean that total revenue would be lower for every quantity sold. What happens if the price drops low enough so that the total revenue line is completely below the total cost curve; that is, at every level of output, total costs are higher than total revenues? In this instance, the best the firm can do is to suffer losses. However, a profit-maximizing firm will prefer the quantity of output where total revenues come closest to total costs and thus where the losses are smallest.</para><para id="ch08mod02_p07">(Later we will see that sometimes it will make sense for the firm to close, rather than stay in operation producing output.)</para></section><section id="ch08mod02_02"><title>Comparing Marginal Revenue and Marginal Costs</title><para id="eip-566">The approach that we described in the previous section, using total revenue and total cost, is not the only approach to determining the profit maximizing level of output.  In this section, we provide an alternative approach which uses marginal revenue and marginal cost.</para><para id="ch08mod02_p08">Firms often do not have the necessary data they need to draw a complete total cost curve for all levels of production. They cannot be sure of what total costs would look like if they, say, doubled production or cut production in half, because they have not tried it. Instead, firms experiment. They produce a slightly greater or lower quantity and observe how it affects profits. In economic terms, this practical approach to maximizing profits means examining how changes in production affect marginal revenue and marginal cost.</para>
+   <para id="ch08mod02_p09"><link target-id="CNX_Econ_C08_002"/> presents the marginal revenue and marginal cost curves based on the total revenue and total cost in <link target-id="ch08mod02_tab01"/>. The <term id="term-00005">marginal revenue</term> curve shows the additional revenue gained from selling one more unit. As mentioned before, a firm in perfect competition faces a perfectly elastic demand curve for its product—that is, the firm’s demand curve is a horizontal line drawn at the market price level. This also means that the firm’s marginal revenue curve is the same as the firm’s demand curve: Every time a consumer demands one more unit, the firm sells one more unit and revenue increases by exactly the same amount equal to the market price. In this example, every time the firm sells a pack of frozen raspberries, the firm’s revenue increases by $4. <link target-id="ch08mod02_tab02"/> shows an example of this. This condition only holds for price taking firms in perfect competition where:</para><equation id="eip-53" class="unnumbered"><m:math display="block">
+    <m:mrow>
+     <m:mtext>marginal revenue = price</m:mtext>
+    </m:mrow>
+   </m:math>
+   </equation><para id="eip-190">The formula for marginal revenue is:</para><equation id="ch08mod02_uneq02" class="unnumbered">
+   <m:math>
+   <m:mrow>
+   <m:mtext>marginal revenue = </m:mtext><m:mfrac>
+   <m:mrow>
+   <m:mtext>change in total revenue</m:mtext>
+   </m:mrow>
+   <m:mrow>
+   <m:mtext>change in quantity</m:mtext>
+   </m:mrow>
+   </m:mfrac>
+   </m:mrow>
+   </m:math>
+   </equation>
+   <table id="ch08mod02_tab02" summary="Column 1 shows the price (P); column 2 shows the quantity (Q); column 3 shows the total revenue (TR); column 4 shows marginal revenue (MR). Row 1: P = $4, Quantity = 1, TR = $4, MR = (blank cell). Row 2: P = $4, Q = 2, TR = $8, MR = $4. Row 3: P = $4, Q = 3, TR =  2, MR = $4. Row 4: P = $4, Q = 4, TR =  6, MR = $4.">
+   <tgroup cols="4"><thead>
+   <row>
+   <entry>Price</entry>
+   <entry>Quantity</entry>
+   <entry>Total Revenue</entry>
+   <entry>Marginal Revenue</entry>
+   </row>
+   </thead>
+   <tbody>
+   <row>
+   <entry>$4</entry>
+   <entry>1</entry>
+   <entry>$4</entry>
+   <entry>-</entry>
+   </row>
+   <row>
+   <entry>$4</entry>
+   <entry>2</entry>
+   <entry>$8</entry>
+   <entry>$4</entry>
+   </row>
+   <row>
+   <entry>$4</entry>
+   <entry>3</entry>
+   <entry>$12</entry>
+   <entry>$4</entry>
+   </row>
+   <row>
+   <entry>$4</entry>
+   <entry>4</entry>
+   <entry>$16</entry>
+   <entry>$4</entry>
+   </row>
+   </tbody>
+   
+   
+   </tgroup>
+   </table>
+   <para id="ch08mod02_p10">Notice that marginal revenue does not change as the firm produces more output. That is because under perfect competition, the price is determined through the interaction of supply and demand in the market and does not change as the farmer produces more (keeping in mind that, due to the relative small size of each firm, increasing their supply has no impact on the total market supply where price is determined).</para>
+   <para id="ch08mod02_p11">Since a perfectly competitive firm is a price taker, it can sell whatever quantity it wishes at the market-determined price. We calculate marginal cost, the cost per additional unit sold, by dividing the change in total cost by the change in quantity. The formula for marginal cost is: </para>
+   <equation id="ch08mod02_uneq03" class="unnumbered">
+   <m:math>
+   <m:mrow>
+   <m:mtext>marginal cost = </m:mtext><m:mfrac>
+   <m:mrow>
+   <m:mtext>change in total cost</m:mtext>
+   </m:mrow>
+   <m:mrow>
+   <m:mtext>change in quantity</m:mtext>
+   </m:mrow>
+   </m:mfrac>
+   </m:mrow>
+   </m:math>
+   </equation>
+   <para id="ch08mod02_p12">Ordinarily, marginal cost changes as the firm produces a greater quantity.</para>
+   <para id="ch08mod02_p13">In the raspberry farm example, in <link target-id="CNX_Econ_C08_002"/> and <link target-id="ch08mod02_tab03"/>, marginal cost at first declines as production increases from 10 to 20 to 30 to 40 packs of raspberries—which represents the area of increasing marginal returns that is not uncommon at low levels of production. At some point, though, marginal costs start to increase, displaying the typical pattern of diminishing marginal returns. If the firm is producing at a quantity where MR > MC, like 40 or 50 packs of raspberries, then it can increase profit by increasing output because the marginal revenue is exceeding the marginal cost. If the firm is producing at a quantity where MC > MR, like 90 or 100 packs, then it can increase profit by reducing output because the reductions in marginal cost will exceed the reductions in marginal revenue. The firm’s profit-maximizing choice of output will occur where MR = MC (or at a choice close to that point). </para><figure id="CNX_Econ_C08_002"><title>Marginal Revenues and Marginal Costs at the Raspberry Farm: Individual Farmer</title><media id="mCNX_Econ_C08_002" alt="The market-level graph shows that the equilibrium price ($4.00) is determined through the interaction between market demand and market supply.">
+   <image src="../../media/CNX_Econ2e_C08_002.jpg" mime-type="image/jpg"/>
+   </media>
+   
+   <caption>For a perfectly competitive firm, the marginal revenue (MR) curve is a horizontal line because it is equal to the price of the good, which is determined by the market, as <link target-id="CNX_Econ_C08_015"/> illustrates. The marginal cost (MC) curve is sometimes initially downward-sloping, if there is a region of increasing marginal returns at low levels of output, but is eventually upward-sloping at higher levels of output as diminishing marginal returns kick in.</caption></figure><figure id="CNX_Econ_C08_015"><title>Supply, Demand, and Equilibrium Price in the Market for Raspberries</title><media id="mCNX_Econ_C08_015" alt="The firm-level graph shows how a firm uses the market price to determine its profit-maximizing level of output.">
+   <image src="../../media/CNX_Econ2e_C08_015.jpg" mime-type="image/jpg"/>
+   </media>
+   <caption>The equilibrium price of raspberries is determined through the interaction of market supply and market demand at $4.00.</caption>
+   </figure><table id="ch08mod02_tab03" summary="The table shows the marginal revenues and marginal costs at the raspberry farm. Column 1 shows the quantity (Q). Column 2 shows the total cost (TC). Column 3 shows the fixed cost (FC). Column 4 shows the variable cost (VC). Column 5 shows the marginal cost (MC). Column 6 shows the total revenue (TR). Column 7 shows the marginal revenue (MR). Row 1: At Q = 0, TC = $62, FC = $62, and VC, MC, TR, and MR are all blank. Row 2: At Q = 10, TC = $90, FC = $62, VC = $28, MC = $2.80, TR = $40, MR = $4.00. Row 3: At Q = 20, TC = $110, FC = $62, VC = $48, MC = $2.00, TR = $8, MR = $4.00.  Row 4: At Q = 30, TC = $126, FC = $62, VC = $64, MC = $1.60, TR = $120, MR = $4.00. Row 5: At Q = 40, TC = $144, FC = $62, VC = $82, MC = $1.80, TR = $160, MR = $4.00.  Row 6: At Q = 50, TC = $166, FC = $62, VC = $104, MC = $2.20, TR = $200, MR = $4.00. Row 7: At Q =60, TC = $192, FC = $62, VC = $130, MC = $2.60, TR = $240, MR = $4.00. Row 8: At Q = 70, TC = $224, FC = $62, VC = $162, MC = $3.20, TR = $280, MR = $4.00.  Row 9: At Q = 80, TC = $264, FC = $62, VC = $202, MC = $4.00, TR = $320, MR = $4.00. Row 10: At Q = 90, TC = $324, FC = $62, VC = $262, MC = $6.00, TR = $360, MR = $4.00. Row 11: At Q = 100, TC = $404, FC = $62, VC = $342, MC = $8.00, TR = $400, MR = $4.00."><title>Marginal Revenues and Marginal Costs at the Raspberry Farm</title>
+   <tgroup cols="7"><thead>
+   <row>
+   <entry>Quantity</entry>
+   <entry>Total Cost</entry>
+   <entry>Marginal Cost</entry>
+   <entry>Total Revenue</entry>
+   <entry>Marginal Revenue</entry>
+   <entry>Profit</entry>
+   </row>
+   </thead>
+   <tbody>
+   <row>
+   <entry>0</entry>
+   <entry>$62</entry>
+   <entry>-</entry>
+   <entry>$0</entry>
+   <entry>$4</entry>
+   <entry>-$62</entry>
+   </row>
+   <row>
+   <entry>10</entry>
+   <entry>$90</entry>
+   <entry>$2.80</entry>
+   <entry>$40</entry>
+   <entry>$4</entry>
+   <entry>-$50</entry>
+   </row>
+   <row>
+   <entry>20</entry>
+   <entry>$110</entry>
+   <entry>$2.00</entry>
+   <entry>$80</entry>
+   <entry>$4</entry>
+   <entry>-$30</entry>
+   </row>
+   <row>
+   <entry>30</entry>
+   <entry>$126</entry>
+   <entry>$1.60</entry>
+   <entry>$120</entry>
+   <entry>$4</entry>
+   <entry>-$6</entry>
+   </row>
+   <row>
+   <entry>40</entry>
+   <entry>$138</entry>
+   <entry>$1.20</entry>
+   <entry>$160</entry>
+   <entry>$4</entry>
+   <entry>$22</entry>
+   </row>
+   <row>
+   <entry>50</entry>
+   <entry>$150</entry>
+   <entry>$1.20</entry>
+   <entry>$200</entry>
+   <entry>$4</entry>
+   <entry>$50</entry>
+   </row>
+   <row>
+   <entry>60</entry>
+   <entry>$165</entry>
+   <entry>$1.50</entry>
+   <entry>$240</entry>
+   <entry>$4</entry>
+   <entry>$75</entry>
+   </row>
+   <row>
+   <entry>70</entry>
+   <entry>$190</entry>
+   <entry>$2.50</entry>
+   <entry>$280</entry>
+   <entry>$4</entry>
+   <entry>$90</entry>
+   </row>
+   <row>
+   <entry>80</entry>
+   <entry>$230</entry>
+   <entry>$4.00</entry>
+   <entry>$320</entry>
+   <entry>$4</entry>
+   <entry>$90</entry>
+   </row>
+   <row>
+   <entry>90</entry>
+   <entry>$296</entry>
+   <entry>$6.60</entry>
+   <entry>$360</entry>
+   <entry>$4</entry>
+   <entry>$64</entry>
+   </row>
+   <row>
+   <entry>100</entry>
+   <entry>$400</entry>
+   <entry>$10.40</entry>
+   <entry>$400</entry>
+   <entry>$4</entry>
+   <entry>$0</entry>
+   </row>
+   <row>
+   <entry>110</entry>
+   <entry>$550</entry>
+   <entry>$15.00</entry>
+   <entry>$440</entry>
+   <entry>$4</entry>
+   <entry>-$110</entry>
+   </row>
+   <row>
+   <entry>120</entry>
+   <entry>$715</entry>
+   <entry>$16.50</entry>
+   <entry>$480</entry>
+   <entry>$4</entry>
+   <entry>-$235</entry>
+   </row>
+   </tbody>
+   
+   
+   </tgroup>
+   </table><para id="ch08mod02_p14">In this example, the marginal revenue and <term class="no-emphasis" id="term-00006">marginal cost</term> curves cross at a price of $4 and a quantity of 80 produced. If the farmer started out producing at a level of 60, and then experimented with increasing production to 70, marginal revenues from the increase in production would exceed marginal costs—and so profits would rise. The farmer has an incentive to keep producing. At a level of output of 80, marginal cost and marginal revenue are equal so profit doesn’t change. If the farmer then experimented further with increasing production from 80 to 90, he would find that marginal costs from the increase in production are greater than marginal revenues, and so profits would decline.</para><para id="ch08mod02_p15">The profit-maximizing choice for a perfectly competitive firm will occur at the level of output where marginal revenue is equal to marginal cost—that is, where MR = MC. This occurs at Q = 80 in the figure. </para><note id="ch8mod02_workitout012e" class="economics workout"><label/><title>Does Profit Maximization Occur at a Range of Output or a Specific Level of Output? </title><link target-id="ch08mod02_tab01"/> shows that maximum profit occurs at any output level between 70 and 80 units of output.  But MR = MC occurs only at 80 units of output.  How can we explain this slight discrepancy?  As long as MR > MC, a profit-seeking firm should keep expanding production. Expanding production into the zone where MR &lt; MC reduces economic profits.  It’s true that profit is the same at Q = 70 and Q = 80, but it’s only when the firm goes beyond that Q that it will see that profits fall. Thus, MR = MC is the signal to stop expanding, so that is the level of output they should target.
+   </note><para id="eip-758">Because the marginal revenue received by a perfectly competitive firm is equal to the price P, we can also write the profit-maximizing rule for a perfectly competitive firm as a recommendation to produce at the quantity of output where P = MC.</para></section><section id="ch08mod02_03"><title>Profits and Losses with the Average Cost Curve</title><para id="ch08mod02_p16">Does maximizing profit (producing where MR = MC) imply an actual economic profit? The answer depends on the relationship between price and average total cost, which is the average profit or <term id="term-00007">profit margin</term>. If the market price is higher than the firm's average cost of production for that quantity produced, then the profit margin is positive and the firm will earn profits. Conversely, if the market price is lower than the  average cost of production, the profit margin is negative and the firm will suffer losses. You might think that, in this situation, the firm may want to shut down immediately. Remember, however, that the firm has already paid for fixed costs, such as equipment, so it may continue to produce for a while and incur a loss. <link target-id="ch08mod02_tab03"/> continues the raspberry farm example. <link target-id="CNX_Econ_C08_014"/> illustrates the three possible scenarios: (a) where price intersects marginal cost at a level above the average cost curve, (b) where price intersects marginal cost at a level equal to the average cost curve, and (c) where price intersects marginal cost at a level below the average cost curve.</para><figure id="CNX_Econ_C08_014"><title>Price and Average Cost at the Raspberry Farm</title><media id="mCNX_Econ_C08_014" alt="The three graphs show how profits are affected depending on where total cost intersects average cost.">
+   <image src="../../media/CNX_Econ2e_C08_014.jpg" mime-type="image/jpg"/>
+   </media>
+   
+   <caption>In (a), price intersects marginal cost above the average cost curve. Since price is greater than average cost, the firm is making a profit. In (b), price intersects marginal cost at the minimum point of the average cost curve. Since price is equal to average cost, the firm is breaking even. In (c), price intersects marginal cost below the average cost curve. Since price is less than average cost, the firm is making a loss.</caption></figure><para id="ch08mod02_p17">First consider a situation where the price is equal to $5 for a pack of frozen raspberries. The rule for a profit-maximizing perfectly competitive firm is to produce the level of output where Price= MR = MC, so the raspberry farmer will produce a quantity of approximately 85, which is labeled as E' in <link target-id="CNX_Econ_C08_014"/> (a). Remember that the area of a rectangle is equal to its base multiplied by its height. The farm’s total revenue at this price will be shown by the rectangle from the origin over to a quantity of 85 packs (the base) up to point E' (the height), over to the price of $5, and back to the origin. The average cost of producing 80 packs is shown by point C or about $3.50. Total costs will be the quantity of 85 times the average cost of $3.50, which is shown by the area of the rectangle from the origin to a quantity of 90, up to point C, over to the vertical axis and down to the origin. The difference between total revenues and total costs is profits. Thus, profits will be the blue shaded rectangle on top.</para><para id="ch08mod02_p18">We calculate this as:</para><equation id="ch08mod02_uneq04" class="unnumbered"><m:math display="block">
+    <m:mtable columnalign="left">
+     <m:mtr>
+      <m:mtd>
+       <m:mtext>profit</m:mtext></m:mtd>
+   <m:mtd><m:mo>=</m:mo> </m:mtd> <m:mtd><m:mtext>total revenue</m:mtext><m:mo>−</m:mo><m:mtext>total cost</m:mtext>
+      </m:mtd>
+     </m:mtr>
+     <m:mtr><m:mtd/>
+      <m:mtd><m:mo>=</m:mo></m:mtd>
+   <m:mtd><m:mo stretchy="false">(</m:mo><m:mn>85</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mtext>$5.00</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>−</m:mo><m:mo stretchy="false">(</m:mo><m:mn>85</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mtext>$3.50</m:mtext><m:mo stretchy="false">)</m:mo>
+      </m:mtd>
+     </m:mtr>
+     <m:mtr> <m:mtd/>
+      <m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mtext>$127.50</m:mtext>
+      </m:mtd>
+     </m:mtr>
+    </m:mtable>
+   
+   </m:math></equation><para id="ch08mod02_p19">Or, we can calculate it as:</para><equation id="ch08mod02_uneq05" class="unnumbered"><m:math display="block">
+    <m:mtable columnalign="left">
+     <m:mtr><m:mtd><m:mtext>profit</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd>
+      <m:mtd>
+       <m:mtext>(price</m:mtext><m:mo>–</m:mo><m:mtext>average cost) × quantity</m:mtext>
+      </m:mtd>
+     </m:mtr>
+     <m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd>
+      <m:mtd>
+       <m:mn>($5.00</m:mn><m:mo>–</m:mo><m:mn>$3.50) × 85</m:mn>
+      </m:mtd>
+     </m:mtr>
+     <m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd>
+      <m:mtd>
+      <m:mtext>$127.50</m:mtext>
+      </m:mtd>
+     </m:mtr>
+    </m:mtable>
+   
+   </m:math></equation><para id="ch08mod02_p20">Now consider <link target-id="CNX_Econ_C08_014"/> (b), where the price has fallen to $2.75 for a pack of frozen raspberries. Again, the perfectly competitive firm will choose the level of output where Price = MR = MC, but in this case, the quantity produced will be 75. At this price and output level, where the marginal cost curve is crossing the average cost curve, the price the firm receives is exactly equal to its average cost of production. We call this the <term id="term-00008">break even point</term>.
+   
+   </para><para id="ch08mod02_p21">The farm’s total revenue at this price will be shown by the large shaded rectangle from the origin over to a quantity of 75 packs (the base) up to point E (the height), over to the price of $2.75, and back to the origin. The height of the average cost curve at Q = 75, i.e. point E, shows the average cost of producing this quantity. Total costs will be the quantity of 75 times the average cost of $2.75, which is shown by the area of the rectangle from the origin to a quantity of 75, up to point E, over to the vertical axis and down to the origin. It should be clear that the rectangles for total revenue and total cost are the same. Thus, the firm is making zero profit. The calculations are as follows:</para><equation id="ch08mod02_uneq06" class="unnumbered"><m:math display="block">
+    <m:mrow>
+     <m:mtable columnalign="left">
+      <m:mtr columnalign="left">
+   <m:mtd><m:mrow><m:mtext>profit</m:mtext></m:mrow></m:mtd>
    <m:mtd><m:mo>=</m:mo></m:mtd>
-<m:mtd><m:mo stretchy="false">(</m:mo><m:mn>85</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mtext>$5.00</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>−</m:mo><m:mo stretchy="false">(</m:mo><m:mn>85</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mtext>$3.50</m:mtext><m:mo stretchy="false">)</m:mo>
-   </m:mtd>
-  </m:mtr>
-  <m:mtr> <m:mtd/>
-   <m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mtext>$127.50</m:mtext>
-   </m:mtd>
-  </m:mtr>
- </m:mtable>
-
-</m:math></equation><para id="ch08mod02_p19">Or, we can calculate it as:</para><equation id="ch08mod02_uneq05" class="unnumbered"><m:math display="block">
- <m:mtable columnalign="left">
-  <m:mtr><m:mtd><m:mtext>profit</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd>
-   <m:mtd>
-    <m:mtext>(price</m:mtext><m:mo>–</m:mo><m:mtext>average cost) × quantity</m:mtext>
-   </m:mtd>
-  </m:mtr>
-  <m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd>
-   <m:mtd>
-    <m:mn>($5.00</m:mn><m:mo>–</m:mo><m:mn>$3.50) × 85</m:mn>
-   </m:mtd>
-  </m:mtr>
-  <m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd>
-   <m:mtd>
-   <m:mtext>$127.50</m:mtext>
-   </m:mtd>
-  </m:mtr>
- </m:mtable>
-
-</m:math></equation><para id="ch08mod02_p20">Now consider <link target-id="CNX_Econ_C08_014"/> (b), where the price has fallen to $2.75 for a pack of frozen raspberries. Again, the perfectly competitive firm will choose the level of output where Price = MR = MC, but in this case, the quantity produced will be 75. At this price and output level, where the marginal cost curve is crossing the average cost curve, the price the firm receives is exactly equal to its average cost of production. We call this the <term id="term-00008">break even point</term>.
-
-</para><para id="ch08mod02_p21">The farm’s total revenue at this price will be shown by the large shaded rectangle from the origin over to a quantity of 75 packs (the base) up to point E (the height), over to the price of $2.75, and back to the origin. The height of the average cost curve at Q = 75, i.e. point E, shows the average cost of producing this quantity. Total costs will be the quantity of 75 times the average cost of $2.75, which is shown by the area of the rectangle from the origin to a quantity of 75, up to point E, over to the vertical axis and down to the origin. It should be clear that the rectangles for total revenue and total cost are the same. Thus, the firm is making zero profit. The calculations are as follows:</para><equation id="ch08mod02_uneq06" class="unnumbered"><m:math display="block">
- <m:mrow>
-  <m:mtable columnalign="left">
-   <m:mtr columnalign="left">
-<m:mtd><m:mrow><m:mtext>profit</m:mtext></m:mrow></m:mtd>
-<m:mtd><m:mo>=</m:mo></m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mtext>total revenue</m:mtext><m:mo>–</m:mo><m:mtext>total cost</m:mtext>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left">
-
-<m:mtd/>
-<m:mtd><m:mo>=</m:mo></m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mn>(75)($2.75)</m:mn><m:mo>–</m:mo><m:mn>(75)($2.75)</m:mn>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left">
-<m:mtd/>
-<m:mtd><m:mo>=</m:mo></m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow>
-     <m:mn>$0</m:mn>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-
-  </m:mtable>
- </m:mrow>
-</m:math></equation><para id="ch08mod02_p22">Or, we can calculate it as:</para><equation id="ch08mod02_uneq07" class="unnumbered"><m:math display="block">
- <m:mrow>
-  <m:mtable columnalign="left">
-   <m:mtr columnalign="left">
-<m:mtd><m:mtext>profit</m:mtext></m:mtd>
-<m:mtd><m:mo>=</m:mo></m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow>
-  <m:mtext>(price</m:mtext><m:mo>–</m:mo><m:mtext>average cost)</m:mtext><m:mo>×</m:mo><m:mtext>quantity</m:mtext>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left"><m:mtd/>
-<m:mtd><m:mo>=</m:mo></m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mn>($2.75</m:mn><m:mo>–</m:mo><m:mn>$2.75)</m:mn><m:mo>×</m:mo><m:mn>75</m:mn>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left"><m:mtd/>
-<m:mtd><m:mo>=</m:mo></m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mn>$0</m:mn>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-
-  </m:mtable>
- </m:mrow>
-</m:math>
-</equation><para id="ch08mod02_p23">In <link target-id="CNX_Econ_C08_014"/> (c), the market price has fallen still further to $2.00 for a pack of frozen raspberries. At this price, marginal revenue intersects marginal cost at a quantity of 65. The farm’s total revenue at this price will be shown by the large shaded rectangle from the origin over to a quantity of 65 packs (the base) up to point E” (the height), over to the price of $2, and back to the origin. The average cost of producing 65 packs is shown by Point C” or shows the average cost of producing 50 packs is about $2.73. Total costs will be the quantity of 65 times the average cost of $2.73, which the area of the rectangle from the origin to a quantity of 50, up to point C”, over to the vertical axis and down to the origin shows. It should be clear from examining the two rectangles that total revenue is less than total cost. Thus, the firm is losing money and the loss (or negative profit) will be the rose-shaded rectangle.</para><para id="ch08mod02_p24">The calculations are:</para>
-<equation id="ch08mod02_uneq08" class="unnumbered"><m:math display="block">
- <m:mrow>
-  <m:mtable columnalign="left">
-   <m:mtr columnalign="left"><m:mtd><m:mtext>profit</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mtext>(total revenue</m:mtext><m:mo>–</m:mo><m:mtext> total cost)</m:mtext>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left"><m:mtd/>
-<m:mtd><m:mo>=</m:mo></m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mn>(65)($2.00)</m:mn><m:mo>–</m:mo><m:mn>(65)($2.73)</m:mn>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left"><m:mtd/>
-<m:mtd><m:mo>=</m:mo></m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mn>–$47.45</m:mn>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-
-  </m:mtable>
- </m:mrow>
-</m:math>
-</equation><para id="ch08mod02_p25">Or:</para>
-<equation id="ch08mod02_uneq09" class="unnumbered"><m:math display="block">
- <m:mrow>
-  <m:mtable columnalign="left">
-   <m:mtr columnalign="left"><m:mtd><m:mtext>profit</m:mtext></m:mtd>
-<m:mtd><m:mo>=</m:mo></m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mtext>(price</m:mtext><m:mo>–</m:mo><m:mtext>average cost) × quantity</m:mtext>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left"><m:mtd/>
-<m:mtd><m:mo>=</m:mo></m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mn>($2.00</m:mn><m:mo>–</m:mo><m:mn>$2.73) × 65</m:mn>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left"><m:mtd/>
-<m:mtd><m:mo>=</m:mo></m:mtd>
-    <m:mtd columnalign="left">
-     <m:mrow>
-     <m:mn>–$47.45</m:mn>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-
-  </m:mtable>
- </m:mrow>
-</m:math>
-</equation><para id="ch08mod02_p26">If the market price that perfectly competitive firm receives leads it to produce at a quantity where the price is greater than average cost, the firm will earn profits. If the price the firm receives causes it to produce at a quantity where price equals average cost, which occurs at the minimum point of the AC curve, then the firm earns zero profits. Finally, if the price the firm receives leads it to produce at a quantity where the price is less than average cost, the firm will earn losses. <link target-id="ch08mod02_tab04"/> summarizes this.</para><table id="ch08mod02_tab04" summary="The table shows how the difference in amount between price and ATC effects a firm’s earnings. Column 1 is labeled “If…” and Column 2 is labeled “Then…” If price is greater than ATC, then the firm earns an economic profit. If price equals ATC, then the firm earns zero economic profit. If price is less than ATC, then the firm earns a loss.">
-<tgroup cols="2"><thead>
-<row>
-<entry>If...</entry>
-<entry>Then...</entry>
-</row>
-</thead>
-<tbody>
-<row>
-<entry>Price > ATC</entry>
-<entry>Firm earns an economic profit</entry>
-</row>
-<row>
-<entry>Price = ATC</entry>
-<entry>Firm earns zero economic profit</entry>
-</row>
-<row>
-<entry>Price &lt; ATC</entry>
-<entry>Firm earns a loss</entry>
-</row>
-</tbody>
-
-
-</tgroup>
-</table><note id="eip-785" class="economics clearup"><title>Which intersection should a firm choose?</title><para id="eip-idm583875056">At a price of $2, MR intersects MC at two points: Q = 20 and Q = 65.  It never makes sense for a firm to choose a level of output on the downward sloping part of the MC curve, because the profit is lower (the loss is bigger). Thus, the correct choice of output is Q = 65.</para></note></section><section id="ch08mod02_04"><title>The Shutdown Point</title><para id="ch08mod02_p27">The possibility that a firm may earn losses raises a question: Why can the firm not avoid losses by shutting down and not producing at all? The answer is that shutting down can reduce variable costs to zero, but in the short run, the firm has already paid for fixed costs. As a result, if the firm produces a quantity of zero, it would still make losses because it would still need to pay for its fixed costs. Therefore when a firm is experiencing losses, it must face a question: should it continue producing or should it shut down?</para><para id="ch08mod02_p28">As an example, consider the situation of the Yoga Center, which has signed a contract to rent space that costs $10,000 per month. If the firm decides to operate, its marginal costs for hiring yoga teachers is $15,000 for the month. If the firm shuts down, it must still pay the rent, but it would not need to hire labor. <link target-id="ch08mod02_tab05"/> shows three possible scenarios. In the first scenario, the Yoga Center does not have any clients, and therefore does not make any revenues, in which case it faces losses of $10,000 equal to the fixed costs. In the second scenario, the Yoga Center has clients that earn the center revenues of $10,000 for the month, but ultimately experiences losses of $15,000 due to having to hire yoga instructors to cover the classes. In the third scenario, the Yoga Center earns revenues of $20,000 for the month, but experiences losses of $5,000.</para>
-<para id="ch08mod02_p29">In all three cases, the Yoga Center loses money. In all three cases, when the rental contract expires in the long run, assuming revenues do not improve, the firm should exit this business. In the short run, though, the decision varies depending on the level of losses and whether the firm can cover its variable costs. In scenario 1, the center does not have any revenues, so hiring yoga teachers would increase variable costs and losses, so it should shut down and only incur its fixed costs. In scenario 2, the center’s losses are greater because it does not make enough revenue to offset the increased variable costs, so it should shut down immediately and only incur its fixed costs. If price is below the minimum average variable cost, the firm must shut down. In contrast, in scenario 3 the revenue that the center can earn is high enough that the losses diminish when it remains open, so the center should remain open in the short run.</para><table id="ch08mod02_tab05" summary="The table shows three scenarios for determining whether a yoga center should shut down now or later. Scenario 1 reads: If the center shuts down now, revenues are zero but it will not incur any variable costs and would only need to pay fixed costs of $10,000. The first scenario 1 equation is: profit = total revenue – (fixed costs + variable cost). The next scenario 1 equation is: [profit] = 0 – $10,000. The last scenario 3 equation is: [profit] = – $10,000. Scenario 2 reads: The center earns revenues of $10,000, and variable costs are $15,000. The center should shut down now. The first scenario 2 equation is: profit = total revenue – (fixed costs + variable cost). The next scenario 2 equation is: [profit] = $10,000 – ($10,000 + $15,000). The last scenario 2 equation is: [profit] = – $15,000. Scenario 3 reads: The center earns revenues of $20,000, and variable costs are $15,000. The center should continue in business. The first scenario 3 equation is: profit = total revenue – (fixed costs + variable cost). The next scenario 3 equation is: [profit] = $20,000 – ($10,000 + $15,000). The last scenario 3 equation is: [profit] = – $5,000."><title>Should the Yoga Center Shut Down Now or Later?</title>
-<tgroup cols="1"><tbody>
-<row>
-<entry><emphasis effect="bold">Scenario 1</emphasis></entry>
-</row>
-<row>
-<entry>If the center shuts down now, revenues are zero but it will not incur any variable costs and would only need to pay fixed costs of $10,000.</entry>
-</row>
-<row>
-<entry>
-<equation id="ch08mod02_uneq10" class="unnumbered"><m:math display="block">
- <m:mrow>
-  <m:mtable columnalign="left">
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mtext>profit = total revenue–(fixed costs + variable cost)</m:mtext>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mtext>          = 0 –$10,000</m:mtext>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mtext>          = –$10,000</m:mtext>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-
-  </m:mtable>
- </m:mrow>
-</m:math>
-</equation></entry>
-</row>
-<row>
-<entry><emphasis effect="bold">Scenario 2</emphasis></entry>
-</row>
-<row>
-<entry>The center earns revenues of $10,000, and variable costs are $15,000. The center should shut down now.</entry>
-</row>
-<row>
-<entry>
-<equation id="ch08mod02_uneq11" class="unnumbered"><m:math display="block">
- <m:mrow>
-  <m:mtable columnalign="left">
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mtext>profit = total revenue </m:mtext><m:mo>–</m:mo><m:mtext> (fixed costs + variable cost)</m:mtext>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mtext>          = $10,000 </m:mtext><m:mo>–</m:mo><m:mtext> ($10,000 + $15,000)</m:mtext>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mtext>          = –$15,000</m:mtext>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-
-  </m:mtable>
- </m:mrow>
-</m:math>
-</equation></entry>
-</row>
-<row>
-<entry><emphasis effect="bold">Scenario 3</emphasis></entry>
-</row>
-<row>
-<entry>The center earns revenues of $20,000, and variable costs are $15,000. The center should continue in business.</entry>
-</row>
-<row>
-<entry>
-<equation id="ch08mod02_uneq13" class="unnumbered"><m:math display="block">
- <m:mrow>
-  <m:mtable columnalign="left">
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mtext>profit = total revenue </m:mtext><m:mo>–</m:mo><m:mtext> (fixed costs + variable cost)</m:mtext>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mtext>          = $20,000 </m:mtext><m:mo>–</m:mo><m:mtext> ($10,000 + $15,000)</m:mtext>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign="left">
-    <m:mtd columnalign="left">
-     <m:mrow>
-      <m:mtext>          = –$5,000</m:mtext>
-     </m:mrow>
-    </m:mtd>
-   </m:mtr>
-
-  </m:mtable>
- </m:mrow>
-</m:math>
-</equation></entry>
-</row>
-</tbody>
-
-</tgroup>
-</table>
-
-<para id="eip-174"><link target-id="CNX_Econ_C08_012"/> illustrates the lesson that remaining open requires the price to exceed the firm’s average variable cost. When the firm is operating below the break-even point, where price equals average cost, it is operating at a loss so it faces two options: continue to produce and lose money or shutdown.  Which option is preferable?  The one that loses the least money is the best choice. </para><para id="ch08mod02_p30">At a price of $2.00 per pack, as Figure 8.6 (a) illustrates, if the farm stays in operation it will produce at a level of 65 packs of raspberries, and it will make losses of $47.45 (as explained earlier).  The alternative would be to shutdown and lose all the fixed costs of $62.00.  Since losing $47.45 is preferable to losing $62.00, the profit maximizing (or in this case the loss minimizing) choice is to stay in operation.  The key reason is because price is above average variable cost.  This means that at the current price the farm can pay all its variable costs, and have some revenue left over to pay some of the fixed costs.  So the loss represents the part of the fixed costs the farm can’t pay, which is less than the entire fixed costs. However, if the price declined to $1.50 per pack, as <link target-id="CNX_Econ_C08_012"/> shows (b), and if the firm applied its rule of producing where P = MR = MC, it would produce a quantity of 60. This price is below average variable cost for this level of output. If the farmer cannot pay workers (the variable costs), then it has to shut down. At this price and output, total revenues would be $90 (quantity of 60 times price of $1.50) and total cost would be $165, for overall losses of $75. If the farm shuts down, it must pay only its fixed costs of $62, so shutting down is preferable to selling at a price of $1.50 per pack.</para><figure id="CNX_Econ_C08_012"><title>The Shutdown Point for the Raspberry Farm</title><media id="mCNX_Econ_C08_012" alt="The graphs show that despite negative profits (i.e. losses), firms can continue to operate. However, when prices drop beneath variable cost, firms will shut down">
-<image src="../../media/CNX_Econ2e_C08_012.jpg" mime-type="image/jpg"/>
-</media>
-<caption>In (a), the farm produces at a level of 65. It is making losses of $47.50, but price is above average variable cost, so it continues to operate. In (b), total revenues are $90 and total cost is $165, for overall losses of $75. If the farm shuts down, it must pay only its fixed costs of $62. Shutting down is preferable to selling at a price of $1.50 per pack.</caption>
-</figure><para id="ch08mod02_p31">Looking at <link target-id="ch08mod02_tab06"/>, if the price falls below about $1.65, the minimum average variable cost, the firm must shut down.</para><table id="ch08mod02_tab06" summary="The table shows the cost of production for the raspberry farm. Column 1 shows the quantity (Q). Column 2 shows the total cost (TC). Column 3 shows the fixed cost (FC). Column 4 shows the variable cost (VC). Column 5 shows the marginal cost (MC). Column 6 shows the average cost (AC). Column 7 shows the average variable cost (AVC). Row 1: At Q = 0, TC = $62, FC = $62, and VC, MC, AC, and AVC are all blank. Row 2: At Q = 10, TC = $90, FC = $62, VC = $28, MC = $2.80, AC = $9.00, AVC = $2.80. Row 3: At Q = 20, TC = $110, FC = $62, VC = $48, MC = $2.00, AC = $5.50, AVC = $2.40.  Row 4: At Q = 30, TC = $126, FC = $62, VC = $64, MC = $1.60, AC = $4.20, AVC = $2.13. Row 5: At Q = 40, TC = $144, FC = $62, VC = $82, MC = $1.80, AC = $3.60, AVC = $2.05.  Row 6: At Q = 50, TC = $166, FC = $62, VC = $104, MC = $2.20, AC = $3.32, AVC = $2.08. Row 7: At Q =60, TC = $192, FC = $62, VC = $130, MC = $2.60, AC = $3.20, AVC = $2.16. Row 8: At Q = 70, TC = $224, FC = $62, VC = $162, MC = $3.20, AC = $3.20, AVC = $2.31. Row 9: At Q = 80, TC = $264, FC = $62, VC = $202, MC = $4.00, AC = $3.30, AVC = $2.52. Row 10: At Q = 90, TC = $324, FC = $62, VC = $262, MC = $6.00, AC = $3.60, AVC = $2.91. Row 11: At Q = 100, TC = $404, FC = $62, VC = $342, MC = $8.00, AC = $4.04, AVC = $3.42."><title>Cost of Production for the Raspberry Farm</title><tgroup cols="7"><thead>
-<row>
-<entry align="center">Quantity<newline/>Q</entry>
-<entry align="center">Average Variable Cost<newline/>AVC</entry>
-<entry align="center">Average Cost<newline/>AC</entry>
-<entry align="center">Marginal Cost<newline/>MC</entry>
-</row>
-</thead>
-<tbody>
-<row>
-<entry>0</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>-</entry>
-</row>
-<row>
-<entry>10</entry>
-<entry>$2.80</entry>
-<entry>$9.00</entry>
-<entry>$2.80</entry>
-</row>
-<row>
-<entry>20</entry>
-<entry>$2.40</entry>
-<entry>$5.50</entry>
-<entry>$2.00</entry>
-</row>
-<row>
-<entry>30</entry>
-<entry>$2.13</entry>
-<entry>$4.20</entry>
-<entry>$1.60</entry>
-</row>
-<row>
-<entry>40</entry>
-<entry>$1.90</entry>
-<entry>$3.45</entry>
-<entry>$1.20</entry>
-</row>
-<row>
-<entry>50</entry>
-<entry>$1.76</entry>
-<entry>$3.00</entry>
-<entry>$1.20</entry>
-</row>
-<row>
-<entry>60</entry>
-<entry>$1.72</entry>
-<entry>$2.75</entry>
-<entry>$1.50</entry>
-</row>
-<row>
-<entry>70</entry>
-<entry>$1.83</entry>
-<entry>$2.71</entry>
-<entry>$2.50</entry>
-</row>
-<row>
-<entry>80</entry>
-<entry>$2.10</entry>
-<entry>$2.88</entry>
-<entry>$4.00</entry>
-</row>
-<row>
-<entry>90</entry>
-<entry>$2.60</entry>
-<entry>$3.29</entry>
-<entry>$6.60</entry>
-</row>
-<row>
-<entry>100</entry>
-<entry>$3.38</entry>
-<entry>$4.00</entry>
-<entry>$10.40</entry>
-</row>
-<row>
-<entry>110</entry>
-<entry>$4.44</entry>
-<entry>$5.00</entry>
-<entry>$15.00</entry>
-</row>
-<row>
-<entry>120</entry>
-<entry>$5.44</entry>
-<entry>$5.96</entry>
-<entry>$31.50</entry>
-</row>
-</tbody>
-
-
-</tgroup>
-</table><para id="ch08mod02_p32">The intersection of the average variable cost curve and the marginal cost curve, which shows the price below which the firm would lack enough revenue to cover its variable costs, is called the <emphasis effect="bold">shutdown point</emphasis>. If the perfectly competitive firm faces a market price above the shutdown point, then the firm is at least covering its average variable costs. At a price above the shutdown point, the firm  is also making enough revenue to cover at least a portion of fixed costs, so it should limp ahead even if it is making losses in the short run, since at least those losses will be smaller than if the firm shuts down immediately and incurs a loss equal to total fixed costs. However, if the firm is receiving a price below the price at the shutdown point, then the firm is not even covering its variable costs. In this case, staying open is making the firm’s losses larger, and it should shut down immediately. To summarize, if:
-<list id="ch08mod02_list01" list-type="bulleted">
-<item>price &lt; minimum average variable cost, then firm shuts down</item>
-<item>price > minimum average variable cost, then firm stays in business</item>
-</list></para></section><section id="ch08mod02_05">
-<title>Short-Run Outcomes for Perfectly Competitive Firms</title>
-<para id="ch08mod02_p33">The average cost and average variable cost curves divide the marginal cost curve into three segments, as <link target-id="CNX_Econ_C08_008"/> shows. At the market price, which the perfectly competitive firm accepts as given, the profit-maximizing firm chooses the output level where price or marginal revenue, which are the same thing for a perfectly competitive firm, is equal to marginal cost: P = MR = MC.</para><figure id="CNX_Econ_C08_008"><title>Profit, Loss, Shutdown</title><media id="mCNX_Econ_C08_008" alt="The graph shows how the marginal cost curve reveals three different zones: above the zero-profit point, between the zero profit point and the shutdown point, and below the shutdown point.">
-<image src="../../media/CNX_Econ2e_C08_008.jpg" mime-type="image/jpg"/>
-</media>
-
-<caption>We can divide marginal cost curve into three zones, based on where it is crossed by the average cost and average variable cost curves. We call the point where MC crosses AC the break even point. If the firm is operating where the market price is at a level higher than the break even point, then price will be greater than average cost and the firm is earning profits. If the price is exactly at the break even point, then the firm is making zero profits. If price falls in the zone between the shutdown point and the break even point, then the firm is making losses but will continue to operate in the short run, since it is covering its variable costs, and more if price is above the shutdown-point price. However, if price falls below the price at the shutdown point, then the firm will shut down immediately, since it is not even covering its variable costs.</caption></figure><para id="ch08mod02_p34">First consider the upper zone, where prices are above the level where marginal cost (MC) crosses average cost (AC) at the zero profit point. At any price above that level, the firm will earn profits in the short run. If the price falls exactly on the break even point where the MC and AC curves cross, then the firm earns zero profits. If a price falls into the zone between the break even point, where MC crosses AC, and the shutdown point, where MC crosses AVC, the firm will be making losses in the short run—but since the firm is more than covering its variable costs, the losses are smaller than if the firm shut down immediately. Finally, consider a price at or below the shutdown point where MC crosses AVC. At any price like this one, the firm will shut down immediately, because it cannot even cover its variable costs.</para></section>
-<section id="ch08mod02_06"><title>Marginal Cost and the Firm’s Supply Curve</title><para id="ch08mod02_p35">For a perfectly competitive firm, the marginal cost curve is identical to the firm’s supply curve starting from the minimum point on the average variable cost curve. To understand why this perhaps surprising insight holds true, first think about what the supply curve means. A firm checks the market price and then looks at its supply curve to decide what quantity to produce. Now, think about what it means to say that a firm will maximize its profits by producing at the quantity where P = MC. This rule means that the firm checks the market price, and then looks at its marginal cost to determine the quantity to produce—and makes sure that the price is greater than the minimum average variable cost. In other words, the marginal cost curve above the minimum point on the average variable cost curve becomes the firm’s supply curve.</para>
-<note id="ch08mod02_link01" class="economics linkup"><label/>
-<para id="ch08mod02_p36">Watch this <link url="http://openstax.org/l/foodprice">video</link> that addresses how drought in the United States can impact food prices across the world.</para>
-</note><para id="ch08mod02_p37">As we discussed in the chapter on <link document="m63600">Demand and Supply</link>, many of the reasons that supply curves shift relate to underlying changes in costs. For example, a lower price of key inputs or new technologies that reduce production costs cause supply to shift to the right. In contrast, bad weather or added government regulations can add to costs of certain goods in a way that causes supply to shift to the left. We can also interpret these shifts in the firm’s supply curve as shifts of the marginal cost curve. A shift in costs of production that increases marginal costs at all levels of output—and shifts MC upward and to the left—will cause a perfectly competitive firm to produce less at any given market price. Conversely, a shift in costs of production that decreases marginal costs at all levels of output will shift MC downward and to the right and as a result, a competitive firm will choose to expand its level of output at any given price. The following Work It Out feature will walk you through an example.</para><note id="ch08mod02_workout01" class="economics workout"><label/><title>At What Price Should the Firm Continue Producing in the Short Run?</title>
-
-<para id="ch08mod02_p38">To determine the short-run economic condition of a firm in perfect competition, follow the steps outlined below. Use the data in <link target-id="ch08mod02_tab07"/>.</para>
-<table id="ch08mod02_tab07" summary="The table has 10 columns. Column 1 shows quantity (Q). Column 2 shows price (P). Column 3 shows total fixed cost (TFC). Column 4 shows total variable cost (TVC). Column 5 shows total cost (TC). Column 6 shows average variable cost (AVC). Column 7 shows average total cost (ATC). Column 8 shows marginal cost (MC). Column 9 shows total revenue (TR). Column 10 shows profits. Columns 5 through 10 are blank in the table. At Q = 0, P = $28, TFC = $20, TVC = $0. At Q = 1, P = $28, TFC = $20, TVC = $20. At Q = 2, P = $28, TFC = $20, TVC = $25. At Q = 3, P = $28, TFC = $20, TVC = $35. At Q = 4, P = $28, TFC = $20, TVC = $52. At Q = 5, P = $28, TFC = $20, TVC = $80.">
-<tgroup cols="10"><thead>
-<row>
-<entry align="center">Q</entry>
-<entry align="center">P</entry>
-<entry align="center">TFC</entry>
-<entry align="center">TVC</entry>
-<entry align="center">TC</entry>
-<entry align="center">AVC</entry>
-<entry align="center">ATC</entry>
-<entry align="center">MC</entry>
-<entry align="center">TR</entry>
-<entry align="center">Profits</entry>
-</row>
-</thead>
-<tbody>
-<row>
-<entry>0</entry>
-<entry>$28</entry>
-<entry>$20</entry>
-<entry>$0</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>-</entry>
-</row>
-<row>
-<entry>1</entry>
-<entry>$28</entry>
-<entry>$20</entry>
-<entry>$20</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>-</entry>
-</row>
-<row>
-<entry>2</entry>
-<entry>$28</entry>
-<entry>$20</entry>
-<entry>$25</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>-</entry>
-</row>
-<row>
-<entry>3</entry>
-<entry>$28</entry>
-<entry>$20</entry>
-<entry>$35</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>-</entry>
-</row>
-<row>
-<entry>4</entry>
-<entry>$28</entry>
-<entry>$20</entry>
-<entry>$52</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>-</entry>
-</row>
-<row>
-<entry>5</entry>
-<entry>$28</entry>
-<entry>$20</entry>
-<entry>$80</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>-</entry>
-</row>
-</tbody>
-
-</tgroup>
-</table></note><para id="ch08mod02_p39">Step 1. Determine the cost structure for the firm. For a given total fixed costs and variable costs, calculate total cost, average variable cost, average total cost, and marginal cost. Follow the formulas given in the <link document="m63680">Production, Costs, and Industry Structure</link> chapter. These calculations are in <link target-id="ch08mod02_tab08"/>.</para><table id="ch08mod02_tab08" summary="The table has 10 columns. Column 1 shows quantity (Q). Column 2 shows price (P). Column 3 shows total fixed cost (TFC). Column 4 shows total variable cost (TVC). Column 5 shows total cost (TC) which is (TFC + TVC). Column 6 shows average variable cost (AVC) which is (TVC/Q). Column 7 shows average total cost (ATC) which is (TC/Q). Column 8 shows marginal cost (MC) which is (TC2 – TC1)/(Q2 – Q2). Column 9 shows total revenue (TR). Column 10 shows profits. Row 1: At Q = 0, P = $28, TFC = $20, TVC = $0, TC = ($20+$0=$20), and AVC, ATC, and MC are blank. Row 2: At Q = 1, P = $28, TFC = $20, TVC = $20, TC = ($20+$20=$40), AVC = ($20/1=$20), ATC = ($40/1=$40), MC = [($40–$20)/(1–0)=$20]. Row 3: At Q = 2, P = $28, TFC = $20, TVC = $25, TC = ($20+$25=$45), AVC = ($25/2=$12.50), ATC = ($45/2=$22.50), MC = [($45–$40)/(2–1)=$5]. Row 4: At Q = 3, P = $28, TFC = $20, TVC = $35, TC = ($20+$35=$55), AVC = ($35/3=$11.67), ATC = ($55/3=$18.33), MC = [($55–$45)/(3–2)=$10]. Row 5: At Q = 4, P = $28, TFC = $20, TVC = $52, TC = ($20+$52=$72), AVC = ($52/4=$13), ATC = ($72/4=$18), MC = [($72–$55)/(4–3)=$17]. Row 6: At Q = 5, P = $28, TFC = $20, TVC = $80, TC = ($20+$80=$100), AVC = ($80/5=$16), ATC = ($100/5=$20), MC = [($100–$72)/(5–4)=$28].">
-<tgroup cols="8"><thead>
-<row>
-<entry align="center">Q</entry>
-<entry align="center">P</entry>
-<entry align="center">TFC</entry>
-<entry align="center">TVC</entry>
-<entry align="center">TC<newline count="1"/>(TFC+TVC)</entry>
-<entry align="center">AVC<newline count="1"/>(TVC/Q)</entry>
-<entry align="center">ATC<newline count="1"/>(TC/Q)</entry>
-<entry align="center">MC<newline count="1"/>(TC<sub>2</sub>−TC<sub>1</sub>)/<newline count="1"/>(Q<sub>2</sub>−Q<sub>1</sub>)</entry>
-</row>
-</thead>
-<tbody>
-<row>
-<entry>0</entry>
-<entry>$28</entry>
-<entry>$20</entry>
-<entry>$0</entry>
-<entry>$20+$0=$20</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>-</entry>
-</row>
-<row>
-<entry>1</entry>
-<entry>$28</entry>
-<entry>$20</entry>
-<entry>$20</entry>
-<entry>$20+$20=$40</entry>
-<entry>$20/1=$20.00</entry>
-<entry>$40/1=$40.00</entry>
-<entry>($40−$20)/<newline count="1"/>(1−0)= $20</entry>
-</row>
-<row>
-<entry>2</entry>
-<entry>$28</entry>
-<entry>$20</entry>
-<entry>$25</entry>
-<entry>$20+$25=$45</entry>
-<entry>$25/2=$12.50</entry>
-<entry>$45/2=$22.50</entry>
-<entry>($45−$40)/<newline count="1"/>(2−1)= $5</entry>
-</row>
-<row>
-<entry>3</entry>
-<entry>$28</entry>
-<entry>$20</entry>
-<entry>$35</entry>
-<entry>$20+$35=$55</entry>
-<entry>$35/3=$11.67</entry>
-<entry>$55/3=$18.33</entry>
-<entry>($55−$45)/<newline count="1"/>(3−2)= $10</entry>
-</row>
-<row>
-<entry>4</entry>
-<entry>$28</entry>
-<entry>$20</entry>
-<entry>$52</entry>
-<entry>$20+$52=$72</entry>
-<entry>$52/4=$13.00</entry>
-<entry>$72/4=$18.00</entry>
-<entry>($72−$55)/<newline count="1"/>(4−3)= $17</entry>
-</row>
-<row>
-<entry>5</entry>
-<entry>$28</entry>
-<entry>$20</entry>
-<entry>$80</entry>
-<entry>$20+$80=$100</entry>
-<entry>$80/5=$16.00</entry>
-<entry>$100/5=$20.00</entry>
-<entry>($100−$72)/<newline count="1"/>(5−4)= $28</entry>
-</row>
-</tbody>
-
-</tgroup>
-</table><para id="ch08mod02_p40">Step 2. Determine the market price that the firm receives for its product. Since the firm in perfect competition is a price taker,  the market price is constant With the given price, calculate total revenue as equal to price multiplied by quantity for all output levels produced. In this example, the given price is $28. You can see that in the second column of <link target-id="ch08mod02_tab09"/>.</para><table id="ch08mod02_tab09" summary="The table shows how to calculate total revenue by multiplying quantity and price. Column 1 shows the quantity (Q). Column 2 shows the price (P). Column 3 shows the total revenue (TR) which is (P x Q). Row 1: At Q = 0, P = 28, TR is 28x0=$0. Row 2: At Q = 1, P = 28, TR is 28x1=>28. Row 3: At Q = 2, P = 28, TR is 28x2=$56. Row 4: At Q = 3, P = 28, TR is 28x3=$84. Row 5: At Q = 4, P = 28, TR is 28x4= 112. Row 6: At Q = 5, P = 28, TR is 28x5= 140.">
-<tgroup cols="3"><thead><row>
-<entry>Quantity</entry>
-<entry>Price</entry>
-<entry>Total Revenue (P × Q)</entry>
-</row>
-</thead>
-<tbody>
-<row>
-<entry>0</entry>
-<entry>$28</entry>
-<entry>$28×0=$0</entry>
-</row>
-<row>
-<entry>1</entry>
-<entry>$28</entry>
-<entry>$28×1=$28</entry>
-</row>
-<row>
-<entry>2</entry>
-<entry>$28</entry>
-<entry>$28×2=$56</entry>
-</row>
-<row>
-<entry>3</entry>
-<entry>$28</entry>
-<entry>$28×3=$84</entry>
-</row>
-<row>
-<entry>4</entry>
-<entry>$28</entry>
-<entry>$28×4=$112</entry>
-</row>
-<row>
-<entry>5</entry>
-<entry>$28</entry>
-<entry>$28×5=$140</entry>
-</row>
-</tbody>
-
-</tgroup>
-</table><para id="ch08mod02_p41">Step 3. Calculate profits as total cost subtracted from total revenue, as <link target-id="ch08mod02_tab10"/> shows.</para>
-<table id="ch08mod02_tab10" summary="The table shows how to calculate profits by subtracting total cost from total revenue. Column 1 shows the quantity (Q). Column 2 shows the total revenue (TR). Column 3 shows the total cost (TC). Column 4 shows the profits which is (TR – TC). Row 1: At Q = 0, TR = $0, TC = $20, Profits is $0–$20= –$20. Row 2: At Q = 1, TR = $28, TC = $40, profits is $28–$40= –$12. Row 3: At Q = 2, TR = $56, TC = $45, profits is $56–$45= $11. Row 4: At Q = 3, TR = $84, TC = $55, profits is $84–$55= $29. Row 5: At Q = 4, TR = $112, TC = $72, profits is $112–$72= $40. Row 6: At Q = 5, TR = $140, TC = $100, profits is $140–$100= $40.">
-<tgroup cols="4"><thead>
-<row>
-<entry>Quantity</entry>
-<entry>Total Revenue</entry>
-<entry>Total Cost</entry>
-<entry>Profits (TR−TC)</entry>
-</row>
-</thead>
-<tbody>
-<row>
-<entry>0</entry>
-<entry>$0</entry>
-<entry>$20</entry>
-<entry>$0−$20=−$20</entry>
-</row>
-<row>
-<entry>1</entry>
-<entry>$28</entry>
-<entry>$40</entry>
-<entry>$28−$40=−$12</entry>
-</row>
-<row>
-<entry>2</entry>
-<entry>$56</entry>
-<entry>$45</entry>
-<entry>$56−$45=$11</entry>
-</row>
-<row>
-<entry>3</entry>
-<entry>$84</entry>
-<entry>$55</entry>
-<entry>$84−$55=$29</entry>
-</row>
-<row>
-<entry>4</entry>
-<entry>$112</entry>
-<entry>$72</entry>
-<entry>$112−$72=$40</entry>
-</row>
-<row>
-<entry>5</entry>
-<entry>$140</entry>
-<entry>$100</entry>
-<entry>$140−$100=$40</entry>
-</row>
-</tbody>
-
-</tgroup>
-</table><para id="ch08mod02_p42">Step 4. To find the profit-maximizing output level, look at the Marginal Cost column (at every output level produced), as <link target-id="ch08mod02_tab11"/> shows, and determine where it is equal to the market price. The output level where price equals the marginal cost is the output level that maximizes profits.</para>
-<table id="ch08mod02_tab11" summary="The table shows the profit-maximizing output level. Column 1 shows quantity (Q). Column 2 shows price (P). Column 3 shows total fixed cost (TFC). Column 4 shows total variable cost (TVC). Column 5 shows total cost (TC). Column 6 shows average variable cost (AVC). Column 7 shows average total cost (ATC). Column 8 shows marginal cost (MC). Column 9 shows total revenue (TR). Column 10 shows profits. Row 1: At Q = 0, P = $28, TFC = $20, TVC = $0, TC = $20, AVC = (blank cell), ATC = (blank cell), MC = (blank cell), TR = $0, Profits = –$20. Row 2: At Q = 1, P = $28, TFC = $20, TVC = $20, TC = $20, AVC = $20, ATC = $40, MC =$20, TR = $28, Profits = –$12. Row 3: At Q = 2, P = $28, TFC = $20, TVC = $25, TC = $45, AVC = $12.50, ATC = $22.50, MC =$5, TR = $56, Profits = $11. Row 4: At Q = 3, P = $28, TFC = $20, TVC = $35, TC = $55, AVC = $11.67, ATC = $18.33, MC =$10, TR = $84, Profits = $29. Row 5: At Q = 4, P = $28, TFC = $20, TVC = $52, TC = $72, AVC = $13, ATC = $18, MC =$17, TR = $112, Profits = $40. Row 6: At Q = 5, P = $28, TFC = $20, TVC = $80, TC = $100, AVC = $16.40, ATC = $20.40, MC =$30, TR = $140, Profits = $40.">
-<tgroup cols="10"><thead>
-<row>
-<entry>Q</entry>
-<entry>P</entry>
-<entry>TFC</entry>
-<entry>TVC</entry>
-<entry>TC</entry>
-<entry>AVC</entry>
-<entry>ATC</entry>
-<entry>MC</entry>
-<entry>TR</entry>
-<entry>Profits</entry>
-</row>
-</thead>
-<tbody>
-<row>
-<entry>0</entry>
-<entry>$28</entry>
-<entry>$20</entry>
-<entry>$0</entry>
-<entry>$20</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>$0</entry>
-<entry>−$20</entry>
-</row>
-<row>
-<entry>1</entry>
-<entry>$28</entry>
-<entry>$20</entry>
-<entry>$20</entry>
-<entry>$40</entry>
-<entry>$20.00</entry>
-<entry>$40.00</entry>
-<entry>$20</entry>
-<entry>$28</entry>
-<entry>−$12</entry>
-</row>
-<row>
-<entry>2</entry>
-<entry>$28</entry>
-<entry>$20</entry>
-<entry>$25</entry>
-<entry>$45</entry>
-<entry>$12.50</entry>
-<entry>$22.50</entry>
-<entry>$5</entry>
-<entry>$56</entry>
-<entry>$11</entry>
-</row>
-<row>
-<entry>3</entry>
-<entry>$28</entry>
-<entry>$20</entry>
-<entry>$35</entry>
-<entry>$55</entry>
-<entry>$11.67</entry>
-<entry>$18.33</entry>
-<entry>$10</entry>
-<entry>$84</entry>
-<entry>$29</entry>
-</row>
-<row>
-<entry>4</entry>
-<entry>$28</entry>
-<entry>$20</entry>
-<entry>$52</entry>
-<entry>$72</entry>
-<entry>$13.00</entry>
-<entry>$18.00</entry>
-<entry>$17</entry>
-<entry>$112</entry>
-<entry>$40</entry>
-</row>
-<row>
-<entry><emphasis effect="bold">5</emphasis></entry>
-<entry><emphasis effect="bold">$28</emphasis></entry>
-<entry>$20</entry>
-<entry>$80</entry>
-<entry>$100</entry>
-<entry>$16.40</entry>
-<entry>$20.40</entry>
-<entry><emphasis effect="bold">$28</emphasis></entry>
-<entry>$140</entry>
-<entry><emphasis effect="bold">$40</emphasis></entry>
-</row>
-</tbody>
-
-
-
-</tgroup>
-</table><para id="ch08mod02_p43">Step 5. Once you have determined the profit-maximizing output level (in this case, output quantity 5), you can look at the amount of profits made (in this case, $40).</para><para id="ch08mod02_p44">Step 6. If the firm is making economic losses, the firm needs to determine whether it produces the output level where price equals marginal revenue and equals marginal cost or it shuts down and only incurs its fixed costs.</para>
-<para id="ch08mod02_p45">Step 7. For the output level where marginal revenue is equal to marginal cost, check if the market price is greater than the average variable cost of producing that output level.
-<list id="ch08mod02_list02" list-type="bulleted">
-<item>If P > AVC but P &lt; ATC, then the firm continues to produce in the short-run, making economic losses.</item>
-<item>If P &lt; AVC, then the firm stops producing and only incurs its fixed costs.</item>
-</list>
-</para>
-<para id="ch08mod02_p46">In this example, the price of $28 is greater than the AVC ($16.40) of producing 5 units of output, so the firm continues producing.</para></section><section id="ch08mod02_summ" class="summary">
-<title>Key Concepts and Summary</title>
-<para id="ch08mod02_p47">As a perfectly competitive firm produces a greater quantity of output, its total revenue steadily increases at a constant rate determined by the given market price. Profits will be highest (or losses will be smallest) at the quantity of output where total revenues exceed total costs by the greatest amount (or where total revenues fall short of total costs by the smallest amount). Alternatively, profits will be highest where marginal revenue, which is price for a perfectly competitive firm, is equal to marginal cost. If the market price faced by a perfectly competitive firm is above average cost at the profit-maximizing quantity of output, then the firm is making profits. If the market price is below average cost at the profit-maximizing quantity of output, then the firm is making losses.</para>
-<para id="ch08mod02_p48">If the market price is equal to average cost at the profit-maximizing level of output, then the firm is making zero profits. We call the point where the marginal cost curve crosses the average cost curve, at the minimum of the average cost curve, the “zero profit point.” If the market price that a perfectly competitive firm faces is below average variable cost at the profit-maximizing quantity of output, then the firm should shut down operations immediately. If the market price that a perfectly competitive firm faces is above average variable cost, but below average cost, then the firm should continue producing in the short run, but exit in the long run. We call the point where the marginal cost curve crosses the average variable cost curve the shutdown point.</para></section>
-<section id="ch08mod02_sques" class="self-check-questions">
-<title>Self-Check Questions</title>
-<exercise id="ch08mod02_sques01"><problem id="ch08mod02_sques01p">
-<para id="ch08mod02_p49">Look at <link target-id="ch08mod02_tab12"/>. What would happen to the firm’s profits if the market price increases to $6 per pack of raspberries?</para>
-<table id="ch08mod02_tab12" summary="The table has 6 columns. Column 1 shows the quantity (Q). Column 2 shows the total cost (TC). Column 3 shows the fixed cost (FC). Column 4 shows the variable cost (VC). Column 5 shows the total revenue (TR). Column 6 shows the profit. Row 1: At Q = 0, TC = $62, FC = $62, VC = (blank cell), TR = $0, profit = –$62. Row 2: At Q = 10, TC = $90, FC = $62, VC = $28, TR = $60, profit = –$30. Row 3: At Q = 20, TC = $110, FC = $62, VC = $48, TR = $120, profit = $10. Row 4: At Q = 30, TC = $126, FC = $62, VC = $64, TR = $180, profit = $54. Row 5: At Q = 40, TC = $144, FC = $62, VC = $82, TR = $240, profit = $96. Row 6: At Q = 50, TC = $166, FC = $62, VC = $104, TR = $300, profit = $134. Row 7: At Q = 60, TC = $192, FC = $62, VC = $130, TR = $360, profit = $168. Row 8: At Q = 70, TC = $224, FC = $62, VC = $162, TR = $420, profit = $196. Row 9: At Q = 80, TC = $264, FC = $62, VC = $202, TR = $480, profit = $216. Row 10: At Q = 90, TC = $324, FC = $62, VC = $262, TR = $540, profit = $216. Row 11: At Q = 100, TC = $404, FC = $62, VC = $342, TR = $600, profit = –$196.">
-<tgroup cols="6"><thead>
-<row>
-<entry>Quantity</entry>
-<entry>Total Cost</entry>
-<entry>Fixed Cost</entry>
-<entry>Variable Cost</entry>
-<entry>Total Revenue</entry>
-<entry>Profit</entry>
-</row>
-</thead>
-<tbody>
-<row>
-<entry>0</entry>
-<entry>$62</entry>
-<entry>$62</entry>
-<entry>-</entry>
-<entry>$0</entry>
-<entry>−$62</entry>
-</row>
-<row>
-<entry>10</entry>
-<entry>$90</entry>
-<entry>$62</entry>
-<entry>$28</entry>
-<entry>$60</entry>
-<entry>−$30</entry>
-</row>
-<row>
-<entry>20</entry>
-<entry>$110</entry>
-<entry>$62</entry>
-<entry>$48</entry>
-<entry>$120</entry>
-<entry>$10</entry>
-</row>
-<row>
-<entry>30</entry>
-<entry>$126</entry>
-<entry>$62</entry>
-<entry>$64</entry>
-<entry>$180</entry>
-<entry>$54</entry>
-</row>
-<row>
-<entry>40</entry>
-<entry>$144</entry>
-<entry>$62</entry>
-<entry>$82</entry>
-<entry>$240</entry>
-<entry>$96</entry>
-</row>
-<row>
-<entry>50</entry>
-<entry>$166</entry>
-<entry>$62</entry>
-<entry>$104</entry>
-<entry>$300</entry>
-<entry>$134</entry>
-</row>
-<row>
-<entry>60</entry>
-<entry>$192</entry>
-<entry>$62</entry>
-<entry>$130</entry>
-<entry>$360</entry>
-<entry>$168</entry>
-</row>
-<row>
-<entry>70</entry>
-<entry>$224</entry>
-<entry>$62</entry>
-<entry>$162</entry>
-<entry>$420</entry>
-<entry>$196</entry>
-</row>
-<row>
-<entry>80</entry>
-<entry>$264</entry>
-<entry>$62</entry>
-<entry>$202</entry>
-<entry>$480</entry>
-<entry>$216</entry>
-</row>
-<row>
-<entry>90</entry>
-<entry>$324</entry>
-<entry>$62</entry>
-<entry>$262</entry>
-<entry>$540</entry>
-<entry>$216</entry>
-</row>
-<row>
-<entry>100</entry>
-<entry>$404</entry>
-<entry>$62</entry>
-<entry>$342</entry>
-<entry>$600</entry>
-<entry>$196</entry>
-</row>
-</tbody>
-
-</tgroup>
-</table></problem>
-<solution id="ch08mod02_sques01s">
-<para id="ch08mod02_p50">Holding total cost constant, profits at every output level would increase.</para>
-</solution>
-</exercise><exercise id="ch08mod02_sques02"><problem id="ch08mod02_sques02p">
-<para id="ch08mod02_p51">Suppose that the market price increases to $6, as <link target-id="ch08mod02_tab13"/> shows. What would happen to the profit-maximizing output level?</para><table id="ch08mod02_tab13" summary="The table has 7 columns. Column 1 shows the quantity (Q). Column 2 shows the total cost (TC). Column 3 shows the fixed cost (FC). Column 4 shows the variable cost (VC). Column 5 shows the marginal cost (MC). Column 6 shows the total revenue (TR). Column 7 shows the marginal revenue (MR). Row 1: At Q = 0, TC = $62, FC = $62, VC = (blank cell), MC = (blank cell) TR = $0, MR = (blank cell). Row 2: At Q = 10, TC = $90, FC = $62, VC = $28, MC = $2.80, TR = $60, MR = $6.00. Row 3: At Q = 20, TC = $110, FC = $62, VC = $48, MC = $2.00, TR = $120, MR = $6.00.  Row 4: At Q = 30, TC = $126, FC = $62, VC = $64, MC = $1.60, TR = $180, MR = $6.00. Row 5: At Q = 40, TC = $144, FC = $62, VC = $82, MC = $1.80, TR = $240, MR = $6.00.  Row 6: At Q = 50, TC = $166, FC = $62, VC = $104, MC = $2.20, TR = $300, MR = $6.00. Row 7: At Q =60, TC = $192, FC = $62, VC = $130, MC = $2.60, TR = $360, MR = $6.00. Row 8: At Q = 70, TC = $224, FC = $62, VC = $162, MC = $3.20, TR = $420, MR = $6.00. Row 9: At Q = 80, TC = $264, FC = $62, VC = $202, MC = $4.00, TR = $480, MR = $6.00. Row 10: At Q = 90, TC = $324, FC = $62, VC = $262, MC = $6.00, TR = $540, MR = $6.00. Row 11: At Q = 100, TC = $404, FC = $62, VC = $342, MC = $8.00, TR = $600, MR = $6.00.">
-<tgroup cols="7"><thead>
-<row>
-<entry>Quantity</entry>
-<entry>Total Cost</entry>
-<entry>Fixed Cost</entry>
-<entry>Variable Cost</entry>
-<entry>Marginal Cost</entry>
-<entry>Total Revenue</entry>
-<entry>Marginal Revenue</entry>
-</row>
-</thead>
-<tbody>
-<row>
-<entry>0</entry>
-<entry>$62</entry>
-<entry>$62</entry>
-<entry>-</entry>
-<entry>-</entry>
-<entry>$0</entry>
-<entry>-</entry>
-</row>
-<row>
-<entry>10</entry>
-<entry>$90</entry>
-<entry>$62</entry>
-<entry>$28</entry>
-<entry>$2.80</entry>
-<entry>$60</entry>
-<entry>$6.00</entry>
-</row>
-<row>
-<entry>20</entry>
-<entry>$110</entry>
-<entry>$62</entry>
-<entry>$48</entry>
-<entry>$2.00</entry>
-<entry>$120</entry>
-<entry>$6.00</entry>
-</row>
-<row>
-<entry>30</entry>
-<entry>$126</entry>
-<entry>$62</entry>
-<entry>$64</entry>
-<entry>$1.60</entry>
-<entry>$180</entry>
-<entry>$6.00</entry>
-</row>
-<row>
-<entry>40</entry>
-<entry>$144</entry>
-<entry>$62</entry>
-<entry>$82</entry>
-<entry>$1.80</entry>
-<entry>$240</entry>
-<entry>$6.00</entry>
-</row>
-<row>
-<entry>50</entry>
-<entry>$166</entry>
-<entry>$62</entry>
-<entry>$104</entry>
-<entry>$2.20</entry>
-<entry>$300</entry>
-<entry>$6.00</entry>
-</row>
-<row>
-<entry>60</entry>
-<entry>$192</entry>
-<entry>$62</entry>
-<entry>$130</entry>
-<entry>$2.60</entry>
-<entry>$360</entry>
-<entry>$6.00</entry>
-</row>
-<row>
-<entry>70</entry>
-<entry>$224</entry>
-<entry>$62</entry>
-<entry>$162</entry>
-<entry>$3.20</entry>
-<entry>$420</entry>
-<entry>$6.00</entry>
-</row>
-<row>
-<entry>80</entry>
-<entry>$264</entry>
-<entry>$62</entry>
-<entry>$202</entry>
-<entry>$4.00</entry>
-<entry>$480</entry>
-<entry>$6.00</entry>
-</row>
-<row>
-<entry><emphasis effect="bold">90</emphasis></entry>
-<entry>$324</entry>
-<entry>$62</entry>
-<entry>$262</entry>
-<entry><emphasis effect="bold">$6.00</emphasis></entry>
-<entry>$540</entry>
-<entry><emphasis effect="bold">$6.00</emphasis></entry>
-</row>
-<row>
-<entry>100</entry>
-<entry>$404</entry>
-<entry>$62</entry>
-<entry>$342</entry>
-<entry>$8.00</entry>
-<entry>$600</entry>
-<entry>$6.00</entry>
-</row>
-</tbody>
-
-</tgroup>
-</table></problem>
-<solution id="ch08mod02_sques02s">
-<para id="ch08mod02_p52">When the market price increases, marginal revenue increases. The firm would then increase production up to the point where the new price equals marginal cost, at a quantity of 90.</para>
-</solution>
-</exercise><exercise id="ch08mod02_sques03">
-<problem id="ch08mod02_sques03p">
-<para id="ch08mod02_p53">Explain in words why a profit-maximizing firm will not choose to produce at a quantity where marginal cost exceeds marginal revenue.</para>
-</problem>
-<solution id="ch08mod02_sques03s">
-<para id="ch08mod02_p54">If marginal costs exceeds marginal revenue, then the firm will reduce its profits for every additional unit of output it produces. Profit would be greatest if it reduces output to where MR = MC.</para>
-</solution>
-</exercise>
-<exercise id="ch08mod02_sques04">
-<problem id="ch08mod02_sques04p">
-<para id="ch08mod02_p55">A firm’s marginal cost curve above the average variable cost curve is equal to the firm’s individual supply curve. This means that every time a firm receives a price from the market it will be willing to supply the amount of output where the price equals marginal cost. What happens to the firm’s individual supply curve if marginal costs increase?</para>
-</problem>
-<solution id="ch08mod02_sques04s">
-<para id="ch08mod02_p56">The firm will be willing to supply fewer units at every price level. In other words, the firm’s individual supply curve decreases and shifts to the left.</para>
-</solution>
-</exercise>
-</section>
-<section id="ch08mod02_rques" class="review-questions">
-<title>Review Questions</title>
-<exercise id="ch08mod02_rques01">
-<problem id="ch08mod02_rques01p">
-<para id="ch08mod02_p57">How does a perfectly competitive firm decide what price to charge?</para>
-</problem>
-</exercise>
-<exercise id="ch08mod02_rques02">
-<problem id="ch08mod02_rques02p">
-<para id="ch08mod02_p58">What prevents a perfectly competitive firm from seeking higher profits by increasing the price that it charges?</para>
-</problem>
-</exercise>
-<exercise id="ch08mod02_rques03">
-<problem id="ch08mod02_rques03p">
-<para id="ch08mod02_p59">How does a perfectly competitive firm calculate total revenue?</para>
-</problem>
-</exercise>
-<exercise id="ch08mod02_rques04">
-<problem id="ch08mod02_rques04p">
-<para id="ch08mod02_p60">Briefly explain the reason for the shape of a marginal revenue curve for a perfectly competitive firm.</para>
-</problem>
-</exercise>
-<exercise id="ch08mod02_rques05">
-<problem id="ch08mod02_rques05p">
-<para id="ch08mod02_p61">What two rules does a perfectly competitive firm apply to determine its profit-maximizing quantity of output?</para>
-</problem>
-</exercise>
-<exercise id="ch08mod02_rques06">
-<problem id="ch08mod02_rques06p">
-<para id="ch08mod02_p62">How does the average cost curve help to show whether a firm is making profits or losses?</para>
-</problem>
-</exercise>
-<exercise id="ch08mod02_rques07">
-<problem id="ch08mod02_rques07p">
-<para id="ch08mod02_p63">What two lines on a cost curve diagram intersect at the zero-profit point?</para>
-</problem>
-</exercise>
-<exercise id="ch08mod02_rques08">
-<problem id="ch08mod02_rques08p">
-<para id="ch08mod02_p64">Should a firm shut down immediately if it is making losses?</para>
-</problem>
-</exercise>
-<exercise id="ch08mod02_rques09">
-<problem id="ch08mod02_rques09p">
-<para id="ch08mod02_p65">How does the average variable cost curve help a firm know whether it should shut down immediately?</para>
-</problem>
-</exercise>
-<exercise id="ch08mod02_rques10">
-<problem id="ch08mod02_rques10p">
-<para id="ch08mod02_p66">What two lines on a cost curve diagram intersect at the shutdown point?</para>
-</problem>
-</exercise>
-</section>
-<section id="ch08mod02_ctques" class="critical-thinking">
-<title>Critical Thinking Questions</title>
-<exercise id="ch08mod02_ctques01">
-<problem id="ch08mod02_ctques01p">
-<para id="ch08mod02_p67">Your company operates in a perfectly competitive market. You have been told that advertising can help you increase your sales in the short run. Would you create an aggressive advertising campaign for your product?</para>
-</problem>
-</exercise>
-<exercise id="ch08mod02_ctques02">
-<problem id="ch08mod02_ctques02p">
-<para id="ch08mod02_p68">Since a perfectly competitive firm can sell as much as it wishes at the market price, why can the firm not simply increase its profits by selling an extremely high quantity?</para>
-</problem>
-</exercise>
-</section>
-<section id="ch08mod02_prob" class="problems">
-<title>Problems</title>
-<exercise id="ch08mod02_prob01">
-<problem id="ch08mod02_prob01p">
-<para id="ch08mod02_p69">The AAA Aquarium Co. sells aquariums for $20 each. Fixed costs of production are $20. The total variable costs are $20 for one aquarium, $25 for two units, $35 for the three units, $50 for four units, and $80 for five units. In the form of a table, calculate total revenue, marginal revenue, total cost, and marginal cost for each output level (one to five units). What is the profit-maximizing quantity of output? On one diagram, sketch the total revenue and total cost curves. On another diagram, sketch the marginal revenue and marginal cost curves.</para>
-</problem>
-</exercise>
-<exercise id="ch08mod02_prob02">
-<problem id="ch08mod02_prob02p">
-<para id="ch08mod02_p70">Perfectly competitive firm Doggies Paradise Inc. sells winter coats for dogs. Dog coats sell for $72 each. The fixed costs of production are $100. The total variable costs are $64 for one unit, $84 for two units, $114 for three units, $184 for four units, and $270 for five units. In the form of a table, calculate total revenue, marginal revenue, total cost and marginal cost for each output level (one to five units). On one diagram, sketch the total revenue and total cost curves. On another diagram, sketch the marginal revenue and marginal cost curves. What is the profit maximizing quantity?</para>
-</problem>
-</exercise>
-<exercise id="ch08mod02_prob03">
-<problem id="ch08mod02_prob03p">
-<para id="ch08mod02_p71">A computer company produces affordable, easy-to-use home computer systems and has fixed costs of $250. The marginal cost of producing computers is $700 for the first computer, $250 for the second, $300 for the third, $350 for the fourth, $400 for the fifth, $450 for the sixth, and $500 for the seventh.
-<list id="ch08mod02_list03" list-type="enumerated" number-style="lower-alpha">
-<item>Create a table that shows the company’s output, total cost, marginal cost, average cost, variable cost, and average variable cost.</item>
-<item>At what price is the zero-profit point? At what price is the shutdown point?</item>
-<item>If the company sells the computers for $500, is it making a profit or a loss? How big is the profit or loss? Sketch a graph with AC, MC, and AVC curves to illustrate your answer and show the profit or loss.</item>
-<item>If the firm sells the computers for $300, is it making a profit or a loss? How big is the profit or loss? Sketch a graph with AC, MC, and AVC curves to illustrate your answer and show the profit or loss.</item>
-</list>
-</para>
-</problem>
-</exercise>
-</section>
-</content>
-<glossary>
-<definition id="ch08mod02_gl01">
-<term>marginal revenue</term>
-<meaning id="ch08mod02_gl01m">the additional revenue gained from selling one more unit</meaning>
-</definition>
-<definition id="ch08mod02_gl02">
-<term>shutdown point</term>
-<meaning id="ch08mod02_gl02m">level of output where the marginal cost curve intersects the average variable cost curve at the minimum point of AVC; if the price is below this point, the firm should shut down immediately</meaning>
-</definition>
-<definition id="ch08mod02_gl03">
-<term>break even point</term>
-<meaning id="ch08mod02_gl03m">level of output where the marginal cost curve intersects the average cost curve at the minimum point of AC; if the price is at this point, the firm is earning zero economic profits</meaning>
-</definition>
-</glossary>
-
-</document>
+       <m:mtd columnalign="left">
+        <m:mrow>
+         <m:mtext>total revenue</m:mtext><m:mo>–</m:mo><m:mtext>total cost</m:mtext>
+        </m:mrow>
+       </m:mtd>
+      </m:mtr>
+      <m:mtr columnalign="left">
+   
+   <m:mtd/>
+   <m:mtd><m:mo>=</m:mo></m:mtd>
+       <m:mtd columnalign="left">
+        <m:mrow>
+         <m:mn>(75)($2.75)</m:mn><m:mo>–</m:mo><m:mn>(75)($2.75)</m:mn>
+        </m:mrow>
+       </m:mtd>
+      </m:mtr>
+      <m:mtr columnalign="left">
+   <m:mtd/>
+   <m:mtd><m:mo>=</m:mo></m:mtd>
+       <m:mtd columnalign="left">
+        <m:mrow>
+        <m:mn>$0</m:mn>
+        </m:mrow>
+       </m:mtd>
+      </m:mtr>
+   
+     </m:mtable>
+    </m:mrow>
+   </m:math></equation><para id="ch08mod02_p22">Or, we can calculate it as:</para><equation id="ch08mod02_uneq07" class="unnumbered"><m:math display="block">
+    <m:mrow>
+     <m:mtable columnalign="left">
+      <m:mtr columnalign="left">
+   <m:mtd><m:mtext>profit</m:mtext></m:mtd>
+   <m:mtd><m:mo>=</m:mo></m:mtd>
+       <m:mtd columnalign="left">
+        <m:mrow>
+     <m:mtext>(price</m:mtext><m:mo>–</m:mo><m:mtext>average cost)</m:mtext><m:mo>×</m:mo><m:mtext>quantity</m:mtext>
+        </m:mrow>
+       </m:mtd>
+      </m:mtr>
+      <m:mtr columnalign="left"><m:mtd/>
+   <m:mtd><m:mo>=</m:mo></m:mtd>
+       <m:mtd columnalign="left">
+        <m:mrow>
+         <m:mn>($2.75</m:mn><m:mo>–</m:mo><m:mn>$2.75)</m:mn><m:mo>×</m:mo><m:mn>75</m:mn>
+        </m:mrow>
+       </m:mtd>
+      </m:mtr>
+      <m:mtr columnalign="left"><m:mtd/>
+   <m:mtd><m:mo>=</m:mo></m:mtd>
+       <m:mtd columnalign="left">
+        <m:mrow>
+         <m:mn>$0</m:mn>
+        </m:mrow>
+       </m:mtd>
+      </m:mtr>
+   
+     </m:mtable>
+    </m:mrow>
+   </m:math>
+   </equation><para id="ch08mod02_p23">In <link target-id="CNX_Econ_C08_014"/> (c), the market price has fallen still further to $2.00 for a pack of frozen raspberries. At this price, marginal revenue intersects marginal cost at a quantity of 65. The farm’s total revenue at this price will be shown by the large shaded rectangle from the origin over to a quantity of 65 packs (the base) up to point E” (the height), over to the price of $2, and back to the origin. The average cost of producing 65 packs is shown by Point C” or shows the average cost of producing 50 packs is about $2.73. Total costs will be the quantity of 65 times the average cost of $2.73, which the area of the rectangle from the origin to a quantity of 50, up to point C”, over to the vertical axis and down to the origin shows. It should be clear from examining the two rectangles that total revenue is less than total cost. Thus, the firm is losing money and the loss (or negative profit) will be the rose-shaded rectangle.</para><para id="ch08mod02_p24">The calculations are:</para>
+   <equation id="ch08mod02_uneq08" class="unnumbered"><m:math display="block">
+    <m:mrow>
+     <m:mtable columnalign="left">
+      <m:mtr columnalign="left"><m:mtd><m:mtext>profit</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd>
+       <m:mtd columnalign="left">
+        <m:mrow>
+         <m:mtext>(total revenue</m:mtext><m:mo>–</m:mo><m:mtext> total cost)</m:mtext>
+        </m:mrow>
+       </m:mtd>
+      </m:mtr>
+      <m:mtr columnalign="left"><m:mtd/>
+   <m:mtd><m:mo>=</m:mo></m:mtd>
+       <m:mtd columnalign="left">
+        <m:mrow>
+         <m:mn>(65)($2.00)</m:mn><m:mo>–</m:mo><m:mn>(65)($2.73)</m:mn>
+        </m:mrow>
+       </m:mtd>
+      </m:mtr>
+      <m:mtr columnalign="left"><m:mtd/>
+   <m:mtd><m:mo>=</m:mo></m:mtd>
+       <m:mtd columnalign="left">
+        <m:mrow>
+         <m:mn>–$47.45</m:mn>
+        </m:mrow>
+       </m:mtd>
+      </m:mtr>
+   
+     </m:mtable>
+    </m:mrow>
+   </m:math>
+   </equation><para id="ch08mod02_p25">Or:</para>
+   <equation id="ch08mod02_uneq09" class="unnumbered"><m:math display="block">
+    <m:mrow>
+     <m:mtable columnalign="left">
+      <m:mtr columnalign="left"><m:mtd><m:mtext>profit</m:mtext></m:mtd>
+   <m:mtd><m:mo>=</m:mo></m:mtd>
+       <m:mtd columnalign="left">
+        <m:mrow>
+         <m:mtext>(price</m:mtext><m:mo>–</m:mo><m:mtext>average cost) × quantity</m:mtext>
+        </m:mrow>
+       </m:mtd>
+      </m:mtr>
+      <m:mtr columnalign="left"><m:mtd/>
+   <m:mtd><m:mo>=</m:mo></m:mtd>
+       <m:mtd columnalign="left">
+        <m:mrow>
+         <m:mn>($2.00</m:mn><m:mo>–</m:mo><m:mn>$2.73) × 65</m:mn>
+        </m:mrow>
+       </m:mtd>
+      </m:mtr>
+      <m:mtr columnalign="left"><m:mtd/>
+   <m:mtd><m:mo>=</m:mo></m:mtd>
+       <m:mtd columnalign="left">
+        <m:mrow>
+        <m:mn>–$47.45</m:mn>
+        </m:mrow>
+       </m:mtd>
+      </m:mtr>
+   
+     </m:mtable>
+    </m:mrow>
+   </m:math>
+   </equation><para id="ch08mod02_p26">If the market price that perfectly competitive firm receives leads it to produce at a quantity where the price is greater than average cost, the firm will earn profits. If the price the firm receives causes it to produce at a quantity where price equals average cost, which occurs at the minimum point of the AC curve, then the firm earns zero profits. Finally, if the price the firm receives leads it to produce at a quantity where the price is less than average cost, the firm will earn losses. <link target-id="ch08mod02_tab04"/> summarizes this.</para><table id="ch08mod02_tab04" summary="The table shows how the difference in amount between price and ATC effects a firm’s earnings. Column 1 is labeled “If…” and Column 2 is labeled “Then…” If price is greater than ATC, then the firm earns an economic profit. If price equals ATC, then the firm earns zero economic profit. If price is less than ATC, then the firm earns a loss.">
+   <tgroup cols="2"><thead>
+   <row>
+   <entry>If...</entry>
+   <entry>Then...</entry>
+   </row>
+   </thead>
+   <tbody>
+   <row>
+   <entry>Price > ATC</entry>
+   <entry>Firm earns an economic profit</entry>
+   </row>
+   <row>
+   <entry>Price = ATC</entry>
+   <entry>Firm earns zero economic profit</entry>
+   </row>
+   <row>
+   <entry>Price &lt; ATC</entry>
+   <entry>Firm earns a loss</entry>
+   </row>
+   </tbody>
+   
+   
+   </tgroup>
+   </table><note id="eip-785" class="economics clearup"><title>Which intersection should a firm choose?</title><para id="eip-idm583875056">At a price of $2, MR intersects MC at two points: Q = 20 and Q = 65.  It never makes sense for a firm to choose a level of output on the downward sloping part of the MC curve, because the profit is lower (the loss is bigger). Thus, the correct choice of output is Q = 65.</para></note></section><section id="ch08mod02_04"><title>The Shutdown Point</title><para id="ch08mod02_p27">The possibility that a firm may earn losses raises a question: Why can the firm not avoid losses by shutting down and not producing at all? The answer is that shutting down can reduce variable costs to zero, but in the short run, the firm has already paid for fixed costs. As a result, if the firm produces a quantity of zero, it would still make losses because it would still need to pay for its fixed costs. Therefore when a firm is experiencing losses, it must face a question: should it continue producing or should it shut down?</para><para id="ch08mod02_p28">As an example, consider the situation of the Yoga Center, which has signed a contract to rent space that costs $10,000 per month. If the firm decides to operate, its marginal costs for hiring yoga teachers is $15,000 for the month. If the firm shuts down, it must still pay the rent, but it would not need to hire labor. <link target-id="ch08mod02_tab05"/> shows three possible scenarios. In the first scenario, the Yoga Center does not have any clients, and therefore does not make any revenues, in which case it faces losses of $10,000 equal to the fixed costs. In the second scenario, the Yoga Center has clients that earn the center revenues of $10,000 for the month, but ultimately experiences losses of $15,000 due to having to hire yoga instructors to cover the classes. In the third scenario, the Yoga Center earns revenues of $20,000 for the month, but experiences losses of $5,000.</para>
+   <para id="ch08mod02_p29">In all three cases, the Yoga Center loses money. In all three cases, when the rental contract expires in the long run, assuming revenues do not improve, the firm should exit this business. In the short run, though, the decision varies depending on the level of losses and whether the firm can cover its variable costs. In scenario 1, the center does not have any revenues, so hiring yoga teachers would increase variable costs and losses, so it should shut down and only incur its fixed costs. In scenario 2, the center’s losses are greater because it does not make enough revenue to offset the increased variable costs, so it should shut down immediately and only incur its fixed costs. If price is below the minimum average variable cost, the firm must shut down. In contrast, in scenario 3 the revenue that the center can earn is high enough that the losses diminish when it remains open, so the center should remain open in the short run.</para><table id="ch08mod02_tab05" summary="The table shows three scenarios for determining whether a yoga center should shut down now or later. Scenario 1 reads: If the center shuts down now, revenues are zero but it will not incur any variable costs and would only need to pay fixed costs of $10,000. The first scenario 1 equation is: profit = total revenue – (fixed costs + variable cost). The next scenario 1 equation is: [profit] = 0 – $10,000. The last scenario 3 equation is: [profit] = – $10,000. Scenario 2 reads: The center earns revenues of $10,000, and variable costs are $15,000. The center should shut down now. The first scenario 2 equation is: profit = total revenue – (fixed costs + variable cost). The next scenario 2 equation is: [profit] = $10,000 – ($10,000 + $15,000). The last scenario 2 equation is: [profit] = – $15,000. Scenario 3 reads: The center earns revenues of $20,000, and variable costs are $15,000. The center should continue in business. The first scenario 3 equation is: profit = total revenue – (fixed costs + variable cost). The next scenario 3 equation is: [profit] = $20,000 – ($10,000 + $15,000). The last scenario 3 equation is: [profit] = – $5,000."><title>Should the Yoga Center Shut Down Now or Later?</title>
+   <tgroup cols="1"><tbody>
+   <row>
+   <entry><emphasis effect="bold">Scenario 1</emphasis></entry>
+   </row>
+   <row>
+   <entry>If the center shuts down now, revenues are zero but it will not incur any variable costs and would only need to pay fixed costs of $10,000.</entry>
+   </row>
+   <row>
+   <entry>
+   <equation id="ch08mod02_uneq10" class="unnumbered"><m:math display="block">
+    <m:mrow>
+     <m:mtable columnalign="left">
+      <m:mtr columnalign="left">
+       <m:mtd columnalign="left">
+        <m:mrow>
+         <m:mtext>profit = total revenue–(fixed costs + variable cost)</m:mtext>
+        </m:mrow>
+       </m:mtd>
+      </m:mtr>
+      <m:mtr columnalign="left">
+       <m:mtd columnalign="left">
+        <m:mrow>
+         <m:mtext>          = 0 –$10,000</m:mtext>
+        </m:mrow>
+       </m:mtd>
+      </m:mtr>
+      <m:mtr columnalign="left">
+       <m:mtd columnalign="left">
+        <m:mrow>
+         <m:mtext>          = –$10,000</m:mtext>
+        </m:mrow>
+       </m:mtd>
+      </m:mtr>
+   
+     </m:mtable>
+    </m:mrow>
+   </m:math>
+   </equation></entry>
+   </row>
+   <row>
+   <entry><emphasis effect="bold">Scenario 2</emphasis></entry>
+   </row>
+   <row>
+   <entry>The center earns revenues of $10,000, and variable costs are $15,000. The center should shut down now.</entry>
+   </row>
+   <row>
+   <entry>
+   <equation id="ch08mod02_uneq11" class="unnumbered"><m:math display="block">
+    <m:mrow>
+     <m:mtable columnalign="left">
+      <m:mtr columnalign="left">
+       <m:mtd columnalign="left">
+        <m:mrow>
+         <m:mtext>profit = total revenue </m:mtext><m:mo>–</m:mo><m:mtext> (fixed costs + variable cost)</m:mtext>
+        </m:mrow>
+       </m:mtd>
+      </m:mtr>
+      <m:mtr columnalign="left">
+       <m:mtd columnalign="left">
+        <m:mrow>
+         <m:mtext>          = $10,000 </m:mtext><m:mo>–</m:mo><m:mtext> ($10,000 + $15,000)</m:mtext>
+        </m:mrow>
+       </m:mtd>
+      </m:mtr>
+      <m:mtr columnalign="left">
+       <m:mtd columnalign="left">
+        <m:mrow>
+         <m:mtext>          = –$15,000</m:mtext>
+        </m:mrow>
+       </m:mtd>
+      </m:mtr>
+   
+     </m:mtable>
+    </m:mrow>
+   </m:math>
+   </equation></entry>
+   </row>
+   <row>
+   <entry><emphasis effect="bold">Scenario 3</emphasis></entry>
+   </row>
+   <row>
+   <entry>The center earns revenues of $20,000, and variable costs are $15,000. The center should continue in business.</entry>
+   </row>
+   <row>
+   <entry>
+   <equation id="ch08mod02_uneq13" class="unnumbered"><m:math display="block">
+    <m:mrow>
+     <m:mtable columnalign="left">
+      <m:mtr columnalign="left">
+       <m:mtd columnalign="left">
+        <m:mrow>
+         <m:mtext>profit = total revenue </m:mtext><m:mo>–</m:mo><m:mtext> (fixed costs + variable cost)</m:mtext>
+        </m:mrow>
+       </m:mtd>
+      </m:mtr>
+      <m:mtr columnalign="left">
+       <m:mtd columnalign="left">
+        <m:mrow>
+         <m:mtext>          = $20,000 </m:mtext><m:mo>–</m:mo><m:mtext> ($10,000 + $15,000)</m:mtext>
+        </m:mrow>
+       </m:mtd>
+      </m:mtr>
+      <m:mtr columnalign="left">
+       <m:mtd columnalign="left">
+        <m:mrow>
+         <m:mtext>          = –$5,000</m:mtext>
+        </m:mrow>
+       </m:mtd>
+      </m:mtr>
+   
+     </m:mtable>
+    </m:mrow>
+   </m:math>
+   </equation></entry>
+   </row>
+   </tbody>
+   
+   </tgroup>
+   </table>
+   
+   <para id="eip-174"><link target-id="CNX_Econ_C08_012"/> illustrates the lesson that remaining open requires the price to exceed the firm’s average variable cost. When the firm is operating below the break-even point, where price equals average cost, it is operating at a loss so it faces two options: continue to produce and lose money or shutdown.  Which option is preferable?  The one that loses the least money is the best choice. </para><para id="ch08mod02_p30">At a price of $2.00 per pack, as Figure 8.6 (a) illustrates, if the farm stays in operation it will produce at a level of 65 packs of raspberries, and it will make losses of $47.45 (as explained earlier).  The alternative would be to shut down and lose all the fixed costs of $62.00.  Since losing $47.45 is preferable to losing $62.00, the profit maximizing (or in this case the loss minimizing) choice is to stay in operation.  The key reason is because price is above average variable cost.  This means that at the current price the farm can pay all its variable costs, and have some revenue left over to pay some of the fixed costs.  So the loss represents the part of the fixed costs the farm can’t pay, which is less than the entire fixed costs. However, if the price declined to $1.50 per pack, as <link target-id="CNX_Econ_C08_012"/> (b) shows, and if the firm applied its rule of producing where P = MR = MC, it would produce a quantity of 60. This price is below average variable cost for this level of output. If the farmer cannot pay workers (the variable costs), then it has to shut down. At this price and output, total revenues would be $90 (quantity of 60 times price of $1.50) and total cost would be $165, for overall losses of $75. If the farm shuts down, it must pay only its fixed costs of $62, so shutting down is preferable to selling at a price of $1.50 per pack.</para><figure id="CNX_Econ_C08_012"><title>The Shutdown Point for the Raspberry Farm</title><media id="mCNX_Econ_C08_012" alt="The graphs show that despite negative profits (i.e. losses), firms can continue to operate. However, when prices drop beneath variable cost, firms will shut down">
+   <image src="../../media/CNX_Econ2e_C08_012.jpg" mime-type="image/jpg"/>
+   </media>
+   <caption>In (a), the farm produces at a level of 65. It is making losses of $47.50, but price is above average variable cost, so it continues to operate. In (b), total revenues are $90 and total cost is $165, for overall losses of $75. If the farm shuts down, it must pay only its fixed costs of $62. Shutting down is preferable to selling at a price of $1.50 per pack.</caption>
+   </figure><para id="ch08mod02_p31">Looking at <link target-id="ch08mod02_tab06"/>, if the price falls below about $1.72, the minimum average variable cost, the firm must shut down.</para><table id="ch08mod02_tab06" summary="The table shows the cost of production for the raspberry farm. Column 1 shows the quantity (Q). Column 2 shows the total cost (TC). Column 3 shows the fixed cost (FC). Column 4 shows the variable cost (VC). Column 5 shows the marginal cost (MC). Column 6 shows the average cost (AC). Column 7 shows the average variable cost (AVC). Row 1: At Q = 0, TC = $62, FC = $62, and VC, MC, AC, and AVC are all blank. Row 2: At Q = 10, TC = $90, FC = $62, VC = $28, MC = $2.80, AC = $9.00, AVC = $2.80. Row 3: At Q = 20, TC = $110, FC = $62, VC = $48, MC = $2.00, AC = $5.50, AVC = $2.40.  Row 4: At Q = 30, TC = $126, FC = $62, VC = $64, MC = $1.60, AC = $4.20, AVC = $2.13. Row 5: At Q = 40, TC = $144, FC = $62, VC = $82, MC = $1.80, AC = $3.60, AVC = $2.05.  Row 6: At Q = 50, TC = $166, FC = $62, VC = $104, MC = $2.20, AC = $3.32, AVC = $2.08. Row 7: At Q =60, TC = $192, FC = $62, VC = $130, MC = $2.60, AC = $3.20, AVC = $2.16. Row 8: At Q = 70, TC = $224, FC = $62, VC = $162, MC = $3.20, AC = $3.20, AVC = $2.31. Row 9: At Q = 80, TC = $264, FC = $62, VC = $202, MC = $4.00, AC = $3.30, AVC = $2.52. Row 10: At Q = 90, TC = $324, FC = $62, VC = $262, MC = $6.00, AC = $3.60, AVC = $2.91. Row 11: At Q = 100, TC = $404, FC = $62, VC = $342, MC = $8.00, AC = $4.04, AVC = $3.42."><title>Cost of Production for the Raspberry Farm</title><tgroup cols="7"><thead>
+   <row>
+   <entry align="center">Quantity<newline/>Q</entry>
+   <entry align="center">Average Variable Cost<newline/>AVC</entry>
+   <entry align="center">Average Cost<newline/>AC</entry>
+   <entry align="center">Marginal Cost<newline/>MC</entry>
+   </row>
+   </thead>
+   <tbody>
+   <row>
+   <entry>0</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   </row>
+   <row>
+   <entry>10</entry>
+   <entry>$2.80</entry>
+   <entry>$9.00</entry>
+   <entry>$2.80</entry>
+   </row>
+   <row>
+   <entry>20</entry>
+   <entry>$2.40</entry>
+   <entry>$5.50</entry>
+   <entry>$2.00</entry>
+   </row>
+   <row>
+   <entry>30</entry>
+   <entry>$2.13</entry>
+   <entry>$4.20</entry>
+   <entry>$1.60</entry>
+   </row>
+   <row>
+   <entry>40</entry>
+   <entry>$1.90</entry>
+   <entry>$3.45</entry>
+   <entry>$1.20</entry>
+   </row>
+   <row>
+   <entry>50</entry>
+   <entry>$1.76</entry>
+   <entry>$3.00</entry>
+   <entry>$1.20</entry>
+   </row>
+   <row>
+   <entry>60</entry>
+   <entry>$1.72</entry>
+   <entry>$2.75</entry>
+   <entry>$1.50</entry>
+   </row>
+   <row>
+   <entry>70</entry>
+   <entry>$1.83</entry>
+   <entry>$2.71</entry>
+   <entry>$2.50</entry>
+   </row>
+   <row>
+   <entry>80</entry>
+   <entry>$2.10</entry>
+   <entry>$2.88</entry>
+   <entry>$4.00</entry>
+   </row>
+   <row>
+   <entry>90</entry>
+   <entry>$2.60</entry>
+   <entry>$3.29</entry>
+   <entry>$6.60</entry>
+   </row>
+   <row>
+   <entry>100</entry>
+   <entry>$3.38</entry>
+   <entry>$4.00</entry>
+   <entry>$10.40</entry>
+   </row>
+   <row>
+   <entry>110</entry>
+   <entry>$4.44</entry>
+   <entry>$5.00</entry>
+   <entry>$15.00</entry>
+   </row>
+   <row>
+   <entry>120</entry>
+   <entry>$5.44</entry>
+   <entry>$5.96</entry>
+   <entry>$31.50</entry>
+   </row>
+   </tbody>
+   
+   
+   </tgroup>
+   </table><para id="ch08mod02_p32">The intersection of the average variable cost curve and the marginal cost curve, which shows the price below which the firm would lack enough revenue to cover its variable costs, is called the <emphasis effect="bold">shutdown point</emphasis>. If the perfectly competitive firm faces a market price above the shutdown point, then the firm is at least covering its average variable costs. At a price above the shutdown point, the firm  is also making enough revenue to cover at least a portion of fixed costs, so it should limp ahead even if it is making losses in the short run, since at least those losses will be smaller than if the firm shuts down immediately and incurs a loss equal to total fixed costs. However, if the firm is receiving a price below the price at the shutdown point, then the firm is not even covering its variable costs. In this case, staying open is making the firm’s losses larger, and it should shut down immediately. To summarize, if:
+   <list id="ch08mod02_list01" list-type="bulleted">
+   <item>price &lt; minimum average variable cost, then firm shuts down</item>
+   <item>price > minimum average variable cost, then firm stays in business</item>
+   </list></para></section><section id="ch08mod02_05">
+   <title>Short-Run Outcomes for Perfectly Competitive Firms</title>
+   <para id="ch08mod02_p33">The average cost and average variable cost curves divide the marginal cost curve into three segments, as <link target-id="CNX_Econ_C08_008"/> shows. At the market price, which the perfectly competitive firm accepts as given, the profit-maximizing firm chooses the output level where price or marginal revenue, which are the same thing for a perfectly competitive firm, is equal to marginal cost: P = MR = MC.</para><figure id="CNX_Econ_C08_008"><title>Profit, Loss, Shutdown</title><media id="mCNX_Econ_C08_008" alt="The graph shows how the marginal cost curve reveals three different zones: above the zero-profit point, between the zero profit point and the shutdown point, and below the shutdown point.">
+   <image src="../../media/CNX_Econ2e_C08_008.jpg" mime-type="image/jpg"/>
+   </media>
+   
+   <caption>We can divide the marginal cost curve into three zones, based on where it is crossed by the average cost and average variable cost curves. We call the point where MC crosses AC the break even point. If the firm is operating where the market price is at a level higher than the break even point, then price will be greater than average cost and the firm is earning profits. If the price is exactly at the break even point, then the firm is making zero profits. If price falls in the zone between the shutdown point and the break even point, then the firm is making losses but will continue to operate in the short run, since it is covering its variable costs, and more if price is above the shutdown-point price. However, if price falls below the price at the shutdown point, then the firm will shut down immediately, since it is not even covering its variable costs.</caption></figure><para id="ch08mod02_p34">First consider the upper zone, where prices are above the level where marginal cost (MC) crosses average cost (AC) at the zero profit point. At any price above that level, the firm will earn profits in the short run. If the price falls exactly on the break even point where the MC and AC curves cross, then the firm earns zero profits. If a price falls into the zone between the break even point, where MC crosses AC, and the shutdown point, where MC crosses AVC, the firm will be making losses in the short run—but since the firm is more than covering its variable costs, the losses are smaller than if the firm shut down immediately. Finally, consider a price at or below the shutdown point where MC crosses AVC. At any price like this one, the firm will shut down immediately, because it cannot even cover its variable costs.</para></section>
+   <section id="ch08mod02_06"><title>Marginal Cost and the Firm’s Supply Curve</title><para id="ch08mod02_p35">For a perfectly competitive firm, the marginal cost curve is identical to the firm’s supply curve starting from the minimum point on the average variable cost curve. To understand why this perhaps surprising insight holds true, first think about what the supply curve means. A firm checks the market price and then looks at its supply curve to decide what quantity to produce. Now, think about what it means to say that a firm will maximize its profits by producing at the quantity where P = MC. This rule means that the firm checks the market price, and then looks at its marginal cost to determine the quantity to produce—and makes sure that the price is greater than the minimum average variable cost. In other words, the marginal cost curve above the minimum point on the average variable cost curve becomes the firm’s supply curve.</para>
+   <note id="ch08mod02_link01" class="economics linkup"><label/>
+   <para id="ch08mod02_p36">Watch this <link url="http://openstax.org/l/foodprice">video</link> that addresses how drought in the United States can impact food prices across the world.</para>
+   </note><para id="ch08mod02_p37">As we discussed in the chapter on <link document="m63600">Demand and Supply</link>, many of the reasons that supply curves shift relate to underlying changes in costs. For example, a lower price of key inputs or new technologies that reduce production costs cause supply to shift to the right. In contrast, bad weather or added government regulations can add to costs of certain goods in a way that causes supply to shift to the left. We can also interpret these shifts in the firm’s supply curve as shifts of the marginal cost curve. A shift in costs of production that increases marginal costs at all levels of output—and shifts MC upward and to the left—will cause a perfectly competitive firm to produce less at any given market price. Conversely, a shift in costs of production that decreases marginal costs at all levels of output will shift MC downward and to the right and as a result, a competitive firm will choose to expand its level of output at any given price. The following Work It Out feature will walk you through an example.</para><note id="ch08mod02_workout01" class="economics workout"><label/><title>At What Price Should the Firm Continue Producing in the Short Run?</title>
+   
+   <para id="ch08mod02_p38">To determine the short-run economic condition of a firm in perfect competition, follow the steps outlined below. Use the data in <link target-id="ch08mod02_tab07"/>.</para>
+   <table id="ch08mod02_tab07" summary="The table has 10 columns. Column 1 shows quantity (Q). Column 2 shows price (P). Column 3 shows total fixed cost (TFC). Column 4 shows total variable cost (TVC). Column 5 shows total cost (TC). Column 6 shows average variable cost (AVC). Column 7 shows average total cost (ATC). Column 8 shows marginal cost (MC). Column 9 shows total revenue (TR). Column 10 shows profits. Columns 5 through 10 are blank in the table. At Q = 0, P = $28, TFC = $20, TVC = $0. At Q = 1, P = $28, TFC = $20, TVC = $20. At Q = 2, P = $28, TFC = $20, TVC = $25. At Q = 3, P = $28, TFC = $20, TVC = $35. At Q = 4, P = $28, TFC = $20, TVC = $52. At Q = 5, P = $28, TFC = $20, TVC = $80.">
+   <tgroup cols="10"><thead>
+   <row>
+   <entry align="center">Q</entry>
+   <entry align="center">P</entry>
+   <entry align="center">TFC</entry>
+   <entry align="center">TVC</entry>
+   <entry align="center">TC</entry>
+   <entry align="center">AVC</entry>
+   <entry align="center">ATC</entry>
+   <entry align="center">MC</entry>
+   <entry align="center">TR</entry>
+   <entry align="center">Profits</entry>
+   </row>
+   </thead>
+   <tbody>
+   <row>
+   <entry>0</entry>
+   <entry>$28</entry>
+   <entry>$20</entry>
+   <entry>$0</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   </row>
+   <row>
+   <entry>1</entry>
+   <entry>$28</entry>
+   <entry>$20</entry>
+   <entry>$20</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   </row>
+   <row>
+   <entry>2</entry>
+   <entry>$28</entry>
+   <entry>$20</entry>
+   <entry>$25</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   </row>
+   <row>
+   <entry>3</entry>
+   <entry>$28</entry>
+   <entry>$20</entry>
+   <entry>$35</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   </row>
+   <row>
+   <entry>4</entry>
+   <entry>$28</entry>
+   <entry>$20</entry>
+   <entry>$52</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   </row>
+   <row>
+   <entry>5</entry>
+   <entry>$28</entry>
+   <entry>$20</entry>
+   <entry>$80</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   </row>
+   </tbody>
+   
+   </tgroup>
+   </table></note><para id="ch08mod02_p39">Step 1. Determine the cost structure for the firm. For a given total fixed costs and variable costs, calculate total cost, average variable cost, average total cost, and marginal cost. Follow the formulas given in the <link document="m63680">Production, Costs, and Industry Structure</link> chapter. These calculations are in <link target-id="ch08mod02_tab08"/>.</para><table id="ch08mod02_tab08" summary="The table has 10 columns. Column 1 shows quantity (Q). Column 2 shows price (P). Column 3 shows total fixed cost (TFC). Column 4 shows total variable cost (TVC). Column 5 shows total cost (TC) which is (TFC + TVC). Column 6 shows average variable cost (AVC) which is (TVC/Q). Column 7 shows average total cost (ATC) which is (TC/Q). Column 8 shows marginal cost (MC) which is (TC2 – TC1)/(Q2 – Q2). Column 9 shows total revenue (TR). Column 10 shows profits. Row 1: At Q = 0, P = $28, TFC = $20, TVC = $0, TC = ($20+$0=$20), and AVC, ATC, and MC are blank. Row 2: At Q = 1, P = $28, TFC = $20, TVC = $20, TC = ($20+$20=$40), AVC = ($20/1=$20), ATC = ($40/1=$40), MC = [($40–$20)/(1–0)=$20]. Row 3: At Q = 2, P = $28, TFC = $20, TVC = $25, TC = ($20+$25=$45), AVC = ($25/2=$12.50), ATC = ($45/2=$22.50), MC = [($45–$40)/(2–1)=$5]. Row 4: At Q = 3, P = $28, TFC = $20, TVC = $35, TC = ($20+$35=$55), AVC = ($35/3=$11.67), ATC = ($55/3=$18.33), MC = [($55–$45)/(3–2)=$10]. Row 5: At Q = 4, P = $28, TFC = $20, TVC = $52, TC = ($20+$52=$72), AVC = ($52/4=$13), ATC = ($72/4=$18), MC = [($72–$55)/(4–3)=$17]. Row 6: At Q = 5, P = $28, TFC = $20, TVC = $80, TC = ($20+$80=$100), AVC = ($80/5=$16), ATC = ($100/5=$20), MC = [($100–$72)/(5–4)=$28].">
+   <tgroup cols="8"><thead>
+   <row>
+   <entry align="center">Q</entry>
+   <entry align="center">P</entry>
+   <entry align="center">TFC</entry>
+   <entry align="center">TVC</entry>
+   <entry align="center">TC<newline count="1"/>(TFC+TVC)</entry>
+   <entry align="center">AVC<newline count="1"/>(TVC/Q)</entry>
+   <entry align="center">ATC<newline count="1"/>(TC/Q)</entry>
+   <entry align="center">MC<newline count="1"/>(TC<sub>2</sub>−TC<sub>1</sub>)/<newline count="1"/>(Q<sub>2</sub>−Q<sub>1</sub>)</entry>
+   </row>
+   </thead>
+   <tbody>
+   <row>
+   <entry>0</entry>
+   <entry>$28</entry>
+   <entry>$20</entry>
+   <entry>$0</entry>
+   <entry>$20+$0=$20</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   </row>
+   <row>
+   <entry>1</entry>
+   <entry>$28</entry>
+   <entry>$20</entry>
+   <entry>$20</entry>
+   <entry>$20+$20=$40</entry>
+   <entry>$20/1=$20.00</entry>
+   <entry>$40/1=$40.00</entry>
+   <entry>($40−$20)/<newline count="1"/>(1−0)= $20</entry>
+   </row>
+   <row>
+   <entry>2</entry>
+   <entry>$28</entry>
+   <entry>$20</entry>
+   <entry>$25</entry>
+   <entry>$20+$25=$45</entry>
+   <entry>$25/2=$12.50</entry>
+   <entry>$45/2=$22.50</entry>
+   <entry>($45−$40)/<newline count="1"/>(2−1)= $5</entry>
+   </row>
+   <row>
+   <entry>3</entry>
+   <entry>$28</entry>
+   <entry>$20</entry>
+   <entry>$35</entry>
+   <entry>$20+$35=$55</entry>
+   <entry>$35/3=$11.67</entry>
+   <entry>$55/3=$18.33</entry>
+   <entry>($55−$45)/<newline count="1"/>(3−2)= $10</entry>
+   </row>
+   <row>
+   <entry>4</entry>
+   <entry>$28</entry>
+   <entry>$20</entry>
+   <entry>$52</entry>
+   <entry>$20+$52=$72</entry>
+   <entry>$52/4=$13.00</entry>
+   <entry>$72/4=$18.00</entry>
+   <entry>($72−$55)/<newline count="1"/>(4−3)= $17</entry>
+   </row>
+   <row>
+   <entry>5</entry>
+   <entry>$28</entry>
+   <entry>$20</entry>
+   <entry>$80</entry>
+   <entry>$20+$80=$100</entry>
+   <entry>$80/5=$16.00</entry>
+   <entry>$100/5=$20.00</entry>
+   <entry>($100−$72)/<newline count="1"/>(5−4)= $28</entry>
+   </row>
+   </tbody>
+   
+   </tgroup>
+   </table><para id="ch08mod02_p40">Step 2. Determine the market price that the firm receives for its product. Since the firm in perfect competition is a price taker,  the market price is constant. With the given price, calculate total revenue as equal to price multiplied by quantity for all output levels produced. In this example, the given price is $28. You can see that in the second column of <link target-id="ch08mod02_tab09"/>.</para><table id="ch08mod02_tab09" summary="The table shows how to calculate total revenue by multiplying quantity and price. Column 1 shows the quantity (Q). Column 2 shows the price (P). Column 3 shows the total revenue (TR) which is (P x Q). Row 1: At Q = 0, P = 28, TR is 28x0=$0. Row 2: At Q = 1, P = 28, TR is 28x1=>28. Row 3: At Q = 2, P = 28, TR is 28x2=$56. Row 4: At Q = 3, P = 28, TR is 28x3=$84. Row 5: At Q = 4, P = 28, TR is 28x4= 112. Row 6: At Q = 5, P = 28, TR is 28x5= 140.">
+   <tgroup cols="3"><thead><row>
+   <entry>Quantity</entry>
+   <entry>Price</entry>
+   <entry>Total Revenue (P × Q)</entry>
+   </row>
+   </thead>
+   <tbody>
+   <row>
+   <entry>0</entry>
+   <entry>$28</entry>
+   <entry>$28×0=$0</entry>
+   </row>
+   <row>
+   <entry>1</entry>
+   <entry>$28</entry>
+   <entry>$28×1=$28</entry>
+   </row>
+   <row>
+   <entry>2</entry>
+   <entry>$28</entry>
+   <entry>$28×2=$56</entry>
+   </row>
+   <row>
+   <entry>3</entry>
+   <entry>$28</entry>
+   <entry>$28×3=$84</entry>
+   </row>
+   <row>
+   <entry>4</entry>
+   <entry>$28</entry>
+   <entry>$28×4=$112</entry>
+   </row>
+   <row>
+   <entry>5</entry>
+   <entry>$28</entry>
+   <entry>$28×5=$140</entry>
+   </row>
+   </tbody>
+   
+   </tgroup>
+   </table><para id="ch08mod02_p41">Step 3. Calculate profits as total cost subtracted from total revenue, as <link target-id="ch08mod02_tab10"/> shows.</para>
+   <table id="ch08mod02_tab10" summary="The table shows how to calculate profits by subtracting total cost from total revenue. Column 1 shows the quantity (Q). Column 2 shows the total revenue (TR). Column 3 shows the total cost (TC). Column 4 shows the profits which is (TR – TC). Row 1: At Q = 0, TR = $0, TC = $20, Profits is $0–$20= –$20. Row 2: At Q = 1, TR = $28, TC = $40, profits is $28–$40= –$12. Row 3: At Q = 2, TR = $56, TC = $45, profits is $56–$45= $11. Row 4: At Q = 3, TR = $84, TC = $55, profits is $84–$55= $29. Row 5: At Q = 4, TR = $112, TC = $72, profits is $112–$72= $40. Row 6: At Q = 5, TR = $140, TC = $100, profits is $140–$100= $40.">
+   <tgroup cols="4"><thead>
+   <row>
+   <entry>Quantity</entry>
+   <entry>Total Revenue</entry>
+   <entry>Total Cost</entry>
+   <entry>Profits (TR−TC)</entry>
+   </row>
+   </thead>
+   <tbody>
+   <row>
+   <entry>0</entry>
+   <entry>$0</entry>
+   <entry>$20</entry>
+   <entry>$0−$20=−$20</entry>
+   </row>
+   <row>
+   <entry>1</entry>
+   <entry>$28</entry>
+   <entry>$40</entry>
+   <entry>$28−$40=−$12</entry>
+   </row>
+   <row>
+   <entry>2</entry>
+   <entry>$56</entry>
+   <entry>$45</entry>
+   <entry>$56−$45=$11</entry>
+   </row>
+   <row>
+   <entry>3</entry>
+   <entry>$84</entry>
+   <entry>$55</entry>
+   <entry>$84−$55=$29</entry>
+   </row>
+   <row>
+   <entry>4</entry>
+   <entry>$112</entry>
+   <entry>$72</entry>
+   <entry>$112−$72=$40</entry>
+   </row>
+   <row>
+   <entry>5</entry>
+   <entry>$140</entry>
+   <entry>$100</entry>
+   <entry>$140−$100=$40</entry>
+   </row>
+   </tbody>
+   
+   </tgroup>
+   </table><para id="ch08mod02_p42">Step 4. To find the profit-maximizing output level, look at the Marginal Cost column (at every output level produced), as <link target-id="ch08mod02_tab11"/> shows, and determine where it is equal to the market price. The output level where price equals the marginal cost is the output level that maximizes profits.</para>
+   <table id="ch08mod02_tab11" summary="The table shows the profit-maximizing output level. Column 1 shows quantity (Q). Column 2 shows price (P). Column 3 shows total fixed cost (TFC). Column 4 shows total variable cost (TVC). Column 5 shows total cost (TC). Column 6 shows average variable cost (AVC). Column 7 shows average total cost (ATC). Column 8 shows marginal cost (MC). Column 9 shows total revenue (TR). Column 10 shows profits. Row 1: At Q = 0, P = $28, TFC = $20, TVC = $0, TC = $20, AVC = (blank cell), ATC = (blank cell), MC = (blank cell), TR = $0, Profits = –$20. Row 2: At Q = 1, P = $28, TFC = $20, TVC = $20, TC = $20, AVC = $20, ATC = $40, MC =$20, TR = $28, Profits = –$12. Row 3: At Q = 2, P = $28, TFC = $20, TVC = $25, TC = $45, AVC = $12.50, ATC = $22.50, MC =$5, TR = $56, Profits = $11. Row 4: At Q = 3, P = $28, TFC = $20, TVC = $35, TC = $55, AVC = $11.67, ATC = $18.33, MC =$10, TR = $84, Profits = $29. Row 5: At Q = 4, P = $28, TFC = $20, TVC = $52, TC = $72, AVC = $13, ATC = $18, MC =$17, TR = $112, Profits = $40. Row 6: At Q = 5, P = $28, TFC = $20, TVC = $80, TC = $100, AVC = $16.40, ATC = $20.40, MC =$30, TR = $140, Profits = $40.">
+   <tgroup cols="10"><thead>
+   <row>
+   <entry>Q</entry>
+   <entry>P</entry>
+   <entry>TFC</entry>
+   <entry>TVC</entry>
+   <entry>TC</entry>
+   <entry>AVC</entry>
+   <entry>ATC</entry>
+   <entry>MC</entry>
+   <entry>TR</entry>
+   <entry>Profits</entry>
+   </row>
+   </thead>
+   <tbody>
+   <row>
+   <entry>0</entry>
+   <entry>$28</entry>
+   <entry>$20</entry>
+   <entry>$0</entry>
+   <entry>$20</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>$0</entry>
+   <entry>−$20</entry>
+   </row>
+   <row>
+   <entry>1</entry>
+   <entry>$28</entry>
+   <entry>$20</entry>
+   <entry>$20</entry>
+   <entry>$40</entry>
+   <entry>$20.00</entry>
+   <entry>$40.00</entry>
+   <entry>$20</entry>
+   <entry>$28</entry>
+   <entry>−$12</entry>
+   </row>
+   <row>
+   <entry>2</entry>
+   <entry>$28</entry>
+   <entry>$20</entry>
+   <entry>$25</entry>
+   <entry>$45</entry>
+   <entry>$12.50</entry>
+   <entry>$22.50</entry>
+   <entry>$5</entry>
+   <entry>$56</entry>
+   <entry>$11</entry>
+   </row>
+   <row>
+   <entry>3</entry>
+   <entry>$28</entry>
+   <entry>$20</entry>
+   <entry>$35</entry>
+   <entry>$55</entry>
+   <entry>$11.67</entry>
+   <entry>$18.33</entry>
+   <entry>$10</entry>
+   <entry>$84</entry>
+   <entry>$29</entry>
+   </row>
+   <row>
+   <entry>4</entry>
+   <entry>$28</entry>
+   <entry>$20</entry>
+   <entry>$52</entry>
+   <entry>$72</entry>
+   <entry>$13.00</entry>
+   <entry>$18.00</entry>
+   <entry>$17</entry>
+   <entry>$112</entry>
+   <entry>$40</entry>
+   </row>
+   <row>
+   <entry><emphasis effect="bold">5</emphasis></entry>
+   <entry><emphasis effect="bold">$28</emphasis></entry>
+   <entry>$20</entry>
+   <entry>$80</entry>
+   <entry>$100</entry>
+   <entry>$16.40</entry>
+   <entry>$20.40</entry>
+   <entry><emphasis effect="bold">$28</emphasis></entry>
+   <entry>$140</entry>
+   <entry><emphasis effect="bold">$40</emphasis></entry>
+   </row>
+   </tbody>
+   
+   
+   
+   </tgroup>
+   </table><para id="ch08mod02_p43">Step 5. Once you have determined the profit-maximizing output level (in this case, output quantity 5), you can look at the amount of profits made (in this case, $40).</para><para id="ch08mod02_p44">Step 6. If the firm is making economic losses, the firm needs to determine whether it produces the output level where price equals marginal revenue and equals marginal cost or it shuts down and only incurs its fixed costs.</para>
+   <para id="ch08mod02_p45">Step 7. For the output level where marginal revenue is equal to marginal cost, check if the market price is greater than the average variable cost of producing that output level.
+   <list id="ch08mod02_list02" list-type="bulleted">
+   <item>If P > AVC but P &lt; ATC, then the firm continues to produce in the short-run, making economic losses.</item>
+   <item>If P &lt; AVC, then the firm stops producing and only incurs its fixed costs.</item>
+   </list>
+   </para>
+   <para id="ch08mod02_p46">In this example, the price of $28 is greater than the AVC ($16.40) of producing 5 units of output, so the firm continues producing.</para></section><section id="ch08mod02_summ" class="summary">
+   <title>Key Concepts and Summary</title>
+   <para id="ch08mod02_p47">As a perfectly competitive firm produces a greater quantity of output, its total revenue steadily increases at a constant rate determined by the given market price. Profits will be highest (or losses will be smallest) at the quantity of output where total revenues exceed total costs by the greatest amount (or where total revenues fall short of total costs by the smallest amount). Alternatively, profits will be highest where marginal revenue, which is price for a perfectly competitive firm, is equal to marginal cost. If the market price faced by a perfectly competitive firm is above average cost at the profit-maximizing quantity of output, then the firm is making profits. If the market price is below average cost at the profit-maximizing quantity of output, then the firm is making losses.</para>
+   <para id="ch08mod02_p48">If the market price is equal to average cost at the profit-maximizing level of output, then the firm is making zero profits. We call the point where the marginal cost curve crosses the average cost curve, at the minimum of the average cost curve, the “zero profit point.” If the market price that a perfectly competitive firm faces is below average variable cost at the profit-maximizing quantity of output, then the firm should shut down operations immediately. If the market price that a perfectly competitive firm faces is above average variable cost, but below average cost, then the firm should continue producing in the short run, but exit in the long run. We call the point where the marginal cost curve crosses the average variable cost curve the shutdown point.</para></section>
+   <section id="ch08mod02_sques" class="self-check-questions">
+   <title>Self-Check Questions</title>
+   <exercise id="ch08mod02_sques01"><problem id="ch08mod02_sques01p">
+   <para id="ch08mod02_p49">Look at <link target-id="ch08mod02_tab12"/>. What would happen to the firm’s profits if the market price increases to $6 per pack of raspberries?</para>
+   <table id="ch08mod02_tab12" summary="The table has 6 columns. Column 1 shows the quantity (Q). Column 2 shows the total cost (TC). Column 3 shows the fixed cost (FC). Column 4 shows the variable cost (VC). Column 5 shows the total revenue (TR). Column 6 shows the profit. Row 1: At Q = 0, TC = $62, FC = $62, VC = (blank cell), TR = $0, profit = –$62. Row 2: At Q = 10, TC = $90, FC = $62, VC = $28, TR = $60, profit = –$30. Row 3: At Q = 20, TC = $110, FC = $62, VC = $48, TR = $120, profit = $10. Row 4: At Q = 30, TC = $126, FC = $62, VC = $64, TR = $180, profit = $54. Row 5: At Q = 40, TC = $144, FC = $62, VC = $82, TR = $240, profit = $96. Row 6: At Q = 50, TC = $166, FC = $62, VC = $104, TR = $300, profit = $134. Row 7: At Q = 60, TC = $192, FC = $62, VC = $130, TR = $360, profit = $168. Row 8: At Q = 70, TC = $224, FC = $62, VC = $162, TR = $420, profit = $196. Row 9: At Q = 80, TC = $264, FC = $62, VC = $202, TR = $480, profit = $216. Row 10: At Q = 90, TC = $324, FC = $62, VC = $262, TR = $540, profit = $216. Row 11: At Q = 100, TC = $404, FC = $62, VC = $342, TR = $600, profit = –$196.">
+   <tgroup cols="6"><thead>
+   <row>
+   <entry>Quantity</entry>
+   <entry>Total Cost</entry>
+   <entry>Fixed Cost</entry>
+   <entry>Variable Cost</entry>
+   <entry>Total Revenue</entry>
+   <entry>Profit</entry>
+   </row>
+   </thead>
+   <tbody>
+   <row>
+   <entry>0</entry>
+   <entry>$62</entry>
+   <entry>$62</entry>
+   <entry>-</entry>
+   <entry>$0</entry>
+   <entry>−$62</entry>
+   </row>
+   <row>
+   <entry>10</entry>
+   <entry>$90</entry>
+   <entry>$62</entry>
+   <entry>$28</entry>
+   <entry>$60</entry>
+   <entry>−$30</entry>
+   </row>
+   <row>
+   <entry>20</entry>
+   <entry>$110</entry>
+   <entry>$62</entry>
+   <entry>$48</entry>
+   <entry>$120</entry>
+   <entry>$10</entry>
+   </row>
+   <row>
+   <entry>30</entry>
+   <entry>$126</entry>
+   <entry>$62</entry>
+   <entry>$64</entry>
+   <entry>$180</entry>
+   <entry>$54</entry>
+   </row>
+   <row>
+   <entry>40</entry>
+   <entry>$144</entry>
+   <entry>$62</entry>
+   <entry>$82</entry>
+   <entry>$240</entry>
+   <entry>$96</entry>
+   </row>
+   <row>
+   <entry>50</entry>
+   <entry>$166</entry>
+   <entry>$62</entry>
+   <entry>$104</entry>
+   <entry>$300</entry>
+   <entry>$134</entry>
+   </row>
+   <row>
+   <entry>60</entry>
+   <entry>$192</entry>
+   <entry>$62</entry>
+   <entry>$130</entry>
+   <entry>$360</entry>
+   <entry>$168</entry>
+   </row>
+   <row>
+   <entry>70</entry>
+   <entry>$224</entry>
+   <entry>$62</entry>
+   <entry>$162</entry>
+   <entry>$420</entry>
+   <entry>$196</entry>
+   </row>
+   <row>
+   <entry>80</entry>
+   <entry>$264</entry>
+   <entry>$62</entry>
+   <entry>$202</entry>
+   <entry>$480</entry>
+   <entry>$216</entry>
+   </row>
+   <row>
+   <entry>90</entry>
+   <entry>$324</entry>
+   <entry>$62</entry>
+   <entry>$262</entry>
+   <entry>$540</entry>
+   <entry>$216</entry>
+   </row>
+   <row>
+   <entry>100</entry>
+   <entry>$404</entry>
+   <entry>$62</entry>
+   <entry>$342</entry>
+   <entry>$600</entry>
+   <entry>$196</entry>
+   </row>
+   </tbody>
+   
+   </tgroup>
+   </table></problem>
+   <solution id="ch08mod02_sques01s">
+   <para id="ch08mod02_p50">Holding total cost constant, profits at every output level would increase.</para>
+   </solution>
+   </exercise><exercise id="ch08mod02_sques02"><problem id="ch08mod02_sques02p">
+   <para id="ch08mod02_p51">Suppose that the market price increases to $6, as <link target-id="ch08mod02_tab13"/> shows. What would happen to the profit-maximizing output level?</para><table id="ch08mod02_tab13" summary="The table has 7 columns. Column 1 shows the quantity (Q). Column 2 shows the total cost (TC). Column 3 shows the fixed cost (FC). Column 4 shows the variable cost (VC). Column 5 shows the marginal cost (MC). Column 6 shows the total revenue (TR). Column 7 shows the marginal revenue (MR). Row 1: At Q = 0, TC = $62, FC = $62, VC = (blank cell), MC = (blank cell) TR = $0, MR = (blank cell). Row 2: At Q = 10, TC = $90, FC = $62, VC = $28, MC = $2.80, TR = $60, MR = $6.00. Row 3: At Q = 20, TC = $110, FC = $62, VC = $48, MC = $2.00, TR = $120, MR = $6.00.  Row 4: At Q = 30, TC = $126, FC = $62, VC = $64, MC = $1.60, TR = $180, MR = $6.00. Row 5: At Q = 40, TC = $144, FC = $62, VC = $82, MC = $1.80, TR = $240, MR = $6.00.  Row 6: At Q = 50, TC = $166, FC = $62, VC = $104, MC = $2.20, TR = $300, MR = $6.00. Row 7: At Q =60, TC = $192, FC = $62, VC = $130, MC = $2.60, TR = $360, MR = $6.00. Row 8: At Q = 70, TC = $224, FC = $62, VC = $162, MC = $3.20, TR = $420, MR = $6.00. Row 9: At Q = 80, TC = $264, FC = $62, VC = $202, MC = $4.00, TR = $480, MR = $6.00. Row 10: At Q = 90, TC = $324, FC = $62, VC = $262, MC = $6.00, TR = $540, MR = $6.00. Row 11: At Q = 100, TC = $404, FC = $62, VC = $342, MC = $8.00, TR = $600, MR = $6.00.">
+   <tgroup cols="7"><thead>
+   <row>
+   <entry>Quantity</entry>
+   <entry>Total Cost</entry>
+   <entry>Fixed Cost</entry>
+   <entry>Variable Cost</entry>
+   <entry>Marginal Cost</entry>
+   <entry>Total Revenue</entry>
+   <entry>Marginal Revenue</entry>
+   </row>
+   </thead>
+   <tbody>
+   <row>
+   <entry>0</entry>
+   <entry>$62</entry>
+   <entry>$62</entry>
+   <entry>-</entry>
+   <entry>-</entry>
+   <entry>$0</entry>
+   <entry>-</entry>
+   </row>
+   <row>
+   <entry>10</entry>
+   <entry>$90</entry>
+   <entry>$62</entry>
+   <entry>$28</entry>
+   <entry>$2.80</entry>
+   <entry>$60</entry>
+   <entry>$6.00</entry>
+   </row>
+   <row>
+   <entry>20</entry>
+   <entry>$110</entry>
+   <entry>$62</entry>
+   <entry>$48</entry>
+   <entry>$2.00</entry>
+   <entry>$120</entry>
+   <entry>$6.00</entry>
+   </row>
+   <row>
+   <entry>30</entry>
+   <entry>$126</entry>
+   <entry>$62</entry>
+   <entry>$64</entry>
+   <entry>$1.60</entry>
+   <entry>$180</entry>
+   <entry>$6.00</entry>
+   </row>
+   <row>
+   <entry>40</entry>
+   <entry>$144</entry>
+   <entry>$62</entry>
+   <entry>$82</entry>
+   <entry>$1.80</entry>
+   <entry>$240</entry>
+   <entry>$6.00</entry>
+   </row>
+   <row>
+   <entry>50</entry>
+   <entry>$166</entry>
+   <entry>$62</entry>
+   <entry>$104</entry>
+   <entry>$2.20</entry>
+   <entry>$300</entry>
+   <entry>$6.00</entry>
+   </row>
+   <row>
+   <entry>60</entry>
+   <entry>$192</entry>
+   <entry>$62</entry>
+   <entry>$130</entry>
+   <entry>$2.60</entry>
+   <entry>$360</entry>
+   <entry>$6.00</entry>
+   </row>
+   <row>
+   <entry>70</entry>
+   <entry>$224</entry>
+   <entry>$62</entry>
+   <entry>$162</entry>
+   <entry>$3.20</entry>
+   <entry>$420</entry>
+   <entry>$6.00</entry>
+   </row>
+   <row>
+   <entry>80</entry>
+   <entry>$264</entry>
+   <entry>$62</entry>
+   <entry>$202</entry>
+   <entry>$4.00</entry>
+   <entry>$480</entry>
+   <entry>$6.00</entry>
+   </row>
+   <row>
+   <entry><emphasis effect="bold">90</emphasis></entry>
+   <entry>$324</entry>
+   <entry>$62</entry>
+   <entry>$262</entry>
+   <entry><emphasis effect="bold">$6.00</emphasis></entry>
+   <entry>$540</entry>
+   <entry><emphasis effect="bold">$6.00</emphasis></entry>
+   </row>
+   <row>
+   <entry>100</entry>
+   <entry>$404</entry>
+   <entry>$62</entry>
+   <entry>$342</entry>
+   <entry>$8.00</entry>
+   <entry>$600</entry>
+   <entry>$6.00</entry>
+   </row>
+   </tbody>
+   
+   </tgroup>
+   </table></problem>
+   <solution id="ch08mod02_sques02s">
+   <para id="ch08mod02_p52">When the market price increases, marginal revenue increases. The firm would then increase production up to the point where the new price equals marginal cost, at a quantity of 90.</para>
+   </solution>
+   </exercise><exercise id="ch08mod02_sques03">
+   <problem id="ch08mod02_sques03p">
+   <para id="ch08mod02_p53">Explain in words why a profit-maximizing firm will not choose to produce at a quantity where marginal cost exceeds marginal revenue.</para>
+   </problem>
+   <solution id="ch08mod02_sques03s">
+   <para id="ch08mod02_p54">If marginal costs exceeds marginal revenue, then the firm will reduce its profits for every additional unit of output it produces. Profit would be greatest if it reduces output to where MR = MC.</para>
+   </solution>
+   </exercise>
+   <exercise id="ch08mod02_sques04">
+   <problem id="ch08mod02_sques04p">
+   <para id="ch08mod02_p55">A firm’s marginal cost curve above the average variable cost curve is equal to the firm’s individual supply curve. This means that every time a firm receives a price from the market it will be willing to supply the amount of output where the price equals marginal cost. What happens to the firm’s individual supply curve if marginal costs increase?</para>
+   </problem>
+   <solution id="ch08mod02_sques04s">
+   <para id="ch08mod02_p56">The firm will be willing to supply fewer units at every price level. In other words, the firm’s individual supply curve decreases and shifts to the left.</para>
+   </solution>
+   </exercise>
+   </section>
+   <section id="ch08mod02_rques" class="review-questions">
+   <title>Review Questions</title>
+   <exercise id="ch08mod02_rques01">
+   <problem id="ch08mod02_rques01p">
+   <para id="ch08mod02_p57">How does a perfectly competitive firm decide what price to charge?</para>
+   </problem>
+   </exercise>
+   <exercise id="ch08mod02_rques02">
+   <problem id="ch08mod02_rques02p">
+   <para id="ch08mod02_p58">What prevents a perfectly competitive firm from seeking higher profits by increasing the price that it charges?</para>
+   </problem>
+   </exercise>
+   <exercise id="ch08mod02_rques03">
+   <problem id="ch08mod02_rques03p">
+   <para id="ch08mod02_p59">How does a perfectly competitive firm calculate total revenue?</para>
+   </problem>
+   </exercise>
+   <exercise id="ch08mod02_rques04">
+   <problem id="ch08mod02_rques04p">
+   <para id="ch08mod02_p60">Briefly explain the reason for the shape of a marginal revenue curve for a perfectly competitive firm.</para>
+   </problem>
+   </exercise>
+   <exercise id="ch08mod02_rques05">
+   <problem id="ch08mod02_rques05p">
+   <para id="ch08mod02_p61">What two rules does a perfectly competitive firm apply to determine its profit-maximizing quantity of output?</para>
+   </problem>
+   </exercise>
+   <exercise id="ch08mod02_rques06">
+   <problem id="ch08mod02_rques06p">
+   <para id="ch08mod02_p62">How does the average cost curve help to show whether a firm is making profits or losses?</para>
+   </problem>
+   </exercise>
+   <exercise id="ch08mod02_rques07">
+   <problem id="ch08mod02_rques07p">
+   <para id="ch08mod02_p63">What two lines on a cost curve diagram intersect at the zero-profit point?</para>
+   </problem>
+   </exercise>
+   <exercise id="ch08mod02_rques08">
+   <problem id="ch08mod02_rques08p">
+   <para id="ch08mod02_p64">Should a firm shut down immediately if it is making losses?</para>
+   </problem>
+   </exercise>
+   <exercise id="ch08mod02_rques09">
+   <problem id="ch08mod02_rques09p">
+   <para id="ch08mod02_p65">How does the average variable cost curve help a firm know whether it should shut down immediately?</para>
+   </problem>
+   </exercise>
+   <exercise id="ch08mod02_rques10">
+   <problem id="ch08mod02_rques10p">
+   <para id="ch08mod02_p66">What two lines on a cost curve diagram intersect at the shutdown point?</para>
+   </problem>
+   </exercise>
+   </section>
+   <section id="ch08mod02_ctques" class="critical-thinking">
+   <title>Critical Thinking Questions</title>
+   <exercise id="ch08mod02_ctques01">
+   <problem id="ch08mod02_ctques01p">
+   <para id="ch08mod02_p67">Your company operates in a perfectly competitive market. You have been told that advertising can help you increase your sales in the short run. Would you create an aggressive advertising campaign for your product?</para>
+   </problem>
+   </exercise>
+   <exercise id="ch08mod02_ctques02">
+   <problem id="ch08mod02_ctques02p">
+   <para id="ch08mod02_p68">Since a perfectly competitive firm can sell as much as it wishes at the market price, why can the firm not simply increase its profits by selling an extremely high quantity?</para>
+   </problem>
+   </exercise>
+   </section>
+   <section id="ch08mod02_prob" class="problems">
+   <title>Problems</title>
+   <exercise id="ch08mod02_prob01">
+   <problem id="ch08mod02_prob01p">
+   <para id="ch08mod02_p69">The AAA Aquarium Co. sells aquariums for $20 each. Fixed costs of production are $20. The total variable costs are $20 for one aquarium, $25 for two units, $35 for the three units, $50 for four units, and $80 for five units. In the form of a table, calculate total revenue, marginal revenue, total cost, and marginal cost for each output level (one to five units). What is the profit-maximizing quantity of output? On one diagram, sketch the total revenue and total cost curves. On another diagram, sketch the marginal revenue and marginal cost curves.</para>
+   </problem>
+   </exercise>
+   <exercise id="ch08mod02_prob02">
+   <problem id="ch08mod02_prob02p">
+   <para id="ch08mod02_p70">Perfectly competitive firm Doggies Paradise Inc. sells winter coats for dogs. Dog coats sell for $72 each. The fixed costs of production are $100. The total variable costs are $64 for one unit, $84 for two units, $114 for three units, $184 for four units, and $270 for five units. In the form of a table, calculate total revenue, marginal revenue, total cost and marginal cost for each output level (one to five units). On one diagram, sketch the total revenue and total cost curves. On another diagram, sketch the marginal revenue and marginal cost curves. What is the profit maximizing quantity?</para>
+   </problem>
+   </exercise>
+   <exercise id="ch08mod02_prob03">
+   <problem id="ch08mod02_prob03p">
+   <para id="ch08mod02_p71">A computer company produces affordable, easy-to-use home computer systems and has fixed costs of $250. The marginal cost of producing computers is $700 for the first computer, $250 for the second, $300 for the third, $350 for the fourth, $400 for the fifth, $450 for the sixth, and $500 for the seventh.
+   <list id="ch08mod02_list03" list-type="enumerated" number-style="lower-alpha">
+   <item>Create a table that shows the company’s output, total cost, marginal cost, average cost, variable cost, and average variable cost.</item>
+   <item>At what price is the zero-profit point? At what price is the shutdown point?</item>
+   <item>If the company sells the computers for $500, is it making a profit or a loss? How big is the profit or loss? Sketch a graph with AC, MC, and AVC curves to illustrate your answer and show the profit or loss.</item>
+   <item>If the firm sells the computers for $300, is it making a profit or a loss? How big is the profit or loss? Sketch a graph with AC, MC, and AVC curves to illustrate your answer and show the profit or loss.</item>
+   </list>
+   </para>
+   </problem>
+   </exercise>
+   </section>
+   </content>
+   <glossary>
+   <definition id="ch08mod02_gl01">
+   <term>marginal revenue</term>
+   <meaning id="ch08mod02_gl01m">the additional revenue gained from selling one more unit</meaning>
+   </definition>
+   <definition id="ch08mod02_gl02">
+   <term>shutdown point</term>
+   <meaning id="ch08mod02_gl02m">level of output where the marginal cost curve intersects the average variable cost curve at the minimum point of AVC; if the price is below this point, the firm should shut down immediately</meaning>
+   </definition>
+   <definition id="ch08mod02_gl03">
+   <term>break even point</term>
+   <meaning id="ch08mod02_gl03m">level of output where the marginal cost curve intersects the average cost curve at the minimum point of AC; if the price is at this point, the firm is earning zero economic profits</meaning>
+   </definition>
+   </glossary>
+   
+   </document>
