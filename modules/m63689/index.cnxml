@@ -13,82 +13,47 @@
 </metadata>
 
 <content>
-<para id="fs-idm151269296">From 1970 to 2012, the U.S. population increased by one-third and the size of the U.S. economy more than doubled. Since the 1970s, however, the United States, using a variety of anti-pollution policies, has made genuine progress against a number of pollutants. <link target-id="Table_12_01" document=""/> lists the change in carbon dioxide emissions by energy users (from residential to industrial) according to the U.S. Energy Information Administration (EIA). The table shows that emissions of certain key air pollutants declined substantially from 2007 to 2012. They dropped 740 million metric tons (MMT) a year—a 12% reduction. This seems to indicate that there has been progress made in the United States in reducing overall carbon dioxide emissions, which contribute to the greenhouse effect.</para><table id="Table_12_01" summary="The table has 6 rows of data, each representing a sector (Residential, Commercial, Industrial, Transportation, Power, and the change from 2007 to 2012). The header row lists the 5 columns of data for each sector (Primary Fossil Fuels, which encompass the first 3 columns: Coal, Petroleum and Natural Gas. Purchased Electric Power is the fourth column and Total Primary Fossil Fuels is the fifth. The data for Residential is negative 0, negative 14, negative 31, negative 134, negative 179. Commercial is negative 2, negative 2, negative 7, negative 126, negative 136. Industrial is negative 40, negative 62, 31, negative 118, negative 191. Transportation is 0, negative 228, 5, negative 1, negative 224. Power is negative 464, negative 36, negative 122, nil, nil. The change from 2007-2012 is negative 508, negative 342, 121,  negative 378, and negative 730."><title>U.S. Carbon Dioxide (CO<sub>2</sub>) Emissions from Fossil Fuels Consumed 2007–2012, Million Metric Tons (MMT) per Year</title><tgroup cols="4">
+<para id="fs-idm151269296">From 1970 to 2020, the U.S. population increased by 63 percent, and the size of the U.S. economy increased by more than 3.8-fold. Since the 1970s, however, the United States, using a variety of anti-pollution policies, has made genuine progress against a number of pollutants. <link target-id="Table_12_01" document=""/> lists the change in carbon dioxide emissions by energy users (from residential to industrial) according to the U.S. Energy Information Administration (EIA). The table shows that emissions of certain key air pollutants declined substantially from 2007 to 2012. They dropped 740 million metric tons (MMT) a year—a 12% reduction. This seems to indicate that there has been progress made in the United States in reducing overall carbon dioxide emissions, which contribute to the greenhouse effect.</para><table id="Table_12_01" summary="The table has 6 rows of data, each representing a sector (Residential, Commercial, Industrial, Transportation, Power, and the change from 2007 to 2012). The header row lists the 5 columns of data for each sector (Primary Fossil Fuels, which encompass the first 3 columns: Coal, Petroleum and Natural Gas. Purchased Electric Power is the fourth column and Total Primary Fossil Fuels is the fifth. The data for Residential is negative 0, negative 14, negative 31, negative 134, negative 179. Commercial is negative 2, negative 2, negative 7, negative 126, negative 136. Industrial is negative 40, negative 62, 31, negative 118, negative 191. Transportation is 0, negative 228, 5, negative 1, negative 224. Power is negative 464, negative 36, negative 122, nil, nil. The change from 2007-2012 is negative 508, negative 342, 121,  negative 378, and negative 730."><title>Carbon Dioxide Emissions from Energy Consumption, by Source</title><tgroup cols="4">
 <colspec colnum="1" colname="col1"/>
 <colspec colnum="2" colname="col2"/>
 <colspec colnum="3" colname="col3"/>
 <colspec colnum="4" colname="col4"/>
 <thead>
 <row>
-<entry/>
-<entry namest="col2" nameend="col4" align="center">Primary Fossil Fuels</entry>
-<entry>Purchased Electric Power</entry>
-<entry>Total Primary Fossil Fuels</entry>
+<entry>Year</entry>
+<entry>Coal</entry>
+<entry>Natural Gas</entry>
+<entry>Petroleum</entry>
+<entry>Total</entry>
 </row>
-
 </thead>
 <tbody>
 <row>
-<entry><emphasis>End-use Sector</emphasis></entry>
-<entry><emphasis>Coal</emphasis></entry>
-<entry><emphasis>Petroleum</emphasis></entry>
-<entry><emphasis>Natural Gas</emphasis></entry>
-<entry/>
-<entry/>
+<entry>1973</entry>
+<entry>1,221</entry>
+<entry>1,175</entry>
+<entry>2,325</entry>
+<entry>4,721</entry>
 </row>
 <row>
-<entry>Residential</entry>
-<entry>0</entry>
-<entry>(16)</entry>
-<entry>3</entry>
-<entry>(182)</entry>
-<entry>(202)</entry>
+<entry>2007</entry>
+<entry>2,171</entry>
+<entry>1,245</entry>
+<entry>2,587</entry>
+<entry>6,016</entry>
 </row>
 <row>
-<entry>Commercial</entry>
-<entry>(4)</entry>
-<entry>16</entry>
-<entry>(13)</entry>
-<entry>(168)</entry>
-<entry>(145)</entry>
-</row>
-<row>
-<entry>Industrial </entry>
-<entry>(40)</entry>
-<entry>(77)</entry>
-<entry>(65)</entry>
-<entry>(161)</entry>
-<entry>(222)</entry>
-</row>
-<row>
-<entry>Transportation</entry>
-<entry>0</entry>
-<entry>(174)</entry>
-<entry>4</entry>
-<entry>(1)</entry>
-<entry>(171)</entry>
-</row>
-<row>
-<entry>Power </entry>
-<entry>(637)</entry>
-<entry>(31)</entry>
-<entry>(154)</entry>
-<entry>-</entry>
-<entry>-</entry>
-</row>
-<row>
-<entry>Change 2007–2015</entry>
-<entry>(686)</entry>
-<entry>(282)</entry>
-<entry>(232)</entry>
-<entry>(−521)</entry>
-<entry>(740)</entry>
+<entry>2020</entry>
+<entry>875</entry>
+<entry>1,648</entry>
+<entry>2,042</entry>
+<entry>4,576</entry>
 </row>
 </tbody>
 </tgroup>
+<caption>(Source: EIA Monthly Energy Review)</caption></table>
 
-
-<caption>(Source: EIA Monthly Energy Review)</caption></table><para id="fs-idm73547728">Despite the gradual reduction in emissions from fossil fuels, many important environmental issues remain. Along with the still high levels of air and water pollution, other issues include hazardous waste disposal, destruction of wetlands and other wildlife habitats, and the impact on human health from pollution.</para>
+<para id="fs-idm73547728">Despite the gradual reduction in emissions from fossil fuels, many important environmental issues remain. Along with the still high levels of air and water pollution, other issues include hazardous waste disposal, destruction of wetlands and other wildlife habitats, and the impact on human health from pollution.</para>
 
 <section id="fs-idm25868944">
 <title>Externalities</title>
@@ -163,7 +128,7 @@
 <caption/>
 </table>
 
-<para id="fs-idp161275760">However, as a by-product of the metals, plastics, chemicals and energy that refrigerator manufacturers use, some pollution is created. Let’s say that, if these pollutants were emitted into the air and water, they would create costs of $100 per refrigerator produced. These costs might occur because of adverse effects on human health, property values, or wildlife habitat, reduction of recreation possibilities, or because of other negative impacts. In a market with no anti-pollution restrictions, firms can dispose of certain wastes absolutely free. Now imagine that firms which produce refrigerators must factor in these <term class="no-emphasis" id="term-00007">external costs</term> of pollution—that is, the firms have to consider not only labor and material costs, but also the broader costs to society of harm to health and other costs caused by pollution. If the firm is required to pay $100 for the <term id="term-00008">additional external costs</term> of pollution each time it produces a refrigerator, production becomes more costly and the entire supply curve shifts up by $100.</para><para id="fs-idp181820784">As <link target-id="Table_12_02" document=""/> and <link target-id="CNX_Econ_C12_001" document=""/> illustrate, the firm will need to receive a price of $700 per refrigerator and produce a quantity of 40,000—and the firm’s new supply curve will be S<sub>social</sub>. The new equilibrium will occur at E<sub>1</sub>. In short, taking the additional external costs of pollution into account results in a higher price, a lower quantity of production, and a lower quantity of pollution. The following Work It Out feature will walk you through an example, this time with musical accompaniment.</para><note id="fs-idm41090992" class="economics workout"><title>Identifying the Equilibrium Price and Quantity</title><para id="fs-idm112619840"><link target-id="Table_12_03" document=""/> shows the supply and demand conditions for a firm that will play trumpets on the streets when requested. We measure output is measured as the number of songs played.</para><table id="Table_12_03" summary="The table has 7 rows and 4 columns. The header row (Row 1) is Price, Quantity Demanded, Quantity Supplied Without Paying the Costs of the Externality, and Quantity Supplied after Paying the Costs of the Externality. Row 2: $20, 0, 10, 8. Row 3: $18, 1, 9, 7. Row 4: $15, 2.5, 7.5, 5.5. Row 5: $12, 4, 6, 4, Row 6: $10, 5, 5, 3. Row 7: $5, 7.5, 2.5, 0.5">
+<para id="fs-idp161275760">However, as a by-product of the metals, plastics, chemicals and energy that refrigerator manufacturers use, some pollution is created. Let’s say that, if these pollutants were emitted into the air and water, they would create costs of $100 per refrigerator produced. These costs might occur because of adverse effects on human health, property values, or wildlife habitat, reduction of recreation possibilities, or because of other negative impacts. In a market with no anti-pollution restrictions, firms can dispose of certain wastes absolutely free. Now imagine that firms which produce refrigerators must factor in these <term class="no-emphasis" id="term-00007">external costs</term> of pollution—that is, the firms have to consider not only labor and material costs, but also the broader costs to society of harm to health and other costs caused by pollution. If the firm is required to pay $100 for the <term id="term-00008">additional external costs</term> of pollution each time it produces a refrigerator, production becomes more costly and the entire supply curve shifts up by $100.</para><para id="fs-idp181820784">As <link target-id="Table_12_02" document=""/> and <link target-id="CNX_Econ_C12_001" document=""/> illustrate, the firm will need to receive a price of $700 per refrigerator and produce a quantity of 40,000—and the firm’s new supply curve will be S<sub>social</sub>. The new equilibrium will occur at E<sub>1</sub>. In short, taking the additional external costs of pollution into account results in a higher price, a lower quantity of production, and a lower quantity of pollution. The following Work It Out feature will walk you through an example, this time with musical accompaniment.</para><note id="fs-idm41090992" class="economics workout"><title>Identifying the Equilibrium Price and Quantity</title><para id="fs-idm112619840"><link target-id="Table_12_03" document=""/> shows the supply and demand conditions for a firm that will play trumpets on the streets when requested. We measure output as the number of songs played.</para><table id="Table_12_03" summary="The table has 7 rows and 4 columns. The header row (Row 1) is Price, Quantity Demanded, Quantity Supplied Without Paying the Costs of the Externality, and Quantity Supplied after Paying the Costs of the Externality. Row 2: $20, 0, 10, 8. Row 3: $18, 1, 9, 7. Row 4: $15, 2.5, 7.5, 5.5. Row 5: $12, 4, 6, 4, Row 6: $10, 5, 5, 3. Row 7: $5, 7.5, 2.5, 0.5">
 <title>Supply and Demand Conditions for a Trumpet-Playing Firm</title>
 <tgroup cols="4">
 <colspec colnum="1" colname="col1"/>
@@ -380,7 +345,7 @@
 <title>Problems</title>
 <exercise id="fs-idm71014256">
 <problem id="fs-idm56150208">
-<para id="fs-idm105733888">Show the market for cigarettes in equilibrium, assuming that there are no laws banning smoking in public. Label the equilibrium private market price and quantity as Pm and Qm. Add whatever is needed to the model to show the impact of the negative externality from second-hand smoking. (Hint: In this case it is the consumers, not the sellers, who are creating the negative externality.) Label the social optimal output and price as Pe and Qe. On the graph, shade in the deadweight loss at the market output.</para>
+<para id="fs-idm105733888">Show the market for cigarettes in equilibrium, assuming that there are no laws banning smoking in public. Label the equilibrium private market price and quantity as Pm and Qm. Add whatever is needed to the model to show the impact of the negative externality from second-hand smoking. (Hint: In this case it is the consumers, not the sellers, who are creating the negative externality.) Label the socially optimal output and price as Pe and Qe. On the graph, shade in the deadweight loss at the market output.</para>
 </problem>
 </exercise>
 <exercise id="fs-idm82381072">
@@ -389,7 +354,7 @@
 </exercise>
 <exercise id="fs-idp37025168">
 <problem id="fs-idm59934048">
-<para id="fs-idm127795072"><link target-id="Table_12_05" document=""/>, shows the supply and demand conditions for a firm that will play trumpets on the streets when requested. Qs<sub>1</sub> is the quantity supplied without social costs. Qs<sub>2</sub> is the quantity supplied with social costs. What is the negative externality in this situation? Identify the equilibrium price and quantity when we account only for private costs, and then when we account for social costs. How does accounting for the externality affect the equilibrium price and quantity?</para><table id="Table_12_05" summary="The table has 7 rows and 4 columns. Row 1 is the header row and consists of columns P, Qd, Qs(sub 1), and Qs(sub 2). Row 2: $20, 0, 10, 8. Row 3: $18, 1, 9, 7. Row 4: $15, 2.5, 7.5, 5.5. Row 5: $12, 4, 6, 4. Row 6: $10, 5, 5, 3. Row 7: $5, 7.5, 2.5, 0.5">
+<para id="fs-idm127795072"><link target-id="Table_12_05" document=""/> shows the supply and demand conditions for a firm that will play trumpets on the streets when requested. Qs<sub>1</sub> is the quantity supplied without social costs. Qs<sub>2</sub> is the quantity supplied with social costs. What is the negative externality in this situation? Identify the equilibrium price and quantity when we account only for private costs, and then when we account for social costs. How does accounting for the externality affect the equilibrium price and quantity?</para><table id="Table_12_05" summary="The table has 7 rows and 4 columns. Row 1 is the header row and consists of columns P, Qd, Qs(sub 1), and Qs(sub 2). Row 2: $20, 0, 10, 8. Row 3: $18, 1, 9, 7. Row 4: $15, 2.5, 7.5, 5.5. Row 5: $12, 4, 6, 4. Row 6: $10, 5, 5, 3. Row 7: $5, 7.5, 2.5, 0.5">
 <tgroup cols="4">
 <colspec colnum="1" colname="col1"/>
 <colspec colnum="2" colname="col2"/>
