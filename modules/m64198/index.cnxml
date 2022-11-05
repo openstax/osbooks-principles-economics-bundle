@@ -1,218 +1,218 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
 
-<title>Exchange Rate Policies</title>
-<metadata xmlns:md="http://cnx.rice.edu/mdml">
-  <md:content-id>m64198</md:content-id>
-  <md:title>Exchange Rate Policies</md:title>
-  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para><list id="list-00001">
-<item>Differentiate among a floating exchange rate, a soft peg, a hard peg, and a merged currency</item>
-<item>Identify the tradeoffs that come with a floating exchange rate, a soft peg, a hard peg, and a merged currency</item>
-</list></md:abstract>
-  <md:uuid>717e7481-3205-455f-8f12-36a62a6bf992</md:uuid>
-</metadata>
-
-<content>
-
-<para id="fs-idp12899216">Exchange rate policies come in a range of different forms listed in <link target-id="CNX_Econ_C29_016"/>: let the foreign exchange market determine the exchange rate; let the market set the value of the exchange rate most of the time, but have the central bank sometimes intervene to prevent fluctuations that seem too large; have the central bank guarantee a specific exchange rate; or share a currency with other countries. Let’s discuss each type of exchange rate policy and its tradeoffs.</para>
-
-<figure id="CNX_Econ_C29_016"><title>A Spectrum of Exchange Rate Policies </title><media id="fs-idm800352" alt="The graph shows several options of exchange rate policies.">
-<image mime-type="image/jpg" src="../../media/CNX_Econ2e_C29_016.jpg"/>
-</media>
-
-<caption>A nation may adopt one of a variety of exchange rate regimes, from floating rates in which the foreign exchange market determines the rates to pegged rates where governments intervene to manage the exchange rate's value, to a common currency where the nation adopts another country or group of countries' currency.</caption></figure><section id="fs-idm1971808">
-<title>Floating Exchange Rates</title>
-<para id="fs-idm24327856">We refer to a policy which allows the foreign exchange market to set exchange rates as a <term id="term-00001">floating exchange rate</term>. The U.S. dollar is a floating exchange rate, as are the currencies of about 40% of the countries in the world economy. The major concern with this policy is that exchange rates can move a great deal in a short time.</para><para id="fs-idm24705424">Consider the U.S. exchange rate expressed in terms of another fairly stable currency, the Japanese yen, as <link target-id="CNX_Econ_C29_017"/> shows. On January 1, 2002, the exchange rate was 133 yen/dollar. On January 1, 2005, it was 103 yen/dollar. On June 1, 2007, it was 122 yen/dollar, on January 1, 2012, it was 77 yen per dollar, and on March 1, 2015, it was 120 yen per dollar. As investor sentiment swings back and forth, driving exchange rates up and down, exporters, importers, and banks involved in international lending are all affected. At worst, large movements in exchange rates can drive companies into bankruptcy or trigger a nationwide banking collapse. However, even in the moderate case of the yen/dollar exchange rate, these movements of roughly 30 percent back and forth impose stress on both economies as firms must alter their export and import plans to take the new exchange rates into account. Especially in smaller countries where international trade is a relatively large share of GDP, exchange rate movements can rattle their economies.</para><figure id="CNX_Econ_C29_017"><title>U.S. Dollar Exchange Rate in Japanese Yen </title><media id="fs-idm24453120" alt="The graph shows how the U.S. dollar as compared to the Chinese yen since 2001. The line's variations represent the volatility of exchange rates.">
-<image mime-type="image/jpg" src="../../media/CNX_Econv1-2_C29_11-91d9.jpg"/>
-</media>
-
-<caption>Even seemingly stable exchange rates such as the Japanese Yen to the U.S. Dollar can vary when closely examined over time. This figure shows a relatively stable rate between 2011 and 2013.  In 2013, there was a drastic depreciation of the Yen (relative to the U.S. Dollar) by about 14% and again at the end of the year in 2014 also by about 14%. (Source: <term class="no-emphasis" id="term-00002">Federal Reserve Economic Data (FRED)</term> https://research.stlouisfed.org/fred2/series/DEXJPUS)</caption></figure><para id="fs-idm2144">However, movements of floating exchange rates have advantages, too. After all, prices of goods and services rise and fall throughout a market economy, as demand and supply shift. If an economy experiences strong inflows or outflows of international financial capital, or has relatively high inflation, or if it experiences strong productivity growth so that purchasing power changes relative to other economies, then it makes economic sense for the exchange rate to shift as well.</para>
-<para id="fs-idm203056">Floating exchange rate advocates often argue that if government policies were more predictable and stable, then inflation rates and interest rates would be more predictable and stable. Exchange rates would bounce around less, too. The economist <term class="no-emphasis" id="term-00003">Milton Friedman</term> (1912–2006), for example, wrote a defense of floating exchange rates in 1962 in his book <emphasis effect="italics">Capitalism and Freedom</emphasis>:</para>
-<quote id="fs-idm50712880"><para id="fs-idm24300320">Being in favor of floating exchange rates does not mean being in favor of unstable exchange rates. When we support a free price system [for goods and services] at home, this does not imply that we favor a system in which prices fluctuate wildly up and down. What we want is a system in which prices are free to fluctuate but in which the forces determining them are sufficiently stable so that in fact prices move within moderate ranges. This is equally true in a system of floating exchange rates. The ultimate objective is a world in which exchange rates, while free to vary, are, in fact, highly 	stable because basic economic policies and conditions are stable.</para></quote>
-<para id="fs-idm2428512">Advocates of floating exchange rates admit that, yes, exchange rates may sometimes fluctuate. They point out, however, that if a central bank focuses on preventing either high inflation or deep recession, with low and reasonably steady interest rates, then exchange rates will have less reason to vary.</para>
-</section>
-
-<section id="fs-idp1827264">
-<title>Using Soft Pegs and Hard Pegs</title>
-<para id="fs-idm65343424">When a government intervenes in the foreign exchange market so that the currency's exchange rate is different from what the market would have produced, it establishes a “peg” for its currency. A <term id="term-00004">soft peg</term> is the name for an exchange rate policy where the government usually allows the market to set exchange rate, but in some cases, especially if the exchange rate seems to be moving rapidly in one direction, the central bank will intervene in the market. With a <term id="term-00005">hard peg</term> exchange rate policy, the central bank sets a fixed and unchanging value for the exchange rate. A central bank can implement soft peg and hard peg policies.</para><para id="fs-idm17150432">Suppose the market exchange rate for the Brazilian currency, the real, would be 35 cents/real with a daily quantity of 15 billion real traded in the market, as the equilibrium E<sub>0</sub> in <link target-id="CNX_Econ_C29_024"/> (a) and <link target-id="CNX_Econ_C29_024"/> (b) show. However, Brazil's government decides that the exchange rate should be 30 cents/real, as <link target-id="CNX_Econ_C29_024"/> (a) shows. Perhaps Brazil sets this lower exchange rate to benefit its export industries. Perhaps it is an attempt to stimulate aggregate demand by stimulating exports. Perhaps Brazil believes that the current market exchange rate is higher than the long-term purchasing power parity value of the real, so it is minimizing fluctuations in the real by keeping it at this lower rate. Perhaps the government set the target exchange rate sometime in the past, and it is now maintaining it for the sake of stability. Whatever the reason, if Brazil’s central bank wishes to keep the exchange rate below the market level, it must face the reality that at this weaker exchange rate of 30 cents/real, the quantity demanded of its currency at 17 billion reals is greater than the quantity supplied of 13 billion reals in the foreign exchange market.</para><figure id="CNX_Econ_C29_024"><title>Pegging an Exchange Rate </title><media id="fs-idm60287120" alt="The graph shows the affects of placing an exchange rate either below (left graph) or above (right graph) the equilibrium.">
-<image mime-type="image/jpg" src="../../media/CNX_Econ_C29_024.jpg"/>
-</media>
-
-<caption>(a) If an exchange rate is pegged below what would otherwise be the equilibrium, then the currency's quantity demanded will exceed the quantity supplied. (b) If an exchange rate is pegged above what would otherwise be the equilibrium, then the currency's quantity supplied exceeds the quantity demanded.</caption></figure><para id="fs-idm38638016">The Brazilian central bank could weaken its exchange rate in two ways. One approach is to use an <term class="no-emphasis" id="term-00006">expansionary monetary policy</term> that leads to lower interest rates. In foreign exchange markets, the lower interest rates will reduce demand and increase supply of the real and lead to depreciation. Central banks do not use this technique often because lowering interest rates to weaken the currency may be in conflict with the country’s monetary policy goals. Alternatively, Brazil’s central bank could trade directly in the foreign exchange market. The central bank can expand the money supply by creating reals, use the reals to purchase foreign currencies, and avoid selling any of its own currency. In this way, it can fill the gap between <term class="no-emphasis" id="term-00007">quantity demanded</term> and <term class="no-emphasis" id="term-00008">quantity supplied</term> of its currency.</para><para id="fs-idm35000080"><link target-id="CNX_Econ_C29_024"/> (b) shows the opposite situation. Here, the Brazilian government desires a stronger exchange rate of 40 cents/real than the market rate of 35 cents/real. Perhaps Brazil desires the stronger currency to reduce aggregate demand and to fight inflation, or perhaps Brazil believes that that current market exchange rate is temporarily lower than the long-term rate. Whatever the reason, at the higher desired exchange rate, the quantity supplied of 16 billion reals exceeds the quantity demanded of 14 billion reals.</para>
-<para id="fs-idm68413936">Brazil’s central bank can use a <term class="no-emphasis" id="term-00009">contractionary monetary policy</term> to raise interest rates, which will increase demand and reduce currency supply on foreign exchange markets, and lead to an appreciation. Alternatively, Brazil’s central bank can trade directly in the foreign exchange market. In this case, with an excess supply of its own currency in foreign exchange markets, the central bank must use reserves of foreign currency, like U.S. dollars, to demand its own currency and thus cause an appreciation of its exchange rate.</para><para id="fs-idm49343248">Both a soft peg and a hard peg policy require that the central bank intervene in the foreign exchange market. However, a hard peg policy attempts to preserve a fixed exchange rate at all times. A soft peg policy typically allows the exchange rate to move up and down by relatively small amounts in the short run of several months or a year, and to move by larger amounts over time, but seeks to avoid extreme short-term fluctuations.</para>
-</section>
-
-<section id="fs-idp9267952">
-<title>Tradeoffs of Soft Pegs and Hard Pegs</title>
-<para id="fs-idm6757392">When a country decides to alter the market exchange rate, it faces a number of tradeoffs. If it uses <term class="no-emphasis" id="term-00010">monetary policy</term> to alter the exchange rate, it then cannot at the same time use monetary policy to address issues of inflation or recession. If it uses direct purchases and sales of foreign currencies in exchange rates, then it must face the issue of how it will handle its reserves of foreign currency. Finally, a pegged exchange rate can even create additional movements of the exchange rate. For example, even the possibility of government intervention in exchange rate markets will lead to rumors about whether and when the government will intervene, and dealers in the foreign exchange market will react to those rumors. Let’s consider these issues in turn.</para><para id="fs-idp28942032">One concern with pegged exchange rate policies is that they imply a country’s monetary policy is no longer focused on controlling inflation or shortening recessions, but now must also take the exchange rate into account. For example, when a country pegs its exchange rate, it will sometimes face economic situations where it would like to have an expansionary monetary policy to fight recession—but it cannot do so because that policy would depreciate its exchange rate and break its hard peg. With a soft peg exchange rate policy, the <term class="no-emphasis" id="term-00011">central bank</term> can sometimes ignore the exchange rate and focus on domestic inflation or recession—but in other cases the central bank may ignore inflation or recession and instead focus on its soft peg exchange rate. With a hard peg policy, domestic monetary policy is effectively no longer determined by domestic inflation or unemployment, but only by what monetary policy is needed to keep the exchange rate at the hard peg.</para>
-<para id="fs-idp3338192">Another issue arises when a central bank intervenes directly in the exchange rate market. If a central bank ends up in a situation where it is perpetually creating and selling its own currency on foreign exchange markets, it will be buying the currency of other countries, like U.S. dollars or euros, to hold as <term class="no-emphasis" id="term-00012">reserves</term>. Holding large reserves of other currencies has an <term class="no-emphasis" id="term-00013">opportunity cost</term>, and central banks will not wish to boost such reserves without limit.</para>
-<para id="fs-idp25257024">In addition, a central bank that causes a large increase in the supply of money is also risking an inflationary surge in aggregate demand. Conversely, when a central bank wishes to buy its own currency, it can do so by using its reserves of international currency like the U.S. dollar or the euro. However, if the central bank runs out of such reserves, it can no longer use this method to strengthen its currency. Thus, buying foreign currencies in exchange rate markets can be expensive and inflationary, while selling foreign currencies can work only until a central bank runs out of reserves.</para><para id="fs-idp4237856">Yet another issue is that when a government pegs its exchange rate, it may unintentionally create another reason for additional fluctuation. With a soft peg policy, foreign exchange dealers and international investors react to every rumor about how or when the central bank is likely to intervene to influence the exchange rate, and as they react to rumors the exchange rate will shift up and down. Thus, even though the goal of a soft peg policy is to reduce short-term fluctuations of the exchange rate, the existence of the policy—when anticipated in the foreign exchange market—may sometimes increase short-term fluctuations as international investors try to anticipate how and when the central bank will act. The following Clear It Up feature discusses the effects of <term id="term-00014">international capital flows</term>—capital that flows across national boundaries as either portfolio investment or direct investment.</para>
-
-<note id="fs-idp5822800" class="economics clearup">
-<title>How do Tobin taxes control the flow of capital?</title>
-<para id="fs-idp9965984">Some countries like Chile and Malaysia have sought to reduce movements in exchange rates by limiting international financial capital inflows and outflows. The government can enact this policy either through targeted taxes or by regulations.</para><para id="fs-idm26362880">Taxes on international capital flows are sometimes known as <term id="term-00015">Tobin taxes</term>, named after <term class="no-emphasis" id="term-00016">James Tobin</term>, the 1981 Nobel laureate in economics who proposed such a tax in a 1972 lecture. For example, a government might tax all foreign exchange transactions, or attempt to tax short-term <term class="no-emphasis" id="term-00017">portfolio investment</term> while exempting long-term foreign <term class="no-emphasis" id="term-00018">direct investment</term>. Countries can also use regulation to forbid certain kinds of foreign investment in the first place or to make it difficult for international financial investors to withdraw their funds from a country.</para>
-<para id="fs-idp3638304">The goal of such policies is to reduce international capital flows, especially short-term portfolio flows, in the hope that doing so will reduce the chance of large movements in exchange rates that can bring macroeconomic disaster.</para>
-<para id="fs-idp25431808">However, proposals to limit <term class="no-emphasis" id="term-00019">international financial flows</term> have severe practical difficulties. National governments impose taxes, not international ones. If one government imposes a Tobin tax on exchange rate transactions carried out within its territory, a firm based someplace like the Grand Caymans, an island nation in the Caribbean well-known for allowing some financial wheeling and dealing might easily operate the exchange rate market. In an interconnected global economy, if goods and services are allowed to flow across national borders, then payments need to flow across borders, too. It is very difficult—in fact close to impossible—for a nation to allow only the flows of payments that relate to goods and services, while clamping down or taxing other flows of financial capital. If a nation participates in international trade, it must also participate in international capital movements.</para><para id="fs-idp41214528">Finally, countries all over the world, especially low-income countries, are crying out for foreign investment to help develop their economies. Policies that discourage international financial investment may prevent some possible harm, but they rule out potentially substantial economic benefits as well.</para>
-</note>
-
-<para id="fs-idp49059888">A hard peg exchange rate policy will not allow short-term fluctuations in the exchange rate. If the government first announces a hard peg and then later changes its mind—perhaps the government becomes unwilling to keep interest rates high or to hold high levels of foreign exchange reserves—then the result of abandoning a hard peg could be a dramatic shift in the exchange rate.</para>
-<para id="fs-idp51971856">In the mid-2000s, about one-third of the countries in the world used a soft peg approach and about one-quarter used a hard peg approach. The general trend in the 1990s was to shift away from a soft peg approach in favor of either floating rates or a hard peg. The concern is that a successful soft peg policy may, for a time, lead to very little variation in exchange rates, so that firms and banks in the economy begin to act as if a hard peg exists. When the exchange rate does move, the effects are especially painful because firms and banks have not planned and hedged against a possible change. Thus, the argument went, it is better either to be clear that the exchange rate is always flexible, or that it is fixed, but choosing an in-between soft peg option may end up being worst of all.</para>
-</section>
-
-<section id="fs-idm35989136">
-<title>A Merged Currency</title>
-<para id="fs-idp8469472">A final approach to exchange rate policy is for a nation to choose a common currency shared with one or more nations is also called a <term id="term-00020">merged currency</term>. A merged currency approach eliminates foreign exchange risk altogether. Just as no one worries about exchange rate movements when buying and selling between New York and California, Europeans know that the value of the euro will be the same in Germany and France and other European nations that have adopted the euro.</para>
-<para id="fs-idp95776">However, a merged currency also poses problems. Like a hard peg, a merged currency means that a nation has given up altogether on domestic monetary policy, and instead has put its interest rate policies in other hands. When Ecuador uses the U.S. dollar as its currency, it has no voice in whether the Federal Reserve raises or lowers interest rates. The European Central Bank that determines monetary policy for the euro has representatives from all the euro nations. However, from the standpoint of, say, Portugal, there will be times when the decisions of the European Central Bank about monetary policy do not match the decisions that a Portuguese central bank would have made.</para><para id="fs-idm20915968">The lines between these four different exchange rate policies can blend into each other. For example, a soft peg exchange rate policy in which the government almost never acts to intervene in the exchange rate market will look a great deal like a floating exchange rate. Conversely, a soft peg policy in which the government intervenes often to keep the exchange rate near a specific level will look a lot like a hard peg. A decision to merge currencies with another country is, in effect, a decision to have a permanently fixed exchange rate with those countries, which is like a very hard exchange rate peg. <link target-id="Table_29_03"/> summarizes the range of exchange rates policy choices, with their advantages and disadvantages.</para><table id="Table_29_03" summary="This table has five columns and six rows. The first row is a header row and it labels the columns “Situation”, “Floating Exchange Rates”, “Soft Peg”, “Hard Peg”, and “Merged Currency”. Under the “Situation” column are the following situations: Large short-run fluctuations in exchange rates?, Large long-term fluctuations in exchange rates?, Power of central bank to conduct countercyclical monetary policy?, Costs of holding foreign exchange reserves?, and Risk of ending up with an exchange rate that causes a large trade imbalance and very high inflows or outflows of financial capital? Under the “Floating Exchange Rates” column are the following tradeoffs: Often considerable in the short term, Can often happen, Flexible exchange rates make monetary policy stronger, Do not need to hold reserves, and Adjusts often. Under the column “Soft Peg” are the following tradeoffs: Maybe less in the short run, but still large changes over time, Can often happen, Some power, although conflicts may arise between exchange rate policy and countercyclical policy, Hold moderate reserves that rise and fall over time, Adjusts over the medium term, if not the short term. Under the column “Hard Peg” are the following tradeoffs: None, unless a change in the fixed rate, Cannot happen unless hard peg changes, in which case substantial volatility can occur, Very little; central bank must keep exchange rate fixed, Hold large reserves, and May end up over time either far above or below the market level. Under the “Merged Currency” column are the following tradeoffs: None, Cannot happen, None; nation does not have its own currency, No need to hold reserves, and Cannot adjust."><title>Tradeoffs of Exchange Rate Policies</title>
-<tgroup cols="5"><colspec colnum="1" colname="col1"/>
-<colspec colnum="2" colname="col2"/>
-<colspec colnum="3" colname="col3"/>
-<colspec colnum="4" colname="col4"/>
-<colspec colnum="5" colname="col5"/>
-<thead>
-<row>
-<entry>Situation</entry>
-<entry>Floating Exchange Rates</entry>
-<entry>Soft Peg</entry>
-<entry>Hard Peg</entry>
-<entry>Merged Currency</entry>
-</row>
-</thead>
-
-<tbody>
-<row>
-<entry>Large short-run fluctuations in exchange rates?</entry>
-<entry>Often considerable in the short term</entry>
-<entry>Maybe less in the short run, but still large changes over time</entry>
-<entry>None, unless a change in the fixed rate</entry>
-<entry>None</entry>
-</row>
-<row>
-<entry>Large long-term fluctuations in exchange rates?</entry>
-<entry>Can often happen</entry>
-<entry>Can often happen</entry>
-<entry>Cannot happen unless hard peg changes, in which case substantial volatility can occur</entry>
-<entry>Cannot happen</entry>
-</row>
-<row>
-<entry>Power of central bank to conduct countercyclical monetary policy?</entry>
-<entry>Flexible exchange rates make monetary policy stronger</entry>
-<entry>Some power, although conflicts may arise between exchange rate policy and countercyclical policy</entry>
-<entry>Very little; central bank must keep exchange rate fixed</entry>
-<entry>None; nation does not have its own currency</entry>
-</row>
-<row>
-<entry>Costs of holding foreign exchange reserves?</entry>
-<entry>Do not need to hold reserves</entry>
-<entry>Hold moderate reserves that rise and fall over time</entry>
-<entry>Hold large reserves</entry>
-<entry>No need to hold reserves</entry>
-</row>
-<row>
-<entry>Risk of ending up with an exchange rate that causes a large trade imbalance and very high inflows or outflows of financial capital?</entry>
-<entry>Adjusts often</entry>
-<entry>Adjusts over the medium term, if not the short term</entry>
-<entry>May end up over time either far above or below the market level</entry>
-<entry>Cannot adjust</entry>
-</row>
-</tbody>
-
-</tgroup>
-</table><para id="fs-idp34119152">Global macroeconomics would be easier if the whole world had one currency and one central bank. The exchange rates between different currencies complicate the picture. If financial markets solely set exchange rates, they fluctuate substantially as short-term portfolio investors try to anticipate tomorrow’s news. If the government attempts to intervene in exchange rate markets through soft pegs or hard pegs, it gives up at least some of the power to use monetary policy to focus on domestic inflations and recessions, and it risks causing even greater fluctuations in foreign exchange markets.</para><para id="fs-idp21253360">There is no consensus among economists about which exchange rate policies are best: floating, soft peg, hard peg, or merged currencies. The choice depends both on how well a nation’s central bank can implement a specific exchange rate policy and on how well a nation’s firms and banks can adapt to different exchange rate policies. A national economy that does a fairly good job at achieving the four main economic goals of growth, low inflation, low unemployment, and a sustainable <term class="no-emphasis" id="term-00021">balance of trade</term> will probably do just fine most of the time with any exchange rate policy. Conversely, no exchange rate policy is likely to save an economy that consistently fails at achieving these goals. Alternatively, a merged currency applied across wide geographic and cultural areas carries with it its own set of problems, such as the ability for countries to conduct their own independent monetary policies.</para><note id="fs-idm15750832" class="economics bringhome">
-<title>Is a Stronger Dollar Good for the U.S. Economy?</title>
-<para id="fs-idm103143408">The foreign exchange value of the dollar is a price and whether a higher price is good or bad depends on where you are standing: sellers benefit from higher prices and buyers are harmed. A stronger dollar is good for U.S. imports (and people working for U.S. importers) and U.S. investment abroad. It is also good for U.S. tourists going to other countries, since their dollar goes further. However, a stronger dollar is bad for U.S. exports (and people working in U.S. export industries); it is bad for foreign investment in the United States (leading, for example, to higher U.S. interest rates); and it is bad for foreign tourists (as well as U.S hotels, restaurants, and others in the tourist industry). In short, whether the U.S. dollar is good or bad is a more complex question than you may have thought. The economic answer is “it depends.”</para></note>
-</section>
-
-<section id="fs-idp90800" class="summary">
-<title>Key Concepts and Summary</title>
-<para id="fs-idm26035840">In a floating exchange rate policy, a government determines its country’s exchange rate in the foreign exchange market. In a soft peg exchange rate policy, the foreign exchange market usually determines a country's exchange rate, but the government sometimes intervenes to strengthen or weaken it. In a hard peg exchange rate policy, the government chooses an exchange rate. A central bank can intervene in exchange markets in two ways. It can raise or lower interest rates to make the currency stronger or weaker. It also can directly purchase or sell its currency in foreign exchange markets. All exchange rates policies face tradeoffs. A hard peg exchange rate policy will reduce exchange rate fluctuations, but means that a country must focus its monetary policy on the exchange rate, not on fighting recession or controlling inflation. When a nation merges its currency with another nation, it gives up on nationally oriented monetary policy altogether.</para><para id="fs-idm38568640">A soft peg exchange rate may create additional volatility as exchange rate markets try to anticipate when and how the government will intervene. A flexible exchange rate policy allows monetary policy to focus on inflation and unemployment, and allows the exchange rate to change with inflation and rates of return, but also raises a risk that exchange rates may sometimes make large and abrupt movements. The spectrum of exchange rate policies includes: (a) a floating exchange rate, (b) a pegged exchange rate, soft or hard, and (c) a merged currency. Monetary policy can focus on a variety of goals: (a) inflation; (b) inflation or unemployment, depending on which is the most dangerous obstacle; and (c) a long-term rule based policy designed to keep the money supply stable and predictable.</para>
-</section>
-
-<section id="fs-idm3912128" class="self-check-questions">
-<title>Self-Check Questions</title>
-<exercise id="fs-idm24219520">
-<problem id="fs-idm21172336">
-<para id="fs-idm3764880">How would a contractionary monetary policy affect the exchange rate, net exports, aggregate demand, and aggregate supply?</para>
-</problem>
-<solution id="fs-idm54749792">
-<para id="fs-idm35367824">A contractionary monetary policy, by driving up domestic interest rates, would cause the currency to appreciate. The higher value of the currency in foreign exchange markets would reduce exports, since from the perspective of foreign buyers, they are now more expensive. The higher value of the currency would similarly stimulate imports, since they would now be cheaper from the perspective of domestic buyers. Lower exports and higher imports cause net exports (EX – IM) to fall, which causes aggregate demand to fall. The result would be a decrease in GDP working through the exchange rate mechanism reinforcing the effect contractionary monetary policy has on domestic investment expenditure. However, cheaper imports would stimulate aggregate supply, bringing GDP back to potential, though at a lower price level.</para>
-</solution>
-</exercise>
-<exercise id="fs-idm86764304">
-<problem id="fs-idp9604720">
-<para id="fs-idm41500272">A central bank can allow its currency to fall indefinitely, but it cannot allow its currency to rise indefinitely. Why not?</para>
-</problem>
-<solution id="fs-idp4845840">
-<para id="fs-idp15744432">For a currency to fall, a central bank need only supply more of its currency in foreign exchange markets. It can print as much domestic currency as it likes. For a currency to rise, a central bank needs to buy its currency in foreign exchange markets, paying with foreign currency. Since no central bank has an infinite amount of foreign currency reserves, it cannot buy its currency indefinitely.</para>
-</solution>
-</exercise>
-<exercise id="fs-idp5047344">
-<problem id="fs-idm49779072">
-<para id="fs-idm24591696">Is a country for which imports and exports comprise a large fraction of the GDP more likely to adopt a flexible exchange rate or a fixed (hard peg) exchange rate?</para></problem>
-<solution id="fs-idp10134768">
-<para id="fs-idm60634352">Variations in exchange rates, because they change import and export prices, disturb international trade flows. When trade is a large part of a nation’s economic activity, government will find it more advantageous to fix exchange rates to minimize disruptions of trade flows.</para>
-</solution>
-</exercise>
-</section>
-
-<section id="fs-idp18941408" class="review-questions">
-<title>Review Questions</title>
-<exercise id="fs-idm25447600">
-<problem id="fs-idm40856912">
-<para id="fs-idm78850288">What is the difference between a floating exchange rate, a soft peg, a hard peg, and dollarization?</para>
-</problem>
-</exercise>
-<exercise id="fs-idm24950992">
-<problem id="fs-idm48382704">
-<para id="fs-idm23457328">List some advantages and disadvantages of the different exchange rate policies.</para>
-</problem>
-</exercise>
-</section>
-
-<section id="fs-idm45946768" class="critical-thinking">
-<title>Critical Thinking Questions</title>
-<exercise id="fs-idm1842528">
-<problem id="fs-idm1792944">
-<para id="fs-idm25814432">Many developing countries, like Mexico, have moderate to high rates of inflation. At the same time, international trade plays an important role in their economies. What type of exchange rate regime would be best for such a country’s currency <emphasis effect="italics">vis à vis</emphasis> the U.S. dollar?</para>
-</problem>
-</exercise>
-<exercise id="fs-idm4861456">
-<problem id="fs-idm127863728">
-<para id="fs-idm18521728">What would make a country decide to change from a common currency, like the euro, back to its own currency?</para>
-</problem>
-</exercise>
-</section>
-
-<section id="fs-idm15489792" class="references">
-<title>References</title>
-<para id="fs-idm18906816">Friedman, Milton. <emphasis effect="italics">Capitalism and Freedom</emphasis>. Chicago: University of Chicago Press, 1962.</para>
-</section>
-
-</content>
-
-<glossary>
-<definition id="fs-idp18059456">
-<term>floating exchange rate</term>
-<meaning id="fs-idm17266320">a country lets the exchange rate market determine its currency's value</meaning>
-</definition>
-<definition id="fs-idm46720992">
-<term>hard peg</term>
-<meaning id="fs-idp18022272">an exchange rate policy in which the central bank sets a fixed and unchanging value for the exchange rate</meaning>
-</definition>
-<definition id="fs-idp14332960">
-<term>international capital flows</term>
-<meaning id="fs-idp7726304">flow of financial capital across national boundaries either as portfolio investment or direct investment</meaning>
-</definition>
-<definition id="fs-idm15984368">
-<term>merged currency</term>
-<meaning id="fs-idm41106272">when a nation chooses to use another nation's currency</meaning>
-</definition>
-<definition id="fs-idm32239312">
-<term>soft peg</term>
-<meaning id="fs-idm15468816">an exchange rate policy in which the government usually allows the  market to set the exchange rate, but in some cases, especially if the exchange rate seems to be moving rapidly in one direction, the central bank will intervene</meaning>
-</definition>
-<definition id="fs-idm18017200">
-<term>Tobin taxes</term>
-<meaning id="fs-idm68961408">see international capital flows</meaning>
-</definition>
-</glossary>
-
-</document>
+  <title>Exchange Rate Policies</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:content-id>m64198</md:content-id>
+    <md:title>Exchange Rate Policies</md:title>
+    <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para><list id="list-00001">
+  <item>Differentiate among a floating exchange rate, a soft peg, a hard peg, and a merged currency</item>
+  <item>Identify the tradeoffs that come with a floating exchange rate, a soft peg, a hard peg, and a merged currency</item>
+  </list></md:abstract>
+    <md:uuid>717e7481-3205-455f-8f12-36a62a6bf992</md:uuid>
+  </metadata>
+  
+  <content>
+  
+  <para id="fs-idp12899216">Exchange rate policies come in a range of different forms listed in <link target-id="CNX_Econ_C29_016"/>: let the foreign exchange market determine the exchange rate; let the market set the value of the exchange rate most of the time, but have the central bank sometimes intervene to prevent fluctuations that seem too large; have the central bank guarantee a specific exchange rate; or share a currency with other countries. Let’s discuss each type of exchange rate policy and its tradeoffs.</para>
+  
+  <figure id="CNX_Econ_C29_016"><title>A Spectrum of Exchange Rate Policies </title><media id="fs-idm800352" alt="The graph shows several options of exchange rate policies.">
+  <image mime-type="image/jpg" src="../../media/CNX_Econ2e_C29_016.jpg"/>
+  </media>
+  
+  <caption>A nation may adopt one of a variety of exchange rate regimes, from floating rates in which the foreign exchange market determines the rates to pegged rates where governments intervene to manage the exchange rate's value, to a common currency where the nation adopts another country or group of countries' currency.</caption></figure><section id="fs-idm1971808">
+  <title>Floating Exchange Rates</title>
+  <para id="fs-idm24327856">We refer to a policy which allows the foreign exchange market to set exchange rates as a <term id="term-00001">floating exchange rate</term>. The U.S. dollar is a floating exchange rate, as are the currencies of about 40% of the countries in the world economy. The major concern with this policy is that exchange rates can move a great deal in a short time.</para><para id="fs-idm24705424">Consider the U.S. exchange rate expressed in terms of another fairly stable currency, the Japanese yen, as <link target-id="CNX_Econ_C29_017"/> shows. On January 1, 2002, the exchange rate was 133 yen/dollar. On January 1, 2005, it was 103 yen/dollar. On June 1, 2007, it was 122 yen/dollar, on January 1, 2012, it was 77 yen per dollar, and on March 1, 2015, it was 120 yen per dollar. Since 2015, it has dropped again; by the end of December 2020, the exchange rate stood at 103 yen per dollar. As investor sentiment swings back and forth, driving exchange rates up and down, exporters, importers, and banks involved in international lending are all affected. At worst, large movements in exchange rates can drive companies into bankruptcy or trigger a nationwide banking collapse. However, even in the moderate case of the yen/dollar exchange rate, these movements of roughly 30 percent back and forth impose stress on both economies as firms must alter their export and import plans to take the new exchange rates into account. Especially in smaller countries where international trade is a relatively large share of GDP, exchange rate movements can rattle their economies.</para><figure id="CNX_Econ_C29_017"><title>U.S. Dollar Exchange Rate in Japanese Yen </title><media id="fs-idm24453120" alt="The graph shows how the U.S. dollar as compared to the Chinese yen since 2001. The line's variations represent the volatility of exchange rates.">
+  <image mime-type="image/jpg" src="../../media/CNX_Econv1-2_C29_11-91d9.jpg"/>
+  </media>
+  
+  <caption>Even seemingly stable exchange rates such as the Japanese Yen to the U.S. Dollar can vary when closely examined over time. This figure shows a relatively stable rate between 2011 and 2013.  In 2013, there was a drastic depreciation of the Yen (relative to the U.S. Dollar) by about 14% and again at the end of the year in 2014 also by about 14%. Since then, between 2016 and 2020 there was an appreciation of about 13% from 118 yen per dollar to 103 yen per dollar. (Source: <term class="no-emphasis" id="term-00002">Federal Reserve Economic Data (FRED)</term> https://research.stlouisfed.org/fred2/series/DEXJPUS)</caption></figure><para id="fs-idm2144">However, movements of floating exchange rates have advantages, too. After all, prices of goods and services rise and fall throughout a market economy, as demand and supply shift. If an economy experiences strong inflows or outflows of international financial capital, or has relatively high inflation, or if it experiences strong productivity growth so that purchasing power changes relative to other economies, then it makes economic sense for the exchange rate to shift as well.</para>
+  <para id="fs-idm203056">Floating exchange rate advocates often argue that if government policies were more predictable and stable, then inflation rates and interest rates would be more predictable and stable. Exchange rates would bounce around less, too. The economist <term class="no-emphasis" id="term-00003">Milton Friedman</term> (1912–2006), for example, wrote a defense of floating exchange rates in 1962 in his book <emphasis effect="italics">Capitalism and Freedom</emphasis>:</para>
+  <quote id="fs-idm50712880"><para id="fs-idm24300320">Being in favor of floating exchange rates does not mean being in favor of unstable exchange rates. When we support a free price system [for goods and services] at home, this does not imply that we favor a system in which prices fluctuate wildly up and down. What we want is a system in which prices are free to fluctuate but in which the forces determining them are sufficiently stable so that in fact prices move within moderate ranges. This is equally true in a system of floating exchange rates. The ultimate objective is a world in which exchange rates, while free to vary, are, in fact, highly 	stable because basic economic policies and conditions are stable.</para></quote>
+  <para id="fs-idm2428512">Advocates of floating exchange rates admit that, yes, exchange rates may sometimes fluctuate. They point out, however, that if a central bank focuses on preventing either high inflation or deep recession, with low and reasonably steady interest rates, then exchange rates will have less reason to vary.</para>
+  </section>
+  
+  <section id="fs-idp1827264">
+  <title>Using Soft Pegs and Hard Pegs</title>
+  <para id="fs-idm65343424">When a government intervenes in the foreign exchange market so that the currency's exchange rate is different from what the market would have produced, it establishes a “peg” for its currency. A <term id="term-00004">soft peg</term> is the name for an exchange rate policy where the government usually allows the market to set exchange rate, but in some cases, especially if the exchange rate seems to be moving rapidly in one direction, the central bank will intervene in the market. With a <term id="term-00005">hard peg</term> exchange rate policy, the central bank sets a fixed and unchanging value for the exchange rate. A central bank can implement soft peg and hard peg policies.</para><para id="fs-idm17150432">Suppose the market exchange rate for the Brazilian currency, the real, would be 35 cents/real with a daily quantity of 15 billion real traded in the market, as the equilibrium E<sub>0</sub> in <link target-id="CNX_Econ_C29_024"/> (a) and <link target-id="CNX_Econ_C29_024"/> (b) show. However, Brazil's government decides that the exchange rate should be 30 cents/real, as <link target-id="CNX_Econ_C29_024"/> (a) shows. Perhaps Brazil sets this lower exchange rate to benefit its export industries. Perhaps it is an attempt to stimulate aggregate demand by stimulating exports. Perhaps Brazil believes that the current market exchange rate is higher than the long-term purchasing power parity value of the real, so it is minimizing fluctuations in the real by keeping it at this lower rate. Perhaps the government set the target exchange rate sometime in the past, and it is now maintaining it for the sake of stability. Whatever the reason, if Brazil’s central bank wishes to keep the exchange rate below the market level, it must face the reality that at this weaker exchange rate of 30 cents/real, the quantity demanded of its currency at 17 billion reals is greater than the quantity supplied of 13 billion reals in the foreign exchange market.</para><figure id="CNX_Econ_C29_024"><title>Pegging an Exchange Rate </title><media id="fs-idm60287120" alt="The graph shows the affects of placing an exchange rate either below (left graph) or above (right graph) the equilibrium.">
+  <image mime-type="image/jpg" src="../../media/CNX_Econ3e_C29_024.jpg"/>
+  </media>
+  
+  <caption>(a) If an exchange rate is pegged below what would otherwise be the equilibrium, then the currency's quantity demanded will exceed the quantity supplied. (b) If an exchange rate is pegged above what would otherwise be the equilibrium, then the currency's quantity supplied exceeds the quantity demanded.</caption></figure><para id="fs-idm38638016">The Brazilian central bank could weaken its exchange rate in two ways. One approach is to use an <term class="no-emphasis" id="term-00006">expansionary monetary policy</term> that leads to lower interest rates. In foreign exchange markets, the lower interest rates will reduce demand and increase supply of the real and lead to depreciation. Central banks do not use this technique often because lowering interest rates to weaken the currency may be in conflict with the country’s monetary policy goals. Alternatively, Brazil’s central bank could trade directly in the foreign exchange market. The central bank can expand the money supply by creating reals, use the reals to purchase foreign currencies, and avoid selling any of its own currency. In this way, it can fill the gap between <term class="no-emphasis" id="term-00007">quantity demanded</term> and <term class="no-emphasis" id="term-00008">quantity supplied</term> of its currency.</para><para id="fs-idm35000080"><link target-id="CNX_Econ_C29_024"/> (b) shows the opposite situation. Here, the Brazilian government desires a stronger exchange rate of 40 cents/real than the market rate of 35 cents/real. Perhaps Brazil desires the stronger currency to reduce aggregate demand and to fight inflation, or perhaps Brazil believes that that current market exchange rate is temporarily lower than the long-term rate. Whatever the reason, at the higher desired exchange rate, the quantity supplied of 16 billion reals exceeds the quantity demanded of 14 billion reals.</para>
+  <para id="fs-idm68413936">Brazil’s central bank can use a <term class="no-emphasis" id="term-00009">contractionary monetary policy</term> to raise interest rates, which will increase demand and reduce currency supply on foreign exchange markets, and lead to an appreciation. Alternatively, Brazil’s central bank can trade directly in the foreign exchange market. In this case, with an excess supply of its own currency in foreign exchange markets, the central bank must use reserves of foreign currency, like U.S. dollars, to demand its own currency and thus cause an appreciation of its exchange rate.</para><para id="fs-idm49343248">Both a soft peg and a hard peg policy require that the central bank intervene in the foreign exchange market. However, a hard peg policy attempts to preserve a fixed exchange rate at all times. A soft peg policy typically allows the exchange rate to move up and down by relatively small amounts in the short run of several months or a year, and to move by larger amounts over time, but seeks to avoid extreme short-term fluctuations.</para>
+  </section>
+  
+  <section id="fs-idp9267952">
+  <title>Tradeoffs of Soft Pegs and Hard Pegs</title>
+  <para id="fs-idm6757392">When a country decides to alter the market exchange rate, it faces a number of tradeoffs. If it uses <term class="no-emphasis" id="term-00010">monetary policy</term> to alter the exchange rate, it then cannot at the same time use monetary policy to address issues of inflation or recession. If it uses direct purchases and sales of foreign currencies in exchange rates, then it must face the issue of how it will handle its reserves of foreign currency. Finally, a pegged exchange rate can even create additional movements of the exchange rate. For example, even the possibility of government intervention in exchange rate markets will lead to rumors about whether and when the government will intervene, and dealers in the foreign exchange market will react to those rumors. Let’s consider these issues in turn.</para><para id="fs-idp28942032">One concern with pegged exchange rate policies is that they imply a country’s monetary policy is no longer focused on controlling inflation or shortening recessions, but now must also take the exchange rate into account. For example, when a country pegs its exchange rate, it will sometimes face economic situations where it would like to have an expansionary monetary policy to fight recession—but it cannot do so because that policy would depreciate its exchange rate and break its hard peg. With a soft peg exchange rate policy, the <term class="no-emphasis" id="term-00011">central bank</term> can sometimes ignore the exchange rate and focus on domestic inflation or recession—but in other cases the central bank may ignore inflation or recession and instead focus on its soft peg exchange rate. With a hard peg policy, domestic monetary policy is effectively no longer determined by domestic inflation or unemployment, but only by what monetary policy is needed to keep the exchange rate at the hard peg.</para>
+  <para id="fs-idp3338192">Another issue arises when a central bank intervenes directly in the exchange rate market. If a central bank ends up in a situation where it is perpetually creating and selling its own currency on foreign exchange markets, it will be buying the currency of other countries, like U.S. dollars or euros, to hold as <term class="no-emphasis" id="term-00012">reserves</term>. Holding large reserves of other currencies has an <term class="no-emphasis" id="term-00013">opportunity cost</term>, and central banks will not wish to boost such reserves without limit.</para>
+  <para id="fs-idp25257024">In addition, a central bank that causes a large increase in the supply of money is also risking an inflationary surge in aggregate demand. Conversely, when a central bank wishes to buy its own currency, it can do so by using its reserves of international currency like the U.S. dollar or the euro. However, if the central bank runs out of such reserves, it can no longer use this method to strengthen its currency. Thus, buying foreign currencies in exchange rate markets can be expensive and inflationary, while selling foreign currencies can work only until a central bank runs out of reserves.</para><para id="fs-idp4237856">Yet another issue is that when a government pegs its exchange rate, it may unintentionally create another reason for additional fluctuation. With a soft peg policy, foreign exchange dealers and international investors react to every rumor about how or when the central bank is likely to intervene to influence the exchange rate, and as they react to rumors the exchange rate will shift up and down. Thus, even though the goal of a soft peg policy is to reduce short-term fluctuations of the exchange rate, the existence of the policy—when anticipated in the foreign exchange market—may sometimes increase short-term fluctuations as international investors try to anticipate how and when the central bank will act. The following Clear It Up feature discusses the effects of <term id="term-00014">international capital flows</term>—capital that flows across national boundaries as either portfolio investment or direct investment.</para>
+  
+  <note id="fs-idp5822800" class="economics clearup">
+  <title>How do Tobin taxes control the flow of capital?</title>
+  <para id="fs-idp9965984">Some countries like Chile and Malaysia have sought to reduce movements in exchange rates by limiting international financial capital inflows and outflows. The government can enact this policy either through targeted taxes or by regulations.</para><para id="fs-idm26362880">Taxes on international capital flows are sometimes known as <term id="term-00015">Tobin taxes</term>, named after <term class="no-emphasis" id="term-00016">James Tobin</term>, the 1981 Nobel laureate in economics who proposed such a tax in a 1972 lecture. For example, a government might tax all foreign exchange transactions, or attempt to tax short-term <term class="no-emphasis" id="term-00017">portfolio investment</term> while exempting long-term foreign <term class="no-emphasis" id="term-00018">direct investment</term>. Countries can also use regulation to forbid certain kinds of foreign investment in the first place or to make it difficult for international financial investors to withdraw their funds from a country.</para>
+  <para id="fs-idp3638304">The goal of such policies is to reduce international capital flows, especially short-term portfolio flows, in the hope that doing so will reduce the chance of large movements in exchange rates that can bring macroeconomic disaster.</para>
+  <para id="fs-idp25431808">However, proposals to limit <term class="no-emphasis" id="term-00019">international financial flows</term> have severe practical difficulties. National governments impose taxes, not international ones. If one government imposes a Tobin tax on exchange rate transactions carried out within its territory, a firm based someplace like the Grand Caymans, an island nation in the Caribbean well-known for allowing some financial wheeling and dealing might easily operate the exchange rate market. In an interconnected global economy, if goods and services are allowed to flow across national borders, then payments need to flow across borders, too. It is very difficult—in fact close to impossible—for a nation to allow only the flows of payments that relate to goods and services, while clamping down or taxing other flows of financial capital. If a nation participates in international trade, it must also participate in international capital movements.</para><para id="fs-idp41214528">Finally, countries all over the world, especially low-income countries, are crying out for foreign investment to help develop their economies. Policies that discourage international financial investment may prevent some possible harm, but they rule out potentially substantial economic benefits as well.</para>
+  </note>
+  
+  <para id="fs-idp49059888">A hard peg exchange rate policy will not allow short-term fluctuations in the exchange rate. If the government first announces a hard peg and then later changes its mind—perhaps the government becomes unwilling to keep interest rates high or to hold high levels of foreign exchange reserves—then the result of abandoning a hard peg could be a dramatic shift in the exchange rate.</para>
+  <para id="fs-idp51971856">In the mid-2000s, about one-third of the countries in the world used a soft peg approach and about one-quarter used a hard peg approach. The general trend in the 1990s was to shift away from a soft peg approach in favor of either floating rates or a hard peg. The concern is that a successful soft peg policy may, for a time, lead to very little variation in exchange rates, so that firms and banks in the economy begin to act as if a hard peg exists. When the exchange rate does move, the effects are especially painful because firms and banks have not planned and hedged against a possible change. Thus, the argument went, it is better either to be clear that the exchange rate is always flexible, or that it is fixed, but choosing an in-between soft peg option may end up being worst of all.</para>
+  </section>
+  
+  <section id="fs-idm35989136">
+  <title>A Merged Currency</title>
+  <para id="fs-idp8469472">A final approach to exchange rate policy is for a nation to choose a common currency shared with one or more nations is also called a <term id="term-00020">merged currency</term>. A merged currency approach eliminates foreign exchange risk altogether. Just as no one worries about exchange rate movements when buying and selling between New York and California, Europeans know that the value of the euro will be the same in Germany and France and other European nations that have adopted the euro.</para>
+  <para id="fs-idp95776">However, a merged currency also poses problems. Like a hard peg, a merged currency means that a nation has given up altogether on domestic monetary policy, and instead has put its interest rate policies in other hands. When Ecuador uses the U.S. dollar as its currency, it has no voice in whether the Federal Reserve raises or lowers interest rates. The European Central Bank that determines monetary policy for the euro has representatives from all the euro nations. However, from the standpoint of, say, Portugal, there will be times when the decisions of the European Central Bank about monetary policy do not match the decisions that a Portuguese central bank would have made.</para><para id="fs-idm20915968">The lines between these four different exchange rate policies can blend into each other. For example, a soft peg exchange rate policy in which the government almost never acts to intervene in the exchange rate market will look a great deal like a floating exchange rate. Conversely, a soft peg policy in which the government intervenes often to keep the exchange rate near a specific level will look a lot like a hard peg. A decision to merge currencies with another country is, in effect, a decision to have a permanently fixed exchange rate with those countries, which is like a very hard exchange rate peg. <link target-id="Table_29_03"/> summarizes the range of exchange rates policy choices, with their advantages and disadvantages.</para><table id="Table_29_03" summary="This table has five columns and six rows. The first row is a header row and it labels the columns “Situation”, “Floating Exchange Rates”, “Soft Peg”, “Hard Peg”, and “Merged Currency”. Under the “Situation” column are the following situations: Large short-run fluctuations in exchange rates?, Large long-term fluctuations in exchange rates?, Power of central bank to conduct countercyclical monetary policy?, Costs of holding foreign exchange reserves?, and Risk of ending up with an exchange rate that causes a large trade imbalance and very high inflows or outflows of financial capital? Under the “Floating Exchange Rates” column are the following tradeoffs: Often considerable in the short term, Can often happen, Flexible exchange rates make monetary policy stronger, Do not need to hold reserves, and Adjusts often. Under the column “Soft Peg” are the following tradeoffs: Maybe less in the short run, but still large changes over time, Can often happen, Some power, although conflicts may arise between exchange rate policy and countercyclical policy, Hold moderate reserves that rise and fall over time, Adjusts over the medium term, if not the short term. Under the column “Hard Peg” are the following tradeoffs: None, unless a change in the fixed rate, Cannot happen unless hard peg changes, in which case substantial volatility can occur, Very little; central bank must keep exchange rate fixed, Hold large reserves, and May end up over time either far above or below the market level. Under the “Merged Currency” column are the following tradeoffs: None, Cannot happen, None; nation does not have its own currency, No need to hold reserves, and Cannot adjust."><title>Tradeoffs of Exchange Rate Policies</title>
+  <tgroup cols="5"><colspec colnum="1" colname="col1"/>
+  <colspec colnum="2" colname="col2"/>
+  <colspec colnum="3" colname="col3"/>
+  <colspec colnum="4" colname="col4"/>
+  <colspec colnum="5" colname="col5"/>
+  <thead>
+  <row>
+  <entry>Situation</entry>
+  <entry>Floating Exchange Rates</entry>
+  <entry>Soft Peg</entry>
+  <entry>Hard Peg</entry>
+  <entry>Merged Currency</entry>
+  </row>
+  </thead>
+  
+  <tbody>
+  <row>
+  <entry>Large short-run fluctuations in exchange rates?</entry>
+  <entry>Often considerable in the short term</entry>
+  <entry>Maybe less in the short run, but still large changes over time</entry>
+  <entry>None, unless a change in the fixed rate</entry>
+  <entry>None</entry>
+  </row>
+  <row>
+  <entry>Large long-term fluctuations in exchange rates?</entry>
+  <entry>Can often happen</entry>
+  <entry>Can often happen</entry>
+  <entry>Cannot happen unless hard peg changes, in which case substantial volatility can occur</entry>
+  <entry>Cannot happen</entry>
+  </row>
+  <row>
+  <entry>Power of central bank to conduct countercyclical monetary policy?</entry>
+  <entry>Flexible exchange rates make monetary policy stronger</entry>
+  <entry>Some power, although conflicts may arise between exchange rate policy and countercyclical policy</entry>
+  <entry>Very little; central bank must keep exchange rate fixed</entry>
+  <entry>None; nation does not have its own currency</entry>
+  </row>
+  <row>
+  <entry>Costs of holding foreign exchange reserves?</entry>
+  <entry>Do not need to hold reserves</entry>
+  <entry>Hold moderate reserves that rise and fall over time</entry>
+  <entry>Hold large reserves</entry>
+  <entry>No need to hold reserves</entry>
+  </row>
+  <row>
+  <entry>Risk of ending up with an exchange rate that causes a large trade imbalance and very high inflows or outflows of financial capital?</entry>
+  <entry>Adjusts often</entry>
+  <entry>Adjusts over the medium term, if not the short term</entry>
+  <entry>May end up over time either far above or below the market level</entry>
+  <entry>Cannot adjust</entry>
+  </row>
+  </tbody>
+  
+  </tgroup>
+  </table><para id="fs-idp34119152">Global macroeconomics would be easier if the whole world had one currency and one central bank. The exchange rates between different currencies complicate the picture. If financial markets solely set exchange rates, they fluctuate substantially as short-term portfolio investors try to anticipate tomorrow’s news. If the government attempts to intervene in exchange rate markets through soft pegs or hard pegs, it gives up at least some of the power to use monetary policy to focus on domestic inflations and recessions, and it risks causing even greater fluctuations in foreign exchange markets.</para><para id="fs-idp21253360">There is no consensus among economists about which exchange rate policies are best: floating, soft peg, hard peg, or merged currencies. The choice depends both on how well a nation’s central bank can implement a specific exchange rate policy and on how well a nation’s firms and banks can adapt to different exchange rate policies. A national economy that does a fairly good job at achieving the four main economic goals of growth, low inflation, low unemployment, and a sustainable <term class="no-emphasis" id="term-00021">balance of trade</term> will probably do just fine most of the time with any exchange rate policy. Conversely, no exchange rate policy is likely to save an economy that consistently fails at achieving these goals. Alternatively, a merged currency applied across wide geographic and cultural areas carries with it its own set of problems, such as the ability for countries to conduct their own independent monetary policies.</para><note id="fs-idm15750832" class="economics bringhome">
+  <title>Is a Stronger Dollar Good for the U.S. Economy?</title>
+  <para id="fs-idm103143408">The foreign exchange value of the dollar is a price and whether a higher price is good or bad depends on where you are standing: sellers benefit from higher prices and buyers are harmed. A stronger dollar is good for U.S. imports (and people working for U.S. importers) and U.S. investment abroad. It is also good for U.S. tourists going to other countries, since their dollar goes further. However, a stronger dollar is bad for U.S. exports (and people working in U.S. export industries); it is bad for foreign investment in the United States (leading, for example, to higher U.S. interest rates); and it is bad for foreign tourists (as well as U.S hotels, restaurants, and others in the tourist industry). In short, whether the U.S. dollar is good or bad is a more complex question than you may have thought. The economic answer is “it depends.”</para></note>
+  </section>
+  
+  <section id="fs-idp90800" class="summary">
+  <title>Key Concepts and Summary</title>
+  <para id="fs-idm26035840">In a floating exchange rate policy, a government determines its country’s exchange rate in the foreign exchange market. In a soft peg exchange rate policy, the foreign exchange market usually determines a country's exchange rate, but the government sometimes intervenes to strengthen or weaken it. In a hard peg exchange rate policy, the government chooses an exchange rate. A central bank can intervene in exchange markets in two ways. It can raise or lower interest rates to make the currency stronger or weaker. It also can directly purchase or sell its currency in foreign exchange markets. All exchange rates policies face tradeoffs. A hard peg exchange rate policy will reduce exchange rate fluctuations, but means that a country must focus its monetary policy on the exchange rate, not on fighting recession or controlling inflation. When a nation merges its currency with another nation, it gives up on nationally oriented monetary policy altogether.</para><para id="fs-idm38568640">A soft peg exchange rate may create additional volatility as exchange rate markets try to anticipate when and how the government will intervene. A flexible exchange rate policy allows monetary policy to focus on inflation and unemployment, and allows the exchange rate to change with inflation and rates of return, but also raises a risk that exchange rates may sometimes make large and abrupt movements. The spectrum of exchange rate policies includes: (a) a floating exchange rate, (b) a pegged exchange rate, soft or hard, and (c) a merged currency. Monetary policy can focus on a variety of goals: (a) inflation; (b) inflation or unemployment, depending on which is the most dangerous obstacle; and (c) a long-term rule based policy designed to keep the money supply stable and predictable.</para>
+  </section>
+  
+  <section id="fs-idm3912128" class="self-check-questions">
+  <title>Self-Check Questions</title>
+  <exercise id="fs-idm24219520">
+  <problem id="fs-idm21172336">
+  <para id="fs-idm3764880">How would a contractionary monetary policy affect the exchange rate, net exports, aggregate demand, and aggregate supply?</para>
+  </problem>
+  <solution id="fs-idm54749792">
+  <para id="fs-idm35367824">A contractionary monetary policy, by driving up domestic interest rates, would cause the currency to appreciate. The higher value of the currency in foreign exchange markets would reduce exports, since from the perspective of foreign buyers, they are now more expensive. The higher value of the currency would similarly stimulate imports, since they would now be cheaper from the perspective of domestic buyers. Lower exports and higher imports cause net exports (EX – IM) to fall, which causes aggregate demand to fall. The result would be a decrease in GDP working through the exchange rate mechanism reinforcing the effect contractionary monetary policy has on domestic investment expenditure. However, cheaper imports would stimulate aggregate supply, bringing GDP back to potential, though at a lower price level.</para>
+  </solution>
+  </exercise>
+  <exercise id="fs-idm86764304">
+  <problem id="fs-idp9604720">
+  <para id="fs-idm41500272">A central bank can allow its currency to fall indefinitely, but it cannot allow its currency to rise indefinitely. Why not?</para>
+  </problem>
+  <solution id="fs-idp4845840">
+  <para id="fs-idp15744432">For a currency to fall, a central bank need only supply more of its currency in foreign exchange markets. It can print as much domestic currency as it likes. For a currency to rise, a central bank needs to buy its currency in foreign exchange markets, paying with foreign currency. Since no central bank has an infinite amount of foreign currency reserves, it cannot buy its currency indefinitely.</para>
+  </solution>
+  </exercise>
+  <exercise id="fs-idp5047344">
+  <problem id="fs-idm49779072">
+  <para id="fs-idm24591696">Is a country for which imports and exports comprise a large fraction of the GDP more likely to adopt a flexible exchange rate or a fixed (hard peg) exchange rate?</para></problem>
+  <solution id="fs-idp10134768">
+  <para id="fs-idm60634352">Variations in exchange rates, because they change import and export prices, disturb international trade flows. When trade is a large part of a nation’s economic activity, government will find it more advantageous to fix exchange rates to minimize disruptions of trade flows.</para>
+  </solution>
+  </exercise>
+  </section>
+  
+  <section id="fs-idp18941408" class="review-questions">
+  <title>Review Questions</title>
+  <exercise id="fs-idm25447600">
+  <problem id="fs-idm40856912">
+  <para id="fs-idm78850288">What is the difference between a floating exchange rate, a soft peg, a hard peg, and dollarization?</para>
+  </problem>
+  </exercise>
+  <exercise id="fs-idm24950992">
+  <problem id="fs-idm48382704">
+  <para id="fs-idm23457328">List some advantages and disadvantages of the different exchange rate policies.</para>
+  </problem>
+  </exercise>
+  </section>
+  
+  <section id="fs-idm45946768" class="critical-thinking">
+  <title>Critical Thinking Questions</title>
+  <exercise id="fs-idm1842528">
+  <problem id="fs-idm1792944">
+  <para id="fs-idm25814432">Many developing countries, like Mexico, have moderate to high rates of inflation. At the same time, international trade plays an important role in their economies. What type of exchange rate regime would be best for such a country’s currency <emphasis effect="italics">vis à vis</emphasis> the U.S. dollar?</para>
+  </problem>
+  </exercise>
+  <exercise id="fs-idm4861456">
+  <problem id="fs-idm127863728">
+  <para id="fs-idm18521728">What would make a country decide to change from a common currency, like the euro, back to its own currency?</para>
+  </problem>
+  </exercise>
+  </section>
+  
+  <section id="fs-idm15489792" class="references">
+  <title>References</title>
+  <para id="fs-idm18906816">Friedman, Milton. <emphasis effect="italics">Capitalism and Freedom</emphasis>. Chicago: University of Chicago Press, 1962.</para>
+  </section>
+  
+  </content>
+  
+  <glossary>
+  <definition id="fs-idp18059456">
+  <term>floating exchange rate</term>
+  <meaning id="fs-idm17266320">a country lets the exchange rate market determine its currency's value</meaning>
+  </definition>
+  <definition id="fs-idm46720992">
+  <term>hard peg</term>
+  <meaning id="fs-idp18022272">an exchange rate policy in which the central bank sets a fixed and unchanging value for the exchange rate</meaning>
+  </definition>
+  <definition id="fs-idp14332960">
+  <term>international capital flows</term>
+  <meaning id="fs-idp7726304">flow of financial capital across national boundaries either as portfolio investment or direct investment</meaning>
+  </definition>
+  <definition id="fs-idm15984368">
+  <term>merged currency</term>
+  <meaning id="fs-idm41106272">when a nation chooses to use another nation's currency</meaning>
+  </definition>
+  <definition id="fs-idm32239312">
+  <term>soft peg</term>
+  <meaning id="fs-idm15468816">an exchange rate policy in which the government usually allows the  market to set the exchange rate, but in some cases, especially if the exchange rate seems to be moving rapidly in one direction, the central bank will intervene</meaning>
+  </definition>
+  <definition id="fs-idm18017200">
+  <term>Tobin taxes</term>
+  <meaning id="fs-idm68961408">see international capital flows</meaning>
+  </definition>
+  </glossary>
+  
+  </document>

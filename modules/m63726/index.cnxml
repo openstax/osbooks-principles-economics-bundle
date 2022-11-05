@@ -1,98 +1,98 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
 
-<title>The Federal Reserve Banking System and Central Banks</title>
-<metadata xmlns:md="http://cnx.rice.edu/mdml">
-  <md:content-id>m63726</md:content-id>
-  <md:title>The Federal Reserve Banking System and Central Banks</md:title>
-  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para><list id="list-00001">
-<item>Explain the structure and organization of the U.S. Federal Reserve</item>
-<item>Discuss how central banks impact monetary policy, promote financial stability, and provide banking services</item>
-</list></md:abstract>
-  <md:uuid>3efeb882-57f8-4b20-a4b4-129ec6b5ae30</md:uuid>
-</metadata>
-
-<content>
-<para id="fs-idm25613744">In making decisions about the money supply, a central bank decides whether to raise or lower <term class="no-emphasis" id="term-00001">interest rates</term> and, in this way, to influence macroeconomic policy, whose goal is low <term class="no-emphasis" id="term-00002">unemployment</term> and low <term class="no-emphasis" id="term-00003">inflation</term>. The central bank is also responsible for regulating all or part of the nation’s banking system to protect bank depositors and insure the health of the bank’s balance sheet.</para>
-<para id="fs-idm1575376">We call the organization responsible for conducting <term class="no-emphasis" id="term-00004">monetary policy</term> and ensuring that a nation’s financial system operates smoothly the <term id="term-00005">central bank</term>. Most nations have central banks or currency boards. Some prominent central banks around the world include the European Central Bank, the Bank of Japan, and the Bank of England. In the United States, we call the central bank the Federal Reserve—often abbreviated as just “the Fed.” This section explains the U.S. <term class="no-emphasis" id="term-00006">Federal Reserve</term>'s organization and identifies the major central bank's responsibilities.</para><section id="fs-idm168389712"><title>Structure/Organization of the Federal Reserve</title>
-<para id="fs-idm27697120">Unlike most central banks, the Federal Reserve is semi-decentralized, mixing government appointees with representation from private-sector banks. At the national level, it is run by a Board of Governors, consisting of seven members appointed by the President of the United States and confirmed by the Senate. Appointments are for 14-year terms and they are arranged so that one term expires January 31 of every even-numbered year. The purpose of the long and staggered terms is to insulate the Board of Governors as much as possible from political pressure so that governors can make policy decisions based only on their economic merits. Additionally, except when filling an unfinished term, each member only serves one term, further insulating decision-making from politics. The Fed's policy decisions do not require congressional approval, and the President cannot ask for a Federal Reserve Governor to resign as the President can with cabinet positions.</para><para id="fs-idm103833152">One member of the Board of Governors is designated as the Chair. For example, from 1987 until early 2006, the Chair was Alan Greenspan. From 2006 until 2014, Ben Bernanke held the post. From 2014 to 2018, Janet Yellen was the Chair. The current Chair is Jerome Powell. See the following Clear It Up feature to find out more about the former and current Chair.</para><note id="fs-idp29258288" class="economics clearup">
-      <title>Who has the most immediate economic power in the world?</title>
-<figure id="CNX_Econ_C28_012"><title>Chair of the Federal Reserve Board </title><media id="fs-idm34367088" alt="This image is a photograph of Janet Yellen.">
-      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C28_012.jpg"/>
-    </media>
-    
-  <caption>Janet L. Yellen was the first woman to hold the position of Chair of the Federal Reserve Board of Governors. (Credit: Board of Governors of the Federal Reserve System)</caption></figure><para id="fs-idm44203312">What individual can make financial market crash or soar just by making a public statement? It is not Bill Gates or Warren Buffett. It is not even the President of the United States. The answer is the Chair of the Federal Reserve Board of Governors. In early 2014, <term class="no-emphasis" id="term-00007">Janet L. Yellen</term>, (<link target-id="CNX_Econ_C28_012"/>) became the first woman to hold this post. The media had described Yellen as “perhaps the most qualified Fed chair in history.” With a Ph.D. in economics from Yale University, Yellen has taught macroeconomics at Harvard, the London School of Economics, and most recently at the University of California at Berkeley. From 2004–2010, Yellen was President of the Federal Reserve Bank of San Francisco. Not an ivory tower economist, Yellen became one of the few economists who warned about a possible bubble in the housing market, more than two years before the financial crisis occurred. Yellen served on the Board of Governors of the Federal Reserve. She also spent two years as Chair of the President’s Council of Economic Advisors. </para><para id="eip-569">In early 2018, Jerome Powell took over as Chair. With a Bachelor of Arts in politics from Princeton University and a law degree from Georgetown University, he worked as a lawyer and investment banker in New York City before serving as Assistant Secretary and Under Secretary of the U.S. Department of the Treasury for the George H.W. Bush administration. He has also served on corporate boards, as well as the boards of charitable and educational institutions. He currently serves as Chairman of the Federal Open Market Committee.</para></note>
-<para id="fs-idp153883872">The Fed Chair is first among equals on the Board of Governors. While he or she has only one vote, the Chair controls the agenda, and is the Fed's public voice, so he or she has more power and influence than one might expect.</para><note id="fs-idp184549936" class="economics linkup">
-        <para id="fs-idp199862048">Visit this <link url="http://openstax.org/l/Governors">website</link> to see who the current members of the Federal Reserve Board of Governors are. You can follow the links provided for each board member to learn more about their backgrounds, experiences, and when their terms on the board will end.</para>
-    </note>
-<para id="fs-idp138721072">The Federal Reserve is more than the Board of Governors. The Fed also includes 12 regional Federal Reserve banks, each of which is responsible for supporting the commercial banks and economy generally in its district. <link target-id="CNX_Econ_C28_001"/> shows the Federal Reserve districts and the cities where their regional headquarters are located. The commercial banks in each district elect a Board of Directors for each regional Federal Reserve bank, and that board chooses a president for each regional Federal Reserve district. Thus, the Federal Reserve System includes both federally and private-sector appointed leaders.</para><figure id="CNX_Econ_C28_001">
-<title>The Twelve Federal Reserve Districts </title>
-    <media id="fs-idp78241648" alt="This map of the United States shows the 12 Federal Reserve districts: Boston, New York, Philadelphia, Cleveland, Richmond (VA), Atlanta, Chicago, St. Louis, Minneapolis, Kansas City (MO), Dallas, and San Francisco.">
-      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C28_001.jpg"/>
-    </media>
-    <caption>There are twelve regional Federal Reserve banks, each with its district.</caption>
-  </figure>
-</section>
-<section id="fs-idm93808432"><title>What Does a Central Bank Do?</title>
-<para id="fs-idp89554272">The Federal Reserve, like most central banks, is designed to perform three important functions:
-    <list id="fs-idm34114976" list-type="enumerated" number-style="arabic"><item>To conduct monetary policy</item>
-      <item>To promote stability of the financial system</item>
-      <item>To provide banking services to commercial banks and other depository institutions, and to provide banking services to the federal government.</item>
-    </list></para>
-
-<para id="fs-idm16112992">The first two functions are sufficiently important that we will discuss them in their own modules. The third function we will discuss here.</para><para id="fs-idm4592000">The Federal Reserve provides many of the same services to banks as banks provide to their customers. For example, all commercial banks have an account at the Fed where they deposit reserves. Similarly, banks can obtain loans from the Fed through the “discount window” facility, which we will discuss in more detail later. The Fed is also responsible for check processing. When you write a check, for example, to buy groceries, the grocery store deposits the check in its bank account. Then, the grocery store's bank returns the physical check (or an image of that actual check) to your bank, after which it transfers funds from your bank account to the grocery store's account. The Fed is responsible for each of these actions.</para><para id="fs-idm18572304">On a more mundane level, the Federal Reserve ensures that enough currency and coins are circulating through the financial system to meet public demands. For example, each year the Fed increases the amount of currency available in banks around the Christmas shopping season and reduces it again in January.</para>
-<para id="fs-idp22306672">Finally, the Fed is responsible for assuring that banks are in compliance with a wide variety of consumer protection laws. For example, banks are forbidden from discriminating on the basis of age, race, sex, or marital status. Banks are also required to disclose publicly information about the loans they make for buying houses and how they distribute the loans geographically, as well as by sex and race of the loan applicants.</para></section>
-<section id="fs-idp78185216" class="summary">
-  <title>Key Concepts and Summary</title>
-<para id="fs-idm98150320">The most prominent task of a central bank is to conduct monetary policy, which involves changes to interest rates and credit conditions, affecting the amount of borrowing and spending in an economy. Some prominent central banks around the world include the U.S. Federal Reserve, the European Central Bank, the Bank of Japan, and the Bank of England.</para>
-</section>
-<section id="fs-idm44096688" class="self-check-questions">
-  <title>Self-Check Question</title>
-  <exercise id="fs-idm154169248">
-    <problem id="fs-idm46863712">
-      <para id="fs-idm111630624">Why is it important for the members of the Board of Governors of the Federal Reserve to have longer terms in office than elected officials, like the President?</para>
-    </problem>
-    <solution id="fs-idm197377264"><para id="fs-idm160303344">Longer terms insulate the Board from political forces. Since the presidency can potentially change every four years, the Federal Reserve’s independence prevents drastic swings in monetary policy with every new administration and allows policy decisions to be made only on economic grounds.</para></solution>
-  </exercise>
-</section>
-<section id="fs-idm11936336" class="review-questions">
-  <title>Review Questions</title>
-  <exercise id="fs-idp83198592">
-    <problem id="fs-idp49822672">
-      <para id="fs-idm37034208">How is a central bank different from a typical commercial bank?</para>
-    </problem>
-  </exercise>
-  <exercise id="fs-idm34243088">
-    <problem id="fs-idp112151792">
-      <para id="fs-idp122621616">List the three traditional tools that a central bank has for controlling the money supply.</para>
-    </problem>
-  </exercise>
-</section>
-<section id="fs-idm84725648" class="critical-thinking">
-  <title>Critical Thinking Questions</title>
-  <exercise id="fs-idm133899056">
-    <problem id="fs-idm83960944">
-      <para id="fs-idm138038976">Why do presidents typically reappoint Chairs of the Federal Reserve Board even when they were originally appointed by a president of a different political party?</para>
-    </problem>
-  </exercise>
-  <exercise id="fs-idm145971680">
-    <problem id="fs-idm92735824">
-      <para id="fs-idm132630080">In what ways might monetary policy be superior to fiscal policy? In what ways might it be inferior?</para>
-    </problem>
-  </exercise>
-
-</section>
-<section id="fs-idp23120224" class="references">
-<title>References</title>
-<para id="fs-idm6932192">Matthews, Dylan. “Nine amazing facts about Janet Yellen, our next Fed chair.” Wonkblog. <emphasis effect="italics">The Washington Post</emphasis>. Posted October 09, 2013. http://www.washingtonpost.com/blogs/wonkblog/wp/2013/10/09/nine-amazing-facts-about-janet-yellen-our-next-fed-chair/.</para>
-<para id="fs-idm45428960">Appelbaum, Binyamin. “Divining the Regulatory Goals of Fed Rivals.” <emphasis effect="italics">The New York Times</emphasis>. Posted August 14, 2013. http://www.nytimes.com/2013/08/14/business/economy/careers-of-2-fed-contenders-reveal-little-on-regulatory-approach.html?pagewanted=3.</para>
-</section>
-
-</content>
-<glossary>
-   <definition id="fs-idp152634592">
-      <term>central bank</term>
-      <meaning id="fs-idp31501904">institution which conducts a nation’s monetary policy and regulates its banking system</meaning>
-    </definition>
-</glossary>
-
-</document>
+  <title>The Federal Reserve Banking System and Central Banks</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:content-id>m63726</md:content-id>
+    <md:title>The Federal Reserve Banking System and Central Banks</md:title>
+    <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para><list id="list-00001">
+  <item>Explain the structure and organization of the U.S. Federal Reserve</item>
+  <item>Discuss how central banks impact monetary policy, promote financial stability, and provide banking services</item>
+  </list></md:abstract>
+    <md:uuid>3efeb882-57f8-4b20-a4b4-129ec6b5ae30</md:uuid>
+  </metadata>
+  
+  <content>
+  <para id="fs-idm25613744">In making decisions about the money supply, a central bank decides whether to raise or lower <term class="no-emphasis" id="term-00001">interest rates</term> and, in this way, to influence macroeconomic policy, whose goal is low <term class="no-emphasis" id="term-00002">unemployment</term> and low <term class="no-emphasis" id="term-00003">inflation</term>. The central bank is also responsible for regulating all or part of the nation’s banking system to protect bank depositors and insure the health of the bank’s balance sheet.</para>
+  <para id="fs-idm1575376">We call the organization responsible for conducting <term class="no-emphasis" id="term-00004">monetary policy</term> and ensuring that a nation’s financial system operates smoothly the <term id="term-00005">central bank</term>. Most nations have central banks or currency boards. Some prominent central banks around the world include the European Central Bank, the Bank of Japan, and the Bank of England. In the United States, we call the central bank the Federal Reserve—often abbreviated as just “the Fed.” This section explains the U.S. <term class="no-emphasis" id="term-00006">Federal Reserve</term>'s organization and identifies the major central bank's responsibilities.</para><section id="fs-idm168389712"><title>Structure/Organization of the Federal Reserve</title>
+  <para id="fs-idm27697120">Unlike most central banks, the Federal Reserve is semi-decentralized, mixing government appointees with representation from private-sector banks. At the national level, it is run by a Board of Governors, consisting of seven members appointed by the President of the United States and confirmed by the Senate. Appointments are for 14-year terms and they are arranged so that one term expires January 31 of every even-numbered year. The purpose of the long and staggered terms is to insulate the Board of Governors as much as possible from political pressure so that governors can make policy decisions based only on their economic merits. Additionally, except when filling an unfinished term, each member only serves one term, further insulating decision-making from politics. The Fed's policy decisions do not require congressional approval, and the President cannot ask for a Federal Reserve Governor to resign as the President can with cabinet positions.</para><para id="fs-idm103833152">One member of the Board of Governors is designated as the Chair. For example, from 1987 until early 2006, the Chair was Alan Greenspan. From 2006 until 2014, Ben Bernanke held the post. From 2014 to 2018, Janet Yellen was the Chair. The current Chair is Jerome Powell. See the following Clear It Up feature to find out more about the former and current Chair.</para><note id="fs-idp29258288" class="economics clearup">
+        <title>Who has the most immediate economic power in the world?</title>
+  <figure id="CNX_Econ_C28_012"><title>Chair of the Federal Reserve Board </title><media id="fs-idm34367088" alt="This image is a photograph of Jerome Powell.">
+        <image mime-type="image/jpeg" src="../../media/CNX_Econ_C28_012.jpg"/>
+      </media>
+      
+    <caption>Jerome H. Powell (Credit: Board of Governors of the Federal Reserve System)</caption></figure><para id="fs-idm44203312">What individual can make a financial market crash or soar just by making a public statement? It is not Bill Gates or Warren Buffett. It is not even the President of the United States. The answer is the Chair of the Federal Reserve Board of Governors. In 2018, President Donald Trump appointed Jerome H. Powell to a 4-year term as chair of the Federal Reserve, replacing Janet Yellen, who served as the first female chair of the Federal Reserve from 2014–2018 and who now serves as the Treasury Secretary in the Biden administration. In November 2021, Powell was nominated for a second term by President Biden; this appointment was confirmed in early-2022.</para><para id="eip-569">Powell played a pivotal role during the COVID-19 recession and its aftermath; in March 2020, under his leadership the Fed acted quickly to reduce the effective federal funds rate and expand its lending and bond-buying actions, similar to what Ben Bernanke did during the Great Recession. A centrist at heart, Powell has been criticized for fueling asset prices, even though in his many speeches and testimony before Congress he has consistently emphasized low unemployment rates and has been more tolerant of inflation than others on the Federal Reserve Board. Powell is not an academic economist by training or career—he has a J.D. from Georgetown Law and worked for many years at investment banks and on corporate boards—but this lack of "ivory tower" influences has helped guide a practical approach to economic problems, for which he is best known.</para></note>
+  <para id="fs-idp153883872">The Fed Chair is first among equals on the Board of Governors. While they have only one vote, the Chair controls the agenda, and is the Fed's public voice, so they have more power and influence than one might expect.</para><note id="fs-idp184549936" class="economics linkup">
+          <para id="fs-idp199862048">Visit this <link url="http://openstax.org/l/Governors">website</link> to see who the current members of the Federal Reserve Board of Governors are. You can follow the links provided for each board member to learn more about their backgrounds, experiences, and when their terms on the board will end.</para>
+      </note>
+  <para id="fs-idp138721072">The Federal Reserve is more than the Board of Governors. The Fed also includes 12 regional Federal Reserve banks, each of which is responsible for supporting the commercial banks and economy generally in its district. <link target-id="CNX_Econ_C28_001"/> shows the Federal Reserve districts and the cities where their regional headquarters are located. The commercial banks in each district elect a Board of Directors for each regional Federal Reserve bank, and that board chooses a president for each regional Federal Reserve district. Thus, the Federal Reserve System includes both federally and private-sector appointed leaders.</para><figure id="CNX_Econ_C28_001">
+  <title>The Twelve Federal Reserve Districts </title>
+      <media id="fs-idp78241648" alt="This map of the United States shows the 12 Federal Reserve districts: Boston, New York, Philadelphia, Cleveland, Richmond (VA), Atlanta, Chicago, St. Louis, Minneapolis, Kansas City (MO), Dallas, and San Francisco.">
+        <image mime-type="image/jpeg" src="../../media/CNX_Econ_C28_001.jpg"/>
+      </media>
+      <caption>There are twelve regional Federal Reserve banks, each with its district.</caption>
+    </figure>
+  </section>
+  <section id="fs-idm93808432"><title>What Does a Central Bank Do?</title>
+  <para id="fs-idp89554272">The Federal Reserve, like most central banks, is designed to perform three important functions:
+      <list id="fs-idm34114976" list-type="enumerated" number-style="arabic"><item>To conduct monetary policy</item>
+        <item>To promote stability of the financial system</item>
+        <item>To provide banking services to commercial banks and other depository institutions, and to provide banking services to the federal government.</item>
+      </list></para>
+  
+  <para id="fs-idm16112992">The first two functions are sufficiently important that we will discuss them in their own modules. The third function we will discuss here.</para><para id="fs-idm4592000">The Federal Reserve provides many of the same services to banks as banks provide to their customers. For example, all commercial banks have an account at the Fed where they deposit reserves. Similarly, banks can obtain loans from the Fed through the “discount window” facility, which we will discuss in more detail later. The Fed is also responsible for check processing. When you write a check, for example, to buy groceries, the grocery store deposits the check in its bank account. Then, the grocery store's bank returns the physical check (or an image of that actual check) to your bank, after which it transfers funds from your bank account to the grocery store's account. The Fed is responsible for each of these actions.</para><para id="fs-idm18572304">On a more mundane level, the Federal Reserve ensures that enough currency and coins are circulating through the financial system to meet public demands. For example, each year the Fed increases the amount of currency available in banks around the Christmas shopping season and reduces it again in January.</para>
+  <para id="fs-idp22306672">Finally, the Fed is responsible for assuring that banks are in compliance with a wide variety of consumer protection laws. For example, banks are forbidden from discriminating on the basis of age, race, sex, or marital status. Banks are also required to disclose publicly information about the loans they make for buying houses and how they distribute the loans geographically, as well as by sex and race of the loan applicants.</para></section>
+  <section id="fs-idp78185216" class="summary">
+    <title>Key Concepts and Summary</title>
+  <para id="fs-idm98150320">The most prominent task of a central bank is to conduct monetary policy, which involves changes to interest rates and credit conditions, affecting the amount of borrowing and spending in an economy. Some prominent central banks around the world include the U.S. Federal Reserve, the European Central Bank, the Bank of Japan, and the Bank of England.</para>
+  </section>
+  <section id="fs-idm44096688" class="self-check-questions">
+    <title>Self-Check Question</title>
+    <exercise id="fs-idm154169248">
+      <problem id="fs-idm46863712">
+        <para id="fs-idm111630624">Why is it important for the members of the Board of Governors of the Federal Reserve to have longer terms in office than elected officials, like the President?</para>
+      </problem>
+      <solution id="fs-idm197377264"><para id="fs-idm160303344">Longer terms insulate the Board from political forces. Since the presidency can potentially change every four years, the Federal Reserve’s independence prevents drastic swings in monetary policy with every new administration and allows policy decisions to be made only on economic grounds.</para></solution>
+    </exercise>
+  </section>
+  <section id="fs-idm11936336" class="review-questions">
+    <title>Review Questions</title>
+    <exercise id="fs-idp83198592">
+      <problem id="fs-idp49822672">
+        <para id="fs-idm37034208">How is a central bank different from a typical commercial bank?</para>
+      </problem>
+    </exercise>
+    <exercise id="fs-idm34243088">
+      <problem id="fs-idp112151792">
+        <para id="fs-idp122621616">List the three traditional tools that a central bank has for controlling the money supply.</para>
+      </problem>
+    </exercise>
+  </section>
+  <section id="fs-idm84725648" class="critical-thinking">
+    <title>Critical Thinking Questions</title>
+    <exercise id="fs-idm133899056">
+      <problem id="fs-idm83960944">
+        <para id="fs-idm138038976">Why do presidents typically reappoint Chairs of the Federal Reserve Board even when they were originally appointed by a president of a different political party?</para>
+      </problem>
+    </exercise>
+    <exercise id="fs-idm145971680">
+      <problem id="fs-idm92735824">
+        <para id="fs-idm132630080">In what ways might monetary policy be superior to fiscal policy? In what ways might it be inferior?</para>
+      </problem>
+    </exercise>
+  
+  </section>
+  <section id="fs-idp23120224" class="references">
+  <title>References</title>
+  <para id="fs-idm6932192">Matthews, Dylan. “Nine amazing facts about Janet Yellen, our next Fed chair.” Wonkblog. <emphasis effect="italics">The Washington Post</emphasis>. Posted October 09, 2013. http://www.washingtonpost.com/blogs/wonkblog/wp/2013/10/09/nine-amazing-facts-about-janet-yellen-our-next-fed-chair/.</para>
+  <para id="fs-idm45428960">Appelbaum, Binyamin. “Divining the Regulatory Goals of Fed Rivals.” <emphasis effect="italics">The New York Times</emphasis>. Posted August 14, 2013. http://www.nytimes.com/2013/08/14/business/economy/careers-of-2-fed-contenders-reveal-little-on-regulatory-approach.html?pagewanted=3.</para>
+  </section>
+  
+  </content>
+  <glossary>
+     <definition id="fs-idp152634592">
+        <term>central bank</term>
+        <meaning id="fs-idp31501904">institution which conducts a nation’s monetary policy and regulates its banking system</meaning>
+      </definition>
+  </glossary>
+  
+  </document>

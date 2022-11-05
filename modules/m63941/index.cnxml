@@ -1,153 +1,155 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
 
-<title>Monetary Policy and Economic Outcomes</title>
-<metadata xmlns:md="http://cnx.rice.edu/mdml">
-  <md:content-id>m63941</md:content-id>
-  <md:title>Monetary Policy and Economic Outcomes</md:title>
-  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para><list id="list-00001">
-<item>Contrast expansionary monetary policy and contractionary monetary policy</item>
-<item>Explain how monetary policy impacts interest rates and aggregate demand</item>
-<item>Evaluate Federal Reserve decisions over the last forty years</item>
-<item>Explain the significance of quantitative easing (QE)</item>
-</list></md:abstract>
-  <md:uuid>5c3aa1ce-fac8-40ab-9f3d-021caf086da7</md:uuid>
-</metadata>
-
-<content>
-<para id="fs-idp58079680">A monetary policy that lowers interest rates and stimulates borrowing is an <term id="term-00001">expansionary monetary policy</term> or <term id="term-00002">loose monetary policy</term>. Conversely, a monetary policy that raises interest rates and reduces borrowing in the economy is a <term id="term-00003">contractionary monetary policy</term> or <term id="term-00004">tight monetary policy</term>. This module will discuss how expansionary and contractionary monetary policies affect interest rates and aggregate demand, and how such policies will affect macroeconomic goals like unemployment and inflation. We will conclude with a look at the Fed’s monetary policy practice in recent decades.</para><section id="fs-idm78734896"><title>The Effect of Monetary Policy on Interest Rates</title>
-<para id="fs-idm54023136">Consider the market for loanable bank funds in <link target-id="CNX_Econ_C28_002"/>. The original equilibrium (E<sub>0</sub>) occurs at an 8% interest rate and a quantity of funds loaned and borrowed of $10 billion. An expansionary monetary policy will shift the supply of loanable funds to the right from the original supply curve (S<sub>0</sub>) to S<sub>1</sub>, leading to an equilibrium (E<sub>1</sub>) with a lower 6% interest rate and a quantity $14 billion in loaned funds. Conversely, a contractionary monetary policy will shift the supply of loanable funds to the left from the original supply curve (S<sub>0</sub>) to S<sub>2</sub>, leading to an equilibrium (E<sub>2</sub>) with a higher 10% interest rate and a quantity of $8 billion in loaned funds.</para><figure id="CNX_Econ_C28_002"><title>Monetary Policy and Interest Rates </title><media id="fs-idp468784" alt="This graph shows how monetary policy shifts the supply of loanable funds.">
-      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C28_002.jpg"/>
-    </media>
-    
-  <caption>The original equilibrium occurs at E<sub>0</sub>. An expansionary monetary policy will shift the supply of loanable funds to the right from the original supply curve (S<sub>0</sub>) to the new supply curve (S<sub>1</sub>) and to a new equilibrium of E<sub>1</sub>, reducing the interest rate from 8% to 6%. A contractionary monetary policy will shift the supply of loanable funds to the left from the original supply curve (S<sub>0</sub>) to the new supply (S<sub>2</sub>), and raise the interest rate from 8% to 10%.</caption></figure><para id="fs-idm96661744">How does a central bank “raise” interest rates? When describing the central bank's monetary policy actions, it is common to hear that the central bank “raised interest rates” or “lowered interest rates.” We need to be clear about this: more precisely, through open market operations the central bank changes bank reserves in a way which affects the supply curve of loanable funds. As a result, <link target-id="CNX_Econ_C28_002"/> shows that interest rates change. If they do not meet the Fed’s target, the Fed can supply more or less reserves until interest rates do.</para><para id="fs-idm115376560">Recall that the specific interest rate the Fed targets is the <term id="term-00005">federal funds rate</term>. The Federal Reserve has, since 1995, established its target federal funds rate in advance of any open market operations.</para>
-<para id="fs-idm2170128">Of course, financial markets display a wide range of <term class="no-emphasis" id="term-00006">interest rates</term>, representing borrowers with different risk premiums and loans that they must repay over different periods of time. In general, when the federal funds rate drops substantially, other interest rates drop, too, and when the federal funds rate rises, other interest rates rise. However, a fall or rise of one percentage point in the federal funds rate—which remember is for borrowing overnight—will typically have an effect of less than one percentage point on a 30-year loan to purchase a house or a three-year loan to purchase a car. Monetary policy can push the entire spectrum of interest rates higher or lower, but the forces of supply and demand in those specific markets for lending and borrowing set the specific interest rates.</para></section>
-<section id="fs-idp98596512"><title>The Effect of Monetary Policy on Aggregate Demand</title>
-<para id="fs-idp9333792">Monetary policy affects interest rates and the available quantity of loanable funds, which in turn affects several components of aggregate demand. Tight or contractionary monetary policy that leads to higher interest rates and a reduced quantity of loanable funds will reduce two components of aggregate demand. Business investment will decline because it is less attractive for firms to borrow money, and even firms that have money will notice that, with higher interest rates, it is relatively more attractive to put those funds in a financial investment than to make an investment in physical capital. In addition, higher interest rates will discourage consumer borrowing for big-ticket items like houses and cars. Conversely, loose or expansionary monetary policy that leads to lower interest rates and a higher quantity of loanable funds will tend to increase business investment and consumer borrowing for big-ticket items.</para>
-<para id="fs-idp162497616">If the economy is suffering a recession and high unemployment, with output below <term class="no-emphasis" id="term-00007">potential GDP</term>, expansionary monetary policy can help the economy return to potential GDP. <link target-id="CNX_Econv1-2_C28_08"/> (a) illustrates this situation. This example uses a short-run upward-sloping <term class="no-emphasis" id="term-00008">Keynesian aggregate supply curve</term> (SRAS). The original equilibrium during a recession of E<sub>0</sub> occurs at an output level of 600. An expansionary monetary policy will reduce interest rates and stimulate investment and consumption spending, causing the original aggregate demand curve (AD<sub>0</sub>) to shift right to AD<sub>1</sub>, so that the new equilibrium (E<sub>1</sub>) occurs at the potential GDP level of 700.</para><figure id="CNX_Econv1-2_C28_08"><title>Expansionary or Contractionary Monetary Policy </title><media id="fs-idp97363200" alt="The graph showing how changes in the money supply can restore output levels to potential GDP in times of economic instability.">
-      <image mime-type="image/jpeg" src="../../media/CNX_Econv1-2_C28_08.jpg"/>
-    </media>
-    
-  <caption>(a) The economy is originally in a recession with the equilibrium output and price shown at E<sub>0</sub>. Expansionary monetary policy will reduce interest rates and shift aggregate demand to the right from AD<sub>0</sub> to AD<sub>1</sub>, leading to the new equilibrium (E<sub>1</sub>) at the potential GDP level of output with a relatively small rise in the price level. (b) The economy is originally producing above the potential GDP level of output at the equilibrium E<sub>0</sub> and is experiencing pressures for an inflationary rise in the price level. Contractionary monetary policy will shift aggregate demand to the left from AD<sub>0</sub> to AD<sub>1</sub>, thus leading to a new equilibrium (E<sub>1</sub>) at the potential GDP level of output.</caption></figure><para id="fs-idp95125824">Conversely, if an economy is producing at a quantity of output above its potential GDP, a contractionary monetary policy can reduce the inflationary pressures for a rising price level. In <link target-id="CNX_Econv1-2_C28_08"/> (b), the original equilibrium (E<sub>0</sub>) occurs at an output of 750, which is above potential GDP. A contractionary monetary policy will raise interest rates, discourage borrowing for investment and consumption spending, and cause the original demand curve (AD<sub>0</sub>) to shift left to AD<sub>1</sub>, so that the new equilibrium (E<sub>1</sub>) occurs at the potential GDP level of 700.</para><para id="fs-idp45680144">These examples suggest that monetary policy should be <term id="term-00009">countercyclical</term>; that is, it should act to counterbalance the business cycles of economic downturns and upswings. The Fed should loosen monetary policy when a recession has caused unemployment to increase and tighten it when inflation threatens. Of course, countercyclical policy does pose a danger of overreaction. If loose monetary policy seeking to end a recession goes too far, it may push aggregate demand so far to the right that it triggers inflation. If tight monetary policy seeking to reduce inflation goes too far, it may push aggregate demand so far to the left that a recession begins. <link target-id="CNX_Econ_C28_011"/> (a) summarizes the chain of effects that connect loose and tight monetary policy to changes in output and the price level.</para><figure id="CNX_Econ_C28_011"><title>The Pathways of Monetary Policy </title><media id="fs-idm7152896" alt="This image is a chart showing the mechanisms through which monetary policy affects output.">
-      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C28_011.jpg"/>
-    </media>
-    
-  <caption>(a) In expansionary monetary policy the central bank causes the supply of money and loanable funds to increase, which lowers the interest rate, stimulating additional borrowing for investment and consumption, and shifting aggregate demand right. The result is a higher price level and, at least in the short run, higher real GDP. (b) In contractionary monetary policy, the central bank causes the supply of money and credit in the economy to decrease, which raises the interest rate, discouraging borrowing for investment and consumption, and shifting aggregate demand left. The result is a lower price level and, at least in the short run, lower real GDP.</caption></figure></section>
-<section id="fs-idp1628816"><title>Federal Reserve Actions Over Last Four Decades</title>
-<para id="fs-idm72864">For the period from the mid-1970s up through the end of 2007, we can summarize Federal Reserve monetary policy by looking at how it targeted the federal funds interest rate using open market operations.</para><para id="fs-idm5200">Of course, telling the story of the U.S. economy since 1975 in terms of Federal Reserve actions leaves out many other macroeconomic factors that were influencing unemployment, recession, economic growth, and inflation over this time. The nine episodes of Federal Reserve action outlined in the sections below also demonstrate that we should consider the central bank as one of the leading actors influencing the macro economy. As we noted earlier, the single person with the greatest power to influence the U.S. economy is probably the Federal Reserve chairperson.</para><para id="fs-idp9023376"><link target-id="CNX_Econv1-2_C28_10"/> shows how the Federal Reserve has carried out monetary policy by targeting the federal funds interest rate in the last few decades. The graph shows the federal funds interest rate (remember, this interest rate is set through open market operations), the <term class="no-emphasis" id="term-00010">unemployment rate</term>, and the <term class="no-emphasis" id="term-00011">inflation rate</term> since 1975. Different episodes of monetary policy during this period are indicated in the figure.</para>
-<figure id="CNX_Econv1-2_C28_10"><title>Monetary Policy, Unemployment, and Inflation </title><media id="fs-idp661936" alt="This graph shows the historical rate of inflation, unemployment and the federal funds interest rate during periods of recession.">
-      <image mime-type="image/jpeg" src="../../media/CNX_Econv1-2_C28_10.jpg"/>
-    </media>
-    
-  <caption>Through the episodes here, the Federal Reserve typically reacted to higher inflation with a contractionary monetary policy and a higher interest rate, and reacted to higher unemployment with an expansionary monetary policy and a lower interest rate.</caption></figure><para id="fs-idm547328"><emphasis effect="bold">Episode 1</emphasis></para>
-<para id="fs-idm546576">Consider Episode 1 in the late 1970s. The rate of inflation was very high, exceeding 10% in 1979 and 1980, so the Federal Reserve used tight monetary policy to raise interest rates, with the federal funds rate rising from 5.5% in 1977 to 16.4% in 1981. By 1983, inflation was down to 3.2%, but aggregate demand contracted sharply enough that back-to-back recessions occurred in 1980 and in 1981–1982, and the unemployment rate rose from 5.8% in 1979 to 9.7% in 1982.</para>
-<para id="fs-idm24176"><emphasis effect="bold">Episode 2</emphasis></para>
-<para id="fs-idp135520">In Episode 2, when economists persuaded the Federal Reserve in the early 1980s that inflation was declining, the Fed began slashing interest rates to reduce unemployment. The federal funds interest rate fell from 16.4% in 1981 to 6.8% in 1986. By 1986 or so, inflation had fallen to about 2% and the unemployment rate had come down to 7%, and was still falling.</para><para id="fs-idp9116752"><emphasis effect="bold">Episode 3</emphasis></para>
-<para id="fs-idp9117504">However, in Episode 3 in the late 1980s, inflation appeared to be creeping up again, rising from 2% in 1986 up toward 5% by 1989. In response, the Federal Reserve used contractionary monetary policy to raise the federal funds rates from 6.6% in 1987 to 9.2% in 1989. The tighter monetary policy stopped inflation, which fell from above 5% in 1990 to under 3% in 1992, but it also helped to cause the 1990-1991 recession, and the unemployment rate rose from 5.3% in 1989 to 7.5% by 1992.</para><para id="fs-idp9117888"><emphasis effect="bold">Episode 4</emphasis></para>
-<para id="fs-idp725360">In Episode 4, in the early 1990s, when the Federal Reserve was confident that inflation was back under control, it reduced interest rates, with the federal funds interest rate falling from 8.1% in 1990 to 3.5% in 1992. As the economy expanded, the unemployment rate declined from 7.5% in 1992 to less than 5% by 1997.</para>
-<para id="fs-idp9140752"><emphasis effect="bold">Episodes 5 and 6</emphasis></para>
-<para id="fs-idp9141504">In Episodes 5 and 6, the Federal Reserve perceived a risk of inflation and raised the federal funds rate from 3% to 5.8% from 1993 to 1995. Inflation did not rise, and the period of economic growth during the 1990s continued. Then in 1999 and 2000, the Fed was concerned that inflation seemed to be creeping up so it raised the federal funds interest rate from 4.6% in December 1998 to 6.5% in June 2000. By early 2001, inflation was declining again, but a recession occurred in 2001. Between 2000 and 2002, the unemployment rate rose from 4.0% to 5.8%.</para>
-<para id="fs-idp738720"><emphasis effect="bold">Episodes 7 and 8</emphasis></para>
-<para id="fs-idm27328">In Episodes 7 and 8, the Federal Reserve conducted a loose monetary policy and slashed the federal funds rate from 6.2% in 2000 to just 1.7% in 2002, and then again to 1% in 2003. They actually did this because of fear of Japan-style deflation. This persuaded them to lower the Fed funds further than they otherwise would have. The recession ended, but, unemployment rates were slow to decline in the early 2000s. Finally, in 2004, the unemployment rate declined and the Federal Reserve began to raise the federal funds rate until it reached 5% by 2007.</para><para id="fs-idm26368"><emphasis effect="bold">Episode 9</emphasis></para>
-<para id="fs-idm158640">In Episode 9, as the Great Recession took hold in 2008, the Federal Reserve was quick to slash interest rates, taking them down to 2% in 2008 and to nearly 0% in 2009. When the Fed had taken interest rates down to near-zero by December 2008, the economy was still deep in recession. Open market operations could not make the interest rate turn negative. The Federal Reserve had to think “outside the box.”</para>
-</section>
-
-<section id="fs-idp9045664"><title>Quantitative Easing</title>
-<para id="fs-idp9046176">The most powerful and commonly used of the three traditional tools of monetary policy—open market operations—works by expanding or contracting the money supply in a way that influences the interest rate. In late 2008, as the U.S. economy struggled with recession, the Federal Reserve had already reduced the interest rate to near-zero. With the recession still ongoing, the Fed decided to adopt an innovative and nontraditional policy known as <term id="term-00012">quantitative easing (QE)</term>. This is the purchase of long-term government and private mortgage-backed securities by central banks to make credit available so as to stimulate <term class="no-emphasis" id="term-00013">aggregate demand</term>.</para>
-<para id="fs-idp652736">Quantitative easing differed from traditional monetary policy in several key ways. First, it involved the Fed purchasing long term <term class="no-emphasis" id="term-00014">Treasury bonds</term>, rather than short term <term class="no-emphasis" id="term-00015">Treasury bills</term>. In 2008, however, it was impossible to stimulate the economy any further by lowering short term rates because they were already as low as they could get. (Read the closing Bring it Home feature for more on this.) Therefore, Chairman Bernanke sought to lower long-term rates utilizing quantitative easing.
-</para><para id="fs-idp667280">This leads to a second way QE is different from traditional monetary policy. Instead of purchasing Treasury securities, the Fed also began purchasing private mortgage-backed securities, something it had never done before. During the financial crisis, which precipitated the recession, mortgage-backed securities were termed “toxic assets,” because when the housing market collapsed, no one knew what these securities were worth, which put the financial institutions which were holding those securities on very shaky ground. By offering to purchase mortgage-backed securities, the Fed was both pushing long term interest rates down and also removing possibly “toxic assets” from the balance sheets of private financial firms, which would strengthen the financial system.</para>
-<para id="fs-idp647360">Quantitative easing (QE) occurred in three episodes:
-      <list id="fs-idp60976" list-type="enumerated" number-style="arabic"><item>During QE<sub>1</sub>, which began in November 2008, the Fed purchased $600 billion in mortgage-backed securities from government enterprises Fannie Mae and Freddie Mac.</item>
-        <item>In November 2010, the Fed began QE<sub>2</sub>, in which it purchased $600 billion in U.S. Treasury bonds.</item>
-        <item>QE<sub>3</sub>, began in September 2012 when the Fed commenced purchasing $40 billion of additional mortgage-backed securities per month. This amount was increased in December 2012 to $85 billion per month. The Fed stated that, when economic conditions permit, it will begin tapering (or reducing the monthly purchases). By October 2014, the Fed had announced the final $15 billion bond purchase, ending Quantitative Easing. </item>
-      </list></para>
-<para id="fs-idp126048">We usually think of the quantitative easing policies that the Federal Reserve adopted (as did other central banks around the world) as temporary emergency measures. If these steps are to be temporary, then the Federal Reserve will need to stop making these additional loans and sell off the financial securities it has accumulated. The concern is that the process of quantitative easing may prove more difficult to reverse than it was to enact. The evidence suggests that QE<sub>1</sub> was somewhat successful, but that QE<sub>2</sub> and QE<sub>3</sub> have been less so.</para></section>
-
-<section id="fs-idp8984592" class="summary">
-  <title>Key Concepts and Summary</title>
- <para id="fs-idp8985472">An expansionary (or loose) monetary policy raises the quantity of money and credit above what it otherwise would have been and reduces interest rates, boosting aggregate demand, and thus countering recession. A contractionary monetary policy, also called a tight monetary policy, reduces the quantity of money and credit below what it otherwise would have been and raises interest rates, seeking to hold down inflation. During the 2008–2009 recession, central banks around the world also used quantitative easing to expand the supply of credit.</para>
-</section>
-<section id="fs-idp157072" class="self-check-questions">
-  <title>Self-Check Questions</title>
-  <exercise id="fs-idp183264">
-    <problem id="fs-idp183520">
-      <para id="fs-idm50736">Why does contractionary monetary policy cause interest rates to rise?</para>
-    </problem>
-    <solution id="fs-idm50224"><para id="fs-idm50096">Contractionary policy reduces the amount of loanable funds in the economy. As with all goods, greater scarcity leads a greater price, so the interest rate, or the price of borrowing money, rises.</para></solution>
-  </exercise>
-  <exercise id="fs-idm160128">
-    <problem id="fs-idm159872">
-      <para id="fs-idm159616">Why does expansionary monetary policy causes interest rates to drop?</para>
-    </problem>
-    <solution id="fs-idm546944"><para id="fs-idm546816">An increase in the amount of available loanable funds means that there are more people who want to lend. They, therefore, bid the price of borrowing (the interest rate) down.</para></solution>
-  </exercise>
-</section>
-<section id="fs-idp9111296" class="review-questions">
-  <title>Review Questions</title>
-  <exercise id="fs-idp302848">
-    <problem id="fs-idp303104">
-      <para id="fs-idp303360">How do the expansionary and contractionary monetary policy affect the quantity of money?</para>
-    </problem>
-  </exercise>
-  <exercise id="fs-idp301360">
-    <problem id="fs-idp301616">
-      <para id="fs-idp301872">How do tight and loose monetary policy affect interest rates?</para>
-    </problem>
-  </exercise>
-  <exercise id="fs-idp302512">
-    <problem id="fs-idp9122384">
-      <para id="fs-idp9122640">How do expansionary, tight, contractionary, and loose monetary policy affect aggregate demand?</para>
-    </problem>
-  </exercise>
-  <exercise id="fs-idp9123392">
-    <problem id="fs-idm211872">
-      <para id="fs-idm211616">Which kind of monetary policy would you expect in response to high inflation: expansionary or contractionary? Why?</para>
-    </problem>
-  </exercise>
-  <exercise id="fs-idm210848">
-    <problem id="fs-idp721184">
-      <para id="fs-idp721440">Explain how to use quantitative easing to stimulate aggregate demand.</para>
-    </problem>
-  </exercise>
-</section>
-<section id="fs-idp722208" class="critical-thinking">
-  <title>Critical Thinking Question</title>
-  <exercise id="fs-idp305040">
-    <problem id="fs-idp305296">
-      <para id="fs-idp25296">A well-known economic model called the Phillips Curve (discussed in <link document="m63849">The Keynesian Perspective</link> chapter) describes the short run tradeoff typically observed between inflation and unemployment. Based on the discussion of expansionary and contractionary monetary policy, explain why one of these variables usually falls when the other rises.</para></problem>
-  </exercise>
-</section>
-
-</content>
-
-<glossary>
-   <definition id="fs-idm35984">
-      <term>contractionary monetary policy</term>
-      <meaning id="fs-idm35344">a monetary policy that reduces the supply of money and loans</meaning>
-    </definition>
-   <definition id="fs-idm34832">
-      <term>countercyclical</term>
-      <meaning id="fs-idm34192">moving in the opposite direction of the business cycle of economic downturns and upswings</meaning>
-    </definition>
-   <definition id="fs-idm33568">
-      <term>expansionary monetary policy</term>
-      <meaning id="fs-idm32928">a monetary policy that increases the supply of money and the quantity of loans</meaning>
-    </definition>
-   <definition id="fs-idm32416">
-      <term>federal funds rate</term>
-      <meaning id="fs-idm31776">the interest rate at which one bank lends funds to another bank overnight</meaning>
-    </definition>
-   <definition id="fs-idm407456">
-      <term>loose monetary policy</term>
-      <meaning id="fs-idm406816">see expansionary monetary policy</meaning>
-    </definition>
-   <definition id="fs-idm406304">
-      <term>quantitative easing (QE)</term>
-      <meaning id="fs-idm405664">the purchase of long term government and private mortgage-backed securities by central banks to make credit available in hopes of stimulating aggregate demand</meaning>
-    </definition>
-   <definition id="fs-idm404976">
-      <term>tight monetary policy</term>
-      <meaning id="fs-idm404336">see contractionary monetary policy</meaning>
-    </definition>
-</glossary>
-
-</document>
+  <title>Monetary Policy and Economic Outcomes</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:content-id>m63941</md:content-id>
+    <md:title>Monetary Policy and Economic Outcomes</md:title>
+    <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para><list id="list-00001">
+  <item>Contrast expansionary monetary policy and contractionary monetary policy</item>
+  <item>Explain how monetary policy impacts interest rates and aggregate demand</item>
+  <item>Evaluate Federal Reserve decisions over the last forty years</item>
+  <item>Explain the significance of quantitative easing (QE)</item>
+  </list></md:abstract>
+    <md:uuid>5c3aa1ce-fac8-40ab-9f3d-021caf086da7</md:uuid>
+  </metadata>
+  
+  <content>
+  <para id="fs-idp58079680">A monetary policy that lowers interest rates and stimulates borrowing is an <term id="term-00001">expansionary monetary policy</term> or <term id="term-00002">loose monetary policy</term>. Conversely, a monetary policy that raises interest rates and reduces borrowing in the economy is a <term id="term-00003">contractionary monetary policy</term> or <term id="term-00004">tight monetary policy</term>. This module will discuss how expansionary and contractionary monetary policies affect interest rates and aggregate demand, and how such policies will affect macroeconomic goals like unemployment and inflation. We will conclude with a look at the Fed’s monetary policy practice in recent decades.</para><section id="fs-idm78734896"><title>The Effect of Monetary Policy on Interest Rates</title>
+  <para id="fs-idm54023136">Consider the market for loanable bank funds in <link target-id="CNX_Econ_C28_002"/>. The original equilibrium (E<sub>0</sub>) occurs at an 8% interest rate and a quantity of funds loaned and borrowed of $10 billion. An expansionary monetary policy will shift the supply of loanable funds to the right from the original supply curve (S<sub>0</sub>) to S<sub>1</sub>, leading to an equilibrium (E<sub>1</sub>) with a lower 6% interest rate and a quantity $14 billion in loaned funds. Conversely, a contractionary monetary policy will shift the supply of loanable funds to the left from the original supply curve (S<sub>0</sub>) to S<sub>2</sub>, leading to an equilibrium (E<sub>2</sub>) with a higher 10% interest rate and a quantity of $8 billion in loaned funds.</para><figure id="CNX_Econ_C28_002"><title>Monetary Policy and Interest Rates </title><media id="fs-idp468784" alt="This graph shows how monetary policy shifts the supply of loanable funds.">
+        <image mime-type="image/jpeg" src="../../media/CNX_Econ3e_C28_002.jpg"/>
+      </media>
+      
+    <caption>The original equilibrium occurs at E<sub>0</sub>. An expansionary monetary policy will shift the supply of loanable funds to the right from the original supply curve (S<sub>0</sub>) to the new supply curve (S<sub>1</sub>) and to a new equilibrium of E<sub>1</sub>, reducing the interest rate from 8% to 6%. A contractionary monetary policy will shift the supply of loanable funds to the left from the original supply curve (S<sub>0</sub>) to the new supply (S<sub>2</sub>), and raise the interest rate from 8% to 10%.</caption></figure><para id="fs-idm96661744">How does a central bank “raise” interest rates? When describing the central bank's monetary policy actions, it is common to hear that the central bank “raised interest rates” or “lowered interest rates.” We need to be clear about this: more precisely, through open market operations the central bank changes bank reserves in a way which affects the supply curve of loanable funds. As a result, <link target-id="CNX_Econ_C28_002"/> shows that interest rates change. If they do not meet the Fed’s target, the Fed can supply more or less reserves until interest rates do.</para><para id="fs-idm115376560">Recall that the specific interest rate the Fed targets is the <term id="term-00005">federal funds rate</term>. The Federal Reserve has, since 1995, established its target federal funds rate in advance of any open market operations.</para>
+  <para id="fs-idm2170128">Of course, financial markets display a wide range of <term class="no-emphasis" id="term-00006">interest rates</term>, representing borrowers with different risk premiums and loans that they must repay over different periods of time. In general, when the federal funds rate drops substantially, other interest rates drop, too, and when the federal funds rate rises, other interest rates rise. However, a fall or rise of one percentage point in the federal funds rate—which remember is for borrowing overnight—will typically have an effect of less than one percentage point on a 30-year loan to purchase a house or a three-year loan to purchase a car. Monetary policy can push the entire spectrum of interest rates higher or lower, but the forces of supply and demand in those specific markets for lending and borrowing set the specific interest rates.</para></section>
+  <section id="fs-idp98596512"><title>The Effect of Monetary Policy on Aggregate Demand</title>
+  <para id="fs-idp9333792">Monetary policy affects interest rates and the available quantity of loanable funds, which in turn affects several components of aggregate demand. Tight or contractionary monetary policy that leads to higher interest rates and a reduced quantity of loanable funds will reduce two components of aggregate demand. Business investment will decline because it is less attractive for firms to borrow money, and even firms that have money will notice that, with higher interest rates, it is relatively more attractive to put those funds in a financial investment than to make an investment in physical capital. In addition, higher interest rates will discourage consumer borrowing for big-ticket items like houses and cars. Conversely, loose or expansionary monetary policy that leads to lower interest rates and a higher quantity of loanable funds will tend to increase business investment and consumer borrowing for big-ticket items.</para>
+  <para id="fs-idp162497616">If the economy is suffering a recession and high unemployment, with output below <term class="no-emphasis" id="term-00007">potential GDP</term>, expansionary monetary policy can help the economy return to potential GDP. <link target-id="CNX_Econv1-2_C28_08"/> (a) illustrates this situation. This example uses a short-run upward-sloping <term class="no-emphasis" id="term-00008">Keynesian aggregate supply curve</term> (SRAS). The original equilibrium during a recession of E<sub>0</sub> occurs at an output level of 600. An expansionary monetary policy will reduce interest rates and stimulate investment and consumption spending, causing the original aggregate demand curve (AD<sub>0</sub>) to shift right to AD<sub>1</sub>, so that the new equilibrium (E<sub>1</sub>) occurs at the potential GDP level of 700.</para><figure id="CNX_Econv1-2_C28_08"><title>Expansionary or Contractionary Monetary Policy </title><media id="fs-idp97363200" alt="The graph showing how changes in the money supply can restore output levels to potential GDP in times of economic instability.">
+        <image mime-type="image/jpeg" src="../../media/CNX_Econv1-2_C28_08.jpg"/>
+      </media>
+      
+    <caption>(a) The economy is originally in a recession with the equilibrium output and price shown at E<sub>0</sub>. Expansionary monetary policy will reduce interest rates and shift aggregate demand to the right from AD<sub>0</sub> to AD<sub>1</sub>, leading to the new equilibrium (E<sub>1</sub>) at the potential GDP level of output with a relatively small rise in the price level. (b) The economy is originally producing above the potential GDP level of output at the equilibrium E<sub>0</sub> and is experiencing pressures for an inflationary rise in the price level. Contractionary monetary policy will shift aggregate demand to the left from AD<sub>0</sub> to AD<sub>1</sub>, thus leading to a new equilibrium (E<sub>1</sub>) at the potential GDP level of output.</caption></figure><para id="fs-idp95125824">Conversely, if an economy is producing at a quantity of output above its potential GDP, a contractionary monetary policy can reduce the inflationary pressures for a rising price level. In <link target-id="CNX_Econv1-2_C28_08"/> (b), the original equilibrium (E<sub>0</sub>) occurs at an output of 750, which is above potential GDP. A contractionary monetary policy will raise interest rates, discourage borrowing for investment and consumption spending, and cause the original demand curve (AD<sub>0</sub>) to shift left to AD<sub>1</sub>, so that the new equilibrium (E<sub>1</sub>) occurs at the potential GDP level of 700.</para><para id="fs-idp45680144">These examples suggest that monetary policy should be <term id="term-00009">countercyclical</term>; that is, it should act to counterbalance the business cycles of economic downturns and upswings. The Fed should loosen monetary policy when a recession has caused unemployment to increase and tighten it when inflation threatens. Of course, countercyclical policy does pose a danger of overreaction. If loose monetary policy seeking to end a recession goes too far, it may push aggregate demand so far to the right that it triggers inflation. If tight monetary policy seeking to reduce inflation goes too far, it may push aggregate demand so far to the left that a recession begins. <link target-id="CNX_Econ_C28_011"/> (a) summarizes the chain of effects that connect loose and tight monetary policy to changes in output and the price level.</para><figure id="CNX_Econ_C28_011"><title>The Pathways of Monetary Policy </title><media id="fs-idm7152896" alt="This image is a chart showing the mechanisms through which monetary policy affects output.">
+        <image mime-type="image/jpeg" src="../../media/CNX_Econ3e_C28_011.jpg"/>
+      </media>
+      
+    <caption>(a) In expansionary monetary policy the central bank causes the supply of money and loanable funds to increase, which lowers the interest rate, stimulating additional borrowing for investment and consumption, and shifting aggregate demand right. The result is a higher price level and, at least in the short run, higher real GDP. (b) In contractionary monetary policy, the central bank causes the supply of money and credit in the economy to decrease, which raises the interest rate, discouraging borrowing for investment and consumption, and shifting aggregate demand left. The result is a lower price level and, at least in the short run, lower real GDP.</caption></figure></section>
+  <section id="fs-idp1628816"><title>Federal Reserve Actions Over Last Four Decades</title>
+  <para id="fs-idm72864">For the period from 1970 through 2020, we can summarize Federal Reserve monetary policy by looking at how it targeted the federal funds interest rate using open market operations.</para><para id="fs-idm5200">Of course, telling the story of the U.S. economy since 1970 in terms of Federal Reserve actions leaves out many other macroeconomic factors that were influencing unemployment, recession, economic growth, and inflation over this time. The ten episodes of Federal Reserve action outlined in the sections below also demonstrate that we should consider the central bank as one of the leading actors influencing the macro economy. As we noted earlier, the single person with the greatest power to influence the U.S. economy is probably the Federal Reserve chairperson.</para><para id="fs-idp9023376"><link target-id="CNX_Econv1-2_C28_10"/> shows how the Federal Reserve has carried out monetary policy by targeting the federal funds interest rate in the last few decades. The graph shows the federal funds interest rate (remember, this interest rate is set through open market operations), the <term class="no-emphasis" id="term-00010">unemployment rate</term>, and the <term class="no-emphasis" id="term-00011">inflation rate</term> since 1970. Different episodes of monetary policy during this period are indicated in the figure.</para>
+  <figure id="CNX_Econv1-2_C28_10"><title>Monetary Policy, Unemployment, and Inflation </title><media id="fs-idp661936" alt="This graph shows the historical rate of inflation, unemployment and the federal funds interest rate during periods of recession.">
+        <image mime-type="image/jpeg" src="../../media/CNX_Econv1-2_C28_10.jpg"/>
+      </media>
+      
+    <caption>Through the episodes here, the Federal Reserve typically reacted to higher inflation with a contractionary monetary policy and a higher interest rate, and reacted to higher unemployment with an expansionary monetary policy and a lower interest rate.</caption></figure><para id="fs-idm547328"><emphasis effect="bold">Episode 1</emphasis></para>
+  <para id="fs-idm546576">Consider Episode 1 in the late 1970s. The rate of inflation was very high, exceeding 10% in 1979 and 1980, so the Federal Reserve used tight monetary policy to raise interest rates, with the federal funds rate rising from 5.5% in 1977 to 16.4% in 1981. By 1983, inflation was down to 3.2%, but aggregate demand contracted sharply enough that back-to-back recessions occurred in 1980 and in 1981–1982, and the unemployment rate rose from 5.8% in 1979 to 9.7% in 1982.</para>
+  <para id="fs-idm24176"><emphasis effect="bold">Episode 2</emphasis></para>
+  <para id="fs-idp135520">In Episode 2, when economists persuaded the Federal Reserve in the early 1980s that inflation was declining, the Fed began slashing interest rates to reduce unemployment. The federal funds interest rate fell from 16.4% in 1981 to 6.8% in 1986. By 1986 or so, inflation had fallen to about 2% and the unemployment rate had come down to 7%, and was still falling.</para><para id="fs-idp9116752"><emphasis effect="bold">Episode 3</emphasis></para>
+  <para id="fs-idp9117504">However, in Episode 3 in the late 1980s, inflation appeared to be creeping up again, rising from 2% in 1986 up toward 5% by 1989. In response, the Federal Reserve used contractionary monetary policy to raise the federal funds rates from 6.6% in 1987 to 9.2% in 1989. The tighter monetary policy stopped inflation, which fell from above 5% in 1990 to under 3% in 1992, but it also helped to cause the 1990-1991 recession, and the unemployment rate rose from 5.3% in 1989 to 7.5% by 1992.</para><para id="fs-idp9117888"><emphasis effect="bold">Episode 4</emphasis></para>
+  <para id="fs-idp725360">In Episode 4, in the early 1990s, when the Federal Reserve was confident that inflation was back under control, it reduced interest rates, with the federal funds interest rate falling from 8.1% in 1990 to 3.5% in 1992. As the economy expanded, the unemployment rate declined from 7.5% in 1992 to less than 5% by 1997.</para>
+  <para id="fs-idp9140752"><emphasis effect="bold">Episodes 5 and 6</emphasis></para>
+  <para id="fs-idp9141504">In Episodes 5 and 6, the Federal Reserve perceived a risk of inflation and raised the federal funds rate from 3% to 5.8% from 1993 to 1995. Inflation did not rise, and the period of economic growth during the 1990s continued. Then in 1999 and 2000, the Fed was concerned that inflation seemed to be creeping up so it raised the federal funds interest rate from 4.6% in December 1998 to 6.5% in June 2000. By early 2001, inflation was declining again, but a recession occurred in 2001. Between 2000 and 2002, the unemployment rate rose from 4.0% to 5.8%.</para>
+  <para id="fs-idp738720"><emphasis effect="bold">Episodes 7 and 8</emphasis></para>
+  <para id="fs-idm27328">In Episodes 7 and 8, the Federal Reserve conducted a loose monetary policy and slashed the federal funds rate from 6.2% in 2000 to just 1.7% in 2002, and then again to 1% in 2003. They actually did this because of fear of Japan-style deflation. This persuaded them to lower the Fed funds further than they otherwise would have. The recession ended, but, unemployment rates were slow to decline in the early 2000s. Finally, in 2004, the unemployment rate declined and the Federal Reserve began to raise the federal funds rate until it reached 5% by 2007.</para><para id="fs-idm26368"><emphasis effect="bold">Episode 9</emphasis></para>
+  <para id="fs-idm158640">In Episode 9, as the Great Recession took hold in 2008, the Federal Reserve was quick to slash interest rates, taking them down to 2% in 2008 and to nearly 0% in 2009. When the Fed had taken interest rates down to near-zero, the economy was still deep in recession. Open market operations could not make the interest rate turn negative. The Federal Reserve had to think “outside the box.”</para>
+  <para id="fs-idm26367"><emphasis effect="bold">Episode 10</emphasis></para>
+  <para id="fs-idm158641">In Episode 10, which started in March 2020, the Fed cut interest rates again, reducing the target federal funds rate from 2% to between 0–1/4% in a matter of weeks. Limited by the zero lower bound, the Fed once again had to think “outside the box” in order to further support the financial system.</para>
+  </section>
+  
+  <section id="fs-idp9045664"><title>Quantitative Easing</title>
+  <para id="fs-idp9046176">The most powerful and commonly used of the three traditional tools of monetary policy—open market operations—works by expanding or contracting the money supply in a way that influences the interest rate. In late 2008, as the U.S. economy struggled with recession, the Federal Reserve had already reduced the interest rate to near-zero. With the recession still ongoing, the Fed decided to adopt an innovative and nontraditional policy known as <term id="term-00012">quantitative easing (QE)</term>. This is the purchase of long-term government and private mortgage-backed securities by central banks to make credit available so as to stimulate <term class="no-emphasis" id="term-00013">aggregate demand</term>.</para>
+  <para id="fs-idp652736">Quantitative easing differed from traditional monetary policy in several key ways. First, it involved the Fed purchasing long term <term class="no-emphasis" id="term-00014">Treasury bonds</term>, rather than short term <term class="no-emphasis" id="term-00015">Treasury bills</term>. In 2008, however, it was impossible to stimulate the economy any further by lowering short term rates because they were already as low as they could get. (Read the closing Bring it Home feature for more on this.) Therefore, Chairman Bernanke sought to lower long-term rates utilizing quantitative easing.
+  </para><para id="fs-idp667280">This leads to a second way QE is different from traditional monetary policy. Instead of purchasing Treasury securities, the Fed also began purchasing private mortgage-backed securities, something it had never done before. During the financial crisis, which precipitated the recession, mortgage-backed securities were termed “toxic assets,” because when the housing market collapsed, no one knew what these securities were worth, which put the financial institutions which were holding those securities on very shaky ground. By offering to purchase mortgage-backed securities, the Fed was both pushing long term interest rates down and also removing possibly “toxic assets” from the balance sheets of private financial firms, which would strengthen the financial system.</para>
+  <para id="fs-idp647360">Quantitative easing (QE) occurred in three episodes:
+        <list id="fs-idp60976" list-type="enumerated" number-style="arabic"><item>During QE<sub>1</sub>, which began in November 2008, the Fed purchased $600 billion in mortgage-backed securities from government enterprises Fannie Mae and Freddie Mac.</item>
+          <item>In November 2010, the Fed began QE<sub>2</sub>, in which it purchased $600 billion in U.S. Treasury bonds.</item>
+          <item>QE<sub>3</sub>, began in September 2012 when the Fed commenced purchasing $40 billion of additional mortgage-backed securities per month. This amount was increased in December 2012 to $85 billion per month. The Fed stated that, when economic conditions permit, it will begin tapering (or reducing the monthly purchases). By October 2014, the Fed had announced the final $15 billion bond purchase, ending Quantitative Easing. </item>
+        </list></para>
+  <para id="fs-idp126048">We usually think of the quantitative easing policies that the Federal Reserve adopted (as did other central banks around the world) as temporary emergency measures. If these steps are to be temporary, then the Federal Reserve will need to stop making these additional loans and sell off the financial securities it has accumulated. The concern is that the process of quantitative easing may prove more difficult to reverse than it was to enact. The evidence suggests that QE<sub>1</sub> was somewhat successful, but that QE<sub>2</sub> and QE<sub>3</sub> have been less so.</para><para id="fs-idp126049">Fast forward to March 2020, when the Fed under the leadership of Jerome Powell promised another round of asset purchases which was dubbed by some as “QE4,” intended once again to provide liquidity to a distressed financial system in the wake of the pandemic. This round was much faster, increasing Fed assets by $2 trillion in just a few months. Recently, the Fed has begun to slow down the purchase of these assets once again through a taper, and the pace of the tapering is expected to increase through 2022. But as of the end of 2021, total Fed assets exceed $8 trillion, compared to $4 trillion in February 2020.</para></section>
+  
+  <section id="fs-idp8984592" class="summary">
+    <title>Key Concepts and Summary</title>
+   <para id="fs-idp8985472">An expansionary (or loose) monetary policy raises the quantity of money and credit above what it otherwise would have been and reduces interest rates, boosting aggregate demand, and thus countering recession. A contractionary monetary policy, also called a tight monetary policy, reduces the quantity of money and credit below what it otherwise would have been and raises interest rates, seeking to hold down inflation. During the 2008–2009 recession, central banks around the world also used quantitative easing to expand the supply of credit.</para>
+  </section>
+  <section id="fs-idp157072" class="self-check-questions">
+    <title>Self-Check Questions</title>
+    <exercise id="fs-idp183264">
+      <problem id="fs-idp183520">
+        <para id="fs-idm50736">Why does contractionary monetary policy cause interest rates to rise?</para>
+      </problem>
+      <solution id="fs-idm50224"><para id="fs-idm50096">Contractionary policy reduces the amount of loanable funds in the economy. As with all goods, greater scarcity leads a greater price, so the interest rate, or the price of borrowing money, rises.</para></solution>
+    </exercise>
+    <exercise id="fs-idm160128">
+      <problem id="fs-idm159872">
+        <para id="fs-idm159616">Why does expansionary monetary policy causes interest rates to drop?</para>
+      </problem>
+      <solution id="fs-idm546944"><para id="fs-idm546816">An increase in the amount of available loanable funds means that there are more people who want to lend. They, therefore, bid the price of borrowing (the interest rate) down.</para></solution>
+    </exercise>
+  </section>
+  <section id="fs-idp9111296" class="review-questions">
+    <title>Review Questions</title>
+    <exercise id="fs-idp302848">
+      <problem id="fs-idp303104">
+        <para id="fs-idp303360">How do the expansionary and contractionary monetary policy affect the quantity of money?</para>
+      </problem>
+    </exercise>
+    <exercise id="fs-idp301360">
+      <problem id="fs-idp301616">
+        <para id="fs-idp301872">How do tight and loose monetary policy affect interest rates?</para>
+      </problem>
+    </exercise>
+    <exercise id="fs-idp302512">
+      <problem id="fs-idp9122384">
+        <para id="fs-idp9122640">How do expansionary, tight, contractionary, and loose monetary policy affect aggregate demand?</para>
+      </problem>
+    </exercise>
+    <exercise id="fs-idp9123392">
+      <problem id="fs-idm211872">
+        <para id="fs-idm211616">Which kind of monetary policy would you expect in response to high inflation: expansionary or contractionary? Why?</para>
+      </problem>
+    </exercise>
+    <exercise id="fs-idm210848">
+      <problem id="fs-idp721184">
+        <para id="fs-idp721440">Explain how to use quantitative easing to stimulate aggregate demand.</para>
+      </problem>
+    </exercise>
+  </section>
+  <section id="fs-idp722208" class="critical-thinking">
+    <title>Critical Thinking Question</title>
+    <exercise id="fs-idp305040">
+      <problem id="fs-idp305296">
+        <para id="fs-idp25296">A well-known economic model called the Phillips Curve (discussed in <link document="m63849">The Keynesian Perspective</link> chapter) describes the short run tradeoff typically observed between inflation and unemployment. Based on the discussion of expansionary and contractionary monetary policy, explain why one of these variables usually falls when the other rises.</para></problem>
+    </exercise>
+  </section>
+  
+  </content>
+  
+  <glossary>
+     <definition id="fs-idm35984">
+        <term>contractionary monetary policy</term>
+        <meaning id="fs-idm35344">a monetary policy that reduces the supply of money and loans</meaning>
+      </definition>
+     <definition id="fs-idm34832">
+        <term>countercyclical</term>
+        <meaning id="fs-idm34192">moving in the opposite direction of the business cycle of economic downturns and upswings</meaning>
+      </definition>
+     <definition id="fs-idm33568">
+        <term>expansionary monetary policy</term>
+        <meaning id="fs-idm32928">a monetary policy that increases the supply of money and the quantity of loans</meaning>
+      </definition>
+     <definition id="fs-idm32416">
+        <term>federal funds rate</term>
+        <meaning id="fs-idm31776">the interest rate at which one bank lends funds to another bank overnight</meaning>
+      </definition>
+     <definition id="fs-idm407456">
+        <term>loose monetary policy</term>
+        <meaning id="fs-idm406816">see expansionary monetary policy</meaning>
+      </definition>
+     <definition id="fs-idm406304">
+        <term>quantitative easing (QE)</term>
+        <meaning id="fs-idm405664">the purchase of long term government and private mortgage-backed securities by central banks to make credit available in hopes of stimulating aggregate demand</meaning>
+      </definition>
+     <definition id="fs-idm404976">
+        <term>tight monetary policy</term>
+        <meaning id="fs-idm404336">see contractionary monetary policy</meaning>
+      </definition>
+  </glossary>
+  </document>
+  
