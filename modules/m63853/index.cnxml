@@ -1,76 +1,78 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
 
-<title>The Keynesian Perspective on Market Forces</title>
-<metadata xmlns:md="http://cnx.rice.edu/mdml">
-  <md:content-id>m63853</md:content-id>
-  <md:title>The Keynesian Perspective on Market Forces</md:title>
-  <md:abstract>By the end of this section, you will be able to:
-<list id="list-00001">
-<item>Explain the Keynesian perspective on market forces</item>
-<item>Analyze the role of government policy in economic management</item>
-</list></md:abstract>
-  <md:uuid>6dfa8538-fa74-4564-9490-4dec1c533e5d</md:uuid>
-</metadata>
-
-<content>
-<para id="ch25mod04_p01">Ever since the birth of Keynesian economics in the 1930s, controversy has simmered over the extent to which government should play an active role in managing the economy. In the aftermath of the human devastation and misery of the Great Depression, many people—including many economists—became more aware of vulnerabilities within the market-oriented economic system. Some supporters of Keynesian economics advocated a high degree of government planning in all parts of the economy.</para>
-
-<para id="ch25mod03_p02">However, Keynes himself was careful to separate the issue of aggregate demand from the issue of how well individual markets worked. He argued that individual markets for goods and services were appropriate and useful, but that sometimes that level of aggregate demand was just too low. When 10 million people are willing and able to work, but one million of them are unemployed, he argued, individual markets may be doing a perfectly good job of allocating the efforts of the nine million workers—the problem is that insufficient aggregate demand exists to support jobs for all 10 million. Thus, he believed that, while government should ensure that overall level of aggregate demand is sufficient for an economy to reach full employment, this task did not imply that the government should attempt to set prices and wages throughout the economy, nor to take over and manage large corporations or entire industries directly.</para>
-<para id="ch25mod03_p03">Even if one accepts the Keynesian economic theory, a number of practical questions remain. In the real world, can government economists identify potential GDP accurately? Is a desired increase in aggregate demand better accomplished by a tax cut or by an increase in government spending? Given the inevitable delays and uncertainties as governments enact policies into law, is it reasonable to expect that the government can implement Keynesian economics? Can fixing a recession really be just as simple as pumping up aggregate demand? <link document="m63969">Government Budgets and Fiscal Policy</link> will probe these issues. The Keynesian approach, with its focus on aggregate demand and sticky prices, has proved useful in understanding how the economy fluctuates in the short run and why recessions and cyclical unemployment occur. In <link document="m63798">The Neoclassical Perspective</link>, we will consider some of the shortcomings of the Keynesian approach and why it is not especially well-suited for long-run macroeconomic analysis.</para><note id="ch25mod03_bring" class="economics bringhome">
-<label/>
-<title>The Great Recession</title>
-<para id="ch25mod03_04">The lessons learned during the 1930s Great Depression and the aggregate expenditure model that John Maynard Keynes proposed gave the modern economists and policymakers of today the tools to effectively navigate the treacherous economy in the latter half of the 2000s. In “How the Great Recession Was Brought to an End", Alan S. Blinder and Mark Zandi wrote that the actions taken by today’s policymakers stand in sharp contrast to those of the early years of the Great Depression. Today’s economists and policymakers were not content to let the markets recover from recession without taking proactive measures to support consumption and investment. The Federal Reserve actively lowered short-term interest rates and developed innovative ways to pump money into the economy so that credit and investment would not dry up. Both Presidents Bush and Obama and Congress implemented a variety of programs ranging from tax rebates to “Cash for Clunkers” to the Troubled Asset Relief Program to stimulate and stabilize household consumption and encourage investment. Although these policies came under harsh criticism from the public and many politicians, they lessened the impact of the economic downturn and may have saved the country from a second Great Depression.</para></note>
-
-<section id="ch25mod03_summ" class="summary">
-<title>Key Concepts and Summary</title>
-<para id="ch25mod03_p04">The Keynesian prescription for stabilizing the economy implies government intervention at the macroeconomic level—increasing aggregate demand when private demand falls and decreasing aggregate demand when private demand rises. This does not imply that the government should be passing laws or regulations that set prices and quantities in microeconomic markets.</para>
-</section>
-
-<section id="ch25mod03_sques" class="self-check-questions">
-<title>Self-Check Questions</title>
-<exercise id="ch25mod03_sques01">
-<problem id="ch25mod03_squesp01">
-<para id="ch25mod03_p05">Does Keynesian economics require government to set controls on prices, wages, or interest rates?</para>
-</problem>
-<solution id="ch25mod03_sques01s">
-<para id="ch25mod03_p06">Keynesian economics does not require microeconomic price controls of any sort. It is true that many Keynesian economic prescriptions were for the government to influence the total amount of aggregate demand in the economy, often through government spending and tax cuts.</para>
-</solution>
-</exercise>
-
-<exercise id="ch25mod03_sques02">
-<problem id="ch25mod03_squesp02">
-<para id="ch25mod03_p07">List three practical problems with the Keynesian perspective.</para>
-</problem>
-<solution id="ch25mod03_sques02s">
-<para id="ch25mod03_p08">The three problems center on government’s ability to estimate potential GDP, decide whether to influence aggregate demand through tax changes or changes in government spending, and the lag time that occurs as Congress and the President attempt to pass legislation.</para>
-</solution>
-</exercise>
-</section>
-
-<section id="ch25mod03_rques" class="review-questions">
-<title>Review Questions</title>
-<exercise id="ch25mod03_rques02">
-<problem id="ch25mod03_rquesp02">
-<para id="ch25mod03_p11">How did the Keynesian perspective address the economic market failure of the Great Depression?</para></problem>
-</exercise>
-</section>
-
-<section id="ch25mod03_ctques" class="critical-thinking">
-<title>Critical Thinking Questions</title>
-<exercise id="ch25mod03_ctques01">
-<problem id="ch25mod03_ctquesp01">
-<para id="ch25mod03_p12">Return to the table from the <emphasis effect="italics">Economic Report of the President</emphasis> in the earlier <link target-id="ch25mod03_workout01" document="m63852">Work It Out</link> feature titled “The Phillips Curve for the United States.” How would you expect government spending to have changed over the last six years?</para></problem>
-</exercise>
-<exercise id="ch25mod03_ctques02">
-<problem id="ch25mod03_ctquesp02">
-<para id="ch25mod03_p13">Explain what types of policies the federal government may have implemented to restore aggregate demand and the potential obstacles policymakers may have encountered.</para>
-</problem>
-</exercise>
-</section>
-
-<section id="ch25mod03_ref" class="references">
-<title>References</title>
-<para id="ch25mod03_ref01">Blinder, Alan S., and Mark Zandi. “How the Great Recession Was Brought to an End.” Last modified July 27, 2010. http://www.princeton.edu/~blinder/End-of-Great-Recession.pdf.</para>
-</section>
-</content>
-</document>
+  <title>The Keynesian Perspective on Market Forces</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:content-id>m63853</md:content-id>
+    <md:title>The Keynesian Perspective on Market Forces</md:title>
+    <md:abstract>By the end of this section, you will be able to:
+  <list id="list-00001">
+  <item>Explain the Keynesian perspective on market forces</item>
+  <item>Analyze the role of government policy in economic management</item>
+  </list></md:abstract>
+    <md:uuid>6dfa8538-fa74-4564-9490-4dec1c533e5d</md:uuid>
+  </metadata>
+  
+  <content>
+  <para id="ch25mod04_p01">Ever since the birth of Keynesian economics in the 1930s, controversy has simmered over the extent to which government should play an active role in managing the economy. In the aftermath of the human devastation and misery of the Great Depression, many people—including many economists—became more aware of vulnerabilities within the market-oriented economic system. Some supporters of Keynesian economics advocated a high degree of government planning in all parts of the economy.</para>
+  
+  <para id="ch25mod03_p02">However, Keynes himself was careful to separate the issue of aggregate demand from the issue of how well individual markets worked. He argued that individual markets for goods and services were appropriate and useful, but that sometimes that level of aggregate demand was just too low. When 10 million people are willing and able to work, but one million of them are unemployed, he argued, individual markets may be doing a perfectly good job of allocating the efforts of the nine million workers—the problem is that insufficient aggregate demand exists to support jobs for all 10 million. Thus, he believed that, while government should ensure that overall level of aggregate demand is sufficient for an economy to reach full employment, this task did not imply that the government should attempt to set prices and wages throughout the economy, nor to take over and manage large corporations or entire industries directly.</para>
+  <para id="ch25mod03_p03">Even if one accepts the Keynesian economic theory, a number of practical questions remain. In the real world, can government economists identify potential GDP accurately? Is a desired increase in aggregate demand better accomplished by a tax cut or by an increase in government spending? Given the inevitable delays and uncertainties as governments enact policies into law, is it reasonable to expect that the government can implement Keynesian economics? Can fixing a recession really be just as simple as pumping up aggregate demand? <link document="m63969">Government Budgets and Fiscal Policy</link> will probe these issues. The Keynesian approach, with its focus on aggregate demand and sticky prices, has proved useful in understanding how the economy fluctuates in the short run and why recessions and cyclical unemployment occur. In <link document="m63798">The Neoclassical Perspective</link>, we will consider some of the shortcomings of the Keynesian approach and why it is not especially well-suited for long-run macroeconomic analysis.</para><note id="ch25mod03_bring" class="economics bringhome">
+  <label/>
+  <title>The Pandemic-Induced Recession and the Keynesian Perspective</title>
+  <para id="ch25mod03_04">The pandemic-induced recession of 2020 was unique. Unlike the Great Recession of 2007–2009 discussed in most of this chapter, it was not started by the burst of a housing bubble. It was started by a virus that caused sickness and death for millions of people worldwide and required substantial social policy in order to control its spread.</para>
+  <para id="ch25mod03_05">In some ways, the latest recession was influenced by fluctuations in aggregate demand. At its depth in April 2020, over 20 million people were unemployed, causing a massive decline in consumption and aggregate demand. As businesses were forced to shutter or move their operations online, many were pessimistic or uncertain about the future state of the economy, causing investment to decline. The federal government attempted to correct this aggregate demand shock through small business loans, direct aid to state and local governments, expanded unemployment insurance, and stimulus checks. As a result of all these measures, the economy was able to bounce back somewhat over the remainder of 2020. However, even at the start of 2022, millions of people remained out of work as new variants threatened to upend the economy once again.</para>
+  <para id="ch25mod03_06">The Keynesian perspective would have economic policy continue to focus on aggregate and restoring confidence in the economy. President Biden’s proposals largely reflect these goals, but with millions of workers still out of the labor market and a virus that is still not contained, it remains to be seen whether those policy prescriptions will be enough “medicine” to bring the economy back to normalcy.</para></note>
+  
+  <section id="ch25mod03_summ" class="summary">
+  <title>Key Concepts and Summary</title>
+  <para id="ch25mod03_p04">The Keynesian prescription for stabilizing the economy implies government intervention at the macroeconomic level—increasing aggregate demand when private demand falls and decreasing aggregate demand when private demand rises. This does not imply that the government should be passing laws or regulations that set prices and quantities in microeconomic markets.</para>
+  </section>
+  
+  <section id="ch25mod03_sques" class="self-check-questions">
+  <title>Self-Check Questions</title>
+  <exercise id="ch25mod03_sques01">
+  <problem id="ch25mod03_squesp01">
+  <para id="ch25mod03_p05">Does Keynesian economics require government to set controls on prices, wages, or interest rates?</para>
+  </problem>
+  <solution id="ch25mod03_sques01s">
+  <para id="ch25mod03_p06">Keynesian economics does not require microeconomic price controls of any sort. It is true that many Keynesian economic prescriptions were for the government to influence the total amount of aggregate demand in the economy, often through government spending and tax cuts.</para>
+  </solution>
+  </exercise>
+  
+  <exercise id="ch25mod03_sques02">
+  <problem id="ch25mod03_squesp02">
+  <para id="ch25mod03_p07">List three practical problems with the Keynesian perspective.</para>
+  </problem>
+  <solution id="ch25mod03_sques02s">
+  <para id="ch25mod03_p08">The three problems center on government’s ability to estimate potential GDP, decide whether to influence aggregate demand through tax changes or changes in government spending, and the lag time that occurs as Congress and the President attempt to pass legislation.</para>
+  </solution>
+  </exercise>
+  </section>
+  
+  <section id="ch25mod03_rques" class="review-questions">
+  <title>Review Questions</title>
+  <exercise id="ch25mod03_rques02">
+  <problem id="ch25mod03_rquesp02">
+  <para id="ch25mod03_p11">How did the Keynesian perspective address the economic market failure of the Great Depression?</para></problem>
+  </exercise>
+  </section>
+  
+  <section id="ch25mod03_ctques" class="critical-thinking">
+  <title>Critical Thinking Questions</title>
+  <exercise id="ch25mod03_ctques01">
+  <problem id="ch25mod03_ctquesp01">
+  <para id="ch25mod03_p12">Return to the table from the <emphasis effect="italics">Economic Report of the President</emphasis> in the earlier <link target-id="ch25mod03_workout01" document="m63852">Work It Out</link> feature titled “The Phillips Curve for the United States.” How would you expect government spending to have changed over the last six years?</para></problem>
+  </exercise>
+  <exercise id="ch25mod03_ctques02">
+  <problem id="ch25mod03_ctquesp02">
+  <para id="ch25mod03_p13">Explain what types of policies the federal government may have implemented to restore aggregate demand and the potential obstacles policymakers may have encountered.</para>
+  </problem>
+  </exercise>
+  </section>
+  
+  <section id="ch25mod03_ref" class="references">
+  <title>References</title>
+  <para id="ch25mod03_ref01">Blinder, Alan S., and Mark Zandi. “How the Great Recession Was Brought to an End.” Last modified July 27, 2010. http://www.princeton.edu/~blinder/End-of-Great-Recession.pdf.</para>
+  </section>
+  </content>
+  </document>
