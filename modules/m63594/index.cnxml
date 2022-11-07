@@ -154,7 +154,7 @@
 
 <solution id="fs-idm65109504"><para id="fs-idp34096288">The opportunity cost of bus tickets is the number of burgers that must be given up to obtain one more bus ticket. Originally, when the price of bus tickets was 50 cents per trip, this opportunity cost was 0.50/2 = .25 burgers. The reason for this is that at the original prices, one burger ($2) costs the same as four bus tickets ($0.50), so the opportunity cost of a burger is four bus tickets, and the opportunity cost of a bus ticket is .25 burgers (the inverse of the opportunity cost of a burger). With the new, higher price of bus tickets, the opportunity cost rises to $1/$2 or 0.50 burgers. You can see this graphically since the slope of the new budget constraint is steeper than the original one. If Alphonso spends all of his budget on burgers, the higher price of bus tickets has no impact so the vertical intercept of the budget constraint is the same. If he spends his entire budget on bus tickets, he can now afford only half as many, so the horizontal intercept is half as much. In short, the budget constraint rotates clockwise around the vertical intercept, steepening as it goes and the opportunity cost of bus tickets increases.</para><figure id="CNX_Econ_C02_003" class="unnumbered">
 <media id="fs-idp97189264" alt="The graph shows how opportunity cost is affected by the purchase of either burgers or bus tickets. The opportunity cost of bus tickets is the number of burgers that must be given up to obtain one more bus ticket.">
-<image mime-type="image/jpg" src="../../media/CNX_Econ_C02_003.jpg"/>
+<image mime-type="image/jpg" src="../../media/CNX_Econ3e_C02_003.jpg"/>
 </media>
 </figure>
 </solution>
