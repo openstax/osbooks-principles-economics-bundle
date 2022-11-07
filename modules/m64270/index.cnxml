@@ -14,7 +14,7 @@
 <figure id="CNX_Econ_C25_011">
 <title>The Expenditure-Output Diagram </title>
     <media id="fs-idm84597552" alt="The graph shows the aggregate expenditure-output diagram. The x-axis is labeled “real GDP” and the y-axis is labeled aggregate expenditure. An upward sloping 45 degree line extends from the origin and intersects with the aggregate expenditure line at point E sub 0. Potential GDP is a straight vertical line.">
-      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C25_011.jpg"/>
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ3e_C25_011.jpg"/>
     </media>
     <caption>The aggregate expenditure-output model shows aggregate expenditures on the vertical axis and real GDP on the horizontal axis. A vertical line shows potential GDP where full employment occurs. The 45-degree line shows all points where aggregate expenditures and output are equal. The aggregate expenditure schedule shows how total spending or aggregate expenditure increases as output or real GDP rises. The intersection of the aggregate expenditure schedule and the 45-degree line will be the equilibrium. Equilibrium occurs at E<sub>0</sub>, where aggregate expenditure AE<sub>0</sub> is equal to the output level Y<sub>0</sub>.</caption>
   </figure>
@@ -37,7 +37,7 @@
 <figure id="CNX_Econ_C25_012">
 <title>The Consumption Function </title>
     <media id="fs-idm169809056" alt="The graph shows an upward-sloping line representative of the consumption function.">
-      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C25_012.jpg"/>
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ3e_C25_012.jpg"/>
     </media>
     <caption>In the expenditure-output model, how does consumption increase with the level of national income? Output on the horizontal axis is conceptually the same as national income, since the value of all final output that is produced and sold must be income to someone, somewhere in the economy. At a national income level of zero, $600 is consumed. Then, each time income rises by $1,000, consumption rises by $800, because in this example, the marginal propensity to consume is 0.8.</caption>
   </figure>
@@ -124,7 +124,7 @@
 <figure id="CNX_Econ_C25_013">
 <title>The Investment Function </title>
     <media id="fs-idm7632848" alt="The graph shows a straight, horizontal line at 500 on the y-axis, representative of the investment function.">
-      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C25_013.jpg"/>
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ3e_C25_013.jpg"/>
     </media>
     <caption>The investment function is drawn as a flat line because investment is based on interest rates and expectations about the future, and so it does not change with the level of current national income. In this example, investment expenditures are at a level of 500. However, changes in factors like technological opportunities, expectations about near-term economic growth, and interest rates would all cause the investment function to shift up or down.</caption>
   </figure>
@@ -135,7 +135,7 @@
 <figure id="CNX_Econ_C25_014">
 <title>The Government Spending Function </title>
     <media id="fs-idm8350176" alt="The graph shows a straight, horizontal line at 1,300, representative of the government spending function.">
-      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C25_014.jpg"/>
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ3e_C25_014.jpg"/>
     </media>
     <caption>The level of government spending is determined by political factors, not by the level of real GDP in a given year. Thus, government spending is drawn as a horizontal line. In this example, government spending is at a level of 1,300. Congressional decisions to increase government spending will cause this horizontal line to shift up, while decisions to reduce spending would cause it to shift down.</caption>
   </figure>
@@ -144,7 +144,7 @@
 <figure id="CNX_Econ_C25_015">
 <title>The Consumption Function Before and After Taxes </title>
     <media id="fs-idm25647040" alt="The graph shows two upward-sloping lines. The steeper of the two lines is the consumption before taxes. The more gradual of the two lines is the consumption after taxes.">
-      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C25_015.jpg"/>
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ3e_C25_015.jpg"/>
     </media>
     <caption>The upper line repeats the consumption function from <link target-id="CNX_Econ_C25_012"/>. The lower line shows the consumption function if taxes must first be paid on income, and then consumption is based on after-tax income.</caption>
   </figure>
@@ -248,7 +248,7 @@
 <figure id="CNX_Econ_C25_025">
 <title>The Export and Import Functions </title>
     <media id="fs-idm84664624" alt="The graph on the left show exports as a straight, horizontal line at $840. The graph on the right shows imports as a downward-sloping line beginning at $0.">
-      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C25_025.jpg"/>
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ3e_C25_025.jpg"/>
     </media>
     <caption>(a) The export function is drawn as a horizontal line because exports are determined by the buying power of other countries and thus do not change with the size of the domestic economy. In this example, exports are set at 840. However, exports can shift up or down, depending on buying patterns in other countries. (b) The import function is drawn in negative territory because expenditures on imported products are a subtraction from expenditures in the domestic economy. In this example, the marginal propensity to import is 0.1, so imports are calculated by multiplying the level of income by –0.1.</caption>
   </figure>
@@ -293,7 +293,7 @@
 <figure id="CNX_Econ_C25_018">
 <title>A Keynesian Cross Diagram </title>
     <media id="fs-idm116940480" alt="The graph shows a Keynesian cross diagram with each combination of national income and aggregate expenditure.">
-      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C25_018.jpg"/>
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ3e_C25_018.jpg"/>
     </media>
     <caption>Each combination of national income and aggregate expenditure (after-tax consumption, government spending, investment, exports, and imports) is graphed. The equilibrium occurs where aggregate expenditure is equal to national income; this occurs where the aggregate expenditure schedule crosses the 45-degree line, at a real GDP of $6,000. Potential GDP in this example is $7,000, so the equilibrium is occurring at a level of output or real GDP below the potential GDP level.</caption>
   </figure>
@@ -392,7 +392,7 @@
 <figure id="CNX_Econ_C25_019">
 <title>Equilibrium in the Keynesian Cross Diagram </title>
     <media id="fs-idp139813312" alt="The graph shows the only point at which there can be equilibrium in the Keynesian cross diagram.">
-      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C25_019.jpg"/>
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ3e_C25_019.jpg"/>
     </media>
     <caption>If output was above the equilibrium level, at H, then the real output is greater than the aggregate expenditure in the economy. This pattern cannot hold, because it would mean that goods are produced but piling up unsold. If output was below the equilibrium level at L, then aggregate expenditure would be greater than output. This pattern cannot hold either, because it would mean that spending exceeds the number of goods being produced. Only point E can be at equilibrium, where output, or national income and aggregate expenditure, are equal. The equilibrium (E) must lie on the 45-degree line, which is the set of points where national income and aggregate expenditure are equal.</caption>
   </figure>
@@ -575,7 +575,7 @@
 <figure id="CNX_Econ_C25_026">
 <title>Addressing Recessionary and Inflationary Gaps </title>
     <media id="fs-idp47724784" alt="The graph shows two images. Image (a) shows policy solutions to address a recessionary gap. Here, the recessionary gap appears to the left of potential GDP. Image (b) shows policy solutions to address an inflationary gap. Here, the inflationary gap appears to the right of potential GDP.">
-      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C25_026.jpg"/>
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ3e_C25_026.jpg"/>
     </media>
     <caption>(a) If the equilibrium occurs at an output below potential GDP, then a recessionary gap exists. The policy solution to a recessionary gap is to shift the aggregate expenditure schedule up from AE<sub>0</sub> to AE<sub>1</sub>, using policies like tax cuts or government spending increases. Then the new equilibrium E<sub>1</sub> occurs at potential GDP. (b) If the equilibrium occurs at an output above potential GDP, then an inflationary gap exists. The policy solution to an inflationary gap is to shift the aggregate expenditure schedule down from AE<sub>0</sub> to AE<sub>1</sub>, using policies like tax increases or spending cuts. Then, the new equilibrium E<sub>1</sub> occurs at potential GDP.</caption>
   </figure>
@@ -593,7 +593,7 @@
 <para id="fs-idm151342576">As shown in the calculations in <link target-id="CNX_Econ_C25_022"/> and <link target-id="Table_E_06"/>, out of the original $100 in government spending, $53 is left to spend on domestically produced goods and services. That $53 which was spent, becomes income to someone, somewhere in the economy. Those who receive that income also pay 30% in taxes, save 10% of after-tax income, and spend 10% of total income on imports, as shown in <link target-id="CNX_Econ_C25_022"/>, so that an additional $28.09 (that is, 0.53 × $53) is spent in the third round. The people who receive that income then pay taxes, save, and buy imports, and the amount spent in the fourth round is $14.89 (that is, 0.53 × $28.09).</para><figure id="CNX_Econ_C25_022">
 <title>The Multiplier Effect </title>
     <media id="fs-idm171205424" alt="The graph shows the multiplier effect as a rapidly upward-sloping line that levels at $200 and continues as a straight, horizontal line.">
-      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C25_022.jpg"/>
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ3e_C25_022.jpg"/>
     </media>
     <caption>An original increase of government spending of $100 causes a rise in aggregate expenditure of $100. But that $100 is income to others in the economy, and after they save, pay taxes, and buy imports, they spend $53 of that $100 in a second round. In turn, that $53 is income to others. Thus, the original government spending of $100 is multiplied by these cycles of spending, but the impact of each successive cycle gets smaller and smaller. Given the numbers in this example, the original government spending increase of $100 raises aggregate expenditure by $213; therefore, the multiplier in this example is $213/$100 = 2.13.</caption>
   </figure>
@@ -646,7 +646,7 @@
 <figure id="CNX_Econ_C25_023">
 <title>The Multiplier Effect in an Expenditure-Output Model </title>
     <media id="fs-idm64511728" alt="The graph shows the multiplier effect in the expenditure-output model: an increase in expenditure has a larger increase on the equilibrium output.">
-      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C25_023.jpg"/>
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ3e_C25_023.jpg"/>
     </media>
     <caption>The power of the multiplier effect is that an increase in expenditure has a larger increase on the equilibrium output. The increase in expenditure is the vertical increase from AE<sub>0</sub> to AE<sub>1</sub>. However, the increase in equilibrium output, shown on the horizontal axis, is clearly larger.</caption>
   </figure>
@@ -681,7 +681,7 @@
   <solution id="eip-idm637285664"><para id="eip-idm633428432">The following figure shows the aggregate expenditure-output diagram with the recessionary gap.</para>
 <figure id="CNX_Econ_C25_011a" class="unnumbered">
     <media id="fs-idm34575792" alt="The graph shows the aggregate expenditure-output diagram with a recessionary gap.">
-      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C25_011.jpg"/>
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ3e_C25_030.jpg"/>
     </media>
   </figure></solution></exercise>
 
@@ -693,7 +693,7 @@
   <solution id="eip-idm1338303600"><para id="eip-idm1338303472">The following figure  shows the aggregate expenditure-output diagram with an inflationary gap.</para>
 <figure id="CNX_Econ_C25_030" class="unnumbered">
     <media id="fs-idp106714128" alt="The graph shows the aggregate expenditure-output diagram with an inflationary gap. The potential GDP line appears to the left of the equilibrium point.">
-      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C25_030.jpg"/>
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ3e_C25_030.jpg"/>
     </media>
   </figure>
 </solution></exercise>

@@ -89,7 +89,7 @@
 <figure id="CNX_Econ_A01_010">
 <title>Slope and the Algebra of Straight Lines </title>
     <media id="fs-idp71023328" alt="the line graph shows the following approximate points: (0, 9); (1, 12); (2, 15); (3, 18); (4, 21); (5, 24); (6, 27).">
-      <image mime-type="image/jpeg" src="../../media/CNX_Econ_A01_010.jpg"/>
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ3e_A01_010.jpg"/>
     </media>
     <caption>This line graph has <emphasis effect="italics">x</emphasis> on the horizontal axis and y on the vertical axis. The y-intercept—that is, the point where the line intersects the y-axis—is 9. The slope of the line is 3; that is, there is a rise of 3 on the vertical axis for every increase of 1 on the horizontal axis. The slope is the same all along a straight line.</caption>
   </figure>
@@ -129,7 +129,7 @@
 <para id="fs-idm6540368">If algebra is not your forte, you can get the same answer by using graphs. Take the equations for Qd and Qs and graph them on the same set of axes as shown in <link target-id="CNX_Econ_A01_024"/>. Since P is on the vertical axis, it is easiest if you solve each equation for P. The demand curve is then P = 8 – 0.5Qd and the supply curve is P = –0.4 + 0.2Qs. Note that the vertical intercepts are 8 and –0.4, and the slopes are –0.5 for demand and 0.2 for supply. If you draw the graphs carefully, you will see that where they cross (Qs = Qd), the price is $2 and the quantity is 12, just like the algebra predicted.</para><figure id="CNX_Econ_A01_024">
 <title>Supply and Demand Graph </title>
     <media id="fs-idp100170096" alt="The graph shows a downward sloping demand curve with endpoints (0, 8) and (16, 0), and an upward sloping supply curve. The demand curve and supply curve intersect at point (12, 2).">
-      <image mime-type="image/jpeg" src="../../media/CNX_Econ_A01_024.jpg"/>
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ3e_A01_024.jpg"/>
     </media>
     <caption>The equations for Qd and Qs are displayed graphically by the sloped lines.</caption>
   </figure>
@@ -241,7 +241,7 @@
 </table><para id="fs-idm65011664">Not all relationships in economics are linear. Sometimes they are curves. <link target-id="CNX_Econ_A01_009"/> presents another example of a line graph, representing the data from <link target-id="Table_A_03"/>. In this case, the line graph shows how thin the air becomes when you climb a mountain. The horizontal axis of the figure shows altitude, measured in meters above sea level. The vertical axis measures the density of the air at each altitude. Air density is measured by the weight of the air in a cubic meter of space (that is, a box measuring one meter in height, width, and depth). As the graph shows, air pressure is heaviest at ground level and becomes lighter as you climb. <link target-id="CNX_Econ_A01_009"/> shows that a cubic meter of air at an altitude of 500 meters weighs approximately one kilogram (about 2.2 pounds). However, as the altitude increases, air density decreases. A cubic meter of air at the top of Mount Everest, at about 8,828 meters, would weigh only 0.023 kilograms. The thin air at high altitudes explains why many mountain climbers need to use oxygen tanks as they reach the top of a mountain.</para><figure id="CNX_Econ_A01_009">
 <title>Altitude-Air Density Relationship </title>
     <media id="fs-idm9521328" alt="The graph shows altitude on the x-axis and air density on the y-axis. A downward sloping lines has the end points (0, 1.2) and (8.828, 0.023). End point (8,828, 0.023) represents the top of Mount Everest.">
-      <image mime-type="image/jpeg" src="../../media/CNX_Econ_A01_009.jpg"/>
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ3e_A01_009.jpg"/>
     </media>
     <caption>This line graph shows the relationship between altitude, measured in meters above sea level, and air density, measured in kilograms of air per cubic meter. As altitude rises, air density declines. The point at the top of Mount Everest has an altitude of approximately 8,828 meters above sea level (the horizontal axis) and air density of 0.023 kilograms per cubic meter (the vertical axis).</caption>
   </figure>
@@ -404,7 +404,7 @@
 <figure id="CNX_Econ_A01_020">
 <title>Pie Graphs of the U.S. Age Distribution (numbers in millions) </title>
     <media id="fs-idp36969728" alt="The image shows three pie graphs representing age distribution in the U.S. Image (a) shows that in 1970, people 19 and under made up 77.2 million or 37.6% of the population; people between ages 20 and 64 made up 107.7 million or 52.5% of the population; and people 65 or older made up 20.1 million or 9.8% of the population. Image (b) shows that in 2000, people 19 and under made up 78.4 million or 28.5% of the population; people between ages 20 and 64 made up 162.2 million or 58.9% of the population; and people 65 or older made up 34.8 million or 12.6% of the population. Image (c) projects that in 2030, people 19 and under will make up 92.6 million or 26.4% of the population; people between ages 20 and 64 made up 188.2 million or 53.6% of the population; and people 65 or older made up 70.3 million or 20% of the population.">
-      <image mime-type="image/jpeg" src="../../media/CNX_Econ_A01_020.jpg"/>
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ3e_A01_020.jpg"/>
     </media>
     <caption>The three pie graphs illustrate the division of total population into three age groups for the three different years.</caption>
   </figure>
@@ -505,7 +505,7 @@
   <caption>Simply changing the width and height of the area in which data is displayed can alter the perception of the data.</caption></figure><figure id="CNX_Econ_A01_017">
 <title>Presenting Unemployment Rates in Different Ways, All of Them Accurate </title>
     <media id="fs-idm5361680" alt="Image (f) shows the unemployment rate since 1975 only.">
-      <image mime-type="image/jpeg" src="../../media/CNX_Econ_A01_016.jpg"/>
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ3e_A01_016.jpg"/>
     </media>
     <caption>Simply changing the width and height of the area in which data is displayed can alter the perception of the data.</caption>
   </figure>
