@@ -1,36 +1,36 @@
 <document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
 
-<title>Introduction to Government Budgets and Fiscal Policy</title>
-<metadata xmlns:md="http://cnx.rice.edu/mdml">
-  <md:content-id>m63969</md:content-id>
-  <md:title>Introduction to Government Budgets and Fiscal Policy</md:title>
-  <md:abstract/>
-  <md:uuid>97a07b5a-5fca-44ba-a3a6-b61ff2886599</md:uuid>
-</metadata>
-
-<content>
-<figure id="CNX_Econ_C30_000" class="splash"><title>Shut Downs and Parks </title><media id="fs-idm38616032" alt="This image is a photograph of a sign for Yellowstone National Park.">
-<image mime-type="image/jpeg" src="../../media/CNX_Econ_C30_000.jpg"/>
-</media>
-
-<caption>Yellowstone National Park is one of the many national parks forced to close down during the government shut down in October 2013. (Credit: modification of work by “daveynin”/flickr Creative Commons)</caption></figure><note id="fs-idm3035072" class="economics bringhome">
-<title>No Yellowstone Park?</title>
-<para id="fs-idp53368480">You had trekked all the way to see Yellowstone National Park in the beautiful month of October 2013, only to find it… closed. Closed! Why?</para><para id="fs-idp106614144">For two weeks in October 2013, the U.S. federal government shut down. Many federal services, like the national parks, closed and 800,000 federal employees were furloughed. Tourists were shocked and so was the rest of the world: Congress and the President could not agree on a budget. Inside the Capitol, Republicans and Democrats argued about spending priorities and whether to increase the national debt limit. Each year's budget, which is over $3 trillion of spending, must be approved by Congress and signed by the President. Two thirds of the budget are entitlements and other mandatory spending which occur without congressional or presidential action once the programs are established. Tied to the budget debate was the issue of increasing the debt ceiling—how high the U.S. government's national debt can be. The House of Representatives refused to sign on to the bills to fund the government unless they included provisions to stop or change the Affordable Health Care Act (more colloquially known as Obamacare). As the days progressed, the United States came very close to defaulting on its debt.</para><para id="fs-idp40331664">Why does the federal budget create such intense debates? What would happen if the United States actually defaulted on its debt? In this chapter, we will examine the federal budget, taxation, and fiscal policy. We will also look at the annual federal budget deficits and the national debt.</para></note>
-
-<note id="fs-idp1954880" class="economics chapter-objectives">
-<title>Introduction to Government Budgets and Fiscal Policy</title>
-<para id="fs-idp54508480">In this chapter, you will learn about:</para>
-<list id="fs-idp106365712">
-<item>Government Spending</item>
-<item>Taxation</item>
-<item>Federal Deficits and the National Debt</item>
-<item>Using Fiscal Policy to Fight Recessions, Unemployment, and Inflation</item>
-<item>Automatic Stabilizers</item>
-<item>Practical Problems with Discretionary Fiscal Policy</item>
-<item>The Question of a Balanced Budget</item>
-</list>
-</note>
-
-<para id="fs-idp141963888">All levels of government—federal, state, and local—have budgets that show how much revenue the government expects to receive in taxes and other income and how the government plans to spend it. Budgets, however, can shift dramatically within a few years, as policy decisions and unexpected events disrupt earlier tax and spending plans.</para><para id="fs-idp14485824">In this chapter, we revisit <term class="no-emphasis" id="term-00001">fiscal policy</term>, which we first covered in <link document="m63579">Welcome to Economics!</link> Fiscal policy is one of two policy tools for fine tuning the economy (the other is monetary policy). While policymakers at the Federal Reserve make monetary policy, Congress and the President make fiscal policy.</para><para id="fs-idp62671936">The discussion of fiscal policy focuses on how federal government taxing and spending affects aggregate demand. All government spending and taxes affect the economy, but fiscal policy focuses strictly on federal government policies. We begin with an overview of U.S. government spending and taxes. We then discuss fiscal policy from a short-run perspective; that is, how government uses tax and spending policies to address recession, unemployment, and inflation; how periods of recession and growth affect government budgets; and the merits of balanced budget proposals.</para></content>
-
-</document>
+  <title>Introduction to Government Budgets and Fiscal Policy</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:content-id>m63969</md:content-id>
+    <md:title>Introduction to Government Budgets and Fiscal Policy</md:title>
+    <md:abstract/>
+    <md:uuid>97a07b5a-5fca-44ba-a3a6-b61ff2886599</md:uuid>
+  </metadata>
+  
+  <content>
+  <figure id="CNX_Econ_C30_000" class="splash"><title>Shut Downs and Parks </title><media id="fs-idm38616032" alt="This image is a photograph of a sign for Yellowstone National Park.">
+  <image mime-type="image/jpeg" src="../../media/CNX_Econ_C30_000.jpg"/>
+  </media>
+  
+  <caption>Yellowstone National Park is one of the many national parks forced to close operations during the government shut down in 2013 and 2018–2019. (Credit: modification of work by “daveynin”/Flickr Creative Commons)</caption></figure><note id="fs-idm3035072" class="economics bringhome">
+  <title>No Yellowstone Park?</title>
+  <para id="fs-idp53368480">You had trekked all the way to see Yellowstone National Park in the beautiful month of October 2013, only to find it… closed. Closed! Why?</para><para id="fs-idp106614144">For two weeks in October 2013, the U.S. federal government shut down. Many federal services, like the national parks, closed and 800,000 federal employees were furloughed. Tourists were shocked and so was the rest of the world: Congress and the President could not agree on a budget. Inside the Capitol, Republicans and Democrats argued about spending priorities and whether to increase the national debt limit. Each year's budget, which is over $3 trillion of spending, must be approved by Congress and signed by the President. Two thirds of the budget are entitlements and other mandatory spending which occur without congressional or presidential action once the programs are established. Tied to the budget debate was the issue of increasing the debt ceiling—how high the U.S. government's national debt can be. The House of Representatives refused to sign on to the bills to fund the government unless they included provisions to stop or change the Affordable Health Care Act (more colloquially known as Obamacare). As the days progressed, the United States came very close to defaulting on its debt.</para><para id="fs-idp40331665">October 2013 was not the first time the government shut down, and it was not the last. Several brief shutdowns occurred in the early 1980s, and they occurred periodically in the following years. The longest shutdown took place between December 2018 and January 2019, when funding a border wall was a core disagreement.</para><para id="fs-idp40331664">Why does the federal budget create such intense debates? What would happen if the United States actually defaulted on its debt? In this chapter, we will examine the federal budget, taxation, and fiscal policy. We will also look at the annual federal budget deficits and the national debt.</para></note>
+  
+  <note id="fs-idp1954880" class="economics chapter-objectives">
+  <title>Introduction to Government Budgets and Fiscal Policy</title>
+  <para id="fs-idp54508480">In this chapter, you will learn about:</para>
+  <list id="fs-idp106365712">
+  <item>Government Spending</item>
+  <item>Taxation</item>
+  <item>Federal Deficits and the National Debt</item>
+  <item>Using Fiscal Policy to Fight Recessions, Unemployment, and Inflation</item>
+  <item>Automatic Stabilizers</item>
+  <item>Practical Problems with Discretionary Fiscal Policy</item>
+  <item>The Question of a Balanced Budget</item>
+  </list>
+  </note>
+  
+  <para id="fs-idp141963888">All levels of government—federal, state, and local—have budgets that show how much revenue the government expects to receive in taxes and other income and how the government plans to spend it. Budgets, however, can shift dramatically within a few years, as policy decisions and unexpected events disrupt earlier tax and spending plans.</para><para id="fs-idp14485824">In this chapter, we revisit <term class="no-emphasis" id="term-00001">fiscal policy</term>, which we first covered in <link document="m63579">Welcome to Economics!</link> Fiscal policy is one of two policy tools for fine tuning the economy (the other is monetary policy). While policymakers at the Federal Reserve make monetary policy, Congress and the President make fiscal policy.</para><para id="fs-idp62671936">The discussion of fiscal policy focuses on how federal government taxing and spending affects aggregate demand. All government spending and taxes affect the economy, but fiscal policy focuses strictly on federal government policies. We begin with an overview of U.S. government spending and taxes. We then discuss fiscal policy from a short-run perspective; that is, how government uses tax and spending policies to address recession, unemployment, and inflation; how periods of recession and growth affect government budgets; and the merits of balanced budget proposals.</para></content>
+  
+  </document>

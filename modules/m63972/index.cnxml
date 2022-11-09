@@ -1,160 +1,160 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
 
-<title>Federal Deficits and the National Debt</title>
-<metadata xmlns:md="http://cnx.rice.edu/mdml">
-  <md:content-id>m63972</md:content-id>
-  <md:title>Federal Deficits and the National Debt</md:title>
-  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para><list id="list-00001">
-<item>Explain the U.S. federal budget in terms of  annual debt and accumulated debt</item>
-<item>Understand how economic growth or decline can influence a budget surplus or budget deficit</item>
-</list></md:abstract>
-  <md:uuid>b0c796d2-9e33-48c0-9fb6-52ac8081422a</md:uuid>
-</metadata>
-
-<content>
-<para id="fs-idm125221504">Having discussed the <term class="no-emphasis" id="term-00001">revenue</term> (taxes) and expense (spending) side of the budget, we now turn to the annual budget deficit or surplus, which is the difference between the tax revenue collected and spending over a fiscal year, which starts October 1 and ends September 30 of the next year.</para>
-
-<para id="fs-idm44867520"><link target-id="CNX_Econ_C30_006"/> shows the pattern of annual federal budget deficits and surpluses, back to 1930, as a share of GDP. When the line is above the horizontal axis, the budget is in surplus. When the line is below the horizontal axis, a budget deficit occurred. Clearly, the biggest deficits as a share of GDP during this time were incurred to finance World War II. Deficits were also large during the 1930s, the 1980s, the early 1990s, and most recently during the 2008-2009 recession.</para><figure id="CNX_Econ_C30_006"><title>Pattern of Federal Budget Deficits and Surpluses, 1929–2014 </title><media id="fs-idm144610288" alt="The graph shows that federal deficit (as a percentage of GDP) skyrocketed between the late 1930s and mid-1940s. In 2009, it was around –10%. In 2014, the federal deficit was close to –3%.">
-<image mime-type="image/jpg" src="../../media/CNX_Econv1-2_C30_07.jpg"/>
-</media>
-
-<caption>The federal government has run budget deficits for decades. The budget was briefly in surplus in the late 1990s, before heading into deficit again in the first decade of the 2000s—and especially deep deficits in the 2008-2009 recession. (Source: Federal Reserve Bank of St. Louis (FRED). http://research.stlouisfed.org/fred2/series/FYFSGDA188S) </caption></figure>
-<media id="fs-idm254663984" alt="A graph has years on the X axis from 1930 until present in ten-year intervals. The y axis is labeled percent of G D P and ranges from negative 30 to positive 5 in 5-percent intervals. In 1930, the deficit was about at the zero line, and it the deficit was 5 percent of GDP for most of the 1930s. It went down to 25 percent of G D P in the 1940s before returning to a fluctuating point between 0 and 5 percent.  There were surpluses in the late 1940s, mid-1950s, and late 1990s."><iframe width="660" height="371.4" src="https://fred.stlouisfed.org/graph/graph-landing.php?g=CW0u"/></media>
-<para id="eip-4474743434">Federal Surplus or Deficit as a Percentage of Gross Domestic Product</para><section id="fs-idp121260656">
-<title>Debt/GDP Ratio</title>
-<para id="fs-idp32725808">Another useful way to view the budget deficit is through the prism of accumulated debt rather than annual deficits. The <term id="term-00002">national debt</term> refers to the total amount that the government has borrowed over time. In contrast, the budget deficit refers to how much the government has borrowed in one particular year. <link target-id="CNX_Econ_C30_007"/> shows the ratio of debt/GDP since 1940. Until the 1970s, the debt/GDP ratio revealed a fairly clear pattern of federal borrowing. The government ran up large deficits and raised the debt/GDP ratio in World War II, but from the 1950s to the 1970s the government ran either surpluses or relatively small deficits, and so the debt/GDP ratio drifted down. Large deficits in the 1980s and early 1990s caused the ratio to rise sharply. When budget surpluses arrived from 1998 to 2001, the debt/GDP ratio declined substantially. The budget deficits starting in 2002 then tugged the debt/GDP ratio higher—with a big jump when the recession took hold in 2008–2009.</para><figure id="CNX_Econ_C30_007"><title>Federal Debt as a Percentage of GDP, 1942–2014</title><media id="fs-idm1841680" alt="The graph shows that federal debt (as a percentage of GDP) was highest in the late 1940s before steadily declining down beneath 30% in the mid-1970s. Another increase took place during the recession in 2009 where it rose to over 60% and has been rising steadily since.">
-<image mime-type="image/jpg" src="../../media/CNX_Econv1-2_C30_08.jpg"/>
-</media>
-
-<caption>Federal debt is the sum of annual budget deficits and surpluses. Annual deficits do not always mean that the debt/GDP ratio is rising. During the 1960s and 1970s, the government often ran small deficits, but since the debt was growing more slowly than the economy, the debt/GDP ratio was declining over this time. In the 2008–2009 recession, the debt/GDP ratio rose sharply. (Source: <emphasis effect="italics">Economic Report of the President, Table B-20, </emphasis>http://www.gpo.gov/fdsys/pkg/ERP-2015/content-detail.html)</caption></figure><para id="fs-idm153789264">The next Clear it Up feature discusses how the government handles the national debt.</para><note id="fs-idm108397376" class="economics clearup">
-<title>What is the national debt?</title>
-<para id="fs-idm86003264">One year’s federal budget deficit causes the federal government to sell Treasury bonds to make up the difference between spending programs and tax revenues. The dollar value of all the outstanding Treasury bonds on which the federal government owes money is equal to the national debt.</para>
-</note>
-<media id="fs-idm257177424" alt="A graph has years on the x axis, starting at 1940 and progressing to present in 10-year intervals. The y asix has the federal debt as a percentage of G D P.  In 1940, Debt was about 50 percent of G D P.  It climbed to 120 percent by about 1946, before dropping gradually over the next 30 years to end up at 30 percent in the mid 1970s. It began climbing again in 1980, and progressed upward to 65 percent through most of the 1990s, and then increased throughout the  early 2000s to reach over 100 percent."><iframe width="660" height="371.4" src="https://fred.stlouisfed.org/graph/graph-landing.php?g=zjjU"/></media><para id="eip-324565421">Gross Federal Debt as a Percentage of Gross Domestic Product</para>
-</section>
-
-<section id="fs-idp55032960">
-<title>The Path from Deficits to Surpluses to Deficits</title>
-<para id="fs-idp93077808">Why did the budget deficits suddenly turn to surpluses from 1998 to 2001 and why did the surpluses return to deficits in 2002? Why did the deficit become so large after 2007? <link target-id="CNX_Econ_C30_008"/> suggests some answers. The graph combines the earlier information on total federal spending and taxes in a single graph, but focuses on the federal budget since 1990.</para><figure id="CNX_Econ_C30_008"><title>Total Government Spending and Taxes as a Share of GDP, 1990–2014 </title><media id="fs-idp64370432" alt="The graph shows that total spending and tax receipts rise and fall in contrast to one another. In 1990, total spending was around 22% whereas tax receipts which were just under 18%. In 2014, total spending was around 22% whereas tax receipts were around 17%.">
-<image mime-type="image/jpg" src="../../media/CNX_Econv1-2_C30_09.jpg"/>
-</media>
-
-<caption>When government spending exceeds taxes, the gap is the budget deficit. When taxes exceed spending, the gap is a budget surplus. The recessionary period starting in late 2007 saw higher spending and lower taxes, combining to create a large deficit in 2009. (Source: <emphasis effect="italics">Economic Report of the President, Tables B-21 and B-1,</emphasis>"http://www.gpo.gov/fdsys/pkg/ERP-2015/content-detail.html)</caption></figure><para id="fs-idp37104">Government spending as a share of GDP declined steadily through the 1990s. The biggest single reason was that defense spending declined from 5.2% of GDP in 1990 to 3.0% in 2000, but interest payments by the federal government also fell by about 1.0% of GDP. However, federal tax collections increased substantially in the later 1990s, jumping from 18.1% of GDP in 1994 to 20.8% in 2000. Powerful economic growth in the late 1990s fueled the boom in taxes. Personal income taxes rise as income goes up; payroll taxes rise as jobs and payrolls go up; corporate income taxes rise as profits go up. At the same time, government spending on transfer payments such as unemployment benefits, foods stamps, and welfare declined with more people working.</para>
-
-<para id="fs-idp48558272">This sharp increase in tax revenues and decrease in expenditures on transfer payments was largely unexpected even by experienced budget analysts, and so budget surpluses came as a surprise. However, in the early 2000s, many of these factors started running in reverse. Tax revenues sagged, due largely to the recession that started in March 2001, which reduced revenues. Congress enacted a series of tax cuts and President George W. Bush signed them into law, starting in 2001. In addition, government spending swelled due to increases in defense, healthcare, education, Social Security, and support programs for those who were hurt by the recession and the slow growth that followed. Deficits returned. When the severe recession hit in late 2007, spending climbed and tax collections fell to historically unusual levels, resulting in enormous deficits.</para><para id="fs-idm78718656">Longer-term U.S. budget forecasts, a decade or more into the future, predict enormous deficits. The higher deficits during the 2008-2009 recession have repercussions, and the demographics will be challenging. The primary reason is the “baby boom”—the exceptionally high birthrates that began in 1946, right after World War II, and lasted for about two decades. Starting in 2010, the front edge of the baby boom generation began to reach age 65, and in the next two decades, the proportion of Americans over the age of 65 will increase substantially. The current level of the payroll taxes that support Social Security and Medicare will fall well short of the projected expenses of these programs, as the following Clear It Up feature shows; thus, the forecast is for large budget deficits. A decision to collect more revenue to support these programs or to decrease benefit levels would alter this long-term forecast.</para><note id="fs-idm191407264" class="economics clearup">
-<title>What is the long-term budget outlook for Social Security and Medicare?</title>
-<para id="fs-idm22814288">In 1946, just one American in 13 was over age 65. By 2000, it was one in eight. By 2030, one American in five will be over age 65. Two enormous U.S. federal programs focus on the elderly—Social Security and Medicare. The growing numbers of elderly Americans will increase spending on these programs, as well as on Medicaid. The current payroll tax levied on workers, which supports all of Social Security and the hospitalization insurance part of Medicare, will not be enough to cover the expected costs, so what are the options?</para><para id="fs-idm123663328">Long-term projections from the Congressional Budget Office in 2009 are that Medicare and Social Security spending combined will rise from 8.3% of GDP in 2009 to about 13% by 2035 and about 20% in 2080. If this rise in spending occurs, without any corresponding rise in tax collections, then some mix of changes must occur: (1) taxes will need to increase dramatically; (2) other spending will need to be cut dramatically; (3) the retirement age and/or age receiving Medicare benefits will need to increase, or (4) the federal government will need to run extremely large budget deficits.</para><para id="fs-idp32241472">Some proposals suggest removing the cap on wages subject to the payroll tax, so that those with very high incomes would have to pay the tax on the entire amount of their wages. Other proposals suggest moving Social Security and Medicare from systems in which workers pay for retirees toward programs that set up accounts where workers save funds over their lifetimes and then draw out after retirement to pay for healthcare.</para>
-
-<para id="fs-idm129482928">The United States is not alone in this problem. Providing the promised level of retirement and health benefits to a growing proportion of elderly with a falling proportion of workers is an even more severe problem in many European nations and in Japan. How to pay promised levels of benefits to the elderly will be a difficult public policy decision.</para></note>
-<para id="fs-idp83668432">In the next module we shift to the use of fiscal policy to counteract business cycle fluctuations. In addition, we will explore proposals requiring a balanced budget—that is, for government spending and taxes to be equal each year. <link document="m64113">The Impacts of Government Borrowing</link> will also cover how fiscal policy and government borrowing will affect national saving—and thus affect economic growth and trade imbalances.</para></section>
-
-<section id="fs-idp67967024" class="summary">
-<title>Key Concepts and Summary</title>
-<para id="fs-idp50811760">For most of the twentieth century, the U.S. government took on debt during wartime and then paid down that debt slowly in peacetime. However, it took on quite substantial debts in peacetime in the 1980s and early 1990s, before a brief period of budget surpluses from 1998 to 2001, followed by a return to annual budget deficits since 2002, with very large deficits in the recession of 2008 and 2009. A budget deficit or budget surplus is measured annually. Total government debt or national debt is the sum of budget deficits and budget surpluses over time.</para>
-</section>
-
-<section id="fs-idm97027088" class="self-check-questions">
-<title>Self-Check Questions</title>
-<exercise id="fs-idm114122368">
-<problem id="fs-idm104349696">
-<para id="fs-idp28727232">Debt has a certain self-reinforcing quality to it. There is one category of government spending that automatically increases along with the federal debt. What is it?</para>
-</problem>
-<solution id="fs-idm46191264">
-<para id="fs-idm100046192">As debt increases, interest payments also rise, so that the deficit grows even if we keep other government spending constant.</para>
-</solution>
-</exercise>
-<exercise id="fs-idm117195504">
-<problem id="fs-idp14883200">
-<para id="fs-idm151519184">True or False:</para>
-<list id="fs-idm173663152" list-type="enumerated" number-style="lower-alpha">
-<item>Federal spending has grown substantially in recent decades.</item>
-<item>By world standards, the U.S. government controls a relatively large share of the U.S. economy.</item>
-<item>A majority of the federal government’s revenue is collected through personal income taxes.</item>
-<item>Education spending is slightly larger at the federal level than at the state and local level.</item>
-<item>State and local government spending has not risen much in recent decades.</item>
-<item>Defense spending is higher now than ever.</item>
-<item>The share of the economy going to federal taxes has increased substantially over time.</item>
-<item>Foreign aid is a large portion, although less than half, of federal spending.</item>
-<item>Federal deficits have been very large for the last two decades.</item>
-<item>The accumulated federal debt as a share of GDP is near an all-time high.</item>
-</list>
-</problem>
-<solution id="fs-idp1224448">
-<list id="fs-idm14504192" list-type="enumerated" number-style="lower-alpha">
-<item> As a share of GDP, this is false. In nominal dollars, it is true.</item>
-<item> False.</item>
-<item> False.</item>
-<item> False. Education spending is much higher at the state level.</item>
-<item> False. As a share of GDP, it is up about 50.</item>
-<item> As a share of GDP, this is false, and in real dollars, it is also false.</item>
-<item> False.</item>
-<item> False; it’s about 1%.</item>
-<item> False. Although budget deficits were large in 2003 and 2004, and continued into the later 2000s, the federal government ran budget surpluses from 1998–2001.</item>
-<item> False.</item>
-</list>
-</solution>
-</exercise>
-</section>
-
-
-
-<section id="fs-idp15982064" class="review-questions">
-<title>Review Questions</title>
-<exercise id="fs-idm41960656">
-<problem id="fs-idp111476128">
-<para id="fs-idp51261664">What has been the general pattern of U.S. budget deficits in recent decades?</para>
-</problem>
-</exercise>
-<exercise id="fs-idm37414240">
-<problem id="fs-idp107932016">
-<para id="fs-idp23033792">What is the difference between a budget deficit and the national debt?</para>
-</problem>
-</exercise>
-</section>
-
-<section id="fs-idm161180464" class="critical-thinking">
-<title>Critical Thinking Questions</title>
-<exercise id="fs-idm27785392">
-<problem id="fs-idm135919232">
-<para id="fs-idp3162064">In a booming economy, is the federal government more likely to run surpluses or deficits? What are the various factors at play?</para>
-</problem>
-</exercise>
-<exercise id="fs-idm35998752">
-<problem id="fs-idm138365536">
-<para id="fs-idm75321248">Economist Arthur Laffer famously pointed out that, in some cases, income tax revenue can actually go up when tax rates go down. Why might this be the case?</para>
-</problem>
-</exercise>
-<exercise id="fs-idm4836896">
-<problem id="fs-idm12146592">
-<para id="fs-idm55376912">Is it possible for a nation to run budget deficits and still have its debt/GDP ratio fall? Explain your answer. Is it possible for a nation to run budget surpluses and still have its debt/GDP ratio rise? Explain your answer.</para>
-</problem>
-</exercise>
-</section>
-
-
-<section id="fs-idm124944" class="problems">
-<title>Problems</title>
-<exercise id="fs-idp281856">
-<problem id="fs-idm145053328">
-<para id="fs-idm43569024">If a government runs a budget deficit of $10 billion dollars each year for ten years, then a surplus of $1 billion for five years, and then a balanced budget for another ten years, what is the government debt?</para>
-</problem>
-</exercise>
-</section>
-
-
-<section id="fs-idp136231792" class="references">
-<title>References</title>
-<para id="fs-idp67822000">Eisner, Robert. <emphasis effect="italics">The Great Deficit Scares: The Federal Budget, Trade, and Social Security</emphasis>. New York: Priority Press Publications, 1997.</para>
-
-<para id="fs-idm955088">Weisman, Jonathan, and Ashley Parker. “Republicans Back Down, Ending Crisis Over Shutdown and Debt Limit.”<emphasis effect="italics"> The New York Times</emphasis>, October 16, 2013. http://www.nytimes.com/2013/10/17/us/congress-budget-debate.html.</para><para id="fs-idm1058080">Wessel, David. <emphasis effect="italics">Red Ink: Inside the High-Stakes Politics of Federal Budget</emphasis>. New York: Crown Publishing Group, 2013.</para>
-</section>
-
-
-
-</content>
-<glossary>
-<definition id="fs-idp99290000">
-<term>national debt</term><meaning id="fs-idm55510208">the total accumulated amount the government has borrowed, over time, and not yet paid back</meaning>
-</definition>
-</glossary>
-</document>
+  <title>Federal Deficits and the National Debt</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:content-id>m63972</md:content-id>
+    <md:title>Federal Deficits and the National Debt</md:title>
+    <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para><list id="list-00001">
+  <item>Explain the U.S. federal budget in terms of  annual debt and accumulated debt</item>
+  <item>Understand how economic growth or decline can influence a budget surplus or budget deficit</item>
+  </list></md:abstract>
+    <md:uuid>b0c796d2-9e33-48c0-9fb6-52ac8081422a</md:uuid>
+  </metadata>
+  
+  <content>
+  <para id="fs-idm125221504">Having discussed the <term class="no-emphasis" id="term-00001">revenue</term> (taxes) and expense (spending) side of the budget, we now turn to the annual budget deficit or surplus, which is the difference between the tax revenue collected and spending over a fiscal year, which starts October 1 and ends September 30 of the next year.</para>
+  
+  <para id="fs-idm44867520"><link target-id="CNX_Econ_C30_006"/> shows the pattern of annual federal budget deficits and surpluses, back to 1930, as a share of GDP. When the line is above the horizontal axis, the budget is in surplus. When the line is below the horizontal axis, a budget deficit occurred. Clearly, the biggest deficits as a share of GDP during this time were incurred to finance World War II. Deficits were also large during the 1930s, the 1980s, the early 1990s, 2007–2009 (the Great Recession), and 2020 (the pandemic-induced recession).</para><figure id="CNX_Econ_C30_006"><title>Pattern of Federal Budget Deficits and Surpluses, 1929–2020</title><media id="fs-idm144610288" alt="The graph shows that federal deficit (as a percentage of GDP) skyrocketed between the late 1930s and mid-1940s. In 2009, it was around –10%. In 2014, the federal deficit was close to –3%.">
+  <image mime-type="image/jpg" src="../../media/CNX_Econ3ev1-2_C30_07.jpg"/>
+  </media>
+  
+  <caption>The federal government has run budget deficits for decades. The budget was briefly in surplus in the late 1990s, before heading into deficit again in the first decade of the 2000s—and especially deep deficits in the 2007-2009 and 2020 recessions. (Source: Federal Reserve Bank of St. Louis (FRED). http://research.stlouisfed.org/fred2/series/FYFSGDA188S) </caption></figure>
+  <media id="fs-idm254663984" alt="A graph has years on the X axis from 1930 until present in ten-year intervals. The y axis is labeled percent of G D P and ranges from negative 30 to positive 5 in 5-percent intervals. In 1930, the deficit was about at the zero line, and it the deficit was 5 percent of GDP for most of the 1930s. It went down to 25 percent of G D P in the 1940s before returning to a fluctuating point between 0 and 5 percent.  There were surpluses in the late 1940s, mid-1950s, and late 1990s."><iframe width="660" height="371.4" src="https://fred.stlouisfed.org/graph/graph-landing.php?g=CW0u"/></media>
+  <para id="eip-4474743434">Federal Surplus or Deficit as a Percentage of Gross Domestic Product</para><section id="fs-idp121260656">
+  <title>Debt/GDP Ratio</title>
+  <para id="fs-idp32725808">Another useful way to view the budget deficit is through the prism of accumulated debt rather than annual deficits. The <term id="term-00002">national debt</term> refers to the total amount that the government has borrowed over time. In contrast, the budget deficit refers to how much the government has borrowed in one particular year. <link target-id="CNX_Econ_C30_007"/> shows the ratio of debt/GDP since 1966. Until the 1970s, the debt/GDP ratio revealed a fairly clear pattern of federal borrowing. The government ran up large deficits and raised the debt/GDP ratio in World War II, but from the 1950s to the 1970s the government ran either surpluses or relatively small deficits, and so the debt/GDP ratio drifted down. Large deficits in the 1980s and early 1990s caused the ratio to rise sharply. When budget surpluses arrived from 1998 to 2001, the debt/GDP ratio declined substantially. The budget deficits starting in 2002 then tugged the debt/GDP ratio higher—with a big jump when the recession took hold in 2008–2009. There was another leap in the ratio in 2020.</para><figure id="CNX_Econ_C30_007"><title>Federal Debt as a Percentage of GDP, 1942–2014</title><media id="fs-idm1841680" alt="The graph shows that federal debt (as a percentage of GDP) was highest in the late 1940s before steadily declining down beneath 30% in the mid-1970s. Another increase took place during the recession in 2009 where it rose to over 60% and has been rising steadily since.">
+  <image mime-type="image/jpg" src="../../media/CNX_Econ3ev1-2_C30_08.jpg"/>
+  </media>
+  
+  <caption>Federal debt is the sum of annual budget deficits and surpluses. Annual deficits do not always mean that the debt/GDP ratio is rising. During the 1960s and 1970s, the government often ran small deficits, but since the debt was growing more slowly than the economy, the debt/GDP ratio was declining over this time. In the 2008–2009 recession, the debt/GDP ratio rose sharply, before leveling off through the later 2010s. In 2020, it rose sharply again. (Source: https://fred.stlouisfed.org/series/GFDEGDQ188S)</caption></figure><para id="fs-idm153789264">The next Clear it Up feature discusses how the government handles the national debt.</para><note id="fs-idm108397376" class="economics clearup">
+  <title>What is the national debt?</title>
+  <para id="fs-idm86003264">One year’s federal budget deficit causes the federal government to sell Treasury bonds to make up the difference between spending programs and tax revenues. The dollar value of all the outstanding Treasury bonds on which the federal government owes money is equal to the national debt.</para>
+  </note>
+  <media id="fs-idm257177424" alt="A graph has years on the x axis, starting at 1940 and progressing to present in 10-year intervals. The y asix has the federal debt as a percentage of G D P.  In 1940, Debt was about 50 percent of G D P.  It climbed to 120 percent by about 1946, before dropping gradually over the next 30 years to end up at 30 percent in the mid 1970s. It began climbing again in 1980, and progressed upward to 65 percent through most of the 1990s, and then increased throughout the  early 2000s to reach over 100 percent."><iframe width="660" height="371.4" src="https://fred.stlouisfed.org/graph/graph-landing.php?g=zjjU"/></media><para id="eip-324565421">Gross Federal Debt as a Percentage of Gross Domestic Product</para>
+  </section>
+  
+  <section id="fs-idp55032960">
+  <title>The Path from Deficits to Surpluses to Deficits</title>
+  <para id="fs-idp93077808">Why did the budget deficits suddenly turn to surpluses from 1998 to 2001 and why did the surpluses return to deficits in 2002? Why did the deficit become so large in 2020? <link target-id="CNX_Econ_C30_008"/> suggests some answers. The graph combines the earlier information on total federal spending and taxes in a single graph, but focuses on the federal budget since 1990.</para><figure id="CNX_Econ_C30_008"><title>Total Government Spending and Taxes as a Share of GDP, 1990–2014 </title><media id="fs-idp64370432" alt="The graph shows that total spending and tax receipts rise and fall in contrast to one another. In 1990, total spending was around 22% whereas tax receipts which were just under 18%. In 2014, total spending was around 22% whereas tax receipts were around 17%.">
+  <image mime-type="image/jpg" src="../../media/CNX_Econ3ev1-2_C30_09.jpg"/>
+  </media>
+  
+  <caption>When government spending exceeds taxes, the gap is the budget deficit. When taxes exceed spending, the gap is a budget surplus. The recessionary period starting in late 2007 saw higher spending and lower taxes, combining to create a large deficit in 2009. The same thing happened in a more extreme way in 2020. (Source: <emphasis effect="italics">Economic Report of the President, Tables B-46</emphasis>, https://www.govinfo.gov/app/collection/erp/2021)</caption></figure><para id="fs-idp37104">Government spending as a share of GDP declined steadily through the 1990s. The biggest single reason was that defense spending declined from 5.2% of GDP in 1990 to 3.0% in 2000, but interest payments by the federal government also fell by about 1.0% of GDP. However, federal tax collections increased substantially in the later 1990s, jumping from 18.1% of GDP in 1994 to 20.8% in 2000. Powerful economic growth in the late 1990s fueled the boom in taxes. Personal income taxes rise as income goes up; payroll taxes rise as jobs and payrolls go up; corporate income taxes rise as profits go up. At the same time, government spending on transfer payments such as unemployment benefits, foods stamps, and welfare declined with more people working.</para>
+  
+  <para id="fs-idp48558272">This sharp increase in tax revenues and decrease in expenditures on transfer payments was largely unexpected even by experienced budget analysts, and so budget surpluses came as a surprise. However, in the early 2000s, many of these factors started running in reverse. Tax revenues sagged, due largely to the recession that started in March 2001, which reduced revenues. Congress enacted a series of tax cuts and President George W. Bush signed them into law, starting in 2001. In addition, government spending swelled due to increases in defense, healthcare, education, Social Security, and support programs for those who were hurt by the recession and the slow growth that followed. Deficits returned. When the severe recession hit in late 2007, spending climbed and tax collections fell to historically unusual levels, resulting in enormous deficits.</para><para id="fs-idm78718656">Longer-term U.S. budget forecasts, a decade or more into the future, predict enormous deficits. The higher deficits during the 2007–2009 Great Recession and the 2020 pandemic-induced recession have repercussions, and the demographics will be challenging. The primary reason is the “baby boom”—the exceptionally high birthrates that began in 1946, right after World War II, and lasted for about two decades. Starting in 2010, the front edge of the baby boom generation reached age 65, and in the next two decades, the proportion of Americans over the age of 65 will increase substantially. During the 2020 recession, we saw another wave of early retirements, and we are now in the middle of this major demographic shift. The current level of the payroll taxes that support Social Security and Medicare will fall well short of the projected expenses of these programs, as the following Clear It Up feature shows; thus, the forecast is for increasingly large budget deficits. A decision to collect more revenue to support these programs or to decrease benefit levels would alter this long-term forecast.</para><note id="fs-idm191407264" class="economics clearup">
+  <title>What is the long-term budget outlook for Social Security and Medicare?</title>
+  <para id="fs-idm22814288">In 1946, just one American in 13 was over age 65. By 2000, it was one in eight. By 2030, one American in five will be over age 65. Two enormous U.S. federal programs focus on the elderly—Social Security and Medicare. The growing numbers of elderly Americans will increase spending on these programs, as well as on Medicaid. The current payroll tax levied on workers, which supports all of Social Security and the hospitalization insurance part of Medicare, will not be enough to cover the expected costs, so what are the options?</para><para id="fs-idm123663328">Long-term projections from the Congressional Budget Office in 2021 are that Medicare and Social Security spending combined will rise from 8.7% of GDP in 2021 to about 10.8% by 2027–2031. If this rise in spending occurs, without any corresponding rise in tax collections, then some mix of changes must occur: (1) taxes will need to increase dramatically; (2) other spending will need to be cut dramatically; (3) the retirement age and/or age receiving Medicare benefits will need to increase, or (4) the federal government will need to run extremely large budget deficits.</para><para id="fs-idp32241472">Some proposals suggest removing the cap on wages subject to the payroll tax, so that those with very high incomes would have to pay the tax on the entire amount of their wages. Other proposals suggest moving Social Security and Medicare from systems in which workers pay for retirees toward programs that set up accounts where workers save funds over their lifetimes and then draw out after retirement to pay for healthcare.</para>
+  
+  <para id="fs-idm129482928">The United States is not alone in this problem. Providing the promised level of retirement and health benefits to a growing proportion of elderly with a falling proportion of workers is an even more severe problem in many European nations and in Japan. How to pay promised levels of benefits to the elderly will be a difficult public policy decision.</para></note>
+  <para id="fs-idp83668432">In the next module we shift to the use of fiscal policy to counteract business cycle fluctuations. In addition, we will explore proposals requiring a balanced budget—that is, for government spending and taxes to be equal each year. <link document="m64113">The Impacts of Government Borrowing</link> will also cover how fiscal policy and government borrowing will affect national saving—and thus affect economic growth and trade imbalances.</para></section>
+  
+  <section id="fs-idp67967024" class="summary">
+  <title>Key Concepts and Summary</title>
+  <para id="fs-idp50811760">For most of the twentieth century, the U.S. government took on debt during wartime and then paid down that debt slowly in peacetime. However, it took on quite substantial debts in peacetime in the 1980s and early 1990s, before a brief period of budget surpluses from 1998 to 2001, followed by a return to annual budget deficits since 2002, with very large deficits in the recession of 2008 and 2009. A budget deficit or budget surplus is measured annually. Total government debt or national debt is the sum of budget deficits and budget surpluses over time.</para>
+  </section>
+  
+  <section id="fs-idm97027088" class="self-check-questions">
+  <title>Self-Check Questions</title>
+  <exercise id="fs-idm114122368">
+  <problem id="fs-idm104349696">
+  <para id="fs-idp28727232">Debt has a certain self-reinforcing quality to it. There is one category of government spending that automatically increases along with the federal debt. What is it?</para>
+  </problem>
+  <solution id="fs-idm46191264">
+  <para id="fs-idm100046192">As debt increases, interest payments also rise, so that the deficit grows even if we keep other government spending constant.</para>
+  </solution>
+  </exercise>
+  <exercise id="fs-idm117195504">
+  <problem id="fs-idp14883200">
+  <para id="fs-idm151519184">True or False:</para>
+  <list id="fs-idm173663152" list-type="enumerated" number-style="lower-alpha">
+  <item>Federal spending has grown substantially in recent decades.</item>
+  <item>By world standards, the U.S. government controls a relatively large share of the U.S. economy.</item>
+  <item>A majority of the federal government’s revenue is collected through personal income taxes.</item>
+  <item>Education spending is slightly larger at the federal level than at the state and local level.</item>
+  <item>State and local government spending has not risen much in recent decades.</item>
+  <item>Defense spending is higher now than ever.</item>
+  <item>The share of the economy going to federal taxes has increased substantially over time.</item>
+  <item>Foreign aid is a large portion, although less than half, of federal spending.</item>
+  <item>Federal deficits have been very large for the last two decades.</item>
+  <item>The accumulated federal debt as a share of GDP is near an all-time high.</item>
+  </list>
+  </problem>
+  <solution id="fs-idp1224448">
+  <list id="fs-idm14504192" list-type="enumerated" number-style="lower-alpha">
+  <item> As a share of GDP, this is false. In nominal dollars, it is true.</item>
+  <item> False.</item>
+  <item> False.</item>
+  <item> False. Education spending is much higher at the state level.</item>
+  <item> False. As a share of GDP, it is up about 50.</item>
+  <item> As a share of GDP, this is false, and in real dollars, it is also false.</item>
+  <item> False.</item>
+  <item> False; it’s about 1%.</item>
+  <item> False. Although budget deficits were large in 2003 and 2004, and continued into the later 2000s, the federal government ran budget surpluses from 1998–2001.</item>
+  <item> False.</item>
+  </list>
+  </solution>
+  </exercise>
+  </section>
+  
+  
+  
+  <section id="fs-idp15982064" class="review-questions">
+  <title>Review Questions</title>
+  <exercise id="fs-idm41960656">
+  <problem id="fs-idp111476128">
+  <para id="fs-idp51261664">What has been the general pattern of U.S. budget deficits in recent decades?</para>
+  </problem>
+  </exercise>
+  <exercise id="fs-idm37414240">
+  <problem id="fs-idp107932016">
+  <para id="fs-idp23033792">What is the difference between a budget deficit and the national debt?</para>
+  </problem>
+  </exercise>
+  </section>
+  
+  <section id="fs-idm161180464" class="critical-thinking">
+  <title>Critical Thinking Questions</title>
+  <exercise id="fs-idm27785392">
+  <problem id="fs-idm135919232">
+  <para id="fs-idp3162064">In a booming economy, is the federal government more likely to run surpluses or deficits? What are the various factors at play?</para>
+  </problem>
+  </exercise>
+  <exercise id="fs-idm35998752">
+  <problem id="fs-idm138365536">
+  <para id="fs-idm75321248">Economist Arthur Laffer famously pointed out that, in some cases, income tax revenue can actually go up when tax rates go down. Why might this be the case?</para>
+  </problem>
+  </exercise>
+  <exercise id="fs-idm4836896">
+  <problem id="fs-idm12146592">
+  <para id="fs-idm55376912">Is it possible for a nation to run budget deficits and still have its debt/GDP ratio fall? Explain your answer. Is it possible for a nation to run budget surpluses and still have its debt/GDP ratio rise? Explain your answer.</para>
+  </problem>
+  </exercise>
+  </section>
+  
+  
+  <section id="fs-idm124944" class="problems">
+  <title>Problems</title>
+  <exercise id="fs-idp281856">
+  <problem id="fs-idm145053328">
+  <para id="fs-idm43569024">If a government runs a budget deficit of $10 billion dollars each year for ten years, then a surplus of $1 billion for five years, and then a balanced budget for another ten years, what is the government debt?</para>
+  </problem>
+  </exercise>
+  </section>
+  
+  
+  <section id="fs-idp136231792" class="references">
+  <title>References</title>
+  <para id="fs-idp67822000">Eisner, Robert. <emphasis effect="italics">The Great Deficit Scares: The Federal Budget, Trade, and Social Security</emphasis>. New York: Priority Press Publications, 1997.</para>
+  
+  <para id="fs-idm955088">Weisman, Jonathan, and Ashley Parker. “Republicans Back Down, Ending Crisis Over Shutdown and Debt Limit.”<emphasis effect="italics"> The New York Times</emphasis>, October 16, 2013. http://www.nytimes.com/2013/10/17/us/congress-budget-debate.html.</para><para id="fs-idm1058080">Wessel, David. <emphasis effect="italics">Red Ink: Inside the High-Stakes Politics of Federal Budget</emphasis>. New York: Crown Publishing Group, 2013.</para>
+  </section>
+  
+  
+  
+  </content>
+  <glossary>
+  <definition id="fs-idp99290000">
+  <term>national debt</term><meaning id="fs-idm55510208">the total accumulated amount the government has borrowed, over time, and not yet paid back</meaning>
+  </definition>
+  </glossary>
+  </document>
