@@ -1,80 +1,80 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
 
-<title>Causes of Inflation in Various Countries and Regions</title>
-<metadata xmlns:md="http://cnx.rice.edu/mdml">
-  <md:content-id>m64124</md:content-id>
-  <md:title>Causes of Inflation in Various Countries and Regions</md:title>
-  <md:abstract>By the end of this section, you will be able to:
-<list id="list-00001">
-<item>Identify the causes and effects of inflation in various economic markets</item>
-<item>Explain the significance of a converging economy</item>
-</list></md:abstract>
-  <md:uuid>89e97c01-b486-4ee3-8423-7046a7fd6493</md:uuid>
-</metadata>
-
-<content>
-<para id="Ch32Mod04P01">Policymakers of the high-income economies appear to have learned some lessons about fighting <term class="no-emphasis" id="term-00001">inflation</term>. First, whatever happens with aggregate supply and aggregate demand in the short run, countries can use monetary policy to prevent inflation from becoming entrenched in the economy in the medium and long term. Second, there is no long-run gain to letting inflation become established. In fact, allowing inflation to become lasting and persistent poses undesirable risks and tradeoffs. When inflation is high, businesses and individuals need to spend time and effort worrying about protecting themselves against inflation, rather than seeking better ways to serve customers. In short, the high-income economies appear to have both a political consensus to hold inflation low and the economic tools to do so.</para><para id="Ch32Mod04P02">In a number of middle- and low-income economies around the world, inflation is far from a solved problem. In the early 2000s, Turkey experienced inflation of more than 50% per year for several years. Belarus had inflation of about 100% per year from 2000 to 2001. From 2008 to 2010, Venezuela and Myanmar had inflation rates of 20% to 30% per year. Indonesia, Iran, Nigeria, the Russian Federation, and Ukraine all had double-digit inflation for most of the years from 2000 to 2010. Zimbabwe had hyperinflation, with inflation rates that went from more than 100% per year in the mid-2000s to a rate of several million percent in 2008.</para>
-<para id="Ch32Mod04P03">In these countries, the problem of very high inflation generally arises from huge budget deficits, which the government finances by printing its domestic currency. This is a case of “too much money chasing too few goods.” In the case of Zimbabwe, the government covered its widening deficits by printing ever higher currency notes, including a $100 trillion bill. By late 2008, the money was nearly worthless, which led Zimbabwe to adopt the U.S. dollar, immediately halting their hyperinflation. In some countries, the central bank makes loans to politically favored firms, essentially printing money to do so, and this too leads to higher inflation.</para><para id="Ch32Mod04P04">A number of countries have managed to sustain solid levels of economic growth for sustained periods of time with inflation levels that would sound high by recent U.S. standards, like 10% to 30% per year. In such economies, the governments index most contracts, wage levels, and interest rates to inflation. Indexing wage contracts and interest rates means that they will increase when inflation increases to retain purchasing power. When wages do not rise as price levels rise, this leads to a decline in the real wage rate and a decrease in the standard of living. Likewise, interest rates that are not indexed mean that money lenders will receive payment in devalued currency and will also lose purchasing power on monies that they lent. It is clearly possible—and perhaps sometimes necessary—for a <term id="term-00002">converging economy</term> (the economy of a country that demonstrates the ability to catch up to the technology leaders) to live with a degree of uncertainty over inflation that would be politically unacceptable in the high-income economies.
-</para><section id="Ch32Mod04_summ" class="summary">
-<title> Concepts and Summary</title>
-<para id="Ch32Mod04P05">Most high-income economies have learned that their central banks can control inflation in the medium and the long term. In addition, they have learned that inflation has no long-term benefits but potentially substantial long-term costs if it distracts businesses from focusing on real productivity gains. However, smaller economies around the world may face more volatile inflation because their smaller economies can be unsettled by international movements of capital and goods.</para>
-</section>
-<section id="Ch32Mod04_sques" class="self-check-questions">
-<title>Self-Check Questions</title>
-<exercise id="Ch32Mod04_sques01">
-<problem id="Ch32Mod04_sques01p">
-<para id="Ch32Mod04P06">How does indexing wage contracts to inflation help workers?</para>
-</problem>
-<solution id="Ch32Mod04_sques01s">
-<para id="Ch32Mod04P07">Indexing wage contracts means wages rise when prices rise. This means what you can buy with your wages, your standard of living, remains the same. When wages are not indexed, or rise with inflation, your standard of living falls.</para>
-</solution>
-</exercise>
-<exercise id="Ch32Mod04_sques02">
-<problem id="Ch32Mod04_sques02p">
-<para id="Ch32Mod04P08">Use the AD/AS model to show how increases in government spending can lead to more inflation.</para></problem>
-<solution id="Ch32Mod04_sques02s">
-<para id="Ch32Mod04P09">An increase in government spending shifts the AD curve to the right, raising both income and price levels.</para>
-</solution>
-</exercise>
-<exercise id="Ch32Mod04_sques03">
-<problem id="Ch32Mod04_sques03p">
-<para id="Ch32Mod04P10">Show, using the AD/AS model, how governments can use monetary policy to decrease the price level.</para></problem>
-<solution id="Ch32Mod04_sques03s">
-<para id="Ch32Mod04P11">A decrease in the money supply will shift the AD curve leftward and reduce income and price levels. Banks will have less money to lend. Interest rates will increase, affecting consumption and investment, which are both key determinants of aggregate demand.</para>
-</solution>
-</exercise>
-</section>
-<section id="Ch32Mod04_rques" class="review-questions">
-<title>Review Questions</title>
-<exercise id="Ch32Mod04_rques01">
-<problem id="Ch32Mod04_rques01p">
-<para id="Ch32Mod04P12">Is inflation likely to be a severe problem for at least some high-income economies in the near future?</para>
-</problem>
-</exercise>
-<exercise id="Ch32Mod04_rques02">
-<problem id="Ch32Mod04_rques02p">
-<para id="Ch32Mod04P13">Is inflation likely to be a problem for at least some low- and middle-income economies in the near future?</para></problem>
-</exercise>
-</section>
-<section id="Ch32Mod04_ctques" class="critical-thinking">
-<title>Critical Thinking Questions</title>
-<exercise id="Ch32Mod04_ctques01">
-        <problem id="Ch32Mod04_ctques01p">
-<para id="Ch32Mod04P14">Why are inflationary dangers lower in the high-income economies than in low-income and middle-income economies?</para></problem>
-</exercise>
-</section>
-<section id="Ch32Mod04_prob" class="problems">
-<title>Problems</title>
-<exercise id="Ch32Mod04_prob01">
-<problem id="Ch32Mod04_prob01p">
-<para id="Ch32Mod04P15">Retrieve inflation data from The World Bank data base (http://databank.worldbank.org/data/home.aspx) for India, Spain, and South Africa for 2011–2015. Prepare a chart that compares India, Spain, and South Africa based on the data. Describe the key differences between the countries. Rank these countries as high-, medium-, and low-income. Explain what is surprising or expected about the data.</para></problem>
-</exercise>
-</section>
-</content>
-<glossary>
-<definition id="Ch32Mod04GLO01">
-<term>converging economy</term>
-<meaning id="Ch32Mod04GLO01m">economy of a country that has demonstrated the ability to catch up to the technology leaders by investing in both physical and human capital</meaning>
-</definition>
-</glossary>
-</document>
+  <title>Causes of Inflation in Various Countries and Regions</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:content-id>m64124</md:content-id>
+    <md:title>Causes of Inflation in Various Countries and Regions</md:title>
+    <md:abstract>By the end of this section, you will be able to:
+  <list id="list-00001">
+  <item>Identify the causes and effects of inflation in various economic markets</item>
+  <item>Explain the significance of a converging economy</item>
+  </list></md:abstract>
+    <md:uuid>89e97c01-b486-4ee3-8423-7046a7fd6493</md:uuid>
+  </metadata>
+  
+  <content>
+  <para id="Ch32Mod04P01">Policymakers of the high-income economies appear to have learned some lessons about fighting <term class="no-emphasis" id="term-00001">inflation</term>. First, whatever happens with aggregate supply and aggregate demand in the short run, countries can use monetary policy to prevent inflation from becoming entrenched in the economy in the medium and long term. Second, there is no long-run gain to letting inflation become established. In fact, allowing inflation to become lasting and persistent poses undesirable risks and tradeoffs. When inflation is high, businesses and individuals need to spend time and effort worrying about protecting themselves against inflation, rather than seeking better ways to serve customers. In short, the high-income economies appear to have both a political consensus to hold inflation low and the economic tools to do so. Despite this, periods of growing inflation can stagnate economic growth and lead to significant political consequences for leaders. In 2022, the U.S. inflation rate reached 9.1%, an unexpected peak that the country hadn't seen since 1981. As is often the case, President Joe Biden was held politically responsible, and negotiated with Congress to pass a massive economic and climate bill titled the Inflation Reduction Act.</para><para id="Ch32Mod04P02">In a number of middle- and low-income economies around the world, inflation is far from a solved problem. In the early 2000s, Turkey experienced inflation of more than 50% per year for several years and continues to experience high inflation today. Belarus had inflation of about 100% per year from 2000 to 2001. From 2008 to 2010, Venezuela and Myanmar had inflation rates of 20% to 30% per year. Indonesia, Iran, Nigeria, the Russian Federation, and Ukraine all had double-digit inflation for most of the years from 2000 to 2010. Zimbabwe had hyperinflation, with inflation rates that went from more than 100% per year in the mid-2000s to a rate of several million percent in 2008.</para>
+  <para id="Ch32Mod04P03">In these countries, the problem of very high inflation generally arises from huge budget deficits, which the government finances by printing its domestic currency. This is a case of “too much money chasing too few goods.” In the case of Venezuela, beginning in 2016 the government covered its widening deficits by printing ever higher currency notes, with inflation reaching 1,000,000% by 2018. The crisis continues today, with high rates of inflation and high unemployment (over 40%). There is some discussion of dollarization, or a conversion from Venezuelan bolivars to U.S. dollars as the main currency, as a solution to the hyperinflation. Even in 2019, over 50% of transactions in Venezuela were reportedly using U.S. dollars, and banks issued debit cards denominated in U.S. dollars in 2021.</para><para id="Ch32Mod04P04">A number of countries have managed to sustain solid levels of economic growth for sustained periods of time with inflation levels that would sound high by recent U.S. standards, like 10% to 30% per year. In such economies, the governments index most contracts, wage levels, and interest rates to inflation. Indexing wage contracts and interest rates means that they will increase when inflation increases to retain purchasing power. When wages do not rise as price levels rise, this leads to a decline in the real wage rate and a decrease in the standard of living. Likewise, interest rates that are not indexed mean that money lenders will receive payment in devalued currency and will also lose purchasing power on monies that they lent. It is clearly possible—and perhaps sometimes necessary—for a <term id="term-00002">converging economy</term> (the economy of a country that demonstrates the ability to catch up to the technology leaders) to live with a degree of uncertainty over inflation that would be politically unacceptable in the high-income economies.
+  </para><section id="Ch32Mod04_summ" class="summary">
+  <title> Concepts and Summary</title>
+  <para id="Ch32Mod04P05">Most high-income economies have learned that their central banks can control inflation in the medium and the long term. In addition, they have learned that inflation has no long-term benefits but potentially substantial long-term costs if it distracts businesses from focusing on real productivity gains. However, smaller economies around the world may face more volatile inflation because their smaller economies can be unsettled by international movements of capital and goods.</para>
+  </section>
+  <section id="Ch32Mod04_sques" class="self-check-questions">
+  <title>Self-Check Questions</title>
+  <exercise id="Ch32Mod04_sques01">
+  <problem id="Ch32Mod04_sques01p">
+  <para id="Ch32Mod04P06">How does indexing wage contracts to inflation help workers?</para>
+  </problem>
+  <solution id="Ch32Mod04_sques01s">
+  <para id="Ch32Mod04P07">Indexing wage contracts means wages rise when prices rise. This means what you can buy with your wages, your standard of living, remains the same. When wages are not indexed, or rise with inflation, your standard of living falls.</para>
+  </solution>
+  </exercise>
+  <exercise id="Ch32Mod04_sques02">
+  <problem id="Ch32Mod04_sques02p">
+  <para id="Ch32Mod04P08">Use the AD/AS model to show how increases in government spending can lead to more inflation.</para></problem>
+  <solution id="Ch32Mod04_sques02s">
+  <para id="Ch32Mod04P09">An increase in government spending shifts the AD curve to the right, raising both income and price levels.</para>
+  </solution>
+  </exercise>
+  <exercise id="Ch32Mod04_sques03">
+  <problem id="Ch32Mod04_sques03p">
+  <para id="Ch32Mod04P10">Show, using the AD/AS model, how governments can use monetary policy to decrease the price level.</para></problem>
+  <solution id="Ch32Mod04_sques03s">
+  <para id="Ch32Mod04P11">A decrease in the money supply will shift the AD curve leftward and reduce income and price levels. Banks will have less money to lend. Interest rates will increase, affecting consumption and investment, which are both key determinants of aggregate demand.</para>
+  </solution>
+  </exercise>
+  </section>
+  <section id="Ch32Mod04_rques" class="review-questions">
+  <title>Review Questions</title>
+  <exercise id="Ch32Mod04_rques01">
+  <problem id="Ch32Mod04_rques01p">
+  <para id="Ch32Mod04P12">Is inflation likely to be a severe problem for at least some high-income economies in the near future?</para>
+  </problem>
+  </exercise>
+  <exercise id="Ch32Mod04_rques02">
+  <problem id="Ch32Mod04_rques02p">
+  <para id="Ch32Mod04P13">Is inflation likely to be a problem for at least some low- and middle-income economies in the near future?</para></problem>
+  </exercise>
+  </section>
+  <section id="Ch32Mod04_ctques" class="critical-thinking">
+  <title>Critical Thinking Questions</title>
+  <exercise id="Ch32Mod04_ctques01">
+          <problem id="Ch32Mod04_ctques01p">
+  <para id="Ch32Mod04P14">Why are inflationary dangers lower in the high-income economies than in low-income and middle-income economies?</para></problem>
+  </exercise>
+  </section>
+  <section id="Ch32Mod04_prob" class="problems">
+  <title>Problems</title>
+  <exercise id="Ch32Mod04_prob01">
+  <problem id="Ch32Mod04_prob01p">
+  <para id="Ch32Mod04P15">Retrieve inflation data from The World Bank data base (http://databank.worldbank.org/data/home.aspx) for India, Spain, and South Africa for 2011–2015. Prepare a chart that compares India, Spain, and South Africa based on the data. Describe the key differences between the countries. Rank these countries as high-, medium-, and low-income. Explain what is surprising or expected about the data.</para></problem>
+  </exercise>
+  </section>
+  </content>
+  <glossary>
+  <definition id="Ch32Mod04GLO01">
+  <term>converging economy</term>
+  <meaning id="Ch32Mod04GLO01m">economy of a country that has demonstrated the ability to catch up to the technology leaders by investing in both physical and human capital</meaning>
+  </definition>
+  </glossary>
+  </document>
