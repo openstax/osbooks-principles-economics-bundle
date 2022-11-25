@@ -1,152 +1,198 @@
 <document xmlns="http://cnx.rice.edu/cnxml" class="preface">
+  <title>Preface</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:content-id>m64268</md:content-id>
+    <md:title>Preface</md:title>
+    <md:abstract/>
+    <md:uuid>44954322-6754-4a69-aa9c-948e3ea86102</md:uuid>
+  </metadata>
+  <content>
+    <para id="delete_me">Welcome to <emphasis effect="italics">Principles of Economics 3e</emphasis> (Third Edition), an OpenStax resource. This textbook was written to increase student access to high-quality learning materials, maintaining highest standards of academic rigor at little to no cost. </para>
+    <section id="eip-809">
+      <title>About OpenStax</title>
+      <para id="eip-391">OpenStax is part of Rice University, which is a 501(c)(3) nonprofit charitable corporation. As an educational initiative, it's our mission to transform learning so that education works for every student. Through our partnerships with philanthropic organizations and our alliance with other educational resource companies, we're breaking down the most common barriers to learning. Because we believe that everyone should and can have access to knowledge.</para>
+           
+    <section id="eip-100"><title>About OpenStax Resources</title>
 
-<title>Preface</title>
-<metadata xmlns:md="http://cnx.rice.edu/mdml">
-  <md:content-id>m64268</md:content-id>
-  <md:title>Preface</md:title>
-  <md:abstract/>
-  <md:uuid>44954322-6754-4a69-aa9c-948e3ea86102</md:uuid>
-</metadata>
+       <section id="eip-469"><title>Customization</title>
+        <para id="eip-200"><emphasis effect="italics">Principles of Economics 3e</emphasis> is licensed under a Creative Commons Attribution 4.0 International (CC BY) license, which means that you can distribute, remix, and build upon the content, as long as you provide attribution to OpenStax and its content contributors.</para>
+        <para id="eip-id1172417337625">Because our books are openly licensed, you are free to use the entire book or select only the sections that are most relevant to the needs of your course. Feel free to remix the content by assigning your students certain chapters and sections in your syllabus, in the order that you prefer. You can even provide a direct link in your syllabus to the sections in the web view of your book.</para>
+        <para id="eip-550">Instructors also have the option of creating a customized version of their OpenStax book. Visit the Instructor Resources section of your book page on OpenStax.org for more information.</para>
+      </section>
+      <section id="sect-00001">
+  <title>Art attribution</title>
+  <para id="para-00001">In <emphasis effect="italics">Principles of Economics 3e</emphasis>, most art contains attribution to its title, creator or rights holder, host platform, and license within the caption. Because the art is openly licensed, anyone may reuse the art as long as they provide the same attribution to its original source. To maximize readability and content flow, some art does not include attribution in the text. If you reuse art from this text that does not have attribution provided, use the following attribution: Copyright Rice University, OpenStax, under CC-BY 4.0 license.</para>
+      </section>
+      <section id="eip-696">
+        <title>Errata</title>
+        <para id="eip-410">All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. In addition, economic data and related developments change frequently, and portions of the textbook may become out of date. Since our books are web based, we can make updates periodically when deemed pedagogically necessary. If you have a correction to suggest, submit it through the link on your book page on OpenStax.org. Subject matter experts review all errata suggestions. OpenStax is committed to remaining transparent about all updates, so you will also find a list of past and pending errata changes on your book page on OpenStax.org.</para>
+      </section>
+      <section id="eip-233"><title>Format</title><para id="eip-709">You can access this textbook for free in web view or PDF through OpenStax.org, and for a low cost in print.</para>
+        </section>
+      </section>
+      
+      <section id="eip-307">
+        <title>About <emphasis effect="italics">Principles of Economics 3e</emphasis></title>
+        <para id="eip-422"><emphasis effect="italics">Principles of Economics 3e</emphasis> aligns to the topics and objectives of most introductory economics courses. Arranged in the traditional progression from microeconomics to macroeconomics, it allows flexibility in coverage and sequencing. The text uses conversational language and ample illustrations to explore economic theories, and provides a wide array of examples using both fictional and real-world scenarios. The third edition has been carefully and thoroughly updated to reflect current data and understanding, as well as to provide a deeper background in diverse contributors and their impacts on economic thought and analysis.</para>
+        <section id="eip-887">
+          <title>Coverage and scope</title>
+          <para id="eip-id1169327261430">In response to faculty feedback and to ease transition to a new edition, Principles of Economics 3e retains the organization of the previous editions. The book covers the breadth of economics topics and also provides the necessary depth to ensure the course is manageable for instructors and students alike. We strove to balance theory and application, as well as the amount of calculation and mathematical examples.  </para><para id="eip-734">The book is organized into eight main parts:</para><list id="eip-679"><item><emphasis>What is Economics?</emphasis>  The first two chapters introduce students to the study of economics with a focus on making choices in a world of scarce resources.</item>
+  <item><emphasis>Supply and Demand</emphasis>, Chapters 3 and 4, introduces and explains the first analytical model in economics: supply, demand, and equilibrium, before showing applications in the markets for labor and finance.</item>
+  
+  <item><emphasis>The Fundamentals of Microeconomic Theory</emphasis>, Chapters 5 through 10, begins the microeconomics portion of the text, presenting the theories of consumer behavior, production and costs, and the different models of market structure, including some simple game theory.</item>
+  <item><emphasis>Microeconomic Policy Issues</emphasis>, Chapters 11 through 18, covers the range of topics in applied micro, framed around the concepts of public goods and positive and negative externalities.  Students explore competition and antitrust policies, environmental problems, poverty, income inequality, and other labor market issues. The text also covers information, risk and financial markets, as well as public economy.</item>
+  <item><emphasis>The Macroeconomic Perspective and Goals</emphasis>, Chapters 19 through 23, introduces a number of key concepts in macro: economic growth, unemployment and inflation, and international trade and capital flows.</item>
+  <item><emphasis>A Framework for Macroeconomic Analysis</emphasis>, Chapters 24 through 26, introduces the principal analytic model in macro, namely the aggregate demand/aggregate supply model.  The model is then applied to the Keynesian and Neoclassical perspectives.  The expenditure-output model is fully explained in a stand-alone appendix.</item>
+  <item><emphasis>Monetary and Fiscal Policy</emphasis>, Chapters 27 through 31, explains the role of money and the banking system, as well as monetary policy and financial regulation.  Then the discussion switches to government deficits and fiscal policy.</item>
+  
+  <item><emphasis>International Economics</emphasis>, Chapters 32 through 34, the final part of the text, introduces the international dimensions of economics, including international trade and protectionism.</item>
+  </list>
+  </section>
+  <section id="eip-783">
+    <title>Changes to the third edition</title>
+    <para id="para-00002">The revision process incorporated extensive feedback from faculty who have used the book in their courses. They advised that the third edition changes focus on currency updates, integration of newer perspectives and more diverse contributors, and relevance to students’ lives and careers.</para>
+  <para id="para-00003"><emphasis effect="bold">Current data and analysis:</emphasis> The authors have updated dozens of explanations, graphs, and tables containing financial, demographic, employment, and related economic data. The corresponding discussions provide context and interpretations of the data, including descriptions of change over time, cause-and-effect relationships, and balanced analysis of policies and opinions.</para>
+  <para id="para-00004"><emphasis effect="bold">Diverse perspectives and contributors:</emphasis> The third edition highlights the research and views of a broader group of economists. These include people from across the spectrum of economic thought, with a particular focus on those who take what are often considered non-traditional views of economic policy and government action. Examples include:</para>
+  <list id="list-00001">
+  <item>Chapter 1: Esther Duflo, Abhijit Banerjee, and Michael Kremer regarding experimental analysis in development economics.</item>
+  <item>Chapter 4: Walter Williams and Thomas Sowell regarding the downsides of minimum wages.</item>
+  <item>Chapter 13: Carlota Perez regarding employment shifts resulting from innovation; Mariana Mazzucato regarding government involvement in innovation; Elinor Ostrom and the “non-tragedy of the commons.”</item>
+  <item>Chapter 14: William A. Darity Jr. on employment discrimination and market forces; Phyllis Ann Wallace and the EEOC.</item>
+  <item>Chapter 19: Kate Raworth regarding concepts for expanding economic measures beyond GDP and similar metrics.</item>
+  <item>Chapter 32: W. Arthur Lewis and the dual sector economy; Dambisa Moyo regarding the benefits and detriments of foreign aid.</item>
+  </list>
+  <para id="para-00005"><emphasis effect="bold">Relevance and engagement:</emphasis> In order to show the importance and application of economics in students’ lives and careers, the third edition directly addresses and expands topics likely to connect to various industries, issues, groups, and events. Brief references and deeply explored socio-political examples have been updated to showcase the critical—and sometimes unnoticed—ties between economic developments and topics relevant to students. Examples include education spending, the value of college degrees, discrimination, environmental policies, immigration policies, entrepreneurship and innovation, healthcare and insurance, and general financial literacy. Finally, the COVID-19 pandemic is referenced frequently to demonstrate its deep and evolving impacts on financial data, employment, and other aspects of the economy.</para>
+  <para id="para-00006"><emphasis effect="bold">FRED Data and Graphs:</emphasis> As in previous editions, the authors have included and referenced data from the Federal Reserve Economic Data (FRED). In some cases, interactive FRED graphs are embedded directly in the web view of the book; students may magnify and focus on specific time periods, analyze individual data points, and otherwise manipulate the graphs from within the OpenStax reading experience. In others cases (and in the PDF), links to the direct source of the FRED data are provided, and students are encouraged to explore the information and the overall FRED resources more thoroughly. Note that other data sources, such as the Bureau of Labor Statistics, U.S. Census Bureau, and World Bank, usually include links in the captions or credits; instructors and students can also explore those sites for more detailed investigations of the topics at hand.</para>
+  </section>
+  <section id="sect-00002">
+     <title>Updated art</title>
+  <para id="para-00007"><emphasis effect="italics">Principles of Economics 3e</emphasis> includes updated and redesigned art to clarify concepts and provide opportunities for graphical interpretation. Many graphs are shown with accompanying data tables and explanations of the drivers and consequences of change.</para>
+  
+  <figure class="unnumbered" id="fig-00001"><label/>
+        <media alt="This graph illustrates the market for credit card borrowing and lending.  It shows what happens when there is a price ceiling on credit card interest rates, set below the equilibrium credit card interest rate. A shortage of or excess demand for credit card borrowing is illustrated as the horizontal distance between the now higher quantity demanded of credit card borrowing, and the now lower quantity supplied of credit card lending.">
+          <image mime-type="image/png" src="../../media/CNX_Econ3e_C04_007.jpg"/>
+        </media>
+        </figure>
+        <figure class="unnumbered" id="fig-00002"><label/>
+        <media alt="The graph shows the market for flu shots: flu shots will go under produced because the market does not recognize their positive externality. If the government provides a subsidy to consumers of flu shots, equal to the marginal social benefit minus the marginal private benefit, the level of vaccinations can increase to the socially optimal quantity of QSocial.">
+          <image mime-type="image/png" src="../../media/CNX_Econ3e_C13_004.jpg"/>
+        </media>
+        </figure>
+        <figure class="unnumbered" id="fig-00003"><label/>
+        <media alt="The first illustration shows that workforce, human capital, physical capital, and technology produce GDP. The second illustration shows that human capital per person, physical capital per person, and technology per person produce GDP per capital.">
+          <image mime-type="image/png" src="../../media/CNX_Econ3e_C20_003.jpg"/>
+        </media>
+        </figure>
+  </section>
 
-<content>
-  <para id="delete_me">Welcome to <emphasis effect="italics">Principles of Economics 2e</emphasis> (2nd Edition), an OpenStax resource. This textbook was written to increase student access to high-quality learning materials, maintaining highest standards of academic rigor at little to no cost. </para><section id="eip-809"><title>About OpenStax</title><para id="eip-391">OpenStax is a nonprofit based at Rice University, and it’s our mission to improve student access to education. Our first openly licensed college textbook was published in 2012, and our library has since scaled to over 25 books for college and AP<sup>®</sup> courses used by hundreds of thousands of students. OpenStax Tutor, our low-cost personalized learning tool, is being used in college courses throughout the country. Through our partnerships with philanthropic foundations and our alliance with other educational resource organizations, OpenStax is breaking down the most common barriers to learning and empowering students and instructors to succeed.
-</para></section><section id="eip-100"><title>About OpenStax resources</title><section id="eip-469"><title>Customization</title><para id="eip-200"><emphasis effect="italics">Principles of Economics 2e</emphasis> is licensed under a Creative Commons Attribution 4.0 International (CC BY) license, which means that you can distribute, remix, and build upon the content, as long as you provide attribution to OpenStax and its content contributors.</para><para id="eip-id1172417337625">Because our books are openly licensed, you are free to use the entire book or pick and choose the sections that are most relevant to the needs of your course. Feel free to remix the content by assigning your students certain chapters and sections in your syllabus, in the order that you prefer. You can even provide a direct link in your syllabus to the sections in the web view of your book.</para><para id="eip-550">Instructors also have the option of creating a customized version of their OpenStax book. The custom version can be made available to students in low-cost print or digital form through their campus bookstore. Visit the Instructor Resources section of your book page on OpenStax.org for more information.</para></section><section id="eip-696"><title>Errata</title><para id="eip-410">All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. Since our books are web based, we can make updates periodically when deemed pedagogically necessary. If you have a correction to suggest, submit it through the link on your book page on OpenStax.org. Subject matter experts review all errata suggestions. OpenStax is committed to remaining transparent about all updates, so you will also find a list of past errata changes on your book page on OpenStax.org.</para></section><section id="eip-233"><title>Format</title><para id="eip-709">You can access this textbook for free in web view or PDF through OpenStax.org, and for a low cost in print.
-</para></section></section><section id="eip-307"><title>About <emphasis effect="italics">Principles of Economics 2e</emphasis></title><para id="eip-422"><emphasis effect="italics">Principles of Economics 2e</emphasis> (2nd edition) covers the scope and sequence of requirements for a two-semester introductory economics course. The authors take a balanced approach to micro-and macroeconomics, to both Keynesian and classical views, and to the theory and application of economics concepts. The text also includes many current examples, which are handled in a politically equitable way. The second edition has been thoroughly revised to increase clarity, update data and current event impacts, and incorporate the feedback from many reviewers and adopters. </para><section id="eip-887"><title>Coverage and scope</title><para id="eip-617">For the second edition, we received expansive and actionable feedback from hundreds of adopters who had used the book for several academic terms. These knowledgeable instructors informed the pedagogical courses, learning objective development and fulfillment, and the chapter arrangements. Faculty who taught from the material provided critical and detailed commentary.</para><para id="eip-id1169327261430">The result is a book that covers the breadth of economics topics and also provides the necessary depth to ensure the course is manageable for instructors and students alike. We strove to balance theory and application, as well as the amount of calculation and mathematical examples.  </para><para id="eip-734">The book is organized into eight main parts:</para><list id="eip-679"><item><emphasis>What is Economics?</emphasis>  The first two chapters introduce students to the study of economics with a focus on making choices in a world of scarce resources.</item>
-<item><emphasis>Supply and Demand</emphasis>, Chapters 3 and 4, introduces and explains the first analytical model in economics: supply, demand, and equilibrium, before showing applications in the markets for labor and finance.</item>
-
-<item><emphasis>The Fundamentals of Microeconomic Theory</emphasis>, Chapters 5 through 10, begins the microeconomics portion of the text, presenting the theories of consumer behavior, production and costs, and the different models of market structure, including some simple game theory.</item>
-<item><emphasis>Microeconomic Policy Issues</emphasis>, Chapters 11 through 18, covers the range of topics in applied micro, framed around the concepts of public goods and positive and negative externalities.  Students explore competition and antitrust policies, environmental problems, poverty, income inequality, and other labor market issues. The text also covers information, risk and financial markets, as well as public economy.</item>
-<item><emphasis>The Macroeconomic Perspective and Goals</emphasis>, Chapters 19 through 23, introduces a number of key concepts in macro: economic growth, unemployment and inflation, and international trade and capital flows.</item>
-<item><emphasis>A Framework for Macroeconomic Analysis</emphasis>, Chapters 24 through 26, introduces the principal analytic model in macro, namely the aggregate demand/aggregate supply model.  The model is then applied to the Keynesian and Neoclassical perspectives.  The expenditure-output model is fully explained in a stand-alone appendix.</item>
-<item><emphasis>Monetary and Fiscal Policy</emphasis>, Chapters 27 through 31, explains the role of money and the banking system, as well as monetary policy and financial regulation.  Then the discussion switches to government deficits and fiscal policy.</item>
-
-<item><emphasis>International Economics</emphasis>, Chapters 32 through 34, the final part of the text, introduces the international dimensions of economics, including international trade and protectionism.
-
-</item></list><para id="eip-979"><title>Alternate Sequencing </title><emphasis effect="italics">Principles of Economics 2e</emphasis> was conceived and written to fit a particular topical sequence, but it can be used flexibly to accommodate other course structures. One such potential structure, which will fit reasonably well with the textbook content, is provided below. Please consider, however, that the chapters were not written to be completely independent, and that the proposed alternate sequence should be carefully considered for student preparation and textual consistency.
-</para><para id="eip-981">Chapter 1 Welcome to Economics!<newline/>
-Chapter 2 Choice in a World of Scarcity<newline/>
-Chapter 3 Demand and Supply<newline/>
-Chapter 4 Labor and Financial Markets<newline/>
-Chapter 5 Elasticity<newline/>
-Chapter 6 Consumer Choices<newline/>
-Chapter 33 International Trade<newline/>
-Chapter 7 Production, Costs, and Industry Structure<newline/>
-Chapter 12 Environmental Protection and Negative Externalities<newline/>
-Chapter 13 Positive Externalities and Public Goods<newline/>
-Chapter 8 Perfect Competition<newline/>
-Chapter 9 Monopoly<newline/>
-Chapter 10 Monopolistic Competition and Oligopoly<newline/>
-Chapter 11 Monopoly and Antitrust Policy<newline/>
-Chapter 14 Labor Markets and Income<newline/>
-Chapter 15 Poverty and Economic Inequality<newline/>
-Chapter 16 Information, Risk, and Insurance<newline/>
-Chapter 17 Financial Markets<newline/>
-Chapter 18 Public Economy<newline/>
-Chapter 19 The Macroeconomic Perspective<newline/>
-Chapter 20 Economic Growth<newline/>
-Chapter 21 Unemployment<newline/>
-Chapter 22 Inflation<newline/>
-Chapter 23 The International Trade and Capital Flows<newline/>
-Chapter 24 The Aggregate Demand/Aggregate Supply Model<newline/>
-Chapter 25 The Keynesian Perspective<newline/>
-Chapter 26 The Neoclassical Perspective<newline/>
-Chapter 27 Money and Banking<newline/>
-Chapter 28 Monetary Policy and Bank Regulation<newline/>
-Chapter 29 Exchange Rates and International Capital Flows<newline/>
-Chapter 30 Government Budgets and Fiscal Policy<newline/>
-Chapter 31 The Impacts of Government Borrowing<newline/>
-Chapter 32 Macroeconomic Policy Around the World<newline/>
-Chapter 34 Globalization and Protectionism<newline/>
-<newline/>
-Appendix A The Use of Mathematics in Principles of Economics<newline/>
-Appendix B Indifference Curves<newline/>
-Appendix C Present Discounted Value<newline/>
-Appendix D The Expenditure-Output Model<newline/>
-</para></section><section id="eip-783"><title>Changes to the second edition</title><para id="eip-272">OpenStax only undertakes revisions when significant modifications to a text are necessary. In the case of <emphasis effect="italics">Principles of Economics 2e</emphasis>, we received a wealth of constructive feedback.  Many of the book’s users felt that consequential movement in economic data, coupled with the impacts of national and global events, warranted a full revision. We also took advantage of the opportunity to improve the writing and sequencing of the text, as well as many of the calculation examples. The major changes are summarized below.</para><list id="eip-447"><item>Augmented explanations in chapters one through four provide a more comprehensive and informative foundation for the book. </item>
-<item>A clearer explanation, using a numerical example, has been given for finding the utility maximizing combination of goods and services a consumer should choose.</item>
-<item>The Theory of Production has been added to the chapter on costs &amp; industry structure.</item>
-<item> A more complete treatment has been given to labor markets, including the theories of competitive and monopsonistic labor markets, and bilateral monopoly; and the labor markets chapter and the poverty and
-economic inequality chapter have been resequenced.</item>
-<item>Substantial revisions to the AD/AS model in chapters 24-26 present the core concepts of macroeconomics in a clearer, more dynamic manner. </item>
-<item>Case studies and examples have been revised and, in some cases, replaced to provide more relevant and useful information for students.</item>
-<item>Economic data, tables, and graphs, as well as discussion and analysis around that data, have been thoroughly updated.</item> </list><para id="eip-318">Wherever possible, data from the Federal Reserve Economic Database (FRED) was included and referenced.  In most of these uses, links to the direct source of the FRED data are provided, and students are encouraged to explore the information and the overall FRED resources more thoroughly.
-
-</para><para id="eip-594">Additional updates and revisions appear throughout the book.  They reflect changes to economic realities and policies regarding international trade, taxation, insurance, and other topics.  For issues that may change in the months or years following the textbook's publication, the authors often provided a more open-ended explanation, but we will update the text annually to address further changes. </para><para id="eip-204">The revision of <emphasis effect="italics">Principles of Economics 2e</emphasis> was undertaken by Steven Greenlaw (University of Mary Washington) and David Shapiro (Pennsylvania State University), with significant input by lead reviewer Daniel MacDonald (California State University, San Bernardino).</para></section><section id="eip-27"><title>Pedagogical foundation</title><para id="eip-987">Throughout the OpenStax version of <emphasis effect="italics">Principles of Economics 2e</emphasis>, you will find new features that engage the students in economic inquiry by taking selected topics a step further. Our features include:
-</para><list id="eip-213"><item><emphasis>Bring It Home:</emphasis> This added feature is a brief case study, specific to each chapter, which connects the chapter’s main topic to the real word. It is broken up into two parts:  the first at the beginning of the chapter (in the intro module) and the second at chapter’s end, when students have learned what’s necessary to understand the case and “bring home” the chapter’s core concepts.</item>
-<item><emphasis>Work It Out:</emphasis> This added feature asks students to work through a generally analytical or computational problem, and guides them step by step to find out how its solution is derived. </item>
-<item><emphasis>Clear It Up:</emphasis> This boxed feature, which includes pre-existing features from Taylor’s text, addresses common student misconceptions about the content. Clear It Ups are usually deeper explanations of something in the main body of the text. Each CIU starts with a question.  The rest of the feature explains the answer.</item>
-<item><emphasis>Link It Up:</emphasis> This added feature is a very brief introduction to a website that is pertinent to students’ understanding and enjoyment of the topic at hand.  </item></list></section><section id="eip-651"><title>Questions for each level of learning</title><para id="eip-454">The OpenStax version of <emphasis effect="italics">Principles of Economics 2e</emphasis> further expands on Taylor’s original end of chapter materials by offering four types of end of module questions for students:
-</para><list id="eip-284"><item><emphasis>Self-Checks</emphasis> are analytical self-assessment questions that appear at the end of each module. They “click to reveal” an answer in the web view so students can check their understanding before moving on to the next module. Self-Check questions are not simple look-up questions. They push the student to think beyond what is said in the text.  Self-Check questions are designed for formative (rather than summative) assessment. The questions and answers are explained so that students feel like they are being walked through the problem.  </item>
-<item><emphasis>Review Questions</emphasis> have been retained from Taylor’s version, and are simple recall questions from the chapter in open-response format (not multiple choice or true/false). The answers can be looked up in the text. </item>
-<item><emphasis>Critical Thinking Questions</emphasis> are new higher-level, conceptual questions that ask students to <emphasis effect="italics">demonstrate their understanding by applying</emphasis> what they have learned in different contexts. They ask for outside-the-box thinking, for <emphasis effect="italics">reasoning</emphasis> about the concepts. They push the student to places they wouldn’t have thought of going themselves.  </item>
-<item><emphasis>Problems</emphasis> are exercises that give students additional practice working with the analytic and computational concepts in the module. </item></list></section><section id="eip-780"><title>Updated art</title><para id="eip-26"><emphasis effect="italics">Principles of Economics 2e</emphasis> includes an updated art program to better inform today’s student, providing the latest data on covered topics.
-</para><figure id="eip-id1164834349372" class="unnumbered"><label/>
-      <media id="eip-id1164829542564" alt="sample image">
-        <image mime-type="image/png" src="../../media/CNX_Econ_C07_003.jpg"/>
-      </media>
-      </figure><figure id="eip-idm1378576256" class="unnumbered"><label/>
-      <media id="eip-idm807956944" alt="sample image">
-        <image mime-type="image/png" src="../../media/CNX_Econ_C17_001.jpg"/>
-      </media>
-      </figure><figure id="eip-idm208226960" class="unnumbered"><label/>
-      <media id="eip-idm636554032" alt="sample image">
-        <image mime-type="image/png" src="../../media/CNX_Econ2e_C21_04.jpg"/>
-      </media>
-      </figure></section></section><section id="eip-523"><title>Additional resources</title><section id="eip-idm851080000"><title>Student and instructor resources</title><para id="eip-idm378652592">We’ve compiled additional resources for both students and instructors, including Getting Started Guides, an instructor solution manual, test bank, and PowerPoint slides. Instructor resources require a verified instructor account, which you can apply for when you log in or create your account on OpenStax.org. Take advantage of these resources to supplement your OpenStax book.
-</para></section><section id="eip-816"><title>Community Hubs</title><media id="eip-idm1609058016" alt="OERCommons logo"><image mime-type="image/png" src="../../media/OERCommons.png"/></media><para id="eip-818">OpenStax partners with the Institute for the Study of Knowledge Management in Education (ISKME) to offer Community Hubs on OER Commons – a platform for instructors to share community-created resources that support OpenStax books, free of charge. Through our Community Hubs, instructors can upload their own materials or download resources to use in their own courses, including additional ancillaries, teaching material, multimedia, and relevant course content. We encourage instructors to join the hubs for the subjects most relevant to your teaching and research as an opportunity both to enrich your courses and to engage with other faculty.
-</para><para id="eip-186">To reach the Community Hubs, visit www.oercommons.org/hubs/OpenStax.</para></section><section id="eip-idm805856224">
-<title>Technology partners</title>
-
-<para id="eip-idm833973344">As allies in making high-quality learning materials accessible, our technology partners offer optional low-cost tools that are integrated with OpenStax books. To access the technology options for your text, visit your book page on OpenStax.org.
-</para></section>
-</section><section id="eip-660"><title>About the authors</title><section id="eip-407" class="sr-contrib-auth"><title>Senior contributing authors </title><para id="eip-852"><emphasis>Steven A. Greenlaw, University of Mary Washington</emphasis><newline/>
-Steven Greenlaw has been teaching principles of economics for more than 30 years.  In 1999, he received the Grellet C. Simpson Award for Excellence in Undergraduate Teaching at the University of Mary Washington.  He is the author of <emphasis effect="italics">Doing Economics: A Guide to Doing and Understanding Economic Research</emphasis>, as well as a variety of articles on economics pedagogy and instructional technology, published in the <emphasis effect="italics">Journal of Economic Education</emphasis>, the <emphasis effect="italics">International Review of Economic Education</emphasis>, and other outlets.  He wrote the module on Quantitative Writing for <emphasis effect="italics">Starting Point: Teaching and Learning Economics</emphasis>, the web portal on best practices in teaching economics. Steven Greenlaw lives in Alexandria, Virginia with his wife Kathy and their three children.</para><para id="eip-49"><emphasis>David Shapiro, Pennsylvania State University</emphasis><newline/>
-David Shapiro is Professor Emeritus of Economics, Demography, and Women’s, Gender, and Sexuality Studies at the Pennsylvania State University.  He received a BA in economics and political science from the University of Michigan, and an MA as well as a PhD in economics from Princeton University.  He began his academic career at Ohio State University in 1971, and moved to Penn State in 1980. His early research focused on women and youth in the United States labor market. Following a 1978-79 stint as a Fulbright professor at the University of Kinshasa in the Democratic Republic of the Congo, his research shifted focus to fertility in Kinshasa and more broadly, in sub-Saharan Africa.  He has also received the top prize for teaching at both Ohio State and Penn State.</para></section><para id="eip-751">Special thanks to Christian Potter from University of Mary Washington, who thoroughly researched and applied many of the data updates and provided the foundation for many new and revised illustrations.
-
-</para><section id="eip-656"><title>Development editor</title><para id="eip-457">
-Thomas Sigel
-</para></section><section id="eip-491" class="contrib-auth"><title>Contributing authors</title><para id="eip-333">Eric Dodge, Hanover College<newline/>
-Cynthia Gamez, University of Texas at El Paso<newline/>
-Andres Jauregui, Columbus State University<newline/>
-Diane Keenan, Cerritos College<newline/>
-Dan MacDonald, California State University San Bernardino<newline/>
-Amyaz Moledina, The College of Wooster<newline/>
-Craig Richardson, Winston-Salem State University<newline/>
-David Shapiro, Pennsylvania State University<newline/>
-Ralph Sonenshine, American University</para></section><section id="eip-227"><title>Reviewers</title><para id="eip-315">Bryan Aguiar, Northwest Arkansas Community College<newline/>
-Basil Al Hashimi, Mesa Community College<newline/>
-Emil Berendt, Mount St. Mary's University<newline/>
-Zena Buser, Adams State University<newline/>
-Douglas Campbell, The University of Memphis<newline/>
-Sanjukta Chaudhuri, University of Wisconsin - Eau Claire<newline/>
-Xueyu Cheng, Alabama State University<newline/>
-Robert Cunningham, Alma College<newline/>
-Rosa Lea Danielson, College of DuPage<newline/>
-Steven Deloach, Elon University<newline/>
-Michael Enz, Framingham State University<newline/>
-Debbie Evercloud, University of Colorado Denver<newline/>
-Reza Ghorashi, Stockton University<newline/>
-Robert Gillette, University of Kentucky<newline/>
-Shaomin Huang, Lewis-Clark State College<newline/>
-George Jones, University of Wisconsin-Rock County<newline/>
-Charles Kroncke, College of Mount St. Joseph<newline/>
-Teresa Laughlin, Palomar Community College<newline/>
-Carlos Liard-Muriente, Central Connecticut State University<newline/>
-Heather Luea, Kansas State University<newline/>
-Steven Lugauer, University of Notre Dame<newline/>
-William Mosher, Nashua Community College<newline/>
-Michael Netta, Hudson County Community College<newline/>
-Nick Noble, Miami University<newline/>
-Joe Nowakowski, Muskingum University<newline/>
-Shawn Osell, University of Wisconsin-Superior<newline/>
-Mark Owens, Middle Tennessee State University<newline/>
-Sonia Pereira, Barnard College<newline/>
-Jennifer Platania, Elon University<newline/>
-Robert Rycroft, University of Mary Washington<newline/>
-Adrienne Sachse, Florida State College at Jacksonville<newline/>
-Hans Schumann, Texas A&amp;M University<newline/>
-Gina Shamshak, Goucher College<newline/>
-Chris Warburton, John Jay College of Criminal Justice, CUNY<newline/>
-Mark Witte, Northwestern University</para></section></section></content>
-
-</document>
+  <section id="eip-27"><title>Pedagogical foundation</title><para id="eip-987">The narrative explanations and analysis presented in <emphasis effect="italics">Principles of Economics 3e</emphasis> have been carefully crafted to provide a solid basis in economic concepts, flexibly approach skills and assess understanding, and deepen students’ engagement with the course materials. You will also find features that promote economic inquiry and explorations, including:</para>
+    <list id="eip-213"><item><emphasis>Bring It Home:</emphasis> These explorations include a brief case study, specific to each chapter, which connects the chapter’s main topic to the real word. It is broken up into two parts:  the first at the beginning of the chapter (in the intro module) and the second at chapter’s end, when students have learned what’s necessary to understand the case and “bring home” the chapter’s core concepts.</item>
+  <item><emphasis>Work It Out:</emphasis> These worked examples progress through an analytical or computational problem, and guide students step by step to find out how its solution is derived. </item>
+  <item><emphasis>Clear It Up:</emphasis> These boxes are deeper explanations of something in the main body of the text. Each Clear It Up starts with a question.  The rest of the feature explains the answer.</item>
+  </list>
+  </section>
+  <section id="eip-651">
+    <title>Questions for each level of learning</title>
+    <para id="eip-454"><emphasis effect="italics">Principles of Economics 3e</emphasis> offers flexibility in practice and assessment, and provides a range of opportunities to check understanding and encourage deeper thinking and application.</para>
+    <list id="eip-284"><item><emphasis>Self-Checks</emphasis> are analytical self-assessment questions that appear at the end of each module. They “click to reveal” an answer in the web view so students can check their understanding before moving on to the next module. Self-Check questions are not simple look-up questions. They push the student to think beyond what is said in the text.  Self-Check questions are designed for formative (rather than summative) assessment. The questions and answers are explained so that students feel like they are being walked through the problem.  </item>
+  <item><emphasis>Review Questions</emphasis> are simple recall questions from the chapter in open-response format (not multiple choice or true/false). The answers can be looked up in the text. </item>
+  <item><emphasis>Critical Thinking Questions</emphasis> are higher-level, conceptual questions that ask students to demonstrate their understanding by applying what they have learned in different contexts.</item>
+  <item><emphasis>Problems</emphasis> are exercises that give students additional practice working with the analytic and computational concepts in the module. </item></list>
+  </section>
+  </section>
+  <section id="eip-660">
+    <title>About the Authors</title>
+    <section id="eip-407" class="sr-contrib-auth">
+      <title>Senior contributing authors </title>
+  
+  <para id="eip-49"><emphasis>David Shapiro, Pennsylvania State University</emphasis><newline/>
+  David Shapiro is Professor Emeritus of Economics, Demography, and Women’s, Gender, and Sexuality Studies at the Pennsylvania State University.  He received a BA in economics and political science from the University of Michigan, and an MA as well as a PhD in economics from Princeton University.  He began his academic career at Ohio State University in 1971, and moved to Penn State in 1980. His early research focused on women and youth in the United States labor market. Following a 1978–79 stint as a Fulbright professor at the University of Kinshasa in the Democratic Republic of the Congo, his research shifted focus to fertility in Kinshasa and more broadly, in sub-Saharan Africa.  He has also received the top prize for teaching at both Ohio State and Penn State.</para>
+  <para id="para-00008"><emphasis effect="bold">Daniel MacDonald, California State University, San Bernardino</emphasis><newline/>
+    Professor Daniel MacDonald is the Chair of the Economics Department at California State University, San Bernardino. He earned his BA in mathematics and economics from Seton Hall University in 2007 and his economics PhD from the University of Massachusetts Amherst in 2013. Macdonald conducts economic research in labor economics, public policy (housing), and the economic history of the U.S. Consulting. He is also the author of the weekly <link url="https://dpmacdonald.substack.com/">Inland Empire Economic Update newsletter</link>, which he started in 2021.</para>
+    <para id="para-00009"><emphasis effect="bold">Steven A. Greenlaw, Professor Emeritus at University of Mary Washington</emphasis><newline/>
+    Steven Greenlaw taught principles of economics for 39 years. In 1999, he received the Grellet C. Simpson Award for Excellence in Undergraduate Teaching at the University of Mary Washington. He is the author of Doing Economics: A Guide to Doing and Understanding Economic Research, as well as a variety of articles on economics pedagogy and instructional technology, published in the <emphasis effect="italics">Journal of Economic Education</emphasis>, the <emphasis effect="italics">International Review of Economic Education</emphasis>, and other outlets. He wrote the module on Quantitative Writing for <emphasis effect="italics">Starting Point: Teaching and Learning Economics</emphasis>, the web portal on best practices in teaching economics. Steven Greenlaw lives in Alexandria, Virginia with his wife Kathy. Since retiring from full-time teaching, he has been doing faculty development work and other writing projects.</para>
+  </section>
+  <section id="eip-491" class="contrib-auth"><title>Contributing authors</title><para id="eip-333">Eric Dodge, Hanover College<newline/>
+  Cynthia Gamez, University of Texas at El Paso<newline/>
+  Andres Jauregui, Columbus State University<newline/>
+  Diane Keenan, Cerritos College<newline/>
+  Dan MacDonald, California State University San Bernardino<newline/>
+  Amyaz Moledina, The College of Wooster<newline/>
+  Craig Richardson, Winston-Salem State University<newline/>
+  David Shapiro, Pennsylvania State University<newline/>
+  Ralph Sonenshine, American University</para></section>
+<section id="eip-227"><title>Reviewers</title><para id="eip-315">Bryan Aguiar, Northwest Arkansas Community College<newline/>
+  Basil Al Hashimi, Mesa Community College<newline/>
+  Emil Berendt, Mount St. Mary's University<newline/>
+  Zena Buser, Adams State University<newline/>
+  Douglas Campbell, The University of Memphis<newline/>
+  Sanjukta Chaudhuri, University of Wisconsin - Eau Claire<newline/>
+  Xueyu Cheng, Alabama State University<newline/>
+  Robert Cunningham, Alma College<newline/>
+  Rosa Lea Danielson, College of DuPage<newline/>
+  Steven Deloach, Elon University<newline/>
+  Michael Enz, Framingham State University<newline/>
+  Debbie Evercloud, University of Colorado Denver<newline/>
+  Reza Ghorashi, Stockton University<newline/>
+  Robert Gillette, University of Kentucky<newline/>
+  Shaomin Huang, Lewis-Clark State College<newline/>
+  George Jones, University of Wisconsin-Rock County<newline/>
+  Charles Kroncke, College of Mount St. Joseph<newline/>
+  Teresa Laughlin, Palomar Community College<newline/>
+  Carlos Liard-Muriente, Central Connecticut State University<newline/>
+  Heather Luea, Kansas State University<newline/>
+  Steven Lugauer, University of Notre Dame<newline/>
+  William Mosher, Nashua Community College<newline/>
+  Michael Netta, Hudson County Community College<newline/>
+  Nick Noble, Miami University<newline/>
+  Joe Nowakowski, Muskingum University<newline/>
+  Shawn Osell, University of Wisconsin-Superior<newline/>
+  Mark Owens, Middle Tennessee State University<newline/>
+  Sonia Pereira, Barnard College<newline/>
+  Jennifer Platania, Elon University<newline/>
+  Robert Rycroft, University of Mary Washington<newline/>
+  Adrienne Sachse, Florida State College at Jacksonville<newline/>
+  Hans Schumann, Texas A&amp;M University<newline/>
+  Gina Shamshak, Goucher College<newline/>
+  Chris Warburton, John Jay College of Criminal Justice, CUNY<newline/>
+  Mark Witte, Northwestern University</para></section>
+  </section>
+  </section>
+  <section id="sect-00003">
+  <title>Additional Resources</title>
+  <section id="sect-00004">
+  <title>Student and instructor resources</title>
+  <para id="para-00010">We’ve compiled additional resources for both students and instructors, including Getting Started Guides, an instructor’s manual, test bank, and image slides. Instructor resources require a verified instructor account, which you can apply for when you log in or create your account on OpenStax.org. Take advantage of these resources to supplement your OpenStax book.</para>
+  <list id="list-00002">
+  <item><emphasis effect="bold">Premium Course Shells:</emphasis> These robust course cartridges are preloaded with assessments, activities, discussion prompts, readings, and other assignable material. They are logically organized to match the way you manage your course, with pre-lecture, synchronous, and post-lecture experiences. Activities and assessments are designed so that the answers are not easily found via online searches. These offerings are provided for D2L, Canvas, and Blackboard, and may require support from campus instructional technology or related teams to import and integrate.</item>
+  <item><emphasis effect="bold">Enhanced Lecture PowerPoint Slides:</emphasis> These lecture slides include selected graphics from the text, key concepts and definitions, examples, and discussion questions.</item>
+  <item><emphasis effect="bold">Test Bank:</emphasis> The test bank contains multiple choice, short answer, and essay questions for each chapter of the textbook. Since many instructors use these questions in graded assignments, we ask that you not post these questions and the answers on any publicly available websites.</item>
+  <item><emphasis effect="bold">Instructor Solution Guide:</emphasis> The instructor solutions guide contains the instructor-facing answers to the problems and exercises within the textbook.</item>
+  <item><emphasis effect="bold">Video Guide:</emphasis> This video guide is a collection of videos recommended by instructors and grouped topically by OpenStax textbook chapters.</item>
+  <item><emphasis effect="bold">Polling Questions:</emphasis> Spark discussion and support in-class learning and engagement using this set of polling questions. Survey students' understanding by a raise of hands or by pairing these questions with your polling technology; 3–4 questions are provided for each chapter.</item>
+  </list>
+  <section id="sect-00005">
+  <title>Academic integrity</title>
+  <para id="para-00011">Academic integrity builds trust, understanding, equity, and genuine learning. While students may encounter significant challenges in their courses and their lives, doing their own work and maintaining a high degree of authenticity will result in meaningful outcomes that will extend far beyond their college career. Faculty, administrators, resource providers, and students should work together to maintain a fair and positive experience.</para>
+  <para id="para-00012">We realize that students benefit when academic integrity ground rules are established early in the course. To that end, OpenStax has created an interactive to aid with academic integrity discussions in your course.</para>
+  <figure id="fig-00004">
+     <media alt="A graphic divides nine items into three categories. The items &quot;Your Original Work&quot; and &quot;Quoting &amp; Crediting Another's Work&quot; are in the &quot;Approved&quot; category. The items &quot;Checking Your Answers Online&quot;, &quot;Group Work&quot;, &quot;Reusing Past Original Work&quot;, and &quot;Sharing Answers&quot; are in the &quot;Ask Instructor&quot; category. The items &quot;Getting Others to Do Your Work&quot;, &quot;Posting Questions &amp; Answers&quot; and &quot;Plagiarizing Work&quot; are in the &quot;Not Approved&quot; Category.">
+          <image mime-type="image/jpg" src="../../media/Figure_00_P_01_img.jpg"/>
+          </media>
+      <caption/>
+  </figure>
+  <para id="para-00013">Visit our <link url="https://view.genial.ly/61e08a7af6db870d591078c1/interactive-image-defining-academic-integrity-interactive-slider">academic integrity slider</link>. Click and drag icons along the continuum to align these practices with your institution and course policies. You may then include the graphic on your syllabus, present it in your first course meeting, or create a handout for students.</para>
+  <para id="para-00014">At OpenStax we are also developing resources supporting authentic learning experiences and assessment. Please visit this book’s page for updates. For an in-depth review of academic integrity strategies, we highly recommend visiting the International Center of Academic Integrity (ICAI) website at <link url="https://academicintegrity.org/">https://academicintegrity.org/</link>.</para>
+  </section>
+  <section id="sect-00006">
+  <title>Community hubs</title>
+  <para id="para-00015">OpenStax partners with the Institute for the Study of Knowledge Management in Education (ISKME) to offer Community Hubs on OER Commons—a platform for instructors to share community-created resources that support OpenStax books, free of charge. Through our Community Hubs, instructors can upload their own materials or download resources to use in their own courses, including additional ancillaries, teaching material, multimedia, and relevant course content. We encourage instructors to join the hubs for the subjects most relevant to your teaching and research as an opportunity both to enrich your courses and to engage with other faculty. To reach the Community Hubs, visit <link url="www.oercommons.org/hubs/openstax">www.oercommons.org/hubs/openstax</link>.</para>
+  </section>
+  <section id="sect-00007">
+  <title>Technology partners</title>
+  <para id="para-00016">As allies in making high-quality learning materials accessible, our technology partners offer optional low-cost tools that are integrated with OpenStax books. To access the technology options for your text, visit your book page on OpenStax.org.</para>
+  </section>
+</section>
+</section>
+</content>
+  </document>
