@@ -11,7 +11,7 @@
     <section id="eip-809">
       <title>About OpenStax</title>
       <para id="eip-391">OpenStax is part of Rice University, which is a 501(c)(3) nonprofit charitable corporation. As an educational initiative, it's our mission to transform learning so that education works for every student. Through our partnerships with philanthropic organizations and our alliance with other educational resource companies, we're breaking down the most common barriers to learning. Because we believe that everyone should and can have access to knowledge.</para>
-          
+    </section>          
     <section id="eip-100"><title>About OpenStax Resources</title>
 
        <section id="eip-469"><title>Customization</title>
@@ -158,6 +158,7 @@
   Mark Witte, Northwestern University</para></section>
   </section>
   </section>
+
   <section id="sect-00003">
   <title>Additional Resources</title>
   <section id="sect-00004">
@@ -171,6 +172,8 @@
   <item><emphasis effect="bold">Video Guide:</emphasis> This video guide is a collection of videos recommended by instructors and grouped topically by OpenStax textbook chapters.</item>
   <item><emphasis effect="bold">Polling Questions:</emphasis> Spark discussion and support in-class learning and engagement using this set of polling questions. Survey students' understanding by a raise of hands or by pairing these questions with your polling technology; 3–4 questions are provided for each chapter.</item>
   </list>
+  </section>
+</section>
   <section id="sect-00005">
   <title>Academic integrity</title>
   <para id="para-00011">Academic integrity builds trust, understanding, equity, and genuine learning. While students may encounter significant challenges in their courses and their lives, doing their own work and maintaining a high degree of authenticity will result in meaningful outcomes that will extend far beyond their college career. Faculty, administrators, resource providers, and students should work together to maintain a fair and positive experience.</para>
@@ -183,7 +186,7 @@
   </figure>
   <para id="para-00013">Visit our <link url="https://view.genial.ly/61e08a7af6db870d591078c1/interactive-image-defining-academic-integrity-interactive-slider">academic integrity slider</link>. Click and drag icons along the continuum to align these practices with your institution and course policies. You may then include the graphic on your syllabus, present it in your first course meeting, or create a handout for students.</para>
   <para id="para-00014">At OpenStax we are also developing resources supporting authentic learning experiences and assessment. Please visit this book’s page for updates. For an in-depth review of academic integrity strategies, we highly recommend visiting the International Center of Academic Integrity (ICAI) website at <link url="https://academicintegrity.org/">https://academicintegrity.org/</link>.</para>
-  </section>
+  
   <section id="sect-00006">
   <title>Community hubs</title>
   <para id="para-00015">OpenStax partners with the Institute for the Study of Knowledge Management in Education (ISKME) to offer Community Hubs on OER Commons—a platform for instructors to share community-created resources that support OpenStax books, free of charge. Through our Community Hubs, instructors can upload their own materials or download resources to use in their own courses, including additional ancillaries, teaching material, multimedia, and relevant course content. We encourage instructors to join the hubs for the subjects most relevant to your teaching and research as an opportunity both to enrich your courses and to engage with other faculty. To reach the Community Hubs, visit <link url="www.oercommons.org/hubs/openstax">www.oercommons.org/hubs/openstax</link>.</para>
