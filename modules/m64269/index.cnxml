@@ -7,7 +7,6 @@
   <md:abstract/>
   <md:uuid>6b77457d-1ba4-4d9c-828b-1baa3bb3191d</md:uuid>
 </metadata>
-
 <content>
   <para id="delete_me">Welcome to <emphasis effect="italics">Principles of Macroeconomics 3e</emphasis> (3rd Edition), an OpenStax resource. This textbook was written to increase student access to high-quality learning materials, maintaining highest standards of academic rigor at little to no cost. </para>
   <section id="eip-809">
@@ -190,5 +189,4 @@ Mark Witte, Northwestern University</para>
   </section>
   </section>
 </content>
-
 </document>
