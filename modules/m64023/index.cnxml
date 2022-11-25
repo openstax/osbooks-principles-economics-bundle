@@ -53,17 +53,39 @@
 </section>
 <section id="eip-4">
   <title>Changes to the third edition</title>
-  <para id="eip-272">OpenStax only undertakes revisions when significant modifications to a text are necessary. In the case of <emphasis effect="italics">Principles of Microeconomics</emphasis>, we received a wealth of constructive feedback.  Many of the book’s users felt that consequential movement in economic data, coupled with the impacts of national and global events, warranted a full revision. We also took advantage of the opportunity to improve the writing and sequencing of the text, as well as many of the calculation examples. The major changes are summarized below.</para>
-  <list id="eip-447">
-    <item>Augmented explanations in chapters one through four provide a more comprehensive and informative foundation for the book. </item> 
-<item>A clearer explanation, using a numerical example, has been given for finding the utility maximizing combination of goods and services a consumer should choose.</item>
-<item>The labor markets chapter and the poverty and economic inequality chapter have been resequenced.</item> 
-<item>Substantial revisions to the AD/AS model in chapters 24-26 present the core concepts of macroeconomics in a clearer, more dynamic manner. </item>  
-<item>Case studies and examples have been revised and, in some cases, replaced to provide more relevant and useful information for students.</item>   
-<item>Economic data, tables, and graphs, as well as discussion and analysis around that data, have been thoroughly updated.</item> </list>
-<para id="eip-318">Wherever possible, data from the Federal Reserve Economic Database (FRED) was included and referenced.  In most of these uses, links to the direct source of the FRED data are provided, and students are encouraged to explore the information and the overall FRED resources more thoroughly.</para>
-<para id="eip-594">Additional updates and revisions appear throughout the book.  They reflect changes to economic realities and policies regarding international trade, taxation, insurance, and other topics.  For issues that may change in the months or years following the textbook's publication, the authors often provided a more open-ended explanation, but we will update the text annually to address further changes. </para>
-<para id="eip-204">The revision of <emphasis effect="italics">Principles of Microeconomics</emphasis> was undertaken by Steven Greenlaw (University of Mary Washington) and David Shapiro (Pennsylvania State University), with significant input by lead reviewer Daniel MacDonald (California State University, San Bernardino).</para>
+  <para id="para-00002">The revision process incorporated extensive feedback from faculty who have used the book in their courses. They advised that the third edition changes focus on currency updates, integration of newer perspectives and more diverse contributors, and relevance to students’ lives and careers.</para>
+  <para id="para-00003"><emphasis effect="bold">Current data and analysis:</emphasis> The authors have updated dozens of explanations, graphs, and tables containing financial, demographic, employment, and related economic data. The corresponding discussions provide context and interpretations of the data, including descriptions of change over time, cause-and-effect relationships, and balanced analysis of policies and opinions.</para>
+  <para id="para-00004"><emphasis effect="bold">Diverse perspectives and contributors:</emphasis> The third edition highlights the research and views of a broader group of economists. These include people from across the spectrum of economic thought, with a particular focus on those who take what are often considered non-traditional views of economic policy and government action. Examples include:</para>
+  <list id="list-00001">
+  <item>Chapter 1: Esther Duflo, Abhijit Banerjee, and Michael Kremer regarding experimental analysis in development economics.</item>
+  <item>Chapter 4: Walter Williams and Thomas Sowell regarding the downsides of minimum wages.</item>
+  <item>Chapter 13: Carlota Perez regarding employment shifts resulting from innovation; Mariana Mazzucato regarding government involvement in innovation; Elinor Ostrom and the “non-tragedy of the commons.”</item>
+  <item>Chapter 14: William A. Darity Jr. on employment discrimination and market forces; Phyllis Ann Wallace and the EEOC.</item>
+  </list>
+  <para id="para-00005"><emphasis effect="bold">Relevance and engagement:</emphasis> In order to show the importance and application of economics in students’ lives and careers, the third edition directly addresses and expands topics likely to connect to various industries, issues, groups, and events. Brief references and deeply explored socio-political examples have been updated to showcase the critical—and sometimes unnoticed—ties between economic developments and topics relevant to students. Examples include education spending, the value of college degrees, discrimination, environmental policies, immigration policies, entrepreneurship and innovation, healthcare and insurance, and general financial literacy. Finally, the COVID-19 pandemic is referenced frequently to demonstrate its deep and evolving impacts on financial data, employment, and other aspects of the economy.</para>
+  <para id="para-00006"><emphasis effect="bold">FRED Data and Graphs:</emphasis> As in previous editions, the authors have included and referenced data from the Federal Reserve Economic Data (FRED). In some cases, interactive FRED graphs are embedded directly in the web view of the book; students may magnify and focus on specific time periods, analyze individual data points, and otherwise manipulate the graphs from within the OpenStax reading experience. In others cases (and in the PDF), links to the direct source of the FRED data are provided, and students are encouraged to explore the information and the overall FRED resources more thoroughly. Note that other data sources, such as the Bureau of Labor Statistics, U.S. Census Bureau, and World Bank, usually include links in the captions or credits; instructors and students can also explore those sites for more detailed investigations of the topics at hand.</para>
+  <section id="sect-00002">
+  <title>Updated art</title>
+  <para id="para-00007"><emphasis effect="italics">Principles of Microeconomics 3e</emphasis> includes updated and redesigned art to clarify concepts and provide opportunities for graphical interpretation. Many graphs are shown with accompanying data tables and explanations of the drivers and consequences of change.</para>
+  
+          <figure class="unnumbered" id="fig-00001"><label/>
+          <media alt="This graph illustrates the market for credit card borrowing and lending.  It shows what happens when there is a price ceiling on credit card interest rates, set below the equilibrium credit card interest rate. A shortage of or excess demand for credit card borrowing is illustrated as the horizontal distance between the now higher quantity demanded of credit card borrowing, and the now lower quantity supplied of credit card lending.">
+          <image mime-type="image/png" src="../../media/CNX_Econ3e_C04_007.jpg"/>
+          </media>
+          </figure>
+            <figure class="unnumbered" id="fig-00002"><label/>
+          <media alt="The graph shows the market for flu shots: flu shots will go under produced because the market does not recognize their positive externality. If the government provides a subsidy to consumers of flu shots, equal to the marginal social benefit minus the marginal private benefit, the level of vaccinations can increase to the socially optimal quantity of QSocial.">
+          <image mime-type="image/png" src="../../media/CNX_Econ3e_C13_004.jpg"/>
+          </media>
+          </figure>
+            <figure class="unnumbered" id="fig-00003"><label/>
+          <media alt="The first illustration shows that workforce, human capital, physical capital, and technology produce GDP. The second illustration shows that human capital per person, physical capital per person, and technology per person produce GDP per capital.">
+          <image mime-type="image/png" src="../../media/CNX_Econ3e_C20_003.jpg"/>
+          </media>
+          </figure>
+  </section>  
+  
+
 </section>
 <section id="eip-27"><title>Pedagogical foundation</title>
   <para id="eip-987">Throughout <emphasis effect="italics">Principles of Microeconomics 2e</emphasis>, you will find features that engage the students in economic inquiry and support their learning. Our features include:
