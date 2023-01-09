@@ -1,7 +1,7 @@
 # These settings are synced to GitHub by https://probot.github.io/apps/settings/ via https://github.com/openstax/staxly
 
 repository:
-  private: true
+  private: false
 
   has_issues: false
   has_wiki: false
