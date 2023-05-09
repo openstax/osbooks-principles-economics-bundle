@@ -175,7 +175,7 @@
         <list id="fs-idm115229280" list-type="bulleted" bullet-style="bullet"><item>an original starting amount, in one case GDP and in the other case an amount of financial saving;</item>
           <item>a percentage increase over time, in one case the GDP growth rate and in the other case an interest rate;</item>
           <item>and an amount of time over which this effect happens.</item>
-        </list></para><para id="fs-idm108967504">Recall that compound interest is interest that is earned on past interest. It causes the total amount of financial savings to grow dramatically over time. Similarly, compound rates of economic growth, or the <term id="term-00009">compound growth rate</term>, means that we multiply the rate of growth by a base that includes past GDP growth, with dramatic effects over time.</para><para id="fs-idm233611808">For example, in 2020, the Central Intelligence Agency's World Fact Book reported that South Korea had a GDP of $2.2 trillion. With a growth rate of 2.8% per year, South Korea's GDP will be $2.5 trillion in five years. If we apply the growth rate to each year’s ending GDP for the next five years, we will calculate that at the end of year one, GDP is $2.3 trillion. In year two, we start with the end-of-year one value of $1.72 and increase it by 2.8%. Year three starts with the end-of-year two GDP, and we increase it by 2.8% and so on, as <link target-id="Table_20_04"/> depicts.</para><table id="Table_20_04" summary="This table has four columns and five rows. The first row is a header row and it labels each column, “Year,” “Starting GDP,” and “Growth Rate 2.8%,” and “Year-End Amount.” Under the “Year” column are the values: 1; 2; 3; 4; and 5. Under the “Starting GDP” column are the values:  .67 Trillion ×;  .72 Trillion ×;  .76 Trillion ×;  .81 Trillion ×; and  .87 Trillion ×. Under the “Growth Rate 2.8%” column are the values: (1 + 0.028); (1 + 0.028); (1 + 0.028); (1 + 0.028); and (1 + 0.028). Under the “Year-End Amount” column are the values:  .72 Trillion;  .76 Trillion;  .81 Trillion;  .87 Trillion; and  .92 Trillion.">
+        </list></para><para id="fs-idm108967504">Recall that compound interest is interest that is earned on past interest. It causes the total amount of financial savings to grow dramatically over time. Similarly, compound rates of economic growth, or the <term id="term-00009">compound growth rate</term>, means that we multiply the rate of growth by a base that includes past GDP growth, with dramatic effects over time.</para><para id="fs-idm233611808">For example, in 2020, the Central Intelligence Agency's World Fact Book reported that South Korea had a GDP of $2.2 trillion. With a growth rate of 2.8% per year, South Korea's GDP will be $2.5 trillion in five years. If we apply the growth rate to each year’s ending GDP for the next five years, we will calculate that at the end of year one, GDP is $2.3 trillion. In year two, we start with the end-of-year one value of $2.3 trillion and increase it by 2.8%. Year three starts with the end-of-year two GDP, and we increase it by 2.8% and so on, as <link target-id="Table_20_04"/> depicts.</para><table id="Table_20_04" summary="This table has four columns and five rows. The first row is a header row and it labels each column, “Year,” “Starting GDP,” and “Growth Rate 2.8%,” and “Year-End Amount.” Under the “Year” column are the values: 1; 2; 3; 4; and 5. Under the “Starting GDP” column are the values:  .67 Trillion ×;  .72 Trillion ×;  .76 Trillion ×;  .81 Trillion ×; and  .87 Trillion ×. Under the “Growth Rate 2.8%” column are the values: (1 + 0.028); (1 + 0.028); (1 + 0.028); (1 + 0.028); and (1 + 0.028). Under the “Year-End Amount” column are the values:  .72 Trillion;  .76 Trillion;  .81 Trillion;  .87 Trillion; and  .92 Trillion.">
   <tgroup cols="4"><colspec colnum="1" colname="col1"/>
   <colspec colnum="2" colname="col2"/>
   <colspec colnum="3" colname="col3"/>
@@ -194,35 +194,35 @@
   <entry>1</entry>
   <entry>$2.2 Trillion ×</entry>
   <entry>(1+0.028)</entry>
-  <entry>$2.3 Trillion</entry>
+  <entry>$2.26 Trillion</entry>
   </row>
   
   <row>
   <entry>2</entry>
   <entry>$2.3 Trillion ×</entry>
   <entry>(1+0.028)</entry>
-  <entry>$2.3 Trillion</entry>
+  <entry>$2.32 Trillion</entry>
   </row>
   
   <row>
   <entry>3</entry>
   <entry>$2.3 Trillion ×</entry>
   <entry>(1+0.028)</entry>
-  <entry>$2.4 Trillion</entry>
+  <entry>$2.38 Trillion</entry>
   </row>
   
   <row>
   <entry>4</entry>
   <entry>$2.4 Trillion ×</entry>
   <entry>(1+0.028)</entry>
-  <entry>$2.5 Trillion</entry>
+  <entry>$2.44 Trillion</entry>
   </row>
   
   <row>
   <entry>5</entry>
   <entry>$2.5 Trillion ×</entry>
   <entry>(1+0.028)</entry>
-  <entry>$2.5 Trillion</entry>
+  <entry>$2.50 Trillion</entry>
   </row>
   
         </tbody>
@@ -231,7 +231,7 @@
   </tgroup>
   </table><para id="fs-idm2611536">Another way to calculate the growth rate is to apply the following formula:</para>
   <equation class="unnumbered" id="fs-idm98632928"><math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mtext>Future Value = Present Value × (1 + g)</mtext><mtext>n</mtext></msup></math></equation>
-  <para id="fs-idm87287792" xmlns="http://cnx.rice.edu/cnxml">Where “future value” is the value of GDP five years hence, “present value” is the starting GDP amount of $1.67 trillion, “g” is the growth rate of 2.8%, and “n” is the number of periods for which we are calculating growth.</para><equation class="unnumbered" id="fs-idm120757200"><m:math><m:msup><m:mtext>             Future Value = 1.67 × (1+0.028)</m:mtext><m:mtext>5</m:mtext></m:msup><m:mtext> = $1.92 trillion</m:mtext></m:math></equation></note>
+  <para id="fs-idm87287792" xmlns="http://cnx.rice.edu/cnxml">Where “future value” is the value of GDP five years hence, “present value” is the starting GDP amount of $2.2 trillion, “g” is the growth rate of 2.8%, and “n” is the number of periods for which we are calculating growth.</para><equation class="unnumbered" id="fs-idm120757200"><m:math><m:msup><m:mtext>             Future Value = 2.2 × (1+0.028)</m:mtext><m:mtext>5</m:mtext></m:msup><m:mtext> = $2.52 trillion</m:mtext></m:math></equation></note>
   </section>
   <section id="fs-idm24672272" class="summary">
     <title>Key Concepts and Summary</title>
