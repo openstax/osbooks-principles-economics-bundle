@@ -141,7 +141,7 @@
   <row>
   <entry>Year</entry>
   <entry>Nominal GDP (billions of dollars)</entry>
-  <entry>GDP Deflator (2005 = 100)</entry>
+  <entry>GDP Deflator (2012 = 100)</entry>
   <entry>Calculations</entry>
   <entry>Real GDP (billions of 2005 dollars)</entry>
   </row>
@@ -150,100 +150,121 @@
         <tbody>
   <row>
   <entry>1960</entry>
-  <entry>543.3</entry>
-  <entry>19.0</entry>
-  <entry>  543.3 / (19.0/100)</entry>
-  <entry>2859.5</entry>
+  <entry>542.4</entry>
+  <entry>16.6</entry>
+  <entry>  542.4 / (16.6/100)</entry>
+  <entry>3267.5</entry>
   </row>
   
   
   <row>
   <entry>1965</entry>
-  <entry>743.7</entry>
-  <entry>20.3</entry>
-  <entry>  743.7 / (20.3/100)</entry>
-  <entry>3663.5</entry>
+  <entry>742.3</entry>
+  <entry>17.8</entry>
+  <entry>  742.3 / (17.8/100)</entry>
+  <entry>4170.2</entry>
   </row>
   
   <row>
   <entry>1970</entry>
-  <entry>1075.9</entry>
-  <entry>24.8</entry>
-  <entry>1,075.9 / (24.8/100)</entry>
-  <entry>4338.3</entry>
+  <entry>1073.3</entry>
+  <entry>21.7</entry>
+  <entry>1,073.3 / (21.7/100)</entry>
+  <entry>4946.1</entry>
   </row>
   
   <row>
   <entry>1975</entry>
-  <entry>1688.9</entry>
-  <entry>34.1</entry>
-  <entry>1,688.9 / (34.1/100)</entry>
-  <entry>4952.8</entry>
+  <entry>1684.9</entry>
+  <entry>29.8</entry>
+  <entry>1,684.9 / (29.8/100)</entry>
+  <entry>5654.0</entry>
   </row>
   
   <row>
   <entry>1980</entry>
-  <entry>2862.5</entry>
-  <entry>48.3</entry>
-  <entry>2,862.5 / (48.3/100)</entry>
-  <entry>5926.5</entry>
+  <entry>2857.3</entry>
+  <entry>42.2</entry>
+  <entry>2,857.3 / (42.2/100)</entry>
+  <entry>6770.9</entry>
   </row>
   <row>
   <entry>1985</entry>
-  <entry>4346.7</entry>
-  <entry>62.3</entry>
-  <entry>4,346.7 / (62.3/100)</entry>
-  <entry>6977.0</entry>
+  <entry>4339.0</entry>
+  <entry>54.5</entry>
+  <entry>4,339.0 / (54.5/100)</entry>
+  <entry>7961.5</entry>
   </row>
   <row>
   <entry>1990</entry>
-  <entry>5979.6</entry>
-  <entry>72.7</entry>
-  <entry>5,979.6 / (72.7/100)</entry>
-  <entry>8225.0</entry>
+  <entry>5963.1</entry>
+  <entry>63.6</entry>
+  <entry>5,963.1 / (63.6/100)</entry>
+  <entry>9375.9</entry>
   </row>
   <row>
   <entry>1995</entry>
-  <entry>7664.0</entry>
-  <entry>82.0</entry>
-  <entry> 7,664 / (82.0/100)</entry>
-  <entry>9346.3</entry>
+  <entry>7639.7</entry>
+  <entry>71.8</entry>
+  <entry> 7,639.7/ (71.8/100)</entry>
+  <entry>10640.3</entry>
   </row>
   <row>
   <entry>2000</entry>
-  <entry>10289.7</entry>
-  <entry>89.0</entry>
-  <entry>10,289.7 / (89.0/100)</entry>
-  <entry>11561.5</entry>
+  <entry>10251.0</entry>
+  <entry>78.0</entry>
+  <entry>10,251.0 / (78.0/100)</entry>
+  <entry>13142.3</entry>
   </row>
   <row>
   <entry>2005</entry>
-  <entry>13095.4</entry>
-  <entry>100.0</entry>
-  <entry>13,095.4 / (100.0/100)</entry>
-  <entry>13095.4</entry>
+  <entry>13039.2</entry>
+  <entry>87.5</entry>
+  <entry>13,039.2 / (87.5/100)</entry>
+  <entry>14901.9</entry>
   </row>
   <row>
   <entry>2010</entry>
-  <entry>14958.3</entry>
-  <entry>110.0</entry>
-  <entry>14,958.3 / (110.0/100)</entry>
-  <entry>13598.5</entry>
+  <entry>15,049.0</entry>
+  <entry>96.2</entry>
+  <entry>15,049.0 / (96.2/100)</entry>
+  <entry>15643.5</entry>
   </row>
-  
+  <row>
+  <entry>2012</entry>
+  <entry>16254.0</entry>
+  <entry>100.0</entry>
+  <entry>1,6254.0 / (100.0/100)</entry>
+  <entry>16254.0</entry>
+  </row>
+  <row>
+  <entry>2015</entry>
+  <entry>18206.0</entry>
+  <entry>104.7</entry>
+  <entry>1,8206.0 / (104.7/100)</entry>
+  <entry>17388.7</entry>
+  </row>
+  <row>
+  <entry>2020</entry>
+  <entry>20893.7</entry>
+  <entry>113.6</entry>
+  <entry>2,0893.7 / (113.6/100)</entry>
+  <entry>18392.3</entry>
+  </row>
+
         </tbody>
       </tgroup>
       <caption>(Source: Bureau of Economic Analysis, www.bea.gov)</caption>
   </table>
-  <para id="fs-idp27644864">There are a couple things to notice here. Whenever you compute a real statistic, one year (or period) plays a special role. It is called the base year (or base period). The base year is the year whose prices we use to compute the real statistic. When we calculate real GDP, for example, we take the quantities of goods and services produced in each year (for example, 1960 or 1973) and multiply them by their prices in the base year (in this case, 2005), so we get a measure of GDP that uses prices that do not change from year to year. That is why real GDP is labeled “Constant Dollars” or, in this example,  “2005 Dollars,” which means that real GDP is constructed using prices that existed in 2005. While the example here uses 2005 as the base year, more generally, you can use any year as the base year. The formula is:</para><equation class="unnumbered" id="fs-idm29986544"><m:math><m:mtable columnspacing="2px 2px" columnalign="right center"><m:mtr><m:mtd><m:mtext>GDP deflator</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mfrac><m:mtext>Nominal GDP</m:mtext><m:mtext>Real GDP</m:mtext></m:mfrac></m:mtd></m:mtr></m:mtable><m:mtext> × 100</m:mtext></m:math></equation><para id="fs-idm28457344">Rearranging the formula and using the data from 2005:</para>
-  <equation class="unnumbered" id="fs-idp75391328"><m:math><m:mtable columnspacing="2px 2px 2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Real GDP</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mfrac><m:mtext>Nominal GDP</m:mtext><m:mtext>Price Index / 100</m:mtext></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mfrac><m:mtext>$13,095.4 billion</m:mtext><m:mtext>100 / 100</m:mtext></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>$13,095.4 billion</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm38113728">Comparing real GDP and nominal GDP for 2005, you see they are the same. This is no accident. It is because we have chosen 2005 as the “base year” in this example. Since the price index in the base year always has a value of 100 (by definition), nominal and real GDP are always the same in the base year.</para><para id="fs-idm28466496">Look at the data for 2010.</para>
-  <equation class="unnumbered" id="fs-idm22195808"><m:math><m:mtable columnspacing="2px 2px 2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Real GDP</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mfrac><m:mtext>Nominal GDP</m:mtext><m:mtext>Price Index / 100</m:mtext></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mfrac><m:mtext>$14,958.3 billion</m:mtext><m:mtext>110 / 100</m:mtext></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>$13,598.5 billion</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idp88920000">Use this data to make another observation: As long as inflation is positive, meaning prices increase on average from year to year, real GDP should be less than nominal GDP in any year after the base year. The reason for this should be clear: The value of nominal GDP is “inflated” by inflation. Similarly, as long as inflation is positive, real GDP should be greater than nominal GDP in any year before the base year.</para>
+  <para id="fs-idp27644864">There are a couple things to notice here. Whenever you compute a real statistic, one year (or period) plays a special role. It is called the base year (or base period). The base year is the year whose prices we use to compute the real statistic. When we calculate real GDP, for example, we take the quantities of goods and services produced in each year (for example, 1960 or 1973) and multiply them by their prices in the base year (in this case, 2005), so we get a measure of GDP that uses prices that do not change from year to year. That is why real GDP is labeled “Constant Dollars” or, in this example,  “2012 Dollars,” which means that real GDP is constructed using prices that existed in 2005. While the example here uses 2012 as the base year, more generally, you can use any year as the base year. The formula is:</para><equation class="unnumbered" id="fs-idm29986544"><m:math><m:mtable columnspacing="2px 2px" columnalign="right center"><m:mtr><m:mtd><m:mtext>GDP deflator</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mfrac><m:mtext>Nominal GDP</m:mtext><m:mtext>Real GDP</m:mtext></m:mfrac></m:mtd></m:mtr></m:mtable><m:mtext> × 100</m:mtext></m:math></equation><para id="fs-idm28457344">Rearranging the formula and using the data from 2012:</para>
+  <equation class="unnumbered" id="fs-idp75391328"><m:math><m:mtable columnspacing="2px 2px 2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Real GDP</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mfrac><m:mtext>Nominal GDP</m:mtext><m:mtext>Price Index / 100</m:mtext></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mfrac><m:mtext>$16,254 billion</m:mtext><m:mtext>100 / 100</m:mtext></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>$16,254 billion</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm38113728">Comparing real GDP and nominal GDP for 2012, you see they are the same. This is no accident. It is because we have chosen 2012 as the “base year” in this example. Since the price index in the base year always has a value of 100 (by definition), nominal and real GDP are always the same in the base year.</para><para id="fs-idm28466496">Look at the data for 2015.</para>
+  <equation class="unnumbered" id="fs-idm22195808"><m:math><m:mtable columnspacing="2px 2px 2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Real GDP</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mfrac><m:mtext>Nominal GDP</m:mtext><m:mtext>Price Index / 100</m:mtext></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mfrac><m:mtext>$18,206 billion</m:mtext><m:mtext>104.7 / 100</m:mtext></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>$17,388.7 billion</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idp88920000">Use this data to make another observation: As long as inflation is positive, meaning prices increase on average from year to year, real GDP should be less than nominal GDP in any year after the base year. The reason for this should be clear: The value of nominal GDP is “inflated” by inflation. Similarly, as long as inflation is positive, real GDP should be greater than nominal GDP in any year before the base year.</para>
       </note>
   <para id="fs-idm3770816"><link target-id="CNX_Econ_C19_013"/> shows the U.S. nominal and <term class="no-emphasis" id="term-00004">real GDP</term> since 1960. Because 2005 is the base year, the nominal and real values are exactly the same in that year. However, over time, the rise in nominal GDP looks much larger than the rise in real GDP (that is, the <term class="no-emphasis" id="term-00005">nominal GDP</term> line rises more steeply than the real GDP line), because the presence of inflation, especially in the 1970s exaggerates the rise in nominal GDP.</para><figure id="CNX_Econ_C19_013"><title>U.S. Nominal and Real GDP, 1960–2020</title><media id="fs-idp30748016" alt="This graph illustrates two lines: nominal GDP over time and real GDP over time. The y-axis measures GDP in billions of dollars, in 2,000 dollar increments, from 0 to 22,000 dollars (22,000 billion is 22 trillion dollars). The x-axis shows years, from 1970 to 2020. Real GDP in 1970 is approximately 5,000 billion, or 5 trillion dollars, and nominal GDP is roughly 1,000 billion dollars, or 1 trillion dollars. From 1970 to 2011, Real GDP is above nominal GDP. Both lines increase over time and they intersect in 2012, the base year of the GDP Deflator, and from there nominal GDP is greater than real GDP. In 2021, nominal GDP is roughly 21,000 billion dollars, or 21 trillion dollars, and real GDP is roughly 18,000 billion dollars, or 18 trillion dollars.">
         <image mime-type="image/jpeg" src="../../media/CNX_Econ3e_C19_013.jpg"/>
       </media>
       
-    <caption>The red line measures U.S. GDP in nominal dollars. The black line measures U.S. GDP in real dollars, where all dollar values are converted to 2012 dollars. Since we express real GDP in 2012 dollars, the two lines cross in 2012. However, real GDP will appear higher than nominal GDP in the years before 2012, because dollars were worth less in 2012 than in previous years. Conversely, real GDP will appear lower in the years after 2012, because dollars were worth more in 2012 than in later years.</caption></figure><para id="fs-idm2878656">Let’s return to the question that we posed originally: How much did GDP increase in real terms? What was the real GDP growth rate from 1960 to 2012? To find the real growth rate, we apply the formula for percentage change:</para><equation class="unnumbered" id="fs-idp17406336"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mfrac><m:mtext>2020 real GDP – 1960 real GDP</m:mtext><m:mtext>1960 real GDP</m:mtext></m:mfrac><m:mtext> × 100</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>% change</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mfrac><m:mtext>13,598.5 – 2,859.5</m:mtext><m:mtext>2,859.5</m:mtext></m:mfrac><m:mtext> × 100</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>376%</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm46314128">In other words, the U.S. economy has increased real production of goods and services by nearly a factor of five since 1960. Of course, that understates the material improvement since it fails to capture improvements in the quality of products and the invention of new products.</para>
+    <caption>The red line measures U.S. GDP in nominal dollars. The black line measures U.S. GDP in real dollars, where all dollar values are converted to 2012 dollars. Since we express real GDP in 2012 dollars, the two lines cross in 2012. However, real GDP will appear higher than nominal GDP in the years before 2012, because dollars were worth less in 2012 than in previous years. Conversely, real GDP will appear lower in the years after 2012, because dollars were worth more in 2012 than in later years.</caption></figure><para id="fs-idm2878656">Let’s return to the question that we posed originally: How much did GDP increase in real terms? What was the real GDP growth rate from 1960 to 2020? To find the real growth rate, we apply the formula for percentage change:</para><equation class="unnumbered" id="fs-idp17406336"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mfrac><m:mtext>2020 real GDP – 1960 real GDP</m:mtext><m:mtext>1960 real GDP</m:mtext></m:mfrac><m:mtext> × 100</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>% change</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mfrac><m:mtext>18,392.3 – 3,267.5</m:mtext><m:mtext>3,267.5</m:mtext></m:mfrac><m:mtext> × 100</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>463%</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm46314128">In other words, the U.S. economy has increased real production of goods and services by nearly a factor of five since 1960. Of course, that understates the material improvement since it fails to capture improvements in the quality of products and the invention of new products.</para>
   <para id="fs-idp7317152">There is a quicker way to answer this question approximately, using another math trick. Because:</para>
   <equation class="unnumbered" id="fs-idm1159232"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Nominal</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>Price × Quantity</m:mtext></m:mtd></m:mtr>
   <m:mtr><m:mtd><m:mtext>% change in Nominal</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>% change in Price + % change in Quantity</m:mtext></m:mtd></m:mtr>
