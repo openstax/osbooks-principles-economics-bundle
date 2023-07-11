@@ -169,7 +169,7 @@
   <entry>1970</entry>
   <entry>1073.3</entry>
   <entry>21.7</entry>
-  <entry>1073.3 / (21.7/100)</entry>
+  <entry>1,073.3 / (21.7/100)</entry>
   <entry>4946.1</entry>
   </row>
   
@@ -177,7 +177,7 @@
   <entry>1975</entry>
   <entry>1684.9</entry>
   <entry>29.8</entry>
-  <entry>1684.9 / (29.8/100)</entry>
+  <entry>1,684.9 / (29.8/100)</entry>
   <entry>5654.0</entry>
   </row>
   
@@ -185,70 +185,70 @@
   <entry>1980</entry>
   <entry>2857.3</entry>
   <entry>42.2</entry>
-  <entry>2857.3 / (42.2/100)</entry>
+  <entry>2,857.3 / (42.2/100)</entry>
   <entry>6770.9</entry>
   </row>
   <row>
   <entry>1985</entry>
   <entry>4339.0</entry>
   <entry>54.5</entry>
-  <entry>4339.0 / (54.5/100)</entry>
+  <entry>4,339.0 / (54.5/100)</entry>
   <entry>7961.5</entry>
   </row>
   <row>
   <entry>1990</entry>
   <entry>5963.1</entry>
   <entry>63.6</entry>
-  <entry>5963.1 / (63.6/100)</entry>
+  <entry>5,963.1 / (63.6/100)</entry>
   <entry>9375.9</entry>
   </row>
   <row>
   <entry>1995</entry>
   <entry>7639.7</entry>
   <entry>71.8</entry>
-  <entry> 7639.7/ (71.8/100)</entry>
+  <entry> 7,639.7/ (71.8/100)</entry>
   <entry>10640.3</entry>
   </row>
   <row>
   <entry>2000</entry>
   <entry>10251.0</entry>
   <entry>78.0</entry>
-  <entry>10251.0 / (78.0/100)</entry>
+  <entry>10,251.0 / (78.0/100)</entry>
   <entry>13142.3</entry>
   </row>
   <row>
   <entry>2005</entry>
   <entry>13039.2</entry>
   <entry>87.5</entry>
-  <entry>13039.2 / (87.5/100)</entry>
+  <entry>13,039.2 / (87.5/100)</entry>
   <entry>14901.9</entry>
   </row>
   <row>
   <entry>2010</entry>
   <entry>15049.0</entry>
   <entry>96.2</entry>
-  <entry>15049.0 / (96.2/100)</entry>
+  <entry>15,049.0 / (96.2/100)</entry>
   <entry>15643.5</entry>
   </row>
   <row>
   <entry>2012</entry>
   <entry>16254.0</entry>
   <entry>100.0</entry>
-  <entry>16254.0 / (100.0/100)</entry>
+  <entry>16,254.0 / (100.0/100)</entry>
   <entry>16254.0</entry>
   </row>
   <row>
   <entry>2015</entry>
   <entry>18206.0</entry>
   <entry>104.7</entry>
-  <entry>18206.0 / (104.7/100)</entry>
+  <entry>18,206.0 / (104.7/100)</entry>
   <entry>17388.7</entry>
   </row>
   <row>
   <entry>2020</entry>
   <entry>20893.7</entry>
   <entry>113.6</entry>
-  <entry>20893.7 / (113.6/100)</entry>
+  <entry>20,893.7 / (113.6/100)</entry>
   <entry>18392.3</entry>
   </row>
 
