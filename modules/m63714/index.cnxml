@@ -5,7 +5,7 @@
     <md:content-id>m63714</md:content-id>
     <md:title>How Banks Create Money</md:title>
     <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para><list id="list-00001">
-  <item>Utilize the money multiplier formula to determine how banks create money</item>
+  <item>Utilize the money multiplier formula to determine how banks create money in an environment of limited reserves</item>
   <item>Analyze and create T-account balance sheets</item>
   <item>Evaluate the risks and benefits of money and banks</item>
   </list></md:abstract>
@@ -14,7 +14,7 @@
   
   <content>
   
-  <para id="fs-idm97044912">Banks and money are intertwined. It is not just that most money is in the form of bank accounts. The banking system can literally create money through the process of making loans. Let’s see how.</para>
+  <para id="fs-idm97044912">Banks and money are intertwined. It is not just that most money is in the form of bank accounts. If banks choose to hold only limited reserves, the banking system can literally create money through the process of making loans. Let’s see how.</para>
   
   <section id="fs-idp41750032">
   <title>Money Creation by a Single Bank</title>
@@ -62,7 +62,7 @@
   
   <section id="fs-idm88707968">
   <title>The Money Multiplier and a Multi-Bank System</title>
-  <para id="fs-idm29505200">In a system with multiple banks, Singleton Bank deposited the initial excess reserve amount that it decided to lend to Hank’s Auto Supply into First National Bank, which is free to loan out $8.1 million. If all banks loan out their excess reserves, the money supply will expand.
+  <para id="fs-idm29505200">In a system with multiple banks that are holding only limited reserves, Singleton Bank deposited the initial excess reserve amount that it decided to lend to Hank’s Auto Supply into First National Bank, which is free to loan out $8.1 million. If all banks loan out their excess reserves, the money supply will expand.
   In a multi-bank system, institutions determine the amount of money that the system can create by using the money multiplier. This tells us by how many times a loan will be “multiplied” as it is spent in the economy and then re-deposited in other banks.</para><para id="fs-idm43712032">Fortunately, a formula exists for calculating the total of these many rounds of lending in a banking system. The <term id="term-00001">money multiplier formula</term> is:</para>
   
   <equation id="eip-779" class="unnumbered"><m:math><m:mfrac><m:mn>1</m:mn><m:mtext>Reserve Requirement</m:mtext></m:mfrac></m:math></equation><para id="fs-idm19261920">We then multiply the money multiplier by the change in excess reserves to determine the total amount of M1 money supply created in the banking system. See the Work it Out feature to walk through the multiplier calculation.</para><note id="fs-idp23765232" class="economics workout">
@@ -84,7 +84,7 @@
   <para id="fs-idm75289280">However, the extraordinary economic gains that are possible through money and banking also suggest some possible corresponding dangers. If banks are not working well, it sets off a decline in convenience and safety of transactions throughout the economy. If the banks are under financial stress, because of a widespread decline in the value of their assets, loans may become far less available, which can deal a crushing blow to sectors of the economy that depend on borrowed money like business investment, home construction, and car manufacturing. The 2008–2009 Great Recession illustrated this pattern.</para><note id="fs-idm44902736" class="economics bringhome"><title>The Many Disguises of Money: From Cowries to Crypto</title><para id="fs-idm15878032">The global economy has come a long way since it started using cowrie shells as currency. We have moved away from commodity and commodity-backed paper money to fiat currency. As technology and global integration increases, the need for paper currency is diminishing, too. Every day, we witness the increased use of debit and credit cards.</para><para id="fs-idm88806448">The latest creation and a new form of money is cryptocurrency. Cryptocurrency is digital currency that is not controlled by any single entity, such as a company or country. In this sense, it is not a fiat currency because it is not issued by a central bank and is not necessarily supported by governments as legal tender. Instead, transactions and ownership are maintained in a decentralized manner, and the value (vis-à-vis, say, the U.S. dollar) is determined primarily by market forces—i.e., supply and demand. Governments can affect the value of a cryptocurrency by regulating its use within their country's boundaries, but in the end, the price of a cryptocurrency comes down to supply and demand. Cryptocurrencies have come a long way since 2009 when Bitcoin was first invented, and the recent two to three years has seen an explosion of different cryptocurrencies being used across the globe.</para><para id="fs-idm88806449">It is important to note that in order to be considered as money, cryptocurrency still needs to satisfy the three requirements: it needs to be valid as a store of value, it needs to be valid as a unit of account, and it must be able to be used as a medium of exchange. While the first two of these requirements can be satisfied easily by expressing the currency in terms of another, such as the U.S. dollar, and through its secure ownership rules, its use as a medium of exchange—to be used to buy and sell goods and services—is more complicated. While cryptocurrencies are used in many illicit transactions, it is less common to see them accepted as forms of payment for regular things like groceries or your rent.</para><para id="fs-idm88806450">Bitcoin is the most popular cryptocurrency, and thus the one most likely to be considered real money since it can be used to purchase the most goods and services. Other popular cryptocurrencies as of early 2022 (in terms of trade volume) are Ethereum and Binance Coin. Many other cryptocurrencies exist, but their more widespread adoption as a medium of exchange is yet to be seen.</para></note></section>
   <section id="fs-idp113385408" class="summary">
   <title>Key Concepts and Summary</title>
-  <para id="fs-idm69927536">We define the money multiplier as the quantity of money that the banking system can generate from each $1 of bank reserves. The formula for calculating the multiplier is 1/reserve ratio, where the reserve ratio is the fraction of deposits that the bank wishes to hold as reserves. The quantity of money in an economy and the quantity of credit for loans are inextricably intertwined. The network of banks making loans, people making deposits, and banks making more loans creates much of the money in an economy.</para><para id="fs-idp32822320">Given the macroeconomic dangers of a malfunctioning banking system, <link document="m63716">Monetary Policy and Bank Regulation</link> will discuss government policies for controlling the money supply and for keeping the banking system safe.</para></section>
+  <para id="fs-idm69927536">We define the money multiplier as the quantity of money that the banking system can generate from each $1 of bank reserves. The formula for calculating the multiplier is 1/reserve ratio, where the reserve ratio is the fraction of deposits that the bank wishes to hold as reserves. The quantity of money in an economy and the quantity of credit for loans are inextricably intertwined. When banks choose to hold only limited reserves, the network of banks making loans, people making deposits, and banks making more loans creates much of the money in an economy.</para><para id="fs-idp32822320">Given the macroeconomic dangers of a malfunctioning banking system, <link document="m63716">Monetary Policy and Bank Regulation</link> will discuss government policies for controlling the money supply and for keeping the banking system safe.</para></section>
   
   <section id="fs-idp104652992" class="self-check-questions">
   <title>Self-Check Questions</title>
@@ -115,6 +115,11 @@
   <exercise id="fs-idp62494096">
   <problem id="fs-idp99400768">
   <para id="fs-idm15749952">What is the formula for the money multiplier?</para>
+  </problem>
+  </exercise>
+  <exercise id="exer-00001">
+  <problem id="prob-00001">
+  <para id="para-00002">What is the difference between an environment of limited reserves and ample reserves?</para>
   </problem>
   </exercise>
   </section>
