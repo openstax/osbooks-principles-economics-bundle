@@ -93,6 +93,16 @@
       </problem>
       <solution id="fs-idm108809792"><para id="fs-idm38291728">If consumer optimism changes, spending can speed up or slow down. This could also happen in a case where consumers need to buy a large number of items quickly, such as in a situation of national emergency.</para></solution>
     </exercise>
+    <exercise id="exer-00001">
+     <problem id="prob-00001">
+      <para id="para-00003">Explain how to use the IORB to lower interest rates.</para>
+     </problem>
+    </exercise>
+    <exercise id="exer-00002">
+     <problem id="prob-00002">
+      <para id="para-00004">Explain how to use the IORB to raise interest rates.</para>
+     </problem>
+    </exercise>
   </section>
   <section id="fs-idm18385072" class="review-questions">
     <title>Review Questions</title>
@@ -130,6 +140,11 @@
     <exercise id="fs-idm19792992">
       <problem id="fs-idm247506544">
         <para id="fs-idm117461536">Is it preferable for central banks to primarily target inflation or unemployment? Why?</para>
+      </problem>
+    </exercise>
+    <exercise id="exer-00003">
+      <problem id="prob-00003">
+        <para id="para-00005">If for some reason the IORB increased and momentarily stayed above the FFR, why would the FFR ultimately increase as well? Explain this process in detail.</para>
       </problem>
     </exercise>
   </section>
@@ -183,6 +198,10 @@
         <term>inflation targeting</term>
         <meaning id="fs-idm163189680">a rule that the central bank is required to focus only on keeping inflation low </meaning>
       </definition>
+    <definition id="def-00001">
+      <term>interest rate on reserve balances (IORB)</term>
+      <meaning>the interest the Federal Reserve pays banks on their reserves held at their Federal Reserve bank</meaning>
+     </definition>
      <definition id="fs-idm41906160">
         <term>velocity</term>
         <meaning id="fs-idm70648288">the speed with which money circulates through the economy; calculated as the nominal GDP divided by the money supply</meaning>

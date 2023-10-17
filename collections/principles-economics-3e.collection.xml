@@ -1,11 +1,11 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
-  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
+  <col:metadata>
     <md:title>Principles of Economics 3e</md:title>
+    <md:slug>principles-economics-3e</md:slug>
     <md:language>en</md:language>
-    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>4c34671f-b057-4918-8796-38ca1b2f4151</md:uuid>
-<md:slug>principles-economics-3e</md:slug>
-</metadata>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
+  </col:metadata>
   <col:content>
     <col:module document="m64268"/>
     <col:subcollection>
