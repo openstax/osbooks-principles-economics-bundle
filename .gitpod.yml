@@ -1,3 +1,6 @@
+ports:
+- port: 27149
+  visibility: public
 vscode:
   extensions:
-    - openstax.editor
+  - openstax.editor
