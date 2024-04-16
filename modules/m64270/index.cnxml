@@ -629,7 +629,7 @@
 
 <para id="fs-idp55736016"><emphasis effect="bold">Calculating the Multiplier</emphasis></para>
 <para id="fs-idm103389296">Fortunately for everyone who is not carrying around a computer with a spreadsheet program to project the impact of an original increase in expenditures over 20, 50, or 100 rounds of spending, there is a formula for calculating the multiplier.</para>
-<equation class="unnumbered" id="fs-idp21228272"><m:math><m:mtext>Spending Multiplier = 1/1 – (0.7 x (1 – .1) + 0.10) = 1/.63 + .1 = 1/.73 = 1.369</m:mtext><m:mo> </m:mo></m:math></equation><para id="fs-idm42432576">The data from <link target-id="CNX_Econ_C25_022"/> and <link target-id="Table_E_06"/> is:
+<equation class="unnumbered" id="fs-idp21228272"><m:math><m:mtext>Spending Multiplier = 1/(1  –  (0.70 x (1  –  0.10)  –  0.10)) = 1/0.47 = 2.13</m:mtext><m:mo> </m:mo></m:math></equation><para id="fs-idm42432576">The data from <link target-id="CNX_Econ_C25_022"/> and <link target-id="Table_E_06"/> is:
     <list id="fs-idp3537152">
       <item>Marginal Propensity to Save (MPS) = 30%</item>
       <item>Tax rate = 10%</item>
