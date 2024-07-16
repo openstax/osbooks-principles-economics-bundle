@@ -17,8 +17,7 @@
   <para id="fs-idm3614992">Information on the <term class="no-emphasis" id="term-00001">consumption</term> choices of Americans is available from the Consumer Expenditure Survey carried out by the U.S. Bureau of Labor Statistics. <link target-id="Table_06_01" document=""/> shows spending patterns for the average U.S. household in 2010. The first row shows income and, excluding taxes and personal savings, the second row shows that the average U.S. household spent $48,109 on consumption. The table then breaks down consumption into various categories. The average U.S. household spent roughly one-third of its consumption on shelter and other housing expenses, another one-third on food and vehicle expenses, and the rest on a variety of items, as shown. These patterns will vary for specific households by differing levels of family income, by geography, and by preferences.</para><table id="Table_06_01" summary="This table has two columns and twelve rows. There are no header rows. Under the first column are the values: Average Household Income before Taxes; Average Annual Expenditures; Food at Home; Food Away From Home; Housing; Apparel and Services; Transportation; Healthcare; Entertainment; Education; Personal Insurance and Pensions; and All else (Alcohol, tobacco, reading, misc., cash contributions. Under the second column are the values: $62,481; $48,109; $3624; $2505; $16,557; $1700; $7677; $3157; $2504; $1074; $5357; and $3356."><title>U.S. Consumption Choices in 2010</title>
   <tgroup cols="2"><colspec colnum="1" colname="col1"/>
   <colspec colnum="2" colname="col2"/>
-  <tbody>
-  <row>
+  <thead>  <row>
   <entry><emphasis>Average Household Income before Taxes</emphasis></entry>
   <entry><emphasis>$62,481</emphasis></entry>
   </row>
@@ -26,7 +25,9 @@
   <row>
   <entry><emphasis>Average Annual Expenditures</emphasis></entry>
   <entry><emphasis>$48,109</emphasis></entry>
-  </row>
+  </row></thead>
+  <tbody>
+
   
   <row>
   <entry>Food at home</entry>
