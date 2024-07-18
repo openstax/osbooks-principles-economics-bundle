@@ -13,7 +13,7 @@
 </metadata>
 
 <content>
-<para id="fs-idm151269296">From 1970 to 2020, the U.S. population increased by 63 percent, and the size of the U.S. economy increased by more than 3.8-fold. Since the 1970s, however, the United States, using a variety of anti-pollution policies, has made genuine progress against a number of pollutants. <link target-id="Table_12_01" document=""/> lists the change in carbon dioxide emissions by energy users (from residential to industrial) according to the U.S. Energy Information Administration (EIA). The table shows that emissions of certain key air pollutants declined substantially from 2007 to 2012. They dropped 740 million metric tons (MMT) a year—a 12% reduction. This seems to indicate that there has been progress made in the United States in reducing overall carbon dioxide emissions, which contribute to the greenhouse effect.</para><table id="Table_12_01" summary="The table has 6 rows of data, each representing a sector (Residential, Commercial, Industrial, Transportation, Power, and the change from 2007 to 2012). The header row lists the 5 columns of data for each sector (Primary Fossil Fuels, which encompass the first 3 columns: Coal, Petroleum and Natural Gas. Purchased Electric Power is the fourth column and Total Primary Fossil Fuels is the fifth. The data for Residential is negative 0, negative 14, negative 31, negative 134, negative 179. Commercial is negative 2, negative 2, negative 7, negative 126, negative 136. Industrial is negative 40, negative 62, 31, negative 118, negative 191. Transportation is 0, negative 228, 5, negative 1, negative 224. Power is negative 464, negative 36, negative 122, nil, nil. The change from 2007-2012 is negative 508, negative 342, 121,  negative 378, and negative 730."><title>Carbon Dioxide Emissions from Energy Consumption, by Source</title><tgroup cols="5">
+<para id="fs-idm151269296">From 1990 to 2023, the U.S. population increased by approximately 38 percent, and the size of the U.S. economy increased by more than 3.5-fold. Since the 1990s, however, the United States, using a variety of anti-pollution policies, has made genuine progress against a number of pollutants. <link target-id="Table_12_01" document=""/> lists the change in industrial sector direct carbon dioxide emissions by fuel source according to the U.S. Energy Information Administration (EIA). The table shows that carbon dioxide emissions by coal declined substantially from 1990 to 2023, and carbon dioxide emissions by petroleum also declined. Over this time period, carbon dioxide emissions from coal dropped 171 million metric tons (MMT) a year—a 66% reduction. This seems to indicate that there has been progress made in the United States in reducing overall carbon dioxide emissions, which contribute to the greenhouse effect.</para><table id="Table_12_01" summary="The table has 6 rows of data, each representing a sector (Residential, Commercial, Industrial, Transportation, Power, and the change from 2007 to 2012). The header row lists the 5 columns of data for each sector (Primary Fossil Fuels, which encompass the first 3 columns: Coal, Petroleum and Natural Gas. Purchased Electric Power is the fourth column and Total Primary Fossil Fuels is the fifth. The data for Residential is negative 0, negative 14, negative 31, negative 134, negative 179. Commercial is negative 2, negative 2, negative 7, negative 126, negative 136. Industrial is negative 40, negative 62, 31, negative 118, negative 191. Transportation is 0, negative 228, 5, negative 1, negative 224. Power is negative 464, negative 36, negative 122, nil, nil. The change from 2007-2012 is negative 508, negative 342, 121,  negative 378, and negative 730."><title>Industrial Sector Direct Carbon Dioxide Emissions By Fuel Source</title><tgroup cols="5">
 <colspec colnum="1" colname="col1"/>
 <colspec colnum="2" colname="col2"/>
 <colspec colnum="3" colname="col3"/>
@@ -30,29 +30,29 @@
 </thead>
 <tbody>
 <row>
-<entry>1973</entry>
-<entry>1,221</entry>
-<entry>1,175</entry>
-<entry>2,325</entry>
-<entry>4,721</entry>
+<entry>1990</entry>
+<entry>259</entry>
+<entry>435</entry>
+<entry>369</entry>
+<entry>1,063</entry>
 </row>
 <row>
-<entry>2007</entry>
-<entry>2,171</entry>
-<entry>1,245</entry>
-<entry>2,587</entry>
-<entry>6,016</entry>
+<entry>2010</entry>
+<entry>152</entry>
+<entry>428</entry>
+<entry>345</entry>
+<entry>925</entry>
 </row>
 <row>
-<entry>2020</entry>
-<entry>875</entry>
-<entry>1,648</entry>
-<entry>2,042</entry>
-<entry>4,576</entry>
+<entry>2023</entry>
+<entry>88</entry>
+<entry>554</entry>
+<entry>327</entry>
+<entry>969</entry>
 </row>
 </tbody>
 </tgroup>
-<caption>(Source: EIA Monthly Energy Review)</caption></table>
+<caption>(Source: U.S. Energy Information Administration (EIA) Independent Statistics and Analysis)</caption></table>
 
 <para id="fs-idm73547728">Despite the gradual reduction in emissions from fossil fuels, many important environmental issues remain. Along with the still high levels of air and water pollution, other issues include hazardous waste disposal, destruction of wetlands and other wildlife habitats, and the impact on human health from pollution.</para>
 
