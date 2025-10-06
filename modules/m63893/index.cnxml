@@ -258,7 +258,7 @@
   <title>Calculating Total Utility</title>
   <para id="fs-idm16605536">Let’s look at how José makes his decision in more detail. </para>
   <para id="fs-idm79082992">Step 1. Observe that, at point Q (for example), José consumes three T-shirts and two movies. </para>
-  <para id="fs-idm7676960">Step 2. Look at <link target-id="Table_06_02" document=""/>. You can see from the fourth row/second column that three T-shirts are worth 63 utils. Similarly, the second row/fifth column shows that two movies are worth 31 utils. </para><para id="fs-idp19802112">Step 3. From this information, you can calculate that point Q has a total utility of 94 (63 + 31). </para>
+  <para id="fs-idm7676960">Step 2. Look at <link target-id="Table_06_02" document=""/>. You can see from the third row/second column that three T-shirts are worth 63 utils. Similarly, the second row/fifth column shows that two movies are worth 31 utils. </para><para id="fs-idp19802112">Step 3. From this information, you can calculate that point Q has a total utility of 94 (63 + 31). </para>
   <para id="fs-idp5830512">Step 4. You can repeat the same calculations for each point on <link target-id="Table_06_03" document=""/>, in which the total utility numbers are shown in the last column. </para></note>
   
   
@@ -293,7 +293,7 @@
     <row>
       <entry>Choice 2: Q</entry>
       <entry>3 T-shirts and 2 movies</entry>
-      <entry>63 from 3 T-shirts + 31 from 0 movies = 94</entry>
+      <entry>63 from 3 T-shirts + 31 from 2 movies = 94</entry>
       <entry>Loss of 18 from 1 less T-shirt, but gain of 31 from 2 more movies, for a net utility gain of 13</entry>
       <entry>Q is preferred over P</entry>
     </row>
