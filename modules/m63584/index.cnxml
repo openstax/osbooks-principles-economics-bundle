@@ -185,6 +185,15 @@
 <row>
 	<entry namest="col1" nameend="col8" align="left"><emphasis effect="strong">Middle Income Countries</emphasis></entry>
 </row>
+<row>
+          <entry>China</entry>
+          <entry>29.4</entry>
+          <entry>28.5</entry>
+          <entry>27.3</entry>
+          <entry>26.4</entry>
+          <entry>23.9</entry>
+          <entry>22.4</entry>
+        </row>
         <row>
           <entry>Brazil</entry>
           <entry>10.9</entry>
@@ -227,16 +236,6 @@
           <entry>32.2</entry>
           <entry>34.2</entry>
           <entry>29.8</entry>
-        </row>
-
-<row>
-          <entry>China</entry>
-          <entry>29.4</entry>
-          <entry>28.5</entry>
-          <entry>27.3</entry>
-          <entry>26.4</entry>
-          <entry>23.9</entry>
-          <entry>22.4</entry>
         </row>
 
 <row>
