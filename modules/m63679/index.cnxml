@@ -736,7 +736,7 @@
       </definition>
      <definition id="fs-idm14799520">
         <term>marginal cost</term>
-        <meaning id="fs-idm20606032">the additional cost of producing one more unit; mathematically, <m:math><m:mi>M</m:mi><m:mi>C</m:mi><m:mo>=</m:mo><m:mi>Δ</m:mi><m:mi>T</m:mi><m:mi>C</m:mi><m:mo>/</m:mo><m:mi>Δ</m:mi><m:mi>L</m:mi></m:math></meaning>
+        <meaning id="fs-idm20606032">the additional cost of producing one more unit; mathematically, <m:math><m:mi>M</m:mi><m:mi>C</m:mi><m:mo>=</m:mo><m:mi>Δ</m:mi><m:mi>T</m:mi><m:mi>C</m:mi><m:mo>/</m:mo><m:mi>Δ</m:mi><m:mi>Q</m:mi></m:math></meaning>
       </definition>
      <definition id="fs-idm15016912">
         <term>total cost</term>
